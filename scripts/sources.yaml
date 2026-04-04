@@ -1,0 +1,198 @@
+sources:
+
+  # ─── FRAMEWORK ────────────────────────────────────────────────────────────
+
+  nextjs:
+    name: "Next.js"
+    url: "https://nextjs.org/docs/llms-full.txt"
+    category: framework
+    output: knowledge/official/framework/nextjs.md
+    type: llms-full
+    priority: high
+    tags: [nextjs, app-router, server-components, server-actions, routing, middleware]
+
+  react:
+    name: "React"
+    url: "https://react.dev/llms-full.txt"
+    category: framework
+    output: knowledge/official/framework/react.md
+    type: llms-full
+    priority: high
+    tags: [react, hooks, suspense, concurrent, rsc]
+
+  typescript:
+    name: "TypeScript"
+    url: "https://www.typescriptlang.org/docs/llms-full.txt"
+    category: framework
+    output: knowledge/official/framework/typescript.md
+    type: llms-full
+    priority: high
+    tags: [typescript, strict, types, generics, utility-types]
+
+  # ─── STACK ────────────────────────────────────────────────────────────────
+
+  drizzle:
+    name: "Drizzle ORM"
+    url: "https://orm.drizzle.team/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/drizzle.md
+    type: llms-full
+    priority: high
+    tags: [drizzle, orm, sql, postgres, migrations, relations]
+
+  prisma:
+    name: "Prisma"
+    url: "https://www.prisma.io/docs/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/prisma.md
+    type: llms-full
+    priority: medium
+    tags: [prisma, orm, schema, migrations, client]
+
+  authjs:
+    name: "Auth.js v5"
+    url: "https://authjs.dev/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/authjs.md
+    type: llms-full
+    priority: high
+    tags: [auth, authjs, next-auth, session, oauth, jwt, providers]
+
+  better-auth:
+    name: "Better Auth"
+    url: "https://www.better-auth.com/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/better-auth.md
+    type: llms-full
+    priority: medium
+    tags: [auth, better-auth, session, oauth, plugins]
+
+  tailwind:
+    name: "Tailwind CSS v4"
+    url: "https://tailwindcss.com/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/tailwind.md
+    type: llms-full
+    priority: high
+    tags: [tailwind, css, utility-classes, responsive, dark-mode, v4]
+
+  shadcn:
+    name: "shadcn/ui"
+    url: "https://ui.shadcn.com/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/shadcn.md
+    type: llms-full
+    priority: high
+    tags: [shadcn, ui-components, radix, accessible, copy-paste]
+
+  zustand:
+    name: "Zustand"
+    url: "https://zustand.docs.pmnd.rs/llms.txt"
+    category: stack
+    output: knowledge/official/stack/zustand.md
+    type: llms-index
+    priority: high
+    tags: [zustand, state-management, store, client-state]
+
+  zod:
+    name: "Zod"
+    url: "https://zod.dev/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/zod.md
+    type: llms-full
+    priority: high
+    tags: [zod, validation, schema, typescript, parsing]
+
+  react-hook-form:
+    name: "React Hook Form"
+    url: "https://react-hook-form.com/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/react-hook-form.md
+    type: llms-full
+    priority: high
+    tags: [forms, react-hook-form, validation, controlled, uncontrolled]
+
+  stripe:
+    name: "Stripe"
+    url: "https://docs.stripe.com/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/stripe.md
+    type: llms-full
+    priority: high
+    tags: [stripe, payments, webhooks, subscriptions, checkout, billing]
+
+  resend:
+    name: "Resend"
+    url: "https://resend.com/docs/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/resend.md
+    type: llms-full
+    priority: medium
+    tags: [resend, email, transactional, react-email, templates]
+
+  uploadthing:
+    name: "UploadThing"
+    url: "https://docs.uploadthing.com/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/uploadthing.md
+    type: llms-full
+    priority: medium
+    tags: [uploadthing, file-upload, s3, next-js, storage]
+
+  vercel-ai-sdk:
+    name: "Vercel AI SDK"
+    url: "https://sdk.vercel.ai/llms-full.txt"
+    category: stack
+    output: knowledge/official/stack/vercel-ai-sdk.md
+    type: llms-full
+    priority: medium
+    tags: [ai-sdk, llm, streaming, tools, openai, anthropic, next-js]
+
+  # ─── TESTING ──────────────────────────────────────────────────────────────
+
+  vitest:
+    name: "Vitest"
+    url: "https://vitest.dev/llms-full.txt"
+    category: testing
+    output: knowledge/official/testing/vitest.md
+    type: llms-full
+    priority: high
+    tags: [vitest, unit-testing, mocking, coverage, typescript]
+
+  playwright:
+    name: "Playwright"
+    url: "https://playwright.dev/docs/llms-full.txt"
+    category: testing
+    output: knowledge/official/testing/playwright.md
+    type: llms-full
+    priority: high
+    tags: [playwright, e2e, browser-testing, automation, fixtures]
+
+  msw:
+    name: "Mock Service Worker"
+    url: "https://mswjs.io/docs/llms.txt"
+    category: testing
+    output: knowledge/official/testing/msw.md
+    type: llms-index
+    priority: medium
+    tags: [msw, mocking, api-mocking, service-worker, testing]
+
+  # ─── DEVOPS ───────────────────────────────────────────────────────────────
+
+  vercel:
+    name: "Vercel"
+    url: "https://vercel.com/docs/llms-full.txt"
+    category: devops
+    output: knowledge/official/devops/vercel.md
+    type: llms-full
+    priority: high
+    tags: [vercel, deployment, edge, cdn, env-vars, preview, serverless]
+
+  sentry:
+    name: "Sentry"
+    url: "https://docs.sentry.io/llms.txt"
+    category: devops
+    output: knowledge/official/devops/sentry.md
+    type: llms-index
+    priority: medium
+    tags: [sentry, monitoring, error-tracking, performance, alerts]
