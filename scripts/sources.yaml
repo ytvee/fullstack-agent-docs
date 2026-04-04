@@ -79,12 +79,3 @@ sources:
     type: llms-full
     priority: high
     tags: [vercel, deployment, edge, cdn, env-vars, preview, serverless]
-
-  sentry:
-    name: "Sentry"
-    url: "https://docs.sentry.io/llms.txt"
-    category: devops
-    output: knowledge/official/devops/sentry.md
-    type: llms-index
-    priority: medium
-    tags: [sentry, monitoring, error-tracking, performance, alerts]
