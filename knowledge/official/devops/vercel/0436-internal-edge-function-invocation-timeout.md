@@ -1,0 +1,27 @@
+--------------------------------------------------------------------------------
+title: "INTERNAL_EDGE_FUNCTION_INVOCATION_TIMEOUT"
+description: "The Edge Function invocation timed out unexpectedly."
+last_updated: "2026-04-03T23:47:20.440Z"
+source: "https://vercel.com/docs/errors/INTERNAL_EDGE_FUNCTION_INVOCATION_TIMEOUT"
+--------------------------------------------------------------------------------
+
+# INTERNAL_EDGE_FUNCTION_INVOCATION_TIMEOUT
+
+The `INTERNAL_EDGE_FUNCTION_INVOCATION_TIMEOUT` error occurs when an Edge Function takes longer than the allowed execution time to complete. This can be caused by long-running processes within the function or external dependencies that fail to respond in a timely manner.
+
+**Error Code:** `504`
+
+**Name:** Gateway Timeout
+
+## Troubleshoot
+
+To troubleshoot this error, follow these steps:
+
+1. **Check application logs**: Review the application logs to identify any specific errors related to the Edge Function being invoked. They can be found at the host URL under [the `/_logs` path](/docs/deployments/build-features#logs-view)
+2. **Review function code:** Inspect the Edge Function code for any long-running operations or infinite loops that could cause a timeout
+3. **Verify return value:** Ensure the function begins responding within [25 seconds](/docs/functions/limitations#max-duration)
+4. **Optimize external calls:** If the function makes calls to external services or APIs, ensure they are optimized and responding quickly
+5. **Consider streaming data**: If the function is processing large amounts of data, consider using a [streaming approach](/docs/functions/streaming-functions) to avoid timeouts
+6. **Implement error handling:** Add error handling in the function to manage timeouts and other exceptions effectively
+
+
