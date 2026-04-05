@@ -1,0 +1,26 @@
+в проекте есть очень большие маркдаун документы:
+knowledge/official/testing/vitest/vitest.md
+
+
+Тебе запрещается менять текст и смыслы в них. Все что надо сделать:
+
+- надо взять поочереди каждый документ и разбить его на несколько файлов. Файлы назвать в соответствии с содержанием внутри той же папки что и исходный файл. Все должно быть в маркдаун. 
+
+Эти файлы будут подгружаться в в rag-систему. Поэтому их нужно как можно подробнее разбить на разные файлы чтобы модели в раг-системе максимально точно  работали с этой информацией
+
+======================================================
+knowledge/official/stack/zustand/zustand.md
+knowledge/official/stack/typescript/typescript.md
+knowledge/official/stack/resend/resend.md
+knowledge/official/stack/prisma/prisma.md
+knowledge/official/stack/drizzle/drizzle.md
+knowledge/official/framework/tailwindcss/tailwindcss.md
+knowledge/official/framework/shadcn/shadcn.md
+knowledge/official/framework/react-hook-form/react-hook-form.md
+knowledge/official/framework/react/react.md
+knowledge/official/framework/nextjs/nextjs.md
+knowledge/official/devops/vercel/vercel.md
+======================================================
+- завершить все документы
+- переписать ридми
+- 
