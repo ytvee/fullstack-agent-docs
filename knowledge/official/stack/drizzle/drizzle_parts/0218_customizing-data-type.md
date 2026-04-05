@@ -1,0 +1,15 @@
+### Customizing data type
+Every column builder has a `.$type()` method, which allows you to customize the data type of the column. This is useful, for example, with unknown or branded types.
+```ts
+type UserId = number & { __brand: 'user_id' };
+type Data = {
+	foo: string;
+	bar: number;
+};
+
+const users = sqliteTable('users', {
+  id: integer().$type<UserId>().primaryKey(),
+  jsonField: blob().$type<Data>(),
+});
+```
+

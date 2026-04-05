@@ -1,0 +1,55 @@
+#### Delete data
+
+Read more about delete query in the [documentation](/docs/delete).
+
+```typescript copy filename="src/queries/delete.ts" {5}
+import { db } from '../db';
+import { eq } from 'drizzle-orm';
+import { SelectUser, usersTable } from '../schema';
+
+export async function deleteUser(id: SelectUser['id']) {
+  await db.delete(usersTable).where(eq(usersTable.id, id));
+}
+```
+
+
+Source: https://orm.drizzle.team/docs/tutorials/drizzle-with-nile
+
+
+import Prerequisites from "@mdx/Prerequisites.astro";
+import Npm from '@mdx/Npm.astro';
+import Steps from '@mdx/Steps.astro';
+import Section from "@mdx/Section.astro";
+import Callout from '@mdx/Callout.astro';
+import TransferCode from '@mdx/get-started/TransferCode.mdx';
+import ApplyChanges from '@mdx/get-started/ApplyChanges.mdx';
+import RunFile from '@mdx/get-started/RunFile.mdx';
+
+This tutorial demonstrates how to use Drizzle ORM with [Nile Database](https://thenile.dev). Nile is Postgres, re-engineered for multi-tenant applications. 
+
+This tutorial will demonstrate how to use Drizzle with Nile's virtual tenant databases to developer a secure, scalable, multi-tenant application. 
+
+We'll walk through building this example application step-by-step. If you want to peek at the complete example, you can take a look at its [Github repository](https://github.com/niledatabase/niledatabase/tree/main/examples/quickstart/drizzle).
+
+<Prerequisites>
+- You should have installed Drizzle ORM and [Drizzle kit](/docs/kit-overview). You can do this by running the following command:
+<Npm>
+drizzle-orm
+-D drizzle-kit
+</Npm>
+- You should have installed `dotenv` package for managing environment variables. Read more about this package [here](https://www.npmjs.com/package/dotenv)
+<Npm>
+  dotenv
+</Npm>
+- You should have installed `node-postgres` package for connecting to the Postgres database. Read more about this package [here](https://www.npmjs.com/package/node-postgres)
+<Npm>
+  node-postgres
+</Npm>
+- You should have installed `express` package for the web framework. Read more about express [here](https://expressjs.com/)
+<Npm>
+  express
+</Npm>
+
+- This guide uses [AsyncLocalStorage](https://nodejs.org/api/async_context.html) to manage the tenant context. If your framework or runtime does not support `AsyncLocalStorage`, you can refer to [Drizzle\<\>Nile](../connect-nile) doc for alternative options. 
+</Prerequisites>
+
