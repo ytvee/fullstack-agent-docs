@@ -1,0 +1,182 @@
+# Troubleshooting (/docs/postgres/troubleshooting)
+
+
+
+This guide helps resolve common issues when working with Prisma Postgres.
+
+The --db option is not recognized when running prisma init [#the---db-option-is-not-recognized-when-running-prisma-init]
+
+Problem [#problem]
+
+Running the following command fails because the `--db` option is not recognized:
+
+<CodeBlockTabs defaultValue="npm" groupId="package-manager" persist>
+  <CodeBlockTabsList>
+    <CodeBlockTabsTrigger value="npm">
+      npm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="pnpm">
+      pnpm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="yarn">
+      yarn
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="bun">
+      bun
+    </CodeBlockTabsTrigger>
+  </CodeBlockTabsList>
+
+  <CodeBlockTab value="npm">
+    ```bash
+    npx prisma init --db
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="pnpm">
+    ```bash
+    pnpm dlx prisma init --db
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="yarn">
+    ```bash
+    yarn dlx prisma init --db
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="bun">
+    ```bash
+    bunx --bun prisma init --db
+    ```
+  </CodeBlockTab>
+</CodeBlockTabs>
+
+Cause [#cause]
+
+This can occur due to npx caching. If you've previously run `npx prisma init`, your machine may be using an outdated cached version that doesn't recognize the `--db` flag because it was only introduced in a later version of Prisma ORM.
+
+Solution [#solution]
+
+Explicitly run the `latest` Prisma CLI version:
+
+<CodeBlockTabs defaultValue="npm" groupId="package-manager" persist>
+  <CodeBlockTabsList>
+    <CodeBlockTabsTrigger value="npm">
+      npm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="pnpm">
+      pnpm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="yarn">
+      yarn
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="bun">
+      bun
+    </CodeBlockTabsTrigger>
+  </CodeBlockTabsList>
+
+  <CodeBlockTab value="npm">
+    ```bash
+    npx prisma@latest init --db
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="pnpm">
+    ```bash
+    pnpm dlx prisma@latest init --db
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="yarn">
+    ```bash
+    yarn dlx prisma@latest init --db
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="bun">
+    ```bash
+    bunx --bun prisma@latest init --db
+    ```
+  </CodeBlockTab>
+</CodeBlockTabs>
+
+This ensures that you're using the most up-to-date CLI, preventing issues with outdated command syntax.
+
+Workspace plan limit reached when running prisma init --db [#workspace-plan-limit-reached-when-running-prisma-init---db]
+
+Problem [#problem-1]
+
+When running the command:
+
+<CodeBlockTabs defaultValue="npm" groupId="package-manager" persist>
+  <CodeBlockTabsList>
+    <CodeBlockTabsTrigger value="npm">
+      npm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="pnpm">
+      pnpm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="yarn">
+      yarn
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="bun">
+      bun
+    </CodeBlockTabsTrigger>
+  </CodeBlockTabsList>
+
+  <CodeBlockTab value="npm">
+    ```bash
+    npx prisma@latest init --db
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="pnpm">
+    ```bash
+    pnpm dlx prisma@latest init --db
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="yarn">
+    ```bash
+    yarn dlx prisma@latest init --db
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="bun">
+    ```bash
+    bunx --bun prisma@latest init --db
+    ```
+  </CodeBlockTab>
+</CodeBlockTabs>
+
+You may encounter the following error message in your logs:
+
+```
+Workspace plan limit reached for feature "Project".
+```
+
+Cause [#cause-1]
+
+Your default [workspace](/console/concepts#workspace) project limit has been reached.
+
+Solution [#solution-1]
+
+To resolve this issue, consider the following options:
+
+* Configure a different Workspace as your default—one that has available capacity for additional projects.
+* Delete unused projects or databases from your current default Workspace to free up space.
+* Ensure that you are logged into the correct account in the Prisma CLI. For more details on authentication and account management, please refer to the [Prisma CLI documentation](/cli/console).
+* [Upgrade to a plan](/postgres#billing-and-limits) that supports more projects in your default Workspace.
+
+Implementing one or more of these solutions should help you overcome the plan limit issue.
+
+
