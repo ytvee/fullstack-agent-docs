@@ -1,0 +1,13 @@
+# ORM (/docs/v6/orm)
+
+
+
+[Prisma ORM](https://github.com/prisma/prisma) is a Node.js and TypeScript ORM with an intuitive data model, automated migrations, type-safety, and auto-completion.
+
+Getting started [#getting-started]
+
+* [Getting Started](/v6/orm/getting-started) - Set up Prisma ORM in your project
+* [Prisma Client](/v6/orm/prisma-client/setup-and-configuration/introduction) - Type-safe database client
+* [Prisma Schema](/v6/orm/prisma-schema/overview) - Define your data model
+
+
