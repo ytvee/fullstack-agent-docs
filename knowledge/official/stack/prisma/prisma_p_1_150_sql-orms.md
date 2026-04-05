@@ -1,0 +1,450 @@
+# SQL ORMs (/docs/guides/switch-to-prisma-orm/from-sql-orms)
+
+
+
+Introduction [#introduction]
+
+This guide shows you how to migrate your application from Sequelize or TypeORM to Prisma ORM.
+
+You can learn how Prisma ORM compares to these ORMs on the comparison pages:
+
+* [Prisma ORM vs Sequelize](/orm/more/comparisons/prisma-and-sequelize)
+* [Prisma ORM vs TypeORM](/orm/more/comparisons/prisma-and-typeorm)
+
+Prerequisites [#prerequisites]
+
+Before starting this guide, make sure you have:
+
+* A Sequelize or TypeORM project you want to migrate
+* Node.js installed (version 18 or higher)
+* PostgreSQL, MySQL, or another [supported database](/orm/reference/supported-databases)
+
+Overview of the migration process [#overview-of-the-migration-process]
+
+The steps for migrating from Sequelize or TypeORM to Prisma ORM are always the same:
+
+1. Install the Prisma CLI
+2. Introspect your database
+3. Create a baseline migration
+4. Install and generate Prisma Client
+5. Gradually replace your ORM queries with Prisma Client
+
+Prisma ORM supports **incremental adoption**, so you can migrate your project step-by-step rather than all at once.
+
+Step 1. Install the Prisma CLI [#step-1-install-the-prisma-cli]
+
+<CodeBlockTabs defaultValue="npm" groupId="package-manager" persist>
+  <CodeBlockTabsList>
+    <CodeBlockTabsTrigger value="npm">
+      npm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="pnpm">
+      pnpm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="yarn">
+      yarn
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="bun">
+      bun
+    </CodeBlockTabsTrigger>
+  </CodeBlockTabsList>
+
+  <CodeBlockTab value="npm">
+    ```bash
+    npm install prisma --save-dev
+    npm install @prisma/client
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="pnpm">
+    ```bash
+    pnpm add prisma --save-dev
+    pnpm add @prisma/client
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="yarn">
+    ```bash
+    yarn add prisma --dev
+    yarn add @prisma/client
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="bun">
+    ```bash
+    bun add prisma --dev
+    bun add @prisma/client
+    ```
+  </CodeBlockTab>
+</CodeBlockTabs>
+
+Step 2. Introspect your database [#step-2-introspect-your-database]
+
+Run the following command to create a basic Prisma setup:
+
+<CodeBlockTabs defaultValue="npm" groupId="package-manager" persist>
+  <CodeBlockTabsList>
+    <CodeBlockTabsTrigger value="npm">
+      npm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="pnpm">
+      pnpm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="yarn">
+      yarn
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="bun">
+      bun
+    </CodeBlockTabsTrigger>
+  </CodeBlockTabsList>
+
+  <CodeBlockTab value="npm">
+    ```bash
+    npx prisma init
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="pnpm">
+    ```bash
+    pnpm dlx prisma init
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="yarn">
+    ```bash
+    yarn dlx prisma init
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="bun">
+    ```bash
+    bunx --bun prisma init
+    ```
+  </CodeBlockTab>
+</CodeBlockTabs>
+
+This creates a `prisma` directory with a `schema.prisma` file and a `.env` file. Update the `DATABASE_URL` in `.env` with your connection string:
+
+```bash
+DATABASE_URL="postgresql://user:password@localhost:5432/mydb?schema=public"
+```
+
+Then introspect your database to generate Prisma models:
+
+<CodeBlockTabs defaultValue="npm" groupId="package-manager" persist>
+  <CodeBlockTabsList>
+    <CodeBlockTabsTrigger value="npm">
+      npm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="pnpm">
+      pnpm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="yarn">
+      yarn
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="bun">
+      bun
+    </CodeBlockTabsTrigger>
+  </CodeBlockTabsList>
+
+  <CodeBlockTab value="npm">
+    ```bash
+    npx prisma db pull
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="pnpm">
+    ```bash
+    pnpm dlx prisma db pull
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="yarn">
+    ```bash
+    yarn dlx prisma db pull
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="bun">
+    ```bash
+    bunx --bun prisma db pull
+    ```
+  </CodeBlockTab>
+</CodeBlockTabs>
+
+To create a baseline migration, run:
+
+<CodeBlockTabs defaultValue="npm" groupId="package-manager" persist>
+  <CodeBlockTabsList>
+    <CodeBlockTabsTrigger value="npm">
+      npm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="pnpm">
+      pnpm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="yarn">
+      yarn
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="bun">
+      bun
+    </CodeBlockTabsTrigger>
+  </CodeBlockTabsList>
+
+  <CodeBlockTab value="npm">
+    ```bash
+    mkdir -p prisma/migrations/0_init
+    npx prisma migrate diff --from-empty --to-schema prisma/schema.prisma --script > prisma/migrations/0_init/migration.sql
+    npx prisma migrate resolve --applied 0_init
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="pnpm">
+    ```bash
+    mkdir -p prisma/migrations/0_init
+    pnpm dlx prisma migrate diff --from-empty --to-schema prisma/schema.prisma --script > prisma/migrations/0_init/migration.sql
+    pnpm dlx prisma migrate resolve --applied 0_init
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="yarn">
+    ```bash
+    mkdir -p prisma/migrations/0_init
+    yarn dlx prisma migrate diff --from-empty --to-schema prisma/schema.prisma --script > prisma/migrations/0_init/migration.sql
+    yarn dlx prisma migrate resolve --applied 0_init
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="bun">
+    ```bash
+    mkdir -p prisma/migrations/0_init
+    bun x prisma migrate diff --from-empty --to-schema prisma/schema.prisma --script > prisma/migrations/0_init/migration.sql
+    bun x prisma migrate resolve --applied 0_init
+    ```
+  </CodeBlockTab>
+</CodeBlockTabs>
+
+Step 3. Install and generate Prisma Client [#step-3-install-and-generate-prisma-client]
+
+<CodeBlockTabs defaultValue="npm" groupId="package-manager" persist>
+  <CodeBlockTabsList>
+    <CodeBlockTabsTrigger value="npm">
+      npm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="pnpm">
+      pnpm
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="yarn">
+      yarn
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="bun">
+      bun
+    </CodeBlockTabsTrigger>
+  </CodeBlockTabsList>
+
+  <CodeBlockTab value="npm">
+    ```bash
+    npx prisma generate
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="pnpm">
+    ```bash
+    pnpm dlx prisma generate
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="yarn">
+    ```bash
+    yarn dlx prisma generate
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="bun">
+    ```bash
+    bunx --bun prisma generate
+    ```
+  </CodeBlockTab>
+</CodeBlockTabs>
+
+Create a file to instantiate Prisma Client (e.g., `db/prisma.ts`):
+
+```typescript
+import { PrismaClient } from "@prisma/client";
+
+export const prisma = new PrismaClient();
+```
+
+Step 4. Replace your ORM queries with Prisma Client [#step-4-replace-your-orm-queries-with-prisma-client]
+
+<CodeBlockTabs defaultValue="Sequelize">
+  <CodeBlockTabsList>
+    <CodeBlockTabsTrigger value="Sequelize">
+      Sequelize
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="TypeORM">
+      TypeORM
+    </CodeBlockTabsTrigger>
+
+    <CodeBlockTabsTrigger value="Prisma">
+      Prisma
+    </CodeBlockTabsTrigger>
+  </CodeBlockTabsList>
+
+  <CodeBlockTab value="Sequelize">
+    ```typescript
+    // Find records
+    const user = await User.findOne({ where: { id: 1 } });
+    const users = await User.findAll({
+      where: { active: true },
+      limit: 10,
+      order: [['createdAt', 'DESC']]
+    });
+
+    // Create
+    const user = await User.create({
+      name: 'Alice',
+      email: 'alice@example.com'
+    });
+
+    // Update
+    await User.update(
+      { name: 'Alicia' },
+      { where: { id: 1 } }
+    );
+
+    // Delete
+    await User.destroy({ where: { id: 1 } });
+
+    // With relations
+    const posts = await Post.findAll({
+      include: [{ model: User }],
+      limit: 10
+    });
+
+    // Transaction
+    const result = await sequelize.transaction(async (t) => {
+      const user = await User.create({ name: 'Alice' }, { transaction: t });
+      const post = await Post.create({ title: 'Hello', userId: user.id }, { transaction: t });
+      return { user, post };
+    });
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="TypeORM">
+    ```typescript
+    // Find records
+    const user = await userRepository.findOne({ where: { id: 1 } });
+    const users = await userRepository.find({
+      where: { active: true },
+      take: 10,
+      order: { createdAt: 'DESC' }
+    });
+
+    // Create
+    const user = userRepository.create({
+      name: 'Alice',
+      email: 'alice@example.com'
+    });
+    await userRepository.save(user);
+
+    // Update
+    await userRepository.update(1, { name: 'Alicia' });
+
+    // Delete
+    await userRepository.delete(1);
+
+    // With relations
+    const posts = await postRepository.find({
+      relations: ['author'],
+      take: 10
+    });
+
+    // Transaction
+    await connection.transaction(async (manager) => {
+      const user = manager.create(User, { name: 'Alice' });
+      await manager.save(user);
+      const post = manager.create(Post, { title: 'Hello', author: user });
+      await manager.save(post);
+    });
+    ```
+  </CodeBlockTab>
+
+  <CodeBlockTab value="Prisma">
+    ```typescript
+    // Find records
+    const user = await prisma.user.findUnique({ where: { id: 1 } });
+    const users = await prisma.user.findMany({
+      where: { active: true },
+      take: 10,
+      orderBy: { createdAt: 'desc' }
+    });
+
+    // Create
+    const user = await prisma.user.create({
+      data: {
+        name: 'Alice',
+        email: 'alice@example.com'
+      }
+    });
+
+    // Update
+    await prisma.user.update({
+      where: { id: 1 },
+      data: { name: 'Alicia' }
+    });
+
+    // Delete
+    await prisma.user.delete({ where: { id: 1 } });
+
+    // With relations
+    const posts = await prisma.post.findMany({
+      include: { author: true },
+      take: 10
+    });
+
+    // Transaction
+    const result = await prisma.$transaction(async (tx) => {
+      const user = await tx.user.create({
+        data: {
+          name: 'Alice',
+          posts: { create: { title: 'Hello' } }
+        },
+        include: { posts: true }
+      });
+      return user;
+    });
+    ```
+  </CodeBlockTab>
+</CodeBlockTabs>
+
+Migration tips [#migration-tips]
+
+* **Incremental adoption**: Start by replacing read operations, then gradually move to write operations
+* **Schema naming**: Use `@map` and `@@map` to map Prisma model names to existing table/column names
+* **Type safety**: Run `npx prisma generate` after any schema changes
+* **Performance**: Use `select` to fetch only needed fields and avoid N+1 issues with `include`
+
+Next steps [#next-steps]
+
+* [Prisma Client API Reference](/orm/reference/prisma-client-reference)
+* [Schema Reference](/orm/reference/prisma-schema-reference)
+* [Prisma ORM vs Sequelize](/orm/more/comparisons/prisma-and-sequelize)
+* [Prisma ORM vs TypeORM](/orm/more/comparisons/prisma-and-typeorm)
+
+
