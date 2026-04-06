@@ -1,203 +1,117 @@
 # fullstack-agent-docs
 
-RAG knowledge base для AI-агента, который пишет fullstack-приложения на Next.js любой сложности.
+Документационный репозиторий с базой знаний для RAG/AI-агента, который помогает проектировать и писать fullstack-приложения вокруг экосистемы Next.js.
 
-## Назначение
+Это не приложение и не шаблон проекта, а набор Markdown-документов. Сейчас в репозитории зафиксированы `4983` official-файла и `40` custom-файлов.
 
-Агент получает задачу (например, *"сделай SaaS с auth, платежами и дашбордом"*), проектирует архитектуру и пишет весь код по best practices — используя эту базу знаний как источник актуальной документации и проверенных паттернов.
+## Что находится в репозитории
 
----
+- `knowledge/official` — снимки официальной документации, разложенные по темам и источникам.
+- `knowledge/custom` — вручную написанные гайды, паттерны, антипаттерны и правила для агента.
+- `scripts/sources.yaml` — реестр части upstream-источников.
+- `todo` — внутренняя рабочая заметка по доработке базы знаний.
 
-## Зафиксированный стек
+## Фактическая структура проекта
 
-| Слой | Инструмент |
-|---|---|
-| Framework | Next.js 15+ App Router, React 19, TypeScript strict |
-| Styling | Tailwind CSS v4 + shadcn/ui |
-| Database | **Drizzle ORM** (основной) / Prisma 7 (альтернатива) |
-| Auth | **Auth.js v5** (основной) / Better Auth (альтернатива) |
-| State | Zustand (только UI state) |
-| Validation | Zod + React Hook Form |
-| Payments | Stripe |
-| Email | Resend |
-| Upload | UploadThing |
-| Testing | Vitest + Playwright + MSW |
-| Deploy | Vercel (Next.js) / Railway (БД, сервисы) |
-| Monitoring | Sentry + Vercel Analytics |
-| AI | Vercel AI SDK |
-
-> **Важно:** TanStack Query не используется. State management — Zustand + Server Actions + нативный fetch.
-
----
-
-## Структура репозитория
-
-```
-knowledge-base/
-│
+```text
+.
+├── .vscode/
 ├── knowledge/
-│   ├── official/          ← Layer A: официальная документация (авто-скачивается)
-│   │   ├── framework/     # Next.js, React, TypeScript
-│   │   ├── stack/         # Drizzle, Auth.js, Tailwind, shadcn, Stripe, etc.
-│   │   ├── testing/       # Vitest, Playwright, MSW
-│   │   └── devops/        # Vercel, Sentry
-│   │
-│   └── custom/            ← Layer B: кураторские документы (пишутся вручную)
-│       ├── 01-architecture/  # Структура проекта, роутинг, data flow
-│       ├── 02-patterns/      # Auth, CRUD, оплаты, загрузка файлов, i18n
-│       ├── 03-antipatterns/  # Что нельзя делать и почему
-│       ├── 04-linting/       # ESLint, commitlint
-│       ├── 05-testing/       # Стратегия тестирования, coverage
-│       ├── 06-security/      # OWASP, Server Actions, Auth security
-│       ├── 07-performance/   # CWV, bundle, DB queries
-│       ├── 08-accessibility/ # WCAG, ARIA
-│       ├── 09-seo/           # Metadata API, structured data, sitemap, GEO/AEO
-│       ├── 10-devops/        # Vercel deploy, Railway, GitHub Actions
-│       └── 11-agent-rules/   # Правила для агента: чеклисты, шаблоны, деревья решений
-│
-├── scripts/
-│   ├── fetch_docs.py      ← Скрипт загрузки Layer A
-│   ├── sources.yaml       ← Реестр официальных источников
-│   └── requirements.txt
-│
-├── .hashes.json           ← Автоматически: отслеживает изменения контента
-└── README.md
+│   ├── custom/
+│   └── official/
+│       ├── devops/
+│       │   └── vercel/
+│       ├── framework/
+│       │   ├── nextjs/
+│       │   ├── react/
+│       │   ├── react-hook-form/
+│       │   ├── shadcn/
+│       │   └── tailwindcss/
+│       ├── stack/
+│       │   ├── drizzle/
+│       │   ├── prisma/
+│       │   ├── resend/
+│       │   ├── typescript/
+│       │   └── zustand/
+│       └── testing/
+│           └── vitest/
+└── scripts/
+    └── sources.yaml
 ```
 
----
+## Official layer
 
-## Layer A: Официальная документация
+`knowledge/official` хранит официальные материалы, в основном на английском языке. Внутри каждой директории источника обычно есть:
 
-Автоматически скачивается из `llms-full.txt` (или `llms.txt`) официальных сайтов.
+- исходный крупный файл вида `<source>.md`;
+- много более мелких Markdown-фрагментов, разбитых по страницам или разделам;
+- frontmatter с метаданными вроде `title`, `description`, `url`, `version`.
 
-### Быстрый старт
+Текущий набор checked-in источников:
 
-```bash
-cd scripts
-pip install -r requirements.txt
+| Категория | Источник | Файлов |
+|---|---|---:|
+| `devops` | `vercel` | 680 |
+| `framework` | `nextjs` | 425 |
+| `framework` | `react` | 179 |
+| `framework` | `react-hook-form` | 34 |
+| `framework` | `shadcn` | 171 |
+| `framework` | `tailwindcss` | 26 |
+| `stack` | `drizzle` | 1688 |
+| `stack` | `prisma` | 706 |
+| `stack` | `resend` | 395 |
+| `stack` | `typescript` | 454 |
+| `stack` | `zustand` | 45 |
+| `testing` | `vitest` | 180 |
 
-# Скачать всё
-python fetch_docs.py
+Важно: official-слой отражает upstream-документацию как есть. Поэтому внутри него встречаются и Pages Router, и App Router, и альтернативные подходы, даже если custom-слой рекомендует более узкий набор практик.
 
-# Скачать только один источник
-python fetch_docs.py --source nextjs
+## Custom layer
 
-# Скачать целую категорию
-python fetch_docs.py --category framework
+`knowledge/custom` — это кураторский слой с рекомендациями для агента и команды. Сейчас в нём 40 документов по 11 разделам:
 
-# Принудительно пересобрать (игнорировать хэши)
-python fetch_docs.py --force
+- `01-architecture` — 5 файлов
+- `02-patterns` — 9 файлов
+- `03-antipatterns` — 4 файла
+- `04-linting` — 2 файла
+- `05-testing` — 2 файла
+- `06-security` — 3 файла
+- `07-performance` — 3 файла
+- `08-accessibility` — 2 файла
+- `09-seo` — 4 файла
+- `10-devops` — 3 файла
+- `11-agent-rules` — 3 файла
 
-# Посмотреть что изменилось, не скачивая
-python fetch_docs.py --dry-run
+Обычно custom-документы содержат:
 
-# Список всех источников
-python fetch_docs.py --list
-```
+- YAML frontmatter с `category`, `topic`, `status`;
+- объяснения на русском языке;
+- примеры на TypeScript/Next.js;
+- практические правила, чеклисты и антипримеры.
 
-### Как работает скрипт
+Именно в этом слое зафиксированы проектные предпочтения, например:
 
-1. Читает `sources.yaml` — реестр всех источников
-2. Для каждого источника скачивает контент по `url`
-3. Если тип `llms-index` — обходит все страницы из индекса
-4. Добавляет YAML frontmatter с метаданными (источник, хэш, дата)
-5. Сохраняет в `knowledge/official/{category}/{key}.md`
-6. Записывает SHA-256 хэши в `.hashes.json`
-7. При повторном запуске пересобирает **только изменившееся**
+- Next.js App Router как основной подход;
+- TypeScript strict;
+- Drizzle как основной ORM;
+- Auth.js v5, Zod, Server Actions, Zustand для UI state;
+- Vercel/Railway как рекомендуемая инфраструктура.
 
-### Как добавить новый источник
+Эти правила описаны в документах, но не являются "кодом проекта", потому что сам репозиторий состоит только из базы знаний.
 
-1. Открой `scripts/sources.yaml`
-2. Добавь запись по образцу:
+## Как этим пользоваться
 
-```yaml
-my-library:
-  name: "My Library"
-  url: "https://my-library.dev/llms-full.txt"
-  category: stack          # framework | stack | testing | devops
-  output: knowledge/official/stack/my-library.md
-  type: llms-full          # llms-full | llms-index
-  priority: medium         # high | medium | low
-  tags: [tag1, tag2]
-```
+- Для retrieval/RAG обычно полезнее брать split-файлы из `knowledge/official/<category>/<source>/`, а не только крупный `<source>.md`.
+- Для проектных решений и внутренних соглашений в первую очередь смотреть `knowledge/custom`.
+- Если нужен authoritative source, сначала находить ответ в `knowledge/official`, а затем сверять с custom-ограничениями агента.
 
-3. Запусти `python fetch_docs.py --source my-library`
+## Что важно не перепутать
 
----
+В репозитории сейчас нет того, что описывалось в старой версии `README`:
 
-## Layer B: Кураторские документы
+- нет `fetch_docs.py`;
+- нет `requirements.txt`;
+- нет `.hashes.json`;
+- нет `package.json`, Python-пакета или другой автоматики для сборки/обновления базы знаний.
 
-Написаны вручную на основе экспертных знаний о стеке. Содержат:
-- Проверенные паттерны реализации
-- Примеры кода (TypeScript strict, App Router only)
-- Антипаттерны и их исправления
-- Правила для агента
-
-### Структура файла Layer B
-
-```markdown
----
-category: patterns
-topic: auth-flow
-status: draft | review | stable
----
-
-## Проблема / Контекст
-Что и зачем.
-
-## Решение
-Как правильно.
-
-## Пример кода
-\`\`\`typescript
-// реальный TypeScript код
-\`\`\`
-
-## Антипаттерн
-Как делать не надо (если применимо).
-
-## Связанные документы
-- [другой документ](../path/to/doc.md)
-```
-
-### Статусы документов
-
-| Статус | Значение |
-|---|---|
-| `draft` | Черновик, требует проверки |
-| `review` | На ревью |
-| `stable` | Проверено, можно использовать |
-
----
-
-## Правила для агента
-
-Ключевые ограничения, которые агент **всегда** соблюдает:
-
-- **App Router only** — никакого Pages Router в примерах
-- **TypeScript strict** — `any` запрещён, все типы явные
-- **Drizzle ORM** — основной ORM; Prisma только если явно указано
-- **Auth.js v5** — основной auth; Better Auth только если явно указано
-- **Zustand** — только для UI state; данные сервера через Server Actions
-- **Vercel** — деплой Next.js приложений
-- **Railway** — вся инфраструктура: PostgreSQL, Redis, сервисы
-- **Zod** — валидация везде: клиент + сервер
-- Перед мутацией данных — всегда проверка авторизации
-- Server Actions — всегда с Zod-валидацией на сервере
-
----
-
-## Обновление документации
-
-```bash
-# Обновить всё (только изменившееся)
-python scripts/fetch_docs.py
-
-# Проверить что устарело (без скачивания)
-python scripts/fetch_docs.py --dry-run
-
-# Принудительно обновить критические источники
-python scripts/fetch_docs.py --category framework --force
-```
-
-Рекомендуется запускать `fetch_docs.py` еженедельно или перед началом работы над новым проектом.
+`scripts/sources.yaml` существует, но это только YAML-реестр источников. Он не полностью совпадает с текущим checked-in содержимым `knowledge/official`: например, в нём есть `authjs` и `zod`, а в дереве official-документов сейчас присутствуют другие директории, такие как `react`, `typescript`, `shadcn`, `tailwindcss` и `zustand`.
