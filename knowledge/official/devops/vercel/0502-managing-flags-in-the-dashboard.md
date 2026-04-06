@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0502"
 title: "Managing flags in the dashboard"
 description: "Learn how to manage your feature flags using the Vercel Dashboard."
-last_updated: "2026-04-03T23:47:20.976Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard"
---------------------------------------------------------------------------------
+tags: ["feature-flags", "dashboard", "rollout", "experiments", "release-management"]
+related: ["0501-feature-flag-configuration.md", "0506-vercel-flags-2.md", "0507-getting-started-with-vercel-flags.md"]
+last_updated: "2026-04-03T23:47:20.976Z"
+---
 
 # Managing flags in the dashboard
 

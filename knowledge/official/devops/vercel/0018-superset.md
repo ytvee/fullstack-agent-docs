@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0018"
 title: "Superset"
 description: "Use Superset with the AI Gateway."
-last_updated: "2026-04-03T23:47:13.839Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/coding-agents/superset"
---------------------------------------------------------------------------------
+tags: ["coding-agent", "terminal", "ai-gateway", "multi-agent"]
+related: ["0016-coding-agents.md", "0015-opencode.md", "0092-ai-gateway.md"]
+last_updated: "2026-04-03T23:47:13.839Z"
+---
 
 # Superset
 

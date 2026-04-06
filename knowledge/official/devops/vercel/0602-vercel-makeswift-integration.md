@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0602"
 title: "Vercel Makeswift Integration"
 description: "Learn how to integrate Makeswift with Vercel. Makeswift is a no-code website builder designed for creating and managing React websites. Follow our tutorial to set up Makeswift and deploy your website on Vercel."
-last_updated: "2026-04-03T23:47:23.348Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/cms/makeswift"
---------------------------------------------------------------------------------
+tags: ["makeswift", "no-code", "react", "visual-editor", "drag-and-drop"]
+related: ["0603-vercel-cms-integrations.md", "0600-vercel-datocms-integration.md", "0604-vercel-sanity-integration.md"]
+last_updated: "2026-04-03T23:47:23.348Z"
+---
 
 # Vercel Makeswift Integration
 

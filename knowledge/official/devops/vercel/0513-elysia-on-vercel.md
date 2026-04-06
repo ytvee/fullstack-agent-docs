@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0513"
 title: "Elysia on Vercel"
 description: "Build fast TypeScript backends with Elysia and deploy to Vercel. Learn the project structure, plugins, middleware, and how to run locally and in production."
-last_updated: "2026-04-03T23:47:21.117Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "guide"
 source: "https://vercel.com/docs/frameworks/backend/elysia"
---------------------------------------------------------------------------------
+tags: ["elysia", "bun", "typescript", "backend", "zero-config"]
+related: ["0522-backends-on-vercel.md", "0518-hono-on-vercel.md", "0516-fastify-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.117Z"
+---
 
 # Elysia on Vercel
 

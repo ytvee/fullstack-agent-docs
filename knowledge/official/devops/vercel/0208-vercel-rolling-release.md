@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0208"
 title: "vercel rolling-release"
 description: "Learn how to manage your project"
-last_updated: "2026-04-03T23:47:17.622Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/rolling-release"
---------------------------------------------------------------------------------
+tags: ["cli-command", "rolling-release", "gradual-rollout", "canary-deployment"]
+related: ["0202-vercel-promote.md", "0207-vercel-rollback.md", "0345-promoting-a-preview-deployment-to-production.md"]
+last_updated: "2026-04-03T23:47:17.622Z"
+---
 
 # vercel rolling-release
 

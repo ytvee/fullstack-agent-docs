@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0516"
 title: "Fastify on Vercel"
 description: "Deploy Fastify applications to Vercel with zero configuration."
-last_updated: "2026-04-03T23:47:21.225Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "guide"
 source: "https://vercel.com/docs/frameworks/backend/fastify"
---------------------------------------------------------------------------------
+tags: ["fastify", "nodejs", "plugins", "backend", "zero-config"]
+related: ["0522-backends-on-vercel.md", "0514-express-on-vercel.md", "0519-koa-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.225Z"
+---
 
 # Fastify on Vercel
 

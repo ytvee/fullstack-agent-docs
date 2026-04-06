@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0514"
 title: "Express on Vercel"
 description: "Deploy Express applications to Vercel with zero configuration. Learn about middleware and Vercel Functions."
-last_updated: "2026-04-03T23:47:21.209Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "guide"
 source: "https://vercel.com/docs/frameworks/backend/express"
---------------------------------------------------------------------------------
+tags: ["express", "nodejs", "middleware", "backend", "zero-config"]
+related: ["0522-backends-on-vercel.md", "0519-koa-on-vercel.md", "0516-fastify-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.209Z"
+---
 
 # Express on Vercel
 

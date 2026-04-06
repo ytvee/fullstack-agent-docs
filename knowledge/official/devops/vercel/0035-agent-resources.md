@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0035"
 title: "Agent Resources"
 description: "Resources for building with AI on Vercel, including documentation access, MCP servers, and agent skills."
-last_updated: "2026-04-03T23:47:14.076Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "concept"
 source: "https://vercel.com/docs/agent-resources"
---------------------------------------------------------------------------------
+tags: ["llms-txt", "mcp-servers", "agent-skills", "documentation", "ai-tools"]
+related: ["0034-markdown-access.md", "0036-agent-skills.md", "0038-tools.md"]
+last_updated: "2026-04-03T23:47:14.076Z"
+---
 
 # Agent Resources
 

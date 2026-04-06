@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0504"
 title: "Segments"
 description: "Create reusable user segments for targeting feature flags."
-last_updated: "2026-04-03T23:47:21.004Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard/segments"
---------------------------------------------------------------------------------
+tags: ["feature-flags", "user-segments", "targeting", "rollout", "beta-users"]
+related: ["0500-entities.md", "0501-feature-flag-configuration.md", "0502-managing-flags-in-the-dashboard.md"]
+last_updated: "2026-04-03T23:47:21.004Z"
+---
 
 # Segments
 

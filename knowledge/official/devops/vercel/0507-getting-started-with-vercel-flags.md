@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0507"
 title: "Getting Started with Vercel Flags"
 description: "Create your first feature flag and evaluate it in your application using the Flags SDK, OpenFeature, or the core library."
-last_updated: "2026-04-03T23:47:21.049Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/quickstart"
---------------------------------------------------------------------------------
+tags: ["feature-flags", "quickstart", "flags-sdk", "openfeature", "nextjs"]
+related: ["0506-vercel-flags-2.md", "0509-using-the-flags-sdk-with-vercel-flags.md", "0503-sdk-keys.md"]
+last_updated: "2026-04-03T23:47:21.049Z"
+---
 
 # Getting Started with Vercel Flags
 

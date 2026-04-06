@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0305"
 title: "Conformance Rules"
 description: "Learn how Conformance improves collaboration, productivity, and software quality at scale."
-last_updated: "2026-04-03T23:47:18.489Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules"
---------------------------------------------------------------------------------
+tags: ["conformance-rules", "code-quality", "nextjs", "eslint", "linting"]
+related: ["0238-introduction-to-conformance.md", "0237-getting-started-with-conformance.md", "0236-customizing-conformance.md"]
+last_updated: "2026-04-03T23:47:18.489Z"
+---
 
 # Conformance Rules
 

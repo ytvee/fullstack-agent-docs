@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0405"
 title: "Rotating environment variables"
 description: "Safely rotate API keys, tokens, and other secrets in your Vercel environment variables."
-last_updated: "2026-04-03T23:47:20.260Z"
+category: "vercel-environment-variables"
+subcategory: "environment-variables"
+type: "guide"
 source: "https://vercel.com/docs/environment-variables/rotating-secrets"
---------------------------------------------------------------------------------
+tags: ["secrets-rotation", "api-keys", "security", "credentials", "redeploy"]
+related: ["0406-sensitive-environment-variables.md", "0403-environment-variables.md", "0402-managing-environment-variables.md"]
+last_updated: "2026-04-03T23:47:20.260Z"
+---
 
 # Rotating environment variables
 

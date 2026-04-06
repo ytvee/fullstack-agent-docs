@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0013"
 title: "Crush"
 description: "Use Crush with the AI Gateway."
-last_updated: "2026-04-03T23:47:13.747Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/coding-agents/crush"
---------------------------------------------------------------------------------
+tags: ["coding-agent", "terminal", "ai-gateway", "mcp-servers", "lsp"]
+related: ["0016-coding-agents.md", "0015-opencode.md", "0092-ai-gateway.md"]
+last_updated: "2026-04-03T23:47:13.747Z"
+---
 
 # Crush
 

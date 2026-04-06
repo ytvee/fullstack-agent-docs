@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0304"
 title: "WORKSPACE_MISSING_PACKAGE_JSON"
 description: "All directories that match a workspace glob must include a package.json file."
-last_updated: "2026-04-03T23:47:18.463Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/WORKSPACE_MISSING_PACKAGE_JSON"
---------------------------------------------------------------------------------
+tags: ["conformance-rules", "workspace", "package-json", "pnpm", "monorepo"]
+related: ["0303-workspace-missing-conformance-script.md", "0305-conformance-rules.md", "0237-getting-started-with-conformance.md"]
+last_updated: "2026-04-03T23:47:18.463Z"
+---
 
 # WORKSPACE_MISSING_PACKAGE_JSON
 

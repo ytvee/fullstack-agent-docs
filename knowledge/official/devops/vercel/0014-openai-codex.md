@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0014"
 title: "OpenAI Codex"
 description: "Use OpenAI Codex CLI with the AI Gateway."
-last_updated: "2026-04-03T23:47:13.778Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/coding-agents/openai-codex"
---------------------------------------------------------------------------------
+tags: ["coding-agent", "openai", "cli-tool", "ai-gateway", "model-routing"]
+related: ["0016-coding-agents.md", "0027-vercel-openai-integration.md", "0092-ai-gateway.md"]
+last_updated: "2026-04-03T23:47:13.778Z"
+---
 
 # OpenAI Codex
 

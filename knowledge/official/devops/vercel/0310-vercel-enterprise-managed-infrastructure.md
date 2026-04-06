@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0310"
 title: "Vercel Enterprise Managed Infrastructure"
-
-last_updated: "2026-04-03T23:47:18.570Z"
+description: ""
+category: "vercel-plans"
+subcategory: "plans"
+type: "concept"
 source: "https://vercel.com/docs/contentful/managed-infrastructure"
---------------------------------------------------------------------------------
+tags: ["enterprise", "managed-infrastructure", "miu", "cdn-pricing", "regional-pricing"]
+related: ["0674-vercel-enterprise-plan.md", "0676-account-plans-on-vercel.md", "0633-cdn-pricing-and-usage.md"]
+last_updated: "2026-04-03T23:47:18.570Z"
+---
 
 # Vercel Enterprise Managed Infrastructure
 

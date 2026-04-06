@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0212"
 title: "vercel teams"
 description: "Learn how to list, add, remove, and manage your teams using the vercel teams CLI command."
-last_updated: "2026-04-03T23:47:17.687Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/teams"
---------------------------------------------------------------------------------
+tags: ["cli-command", "team-management", "members", "invitations"]
+related: ["0210-vercel-switch.md", "0001-account-management.md", "0199-vercel-cli-overview.md"]
+last_updated: "2026-04-03T23:47:17.687Z"
+---
 
 # vercel teams
 

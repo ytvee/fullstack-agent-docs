@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0408"
 title: "System environment variables"
 description: "System environment variables are automatically populated by Vercel, such as the URL of the deployment or the name of the Git branch deployed."
-last_updated: "2026-04-03T23:47:20.298Z"
+category: "vercel-environment-variables"
+subcategory: "environment-variables"
+type: "concept"
 source: "https://vercel.com/docs/environment-variables/system-environment-variables"
---------------------------------------------------------------------------------
+tags: ["vercel-url", "git-branch", "deployment-id", "auto-populated", "skew-protection"]
+related: ["0403-environment-variables.md", "0400-framework-environment-variables.md", "0404-reserved-environment-variables.md"]
+last_updated: "2026-04-03T23:47:20.298Z"
+---
 
 # System environment variables
 

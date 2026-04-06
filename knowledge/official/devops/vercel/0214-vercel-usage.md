@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0214"
 title: "vercel usage"
 description: "Learn how to view billing usage and costs, for your Vercel account using the vercel usage CLI command."
-last_updated: "2026-04-03T23:47:17.735Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/usage"
---------------------------------------------------------------------------------
+tags: ["cli-command", "billing", "usage-tracking", "cost-management"]
+related: ["0588-managing-usage-costs.md", "0199-vercel-cli-overview.md", "0676-account-plans-on-vercel.md"]
+last_updated: "2026-04-03T23:47:17.735Z"
+---
 
 # vercel usage
 

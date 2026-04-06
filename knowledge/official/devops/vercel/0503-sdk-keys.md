@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0503"
 title: "SDK Keys"
 description: "Manage SDK Keys that connect your application to Vercel Flags."
-last_updated: "2026-04-03T23:47:20.988Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard/sdk-keys"
---------------------------------------------------------------------------------
+tags: ["sdk-keys", "authentication", "environment-variables", "secrets", "flags-sdk"]
+related: ["0509-using-the-flags-sdk-with-vercel-flags.md", "0506-vercel-flags-2.md", "0507-getting-started-with-vercel-flags.md"]
+last_updated: "2026-04-03T23:47:20.988Z"
+---
 
 # SDK Keys
 

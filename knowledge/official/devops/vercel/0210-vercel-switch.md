@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0210"
 title: "vercel switch"
 description: "Learn how to switch between different team scopes using the vercel switch CLI command."
-last_updated: "2026-04-03T23:47:17.655Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/switch"
---------------------------------------------------------------------------------
+tags: ["cli-command", "team-scope", "account-switching", "multi-team"]
+related: ["0212-vercel-teams.md", "0193-vercel-login.md", "0199-vercel-cli-overview.md"]
+last_updated: "2026-04-03T23:47:17.655Z"
+---
 
 # vercel switch
 

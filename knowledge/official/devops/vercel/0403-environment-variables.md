@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0403"
 title: "Environment variables"
 description: "Learn more about environment variables on Vercel."
-last_updated: "2026-04-03T23:47:20.327Z"
+category: "vercel-environment-variables"
+subcategory: "environment-variables"
+type: "concept"
 source: "https://vercel.com/docs/environment-variables"
---------------------------------------------------------------------------------
+tags: ["key-value", "encryption", "64kb-limit", "build-step", "runtime"]
+related: ["0402-managing-environment-variables.md", "0408-system-environment-variables.md", "0406-sensitive-environment-variables.md"]
+last_updated: "2026-04-03T23:47:20.327Z"
+---
 
 # Environment variables
 

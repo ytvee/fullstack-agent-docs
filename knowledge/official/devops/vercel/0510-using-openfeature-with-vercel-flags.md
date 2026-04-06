@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0510"
 title: "Using OpenFeature with Vercel Flags"
 description: "Use the vendor-neutral OpenFeature API with Vercel Flags as your provider."
-last_updated: "2026-04-03T23:47:21.079Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/sdks/openfeature"
---------------------------------------------------------------------------------
+tags: ["openfeature", "vendor-neutral", "feature-flags", "provider", "typescript"]
+related: ["0511-sdks.md", "0508-using-the-core-library.md", "0509-using-the-flags-sdk-with-vercel-flags.md"]
+last_updated: "2026-04-03T23:47:21.079Z"
+---
 
 # Using OpenFeature with Vercel Flags
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0101"
 title: "Advanced Configuration"
 description: "Configure reasoning, provider options, model fallbacks, BYOK credentials, and prompt caching."
-last_updated: "2026-04-03T23:47:15.211Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/advanced"
---------------------------------------------------------------------------------
+tags: ["reasoning", "model-fallbacks", "byok", "prompt-caching", "provider-options"]
+related: ["0086-model-fallbacks.md", "0090-provider-options.md", "0111-provider-options-2.md"]
+last_updated: "2026-04-03T23:47:15.211Z"
+---
 
 # Advanced Configuration
 

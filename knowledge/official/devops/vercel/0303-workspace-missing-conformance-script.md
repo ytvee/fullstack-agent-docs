@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0303"
 title: "WORKSPACE_MISSING_CONFORMANCE_SCRIPT"
 description: "All packages must define a conformance script that invokes the Conformance package."
-last_updated: "2026-04-03T23:47:18.459Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/WORKSPACE_MISSING_CONFORMANCE_SCRIPT"
---------------------------------------------------------------------------------
+tags: ["conformance-rules", "workspace", "package-json", "scripts", "monorepo"]
+related: ["0304-workspace-missing-package-json.md", "0305-conformance-rules.md", "0237-getting-started-with-conformance.md"]
+last_updated: "2026-04-03T23:47:18.459Z"
+---
 
 # WORKSPACE_MISSING_CONFORMANCE_SCRIPT
 

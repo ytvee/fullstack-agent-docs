@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0506"
 title: "Vercel Flags"
 description: "Use Vercel as your feature flag provider to create and manage flags, define targeting rules, and run experiments directly from the dashboard."
-last_updated: "2026-04-03T23:47:21.027Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "concept"
 source: "https://vercel.com/docs/flags/vercel-flags"
---------------------------------------------------------------------------------
+tags: ["feature-flags", "ab-testing", "experiments", "targeting", "trunk-based-development"]
+related: ["0507-getting-started-with-vercel-flags.md", "0502-managing-flags-in-the-dashboard.md", "0511-sdks.md"]
+last_updated: "2026-04-03T23:47:21.027Z"
+---
 
 # Vercel Flags
 

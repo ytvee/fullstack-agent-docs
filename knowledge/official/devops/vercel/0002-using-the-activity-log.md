@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0002"
 title: "Using the Activity Log"
 description: "Learn how to use the Activity Log, which provides a list of all events on a team, chronologically organized since its creation."
-last_updated: "2026-04-03T23:47:13.538Z"
+category: "vercel-observability"
+subcategory: "observability"
+type: "guide"
 source: "https://vercel.com/docs/activity-log"
---------------------------------------------------------------------------------
+tags: ["activity-log", "audit-trail", "team-events", "monitoring"]
+related: ["0130-audit-logs.md", "0163-vercel-activity.md", "0001-account-management.md"]
+last_updated: "2026-04-03T23:47:13.538Z"
+---
 
 # Using the Activity Log
 

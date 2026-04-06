@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0033"
 title: "Vercel xAI Integration"
 description: "Learn how to add the xAI native integration with Vercel."
-last_updated: "2026-04-03T23:47:14.066Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/xai"
---------------------------------------------------------------------------------
+tags: ["grok", "vision-model", "text-generation", "native-integration", "language-model"]
+related: ["0028-build-with-ai-on-vercel.md", "0021-adding-a-provider.md", "0088-models-providers.md"]
+last_updated: "2026-04-03T23:47:14.066Z"
+---
 
 # Vercel xAI Integration
 

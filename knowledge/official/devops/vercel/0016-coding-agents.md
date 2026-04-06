@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0016"
 title: "Coding Agents"
 description: "Configure popular AI coding agents to use the AI Gateway for unified model access and spend monitoring."
-last_updated: "2026-04-03T23:47:13.808Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "concept"
 source: "https://vercel.com/docs/agent-resources/coding-agents"
---------------------------------------------------------------------------------
+tags: ["coding-agents", "ai-gateway", "spend-monitoring", "provider-fallbacks", "model-access"]
+related: ["0092-ai-gateway.md", "0010-claude-code-and-claude-agent-sdk.md", "0011-cline.md"]
+last_updated: "2026-04-03T23:47:13.808Z"
+---
 
 # Coding Agents
 

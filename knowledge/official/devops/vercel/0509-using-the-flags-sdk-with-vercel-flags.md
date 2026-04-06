@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0509"
 title: "Using the Flags SDK with Vercel Flags"
 description: "Integrate Vercel Flags into your Next.js or SvelteKit application using the Flags SDK."
-last_updated: "2026-04-03T23:47:21.071Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/sdks/flags-sdk"
---------------------------------------------------------------------------------
+tags: ["flags-sdk", "nextjs", "sveltekit", "typescript", "flags-explorer"]
+related: ["0511-sdks.md", "0508-using-the-core-library.md", "0507-getting-started-with-vercel-flags.md"]
+last_updated: "2026-04-03T23:47:21.071Z"
+---
 
 # Using the Flags SDK with Vercel Flags
 

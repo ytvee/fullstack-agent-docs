@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0200"
 title: "vercel project"
 description: "Learn how to list, add, remove, and manage your Vercel Projects using the vercel project CLI command."
-last_updated: "2026-04-03T23:47:17.548Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/project"
---------------------------------------------------------------------------------
+tags: ["cli-command", "project-management", "project-listing", "project-creation"]
+related: ["0199-vercel-cli-overview.md", "0201-linking-projects-with-vercel-cli.md", "0191-vercel-link.md"]
+last_updated: "2026-04-03T23:47:17.548Z"
+---
 
 # vercel project
 

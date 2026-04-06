@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0406"
 title: "Sensitive environment variables"
 description: "Environment variables that cannot be decrypted once created."
-last_updated: "2026-04-03T23:47:20.274Z"
+category: "vercel-environment-variables"
+subcategory: "environment-variables"
+type: "concept"
 source: "https://vercel.com/docs/environment-variables/sensitive-environment-variables"
---------------------------------------------------------------------------------
+tags: ["sensitive", "unreadable", "api-keys", "preview-production", "encryption"]
+related: ["0403-environment-variables.md", "0407-shared-environment-variables.md", "0405-rotating-environment-variables.md"]
+last_updated: "2026-04-03T23:47:20.274Z"
+---
 
 # Sensitive environment variables
 

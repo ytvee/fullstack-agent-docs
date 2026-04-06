@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0401"
 title: "Managing environment variables across environments"
 description: "Add, sync, and verify environment variables across development, preview, production, and custom environments using the CLI."
-last_updated: "2026-04-03T23:47:20.194Z"
+category: "vercel-environment-variables"
+subcategory: "environment-variables"
+type: "guide"
 source: "https://vercel.com/docs/environment-variables/manage-across-environments"
---------------------------------------------------------------------------------
+tags: ["cli", "development", "preview", "production", "vercel-env"]
+related: ["0402-managing-environment-variables.md", "0403-environment-variables.md", "0407-shared-environment-variables.md"]
+last_updated: "2026-04-03T23:47:20.194Z"
+---
 
 # Managing environment variables across environments
 

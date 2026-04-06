@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0203"
 title: "vercel pull"
 description: "Learn how to update your local project with remote environment variables using the vercel pull CLI command."
-last_updated: "2026-04-03T23:47:17.573Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/pull"
---------------------------------------------------------------------------------
+tags: ["cli-command", "environment-variables", "local-development", "project-settings"]
+related: ["0179-vercel-env.md", "0403-environment-variables.md", "0176-vercel-dev.md"]
+last_updated: "2026-04-03T23:47:17.573Z"
+---
 
 # vercel pull
 

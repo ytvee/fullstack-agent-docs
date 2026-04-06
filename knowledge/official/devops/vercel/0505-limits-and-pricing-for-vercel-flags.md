@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0505"
 title: "Limits and Pricing for Vercel Flags"
 description: "Learn about limits and pricing for Vercel Flags."
-last_updated: "2026-04-03T23:47:21.017Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "concept"
 source: "https://vercel.com/docs/flags/vercel-flags/limits-and-pricing"
---------------------------------------------------------------------------------
+tags: ["pricing", "limits", "flag-requests", "hobby", "pro"]
+related: ["0506-vercel-flags-2.md", "0502-managing-flags-in-the-dashboard.md", "0507-getting-started-with-vercel-flags.md"]
+last_updated: "2026-04-03T23:47:21.017Z"
+---
 
 # Limits and Pricing for Vercel Flags
 

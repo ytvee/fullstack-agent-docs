@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0105"
 title: "OpenAI Chat Completions API"
 description: "Use the OpenAI Chat Completions API with AI Gateway for seamless integration with existing tools and libraries."
-last_updated: "2026-04-03T23:47:15.274Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions"
---------------------------------------------------------------------------------
+tags: ["openai-compatible", "chat-completions", "provider-agnostic", "base-url"]
+related: ["0102-chat-completions.md", "0117-openai-responses-api.md", "0115-sdks-apis.md"]
+last_updated: "2026-04-03T23:47:15.274Z"
+---
 
 # OpenAI Chat Completions API
 

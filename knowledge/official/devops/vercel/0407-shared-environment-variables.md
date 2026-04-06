@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0407"
 title: "Shared environment variables"
 description: "Learn how to use Shared environment variables, which are environment variables that you define at the Team level and can link to multiple projects."
-last_updated: "2026-04-03T23:47:20.289Z"
+category: "vercel-environment-variables"
+subcategory: "environment-variables"
+type: "guide"
 source: "https://vercel.com/docs/environment-variables/shared-environment-variables"
---------------------------------------------------------------------------------
+tags: ["team-level", "multi-project", "linked-projects", "override", "team-settings"]
+related: ["0403-environment-variables.md", "0402-managing-environment-variables.md", "0406-sensitive-environment-variables.md"]
+last_updated: "2026-04-03T23:47:20.289Z"
+---
 
 # Shared environment variables
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0027"
 title: "Vercel & OpenAI Integration"
 description: "Integrate your Vercel project with OpenAI"
-last_updated: "2026-04-03T23:47:13.919Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/openai"
---------------------------------------------------------------------------------
+tags: ["openai", "gpt-4", "dall-e", "embeddings", "ai-sdk"]
+related: ["0028-build-with-ai-on-vercel.md", "0094-ai-sdk.md", "0021-adding-a-provider.md"]
+last_updated: "2026-04-03T23:47:13.919Z"
+---
 
 # Vercel & OpenAI Integration
 

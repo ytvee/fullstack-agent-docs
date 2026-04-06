@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0402"
 title: "Managing environment variables"
 description: "Learn how to create and manage environment variables for Vercel."
-last_updated: "2026-04-03T23:47:20.204Z"
+category: "vercel-environment-variables"
+subcategory: "environment-variables"
+type: "guide"
 source: "https://vercel.com/docs/environment-variables/managing-environment-variables"
---------------------------------------------------------------------------------
+tags: ["dashboard", "key-value", "project-settings", "node-js", "secrets"]
+related: ["0403-environment-variables.md", "0406-sensitive-environment-variables.md", "0407-shared-environment-variables.md"]
+last_updated: "2026-04-03T23:47:20.204Z"
+---
 
 # Managing environment variables
 

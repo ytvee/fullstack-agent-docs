@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0207"
 title: "vercel rollback"
 description: "Learn how to roll back your production deployments to previous deployments using the vercel rollback CLI command."
-last_updated: "2026-04-03T23:47:17.612Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/rollback"
---------------------------------------------------------------------------------
+tags: ["cli-command", "instant-rollback", "production", "deployment-management"]
+related: ["0347-rolling-back-a-production-deployment.md", "0596-performing-an-instant-rollback-on-a-deployment.md", "0202-vercel-promote.md"]
+last_updated: "2026-04-03T23:47:17.612Z"
+---
 
 # vercel rollback
 

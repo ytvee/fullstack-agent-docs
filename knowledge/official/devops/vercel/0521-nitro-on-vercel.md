@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0521"
 title: "Nitro on Vercel"
 description: "Deploy Nitro applications to Vercel with zero configuration. Learn about observability, ISR, and custom build configurations."
-last_updated: "2026-04-03T23:47:21.289Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "guide"
 source: "https://vercel.com/docs/frameworks/backend/nitro"
---------------------------------------------------------------------------------
+tags: ["nitro", "typescript", "full-stack", "filesystem-routing", "isr"]
+related: ["0522-backends-on-vercel.md", "0531-nuxt-on-vercel.md", "0518-hono-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.289Z"
+---
 
 # Nitro on Vercel
 

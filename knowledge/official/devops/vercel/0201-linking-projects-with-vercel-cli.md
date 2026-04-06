@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0201"
 title: "Linking Projects with Vercel CLI"
 description: "Learn how to link existing Vercel Projects with Vercel CLI."
-last_updated: "2026-04-03T23:47:17.554Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "guide"
 source: "https://vercel.com/docs/cli/project-linking"
---------------------------------------------------------------------------------
+tags: ["project-linking", "cli-command", "team-scope", "local-development"]
+related: ["0200-vercel-project.md", "0191-vercel-link.md", "0199-vercel-cli-overview.md"]
+last_updated: "2026-04-03T23:47:17.554Z"
+---
 
 # Linking Projects with Vercel CLI
 

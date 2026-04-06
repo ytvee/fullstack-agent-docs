@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0300"
 title: "TESTS_NO_ONLY"
 description: "Requires that focused tests (i.e. it.only()) are unfocused."
-last_updated: "2026-04-03T23:47:18.445Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/TESTS_NO_ONLY"
---------------------------------------------------------------------------------
+tags: ["conformance-rules", "testing", "focused-tests", "code-quality", "linting"]
+related: ["0299-tests-no-conditional-assertions.md", "0305-conformance-rules.md", "0238-introduction-to-conformance.md"]
+last_updated: "2026-04-03T23:47:18.445Z"
+---
 
 # TESTS_NO_ONLY
 

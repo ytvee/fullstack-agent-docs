@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0311"
 title: "Managing Cron Jobs"
 description: "Learn how to manage Cron Jobs effectively in Vercel. Explore cron job duration, error handling, deployments, concurrency control, local execution, and more to optimize your serverless workflows."
-last_updated: "2026-04-03T23:47:18.600Z"
+category: "vercel-cron-jobs"
+subcategory: "cron-jobs"
+type: "guide"
 source: "https://vercel.com/docs/cron-jobs/manage-cron-jobs"
---------------------------------------------------------------------------------
+tags: ["cron-jobs", "scheduling", "cron-secret", "error-handling", "concurrency"]
+related: ["0312-cron-jobs.md", "0313-getting-started-with-cron-jobs.md", "0314-usage-pricing-for-cron-jobs.md"]
+last_updated: "2026-04-03T23:47:18.600Z"
+---
 
 # Managing Cron Jobs
 

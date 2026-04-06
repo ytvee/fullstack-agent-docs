@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0007"
 title: "Managing Code Reviews"
 description: "Customize which repositories get reviewed and track your review metrics and spending."
-last_updated: "2026-04-03T23:47:13.656Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "guide"
 source: "https://vercel.com/docs/agent/pr-review/usage"
---------------------------------------------------------------------------------
+tags: ["ai-code-review", "repository-settings", "spending-tracking", "draft-prs"]
+related: ["0006-code-review.md", "0005-vercel-agent.md", "0008-vercel-agent-pricing.md"]
+last_updated: "2026-04-03T23:47:13.656Z"
+---
 
 # Managing Code Reviews
 

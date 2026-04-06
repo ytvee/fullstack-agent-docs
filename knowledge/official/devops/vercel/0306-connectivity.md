@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0306"
 title: "Connectivity"
 description: "Connect your Vercel projects to backend services with static IPs and secure networking options."
-last_updated: "2026-04-03T23:47:18.509Z"
+category: "vercel-security"
+subcategory: "security"
+type: "concept"
 source: "https://vercel.com/docs/connectivity"
---------------------------------------------------------------------------------
+tags: ["static-ips", "vpc", "secure-compute", "ip-allowlisting", "networking"]
+related: ["0307-secure-compute.md", "0309-static-ips.md", "0308-getting-started-with-static-ips.md"]
+last_updated: "2026-04-03T23:47:18.509Z"
+---
 
 # Connectivity
 

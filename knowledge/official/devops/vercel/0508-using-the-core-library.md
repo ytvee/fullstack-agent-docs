@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0508"
 title: "Using the Core Library"
 description: "Use the Vercel Flags core evaluation library directly for custom setups."
-last_updated: "2026-04-03T23:47:21.063Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/sdks/core"
---------------------------------------------------------------------------------
+tags: ["flags-core", "custom-integration", "typescript", "server-side", "evaluation"]
+related: ["0511-sdks.md", "0509-using-the-flags-sdk-with-vercel-flags.md", "0510-using-openfeature-with-vercel-flags.md"]
+last_updated: "2026-04-03T23:47:21.063Z"
+---
 
 # Using the Core Library
 

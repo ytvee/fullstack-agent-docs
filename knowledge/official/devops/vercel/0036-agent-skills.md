@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0036"
 title: "Agent Skills"
 description: "Install skills to enhance AI coding agents with specialized capabilities for React, Next.js, deployment, and more."
-last_updated: "2026-04-03T23:47:14.111Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "guide"
 source: "https://vercel.com/docs/agent-resources/skills"
---------------------------------------------------------------------------------
+tags: ["agent-skills", "coding-agents", "skills-cli", "ai-capabilities", "mcp-servers"]
+related: ["0035-agent-resources.md", "0016-coding-agents.md", "0039-vercel-plugin-for-ai-coding-agents.md"]
+last_updated: "2026-04-03T23:47:14.111Z"
+---
 
 # Agent Skills
 

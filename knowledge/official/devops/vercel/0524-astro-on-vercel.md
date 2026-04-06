@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0524"
 title: "Astro on Vercel"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:21.499Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "guide"
 source: "https://vercel.com/docs/frameworks/frontend/astro"
---------------------------------------------------------------------------------
+tags: ["astro", "static-site", "server-rendering", "zero-config", "frontend"]
+related: ["0527-frontends-on-vercel.md", "0529-vite-on-vercel.md", "0538-frameworks-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.499Z"
+---
 
 # Astro on Vercel
 

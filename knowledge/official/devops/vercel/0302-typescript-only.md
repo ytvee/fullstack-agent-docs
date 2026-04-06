@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0302"
 title: "TYPESCRIPT_ONLY"
 description: "Requires that a workspace package may only contain TypeScript files and no JavaScript or JSX files."
-last_updated: "2026-04-03T23:47:18.456Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/TYPESCRIPT_ONLY"
---------------------------------------------------------------------------------
+tags: ["conformance-rules", "typescript", "javascript", "type-safety", "workspace"]
+related: ["0301-typescript-configuration.md", "0305-conformance-rules.md", "0238-introduction-to-conformance.md"]
+last_updated: "2026-04-03T23:47:18.456Z"
+---
 
 # TYPESCRIPT_ONLY
 

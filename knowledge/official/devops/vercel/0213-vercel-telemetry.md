@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0213"
 title: "vercel telemetry"
 description: "Learn how to manage telemetry collection."
-last_updated: "2026-04-03T23:47:17.695Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/telemetry"
---------------------------------------------------------------------------------
+tags: ["cli-command", "telemetry", "data-collection", "privacy"]
+related: ["0162-telemetry.md", "0199-vercel-cli-overview.md", "0182-vercel-cli-global-options.md"]
+last_updated: "2026-04-03T23:47:17.695Z"
+---
 
 # vercel telemetry
 

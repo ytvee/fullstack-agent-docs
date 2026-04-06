@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0600"
 title: "Vercel DatoCMS Integration"
 description: "Learn how to integrate DatoCMS with Vercel. Follow our step-by-step tutorial to set up and manage your digital content seamlessly using DatoCMS API."
-last_updated: "2026-04-03T23:47:23.234Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/cms/dato-cms"
---------------------------------------------------------------------------------
+tags: ["datocms", "headless-cms", "content-management", "api", "environment-variables"]
+related: ["0603-vercel-cms-integrations.md", "0604-vercel-sanity-integration.md", "0599-vercel-and-contentful-integration.md"]
+last_updated: "2026-04-03T23:47:23.234Z"
+---
 
 # Vercel DatoCMS Integration
 

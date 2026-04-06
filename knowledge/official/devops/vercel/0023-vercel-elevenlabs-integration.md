@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0023"
 title: "Vercel ElevenLabs Integration"
 description: "Learn how to add the ElevenLabs connectable account integration with Vercel."
-last_updated: "2026-04-03T23:47:13.950Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/elevenlabs"
---------------------------------------------------------------------------------
+tags: ["voice-synthesis", "audio-processing", "text-to-speech", "connectable-account"]
+related: ["0026-vercel-lmnt-integration.md", "0028-build-with-ai-on-vercel.md", "0021-adding-a-provider.md"]
+last_updated: "2026-04-03T23:47:13.950Z"
+---
 
 # Vercel ElevenLabs Integration
 

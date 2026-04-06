@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0211"
 title: "vercel target"
 description: "Work with custom environments using the --target flag in Vercel CLI."
-last_updated: "2026-04-03T23:47:17.682Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/target"
---------------------------------------------------------------------------------
+tags: ["cli-command", "custom-environments", "deployment-targets", "environments"]
+related: ["0338-environments.md", "0203-vercel-pull.md", "0199-vercel-cli-overview.md"]
+last_updated: "2026-04-03T23:47:17.682Z"
+---
 
 # vercel target
 

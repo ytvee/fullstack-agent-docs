@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0400"
 title: "Framework environment variables"
 description: "Framework environment variables are automatically populated by the Vercel, based on your project"
-last_updated: "2026-04-03T23:47:20.082Z"
+category: "vercel-environment-variables"
+subcategory: "environment-variables"
+type: "concept"
 source: "https://vercel.com/docs/environment-variables/framework-environment-variables"
---------------------------------------------------------------------------------
+tags: ["framework-prefix", "next-public", "sveltekit", "build-step", "env-pull"]
+related: ["0403-environment-variables.md", "0402-managing-environment-variables.md", "0408-system-environment-variables.md"]
+last_updated: "2026-04-03T23:47:20.082Z"
+---
 
 # Framework environment variables
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0206"
 title: "vercel remove"
 description: "Learn how to remove a deployment using the vercel remove CLI command."
-last_updated: "2026-04-03T23:47:17.600Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/remove"
---------------------------------------------------------------------------------
+tags: ["cli-command", "deployment-removal", "deployment-management"]
+related: ["0341-managing-deployments.md", "0336-deployment-retention.md", "0204-vercel-redeploy.md"]
+last_updated: "2026-04-03T23:47:17.600Z"
+---
 
 # vercel remove
 

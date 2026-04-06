@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0518"
 title: "Hono on Vercel"
 description: "Deploy Hono applications to Vercel with zero configuration. Learn about observability, ISR, and custom build configurations."
-last_updated: "2026-04-03T23:47:21.240Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "guide"
 source: "https://vercel.com/docs/frameworks/backend/hono"
---------------------------------------------------------------------------------
+tags: ["hono", "web-standards", "backend", "typescript", "zero-config"]
+related: ["0522-backends-on-vercel.md", "0513-elysia-on-vercel.md", "0523-xmcp-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.240Z"
+---
 
 # Hono on Vercel
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0501"
 title: "Feature Flag Configuration"
 description: "Learn how to configure individual feature flags in the Vercel Dashboard."
-last_updated: "2026-04-03T23:47:20.959Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard/feature-flag"
---------------------------------------------------------------------------------
+tags: ["feature-flags", "variants", "targeting-rules", "environments", "ab-testing"]
+related: ["0502-managing-flags-in-the-dashboard.md", "0504-segments.md", "0506-vercel-flags-2.md"]
+last_updated: "2026-04-03T23:47:20.959Z"
+---
 
 # Feature Flag Configuration
 

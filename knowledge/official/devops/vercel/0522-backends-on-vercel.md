@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0522"
 title: "Backends on Vercel"
 description: "Vercel supports a wide range of the most popular backend frameworks, optimizing how your application builds and runs no matter what tooling you use."
-last_updated: "2026-04-03T23:47:21.297Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "concept"
 source: "https://vercel.com/docs/frameworks/backend"
---------------------------------------------------------------------------------
+tags: ["backend", "fluid-compute", "serverless", "zero-config", "frameworks"]
+related: ["0538-frameworks-on-vercel.md", "0527-frontends-on-vercel.md", "0512-fluid-compute.md"]
+last_updated: "2026-04-03T23:47:21.297Z"
+---
 
 # Backends on Vercel
 

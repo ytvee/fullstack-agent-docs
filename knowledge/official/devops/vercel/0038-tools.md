@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0038"
 title: "Tools"
 description: "Available tools in Vercel MCP for searching docs, managing teams, projects, deployments, and viewing runtime logs."
-last_updated: "2026-04-03T23:47:14.174Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "api-reference"
 source: "https://vercel.com/docs/agent-resources/vercel-mcp/tools"
---------------------------------------------------------------------------------
+tags: ["mcp-tools", "documentation-search", "deployment-management", "runtime-logs", "api-reference"]
+related: ["0037-use-vercel.md", "0196-vercel-mcp.md", "0635-deploy-mcp-servers-to-vercel.md"]
+last_updated: "2026-04-03T23:47:14.174Z"
+---
 
 # Tools
 

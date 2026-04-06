@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0301"
 title: "TYPESCRIPT_CONFIGURATION"
 description: "Requires that a workspace package that uses TypeScript files has configured TypeScript correctly for that workspace."
-last_updated: "2026-04-03T23:47:18.452Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/TYPESCRIPT_CONFIGURATION"
---------------------------------------------------------------------------------
+tags: ["conformance-rules", "typescript", "tsconfig", "type-checking", "monorepo"]
+related: ["0302-typescript-only.md", "0305-conformance-rules.md", "0238-introduction-to-conformance.md"]
+last_updated: "2026-04-03T23:47:18.452Z"
+---
 
 # TYPESCRIPT_CONFIGURATION
 

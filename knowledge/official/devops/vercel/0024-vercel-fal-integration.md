@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0024"
 title: "Vercel fal Integration"
 description: "Learn how to add the fal native integration with Vercel."
-last_updated: "2026-04-03T23:47:14.029Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/fal"
---------------------------------------------------------------------------------
+tags: ["image-generation", "diffusion-models", "real-time-inference", "native-integration"]
+related: ["0028-build-with-ai-on-vercel.md", "0021-adding-a-provider.md", "0048-image-generation.md"]
+last_updated: "2026-04-03T23:47:14.029Z"
+---
 
 # Vercel fal Integration
 

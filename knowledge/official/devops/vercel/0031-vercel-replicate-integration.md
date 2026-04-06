@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0031"
 title: "Vercel Replicate Integration"
 description: "Learn how to add Replicate connectable account integration with Vercel."
-last_updated: "2026-04-03T23:47:14.048Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/replicate"
---------------------------------------------------------------------------------
+tags: ["open-source-models", "image-processing", "video-generation", "nlp", "connectable-account"]
+related: ["0028-build-with-ai-on-vercel.md", "0024-vercel-fal-integration.md", "0021-adding-a-provider.md"]
+last_updated: "2026-04-03T23:47:14.048Z"
+---
 
 # Vercel Replicate Integration
 

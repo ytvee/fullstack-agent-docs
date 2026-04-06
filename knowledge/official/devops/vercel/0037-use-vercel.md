@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0037"
 title: "Use Vercel"
 description: "Vercel MCP has tools available for searching docs along with managing teams, projects, and deployments."
-last_updated: "2026-04-03T23:47:14.149Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "guide"
 source: "https://vercel.com/docs/agent-resources/vercel-mcp"
---------------------------------------------------------------------------------
+tags: ["mcp", "model-context-protocol", "oauth", "ai-assistant", "project-management"]
+related: ["0038-tools.md", "0196-vercel-mcp.md", "0635-deploy-mcp-servers-to-vercel.md"]
+last_updated: "2026-04-03T23:47:14.149Z"
+---
 
 # Use Vercel
 

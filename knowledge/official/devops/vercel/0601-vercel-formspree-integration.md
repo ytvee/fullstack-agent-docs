@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0601"
 title: "Vercel Formspree Integration"
 description: "Learn how to integrate Formspree with Vercel. Follow our tutorial to set up Formspree and manage form submissions on your static website without needing a server. "
-last_updated: "2026-04-03T23:47:23.343Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/cms/formspree"
---------------------------------------------------------------------------------
+tags: ["formspree", "forms", "static-site", "form-backend", "serverless"]
+related: ["0603-vercel-cms-integrations.md", "0627-vercel-integrations.md", "0625-install-an-integration.md"]
+last_updated: "2026-04-03T23:47:23.343Z"
+---
 
 # Vercel Formspree Integration
 

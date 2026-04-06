@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0500"
 title: "Entities"
 description: "Define entities and their attributes for precise feature flag targeting."
-last_updated: "2026-04-03T23:47:20.940Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard/entities"
---------------------------------------------------------------------------------
+tags: ["feature-flags", "targeting", "user-attributes", "segments", "evaluation-context"]
+related: ["0504-segments.md", "0501-feature-flag-configuration.md", "0503-sdk-keys.md"]
+last_updated: "2026-04-03T23:47:20.940Z"
+---
 
 # Entities
 

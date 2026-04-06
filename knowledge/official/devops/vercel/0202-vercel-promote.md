@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0202"
 title: "vercel promote"
 description: "Learn how to promote an existing deployment using the vercel promote CLI command."
-last_updated: "2026-04-03T23:47:17.561Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/promote"
---------------------------------------------------------------------------------
+tags: ["cli-command", "deployment-promotion", "production", "instant-rollback"]
+related: ["0345-promoting-a-preview-deployment-to-production.md", "0346-promoting-deployments.md", "0207-vercel-rollback.md"]
+last_updated: "2026-04-03T23:47:17.561Z"
+---
 
 # vercel promote
 

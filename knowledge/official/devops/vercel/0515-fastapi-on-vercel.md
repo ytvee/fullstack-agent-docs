@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0515"
 title: "FastAPI on Vercel"
 description: "Deploy FastAPI applications to Vercel with zero configuration. Learn about the Python runtime, ASGI, static assets, and Vercel Functions."
-last_updated: "2026-04-03T23:47:21.218Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "guide"
 source: "https://vercel.com/docs/frameworks/backend/fastapi"
---------------------------------------------------------------------------------
+tags: ["fastapi", "python", "asgi", "backend", "zero-config"]
+related: ["0522-backends-on-vercel.md", "0517-flask-on-vercel.md", "0563-using-the-python-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.218Z"
+---
 
 # FastAPI on Vercel
 
