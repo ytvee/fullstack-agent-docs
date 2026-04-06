@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0001"
 title: "Account Management"
 description: "Learn how to manage your Vercel account and team members."
-last_updated: "2026-04-03T23:47:13.506Z"
+category: "vercel-accounts"
+subcategory: "accounts"
+type: "guide"
 source: "https://vercel.com/docs/accounts"
---------------------------------------------------------------------------------
+tags: ["teams", "saml-sso", "passkeys", "git-providers", "team-membership"]
+related: ["0002-using-the-activity-log.md", "0041-authentication.md", "0043-authentication-byok.md"]
+last_updated: "2026-04-03T23:47:13.506Z"
+---
 
 # Account Management
 
