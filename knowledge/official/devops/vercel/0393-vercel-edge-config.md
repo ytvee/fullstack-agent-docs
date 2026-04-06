@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0393"
 title: "@vercel/edge-config"
 description: "The Edge Config client SDK is the most ergonomic way to read data from Edge Configs. Learn how to set up the SDK so you can start reading Edge Configs."
-last_updated: "2026-04-03T23:47:19.910Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/edge-config-sdk"
---------------------------------------------------------------------------------
+tags: ["edge", "config", "edge-config-sdk", "requirements", "setting-up-the-sdk", "use-connection-strings"]
+related: ["0396-using-edge-config.md", "0397-managing-edge-configs-with-vercel-rest-api.md", "0394-getting-started-with-edge-config.md"]
+last_updated: "2026-04-03T23:47:19.910Z"
+---
 
 # @vercel/edge-config
 

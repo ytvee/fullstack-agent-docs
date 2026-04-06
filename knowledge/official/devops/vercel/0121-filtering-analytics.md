@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0121"
 title: "Filtering Analytics"
 description: "Learn how filters allow you to explore insights about your website"
-last_updated: "2026-04-03T23:47:15.586Z"
+category: "vercel-analytics"
+subcategory: "analytics"
+type: "guide"
 source: "https://vercel.com/docs/analytics/filtering"
---------------------------------------------------------------------------------
+tags: ["filtering-analytics", "filtering", "using-filters", "examples-of-using-filters", "drill-downs", "setup"]
+related: ["0124-vercel-web-analytics.md", "0126-getting-started-with-vercel-web-analytics.md", "0128-vercel-web-analytics-troubleshooting.md"]
+last_updated: "2026-04-03T23:47:15.586Z"
+---
 
 # Filtering Analytics
 

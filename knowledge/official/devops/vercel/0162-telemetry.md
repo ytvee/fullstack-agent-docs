@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0162"
 title: "Telemetry"
 description: "Vercel CLI collects telemetry data about general usage."
-last_updated: "2026-04-03T23:47:17.046Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "concept"
 source: "https://vercel.com/docs/cli/about-telemetry"
---------------------------------------------------------------------------------
+tags: ["telemetry", "about-telemetry", "why-is-telemetry-collected", "what-is-being-collected", "what-about-sensitive-data"]
+related: ["0213-vercel-telemetry.md", "0173-vercel-curl.md", "0179-vercel-env.md"]
+last_updated: "2026-04-03T23:47:17.046Z"
+---
 
 # Telemetry
 

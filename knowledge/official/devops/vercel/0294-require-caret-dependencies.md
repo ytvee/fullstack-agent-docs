@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0294"
 title: "REQUIRE_CARET_DEPENDENCIES"
 description: "Prevent the use of dependencies without a caret ("
-last_updated: "2026-04-03T23:47:18.420Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/REQUIRE_CARET_DEPENDENCIES"
---------------------------------------------------------------------------------
+tags: ["require", "caret", "dependencies", "rules", "require-caret-dependencies", "examples"]
+related: ["0260-nextjs-require-explicit-dynamic.md", "0295-require-docs-on-exported-functions.md", "0297-require-one-version-policy.md"]
+last_updated: "2026-04-03T23:47:18.420Z"
+---
 
 # REQUIRE_CARET_DEPENDENCIES
 

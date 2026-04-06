@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0538"
 title: "Frameworks on Vercel"
 description: "Vercel supports a wide range of the most popular frameworks, optimizing how your application builds and runs no matter what tool you use."
-last_updated: "2026-04-03T23:47:21.724Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "guide"
 source: "https://vercel.com/docs/frameworks"
---------------------------------------------------------------------------------
+tags: ["frameworks-on-vercel", "build-output-api", "more-resources", "setup", "how-to"]
+related: ["0527-frontends-on-vercel.md", "0532-full-stack-frameworks-on-vercel.md", "0522-backends-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.724Z"
+---
 
 # Frameworks on Vercel
 

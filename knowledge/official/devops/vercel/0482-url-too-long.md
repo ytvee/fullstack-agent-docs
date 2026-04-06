@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0482"
 title: "URL_TOO_LONG"
 description: "The URL of the request is too long. This is a request error."
-last_updated: "2026-04-03T23:47:20.671Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/URL_TOO_LONG"
---------------------------------------------------------------------------------
+tags: ["url", "too", "long", "url-too-long", "troubleshoot", "setup"]
+related: ["0481-too-many-ranges.md", "0431-internal-cache-key-too-long.md", "0450-invalid-image-optimize-request.md"]
+last_updated: "2026-04-03T23:47:20.671Z"
+---
 
 # URL_TOO_LONG
 

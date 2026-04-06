@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0487"
 title: "Flags Explorer"
 description: "View and override your application"
-last_updated: "2026-04-03T23:47:20.746Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "concept"
 source: "https://vercel.com/docs/flags/flags-explorer"
---------------------------------------------------------------------------------
+tags: ["flags-explorer", "explorer", "sharing-flag-overrides", "branch-based-recommendations", "url-based-recommendations", "more-resources"]
+related: ["0485-getting-started-with-flags-explorer.md", "0486-pricing-for-flags-explorer.md", "0488-reference.md"]
+last_updated: "2026-04-03T23:47:20.746Z"
+---
 
 # Flags Explorer
 

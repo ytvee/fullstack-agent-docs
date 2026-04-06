@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0216"
 title: "vercel whoami"
 description: "Learn how to display the username of the currently logged in user with the vercel whoami CLI command."
-last_updated: "2026-04-03T23:47:17.739Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/whoami"
---------------------------------------------------------------------------------
+tags: ["whoami", "usage", "global-options", "api-reference", "cli-command"]
+related: ["0188-vercel-install.md", "0193-vercel-login.md", "0194-vercel-logout.md"]
+last_updated: "2026-04-03T23:47:17.739Z"
+---
 
 # vercel whoami
 

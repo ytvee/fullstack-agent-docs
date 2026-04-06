@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0151"
 title: "Caching"
 description: "Learn how Vercel caches content across multiple layers to deliver fast responses and reduce load on your backend."
-last_updated: "2026-04-03T23:47:16.874Z"
+category: "vercel-caching"
+subcategory: "caching"
+type: "guide"
 source: "https://vercel.com/docs/caching"
---------------------------------------------------------------------------------
+tags: ["isr", "cache-layers", "cdn-cache", "runtime-cache", "image-cache", "request-collapsing"]
+related: ["0149-vercel-cdn-cache.md", "0150-purging-vercel-cdn-cache.md", "0152-data-cache-for-next-js.md"]
+last_updated: "2026-04-03T23:47:16.874Z"
+---
 
 # Caching
 

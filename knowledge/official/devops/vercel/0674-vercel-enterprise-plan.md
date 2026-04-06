@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0674"
 title: "Vercel Enterprise Plan"
 description: "Learn about the Enterprise plan for Vercel, including features, pricing, and more."
-last_updated: "2026-04-03T23:47:24.804Z"
+category: "vercel-plans"
+subcategory: "plans"
+type: "concept"
 source: "https://vercel.com/docs/plans/enterprise"
---------------------------------------------------------------------------------
+tags: ["observability", "enterprise", "plan", "performance-and-reliability", "security-and-compliance", "conformance-and-code-owners"]
+related: ["0672-billing-faq-for-enterprise-plan.md", "0678-vercel-pro-plan.md", "0675-vercel-hobby-plan.md"]
+last_updated: "2026-04-03T23:47:24.804Z"
+---
 
 # Vercel Enterprise Plan
 

@@ -3,11 +3,11 @@ id: "vercel-0021"
 title: "Adding a Provider"
 description: "Learn how to add a new AI provider to your Vercel projects."
 category: "vercel-integrations"
-subcategory: "integrations"
-type: "guide"
+subcategory: "agent-resources"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/adding-a-provider"
-tags: ["ai-provider", "native-integration", "connectable-account", "marketplace"]
-related: ["0020-adding-a-model.md", "0028-build-with-ai-on-vercel.md", "0627-vercel-integrations.md"]
+tags: ["adding", "provider", "integrations-for-models", "adding-a-provider", "featured-ai-integrations", "integration"]
+related: ["0020-adding-a-model.md", "0028-build-with-ai-on-vercel.md", "0032-vercel-together-ai-integration.md"]
 last_updated: "2026-04-03T23:47:13.878Z"
 ---
 

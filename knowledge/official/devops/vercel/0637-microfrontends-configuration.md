@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0637"
 title: "Microfrontends Configuration"
 description: "Configure your microfrontends.json."
-last_updated: "2026-04-03T23:47:24.075Z"
+category: "vercel-microfrontends"
+subcategory: "microfrontends"
+type: "concept"
 source: "https://vercel.com/docs/microfrontends/configuration"
---------------------------------------------------------------------------------
+tags: ["microfrontends-configuration", "configuration", "schema", "example", "application-naming", "file-naming"]
+related: ["0638-microfrontends-local-development.md", "0644-getting-started-with-microfrontends.md", "0645-testing-troubleshooting-microfrontends.md"]
+last_updated: "2026-04-03T23:47:24.075Z"
+---
 
 # Microfrontends Configuration
 

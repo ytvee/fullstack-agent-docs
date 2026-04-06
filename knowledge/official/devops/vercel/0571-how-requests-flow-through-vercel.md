@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0571"
 title: "How requests flow through Vercel"
 description: "Learn how Vercel routes, secures, and serves requests from your users to your application."
-last_updated: "2026-04-03T23:47:22.269Z"
+category: "vercel-root"
+subcategory: "fundamentals"
+type: "guide"
 source: "https://vercel.com/docs/fundamentals/infrastructure"
---------------------------------------------------------------------------------
+tags: ["requests", "flow", "through", "infrastructure", "tls-termination", "system-ddos-mitigation"]
+related: ["0573-what-is-compute.md", "0570-how-vercel-builds-your-application.md", "0572-vercel-fundamental-concepts.md"]
+last_updated: "2026-04-03T23:47:22.269Z"
+---
 
 # How requests flow through Vercel
 

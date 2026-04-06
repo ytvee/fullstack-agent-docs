@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0455"
 title: "MIDDLEWARE_INVOCATION_FAILED"
 description: "The request for an Routing Middleware was not completed successfully. This is an application error."
-last_updated: "2026-04-03T23:47:20.527Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/MIDDLEWARE_INVOCATION_FAILED"
---------------------------------------------------------------------------------
+tags: ["middleware", "invocation", "failed", "middleware-invocation-failed", "troubleshoot", "setup"]
+related: ["0421-edge-function-invocation-failed.md", "0456-middleware-invocation-timeout.md", "0435-internal-edge-function-invocation-failed.md"]
+last_updated: "2026-04-03T23:47:20.527Z"
+---
 
 # MIDDLEWARE_INVOCATION_FAILED
 

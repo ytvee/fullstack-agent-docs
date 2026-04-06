@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0661"
 title: "@vercel/og Reference"
 description: "This reference provides information on how the @vercel/og package works on Vercel."
-last_updated: "2026-04-03T23:47:24.645Z"
+category: "vercel-og-image-generation"
+subcategory: "og-image-generation"
+type: "api-reference"
 source: "https://vercel.com/docs/og-image-generation/og-image-api"
---------------------------------------------------------------------------------
+tags: ["og", "og-image-api", "main-parameters", "options-parameters", "acknowledgements", "api-reference"]
+related: ["0662-open-graph-og-image-generation.md", "0660-og-image-generation-examples.md", "0172-vercel-contract.md"]
+last_updated: "2026-04-03T23:47:24.645Z"
+---
 
 # @vercel/og Reference
 

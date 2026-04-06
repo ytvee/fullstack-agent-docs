@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0077"
 title: "Framework Integrations"
 description: "Explore available community framework integrations with Vercel AI Gateway"
-last_updated: "2026-04-03T23:47:14.819Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations"
---------------------------------------------------------------------------------
+tags: ["framework", "integrations", "ecosystem", "framework-integrations", "integration-overview", "supported-frameworks"]
+related: ["0079-ecosystem.md", "0072-langchain.md", "0073-langfuse.md"]
+last_updated: "2026-04-03T23:47:14.819Z"
+---
 
 # Framework Integrations
 

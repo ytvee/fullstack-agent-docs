@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0250"
 title: "NEXTJS_NO_ASYNC_LAYOUT"
 description: "Ensures that the exported Next.js "
-last_updated: "2026-04-03T23:47:18.137Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_NO_ASYNC_LAYOUT"
---------------------------------------------------------------------------------
+tags: ["nextjs", "no", "async", "layout", "rules", "nextjs-no-async-layout"]
+related: ["0251-nextjs-no-async-page.md", "0257-nextjs-no-production-source-maps.md", "0259-nextjs-no-turbo-cache.md"]
+last_updated: "2026-04-03T23:47:18.137Z"
+---
 
 # NEXTJS_NO_ASYNC_LAYOUT
 

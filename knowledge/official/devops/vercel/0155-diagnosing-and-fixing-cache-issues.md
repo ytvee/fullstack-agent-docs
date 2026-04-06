@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0155"
 title: "Diagnosing and fixing cache issues"
 description: "Diagnose stale content and fix CDN cache, data cache, and build cache issues using the CLI."
-last_updated: "2026-04-03T23:47:16.945Z"
+category: "vercel-caching"
+subcategory: "cdn-cache"
+type: "guide"
 source: "https://vercel.com/docs/cdn-cache/debug-cache-issues"
---------------------------------------------------------------------------------
+tags: ["diagnosing", "fixing", "cache", "issues", "debug-cache-issues", "quick-reference"]
+related: ["0150-purging-vercel-cdn-cache.md", "0148-cache-control-headers.md", "0149-vercel-cdn-cache.md"]
+last_updated: "2026-04-03T23:47:16.945Z"
+---
 
 # Diagnosing and fixing cache issues
 

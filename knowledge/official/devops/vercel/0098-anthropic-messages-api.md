@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0098"
 title: "Anthropic Messages API"
 description: "Use the Anthropic Messages API with AI Gateway for seamless integration with Anthropic SDK tools."
-last_updated: "2026-04-03T23:47:15.146Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api"
---------------------------------------------------------------------------------
+tags: ["anthropic", "messages", "sdks-and-apis", "anthropic-messages-api", "base-url", "authentication"]
+related: ["0110-openresponses-api.md", "0095-advanced-features.md", "0096-file-attachments.md"]
+last_updated: "2026-04-03T23:47:15.146Z"
+---
 
 # Anthropic Messages API
 

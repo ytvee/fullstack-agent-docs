@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0257"
 title: "NEXTJS_NO_PRODUCTION_SOURCE_MAPS"
 description: "Applications using Next.js should not enable production source maps so that they don"
-last_updated: "2026-04-03T23:47:18.184Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_NO_PRODUCTION_SOURCE_MAPS"
---------------------------------------------------------------------------------
+tags: ["nextjs", "no", "production", "source", "maps", "rules"]
+related: ["0251-nextjs-no-async-page.md", "0250-nextjs-no-async-layout.md", "0248-nextjs-missing-react-strict-mode.md"]
+last_updated: "2026-04-03T23:47:18.184Z"
+---
 
 # NEXTJS_NO_PRODUCTION_SOURCE_MAPS
 

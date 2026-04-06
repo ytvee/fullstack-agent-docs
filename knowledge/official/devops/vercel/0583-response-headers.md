@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0583"
 title: "Response headers"
 description: "Learn about the response headers sent to each Vercel deployment and how to use them to process responses before sending a response."
-last_updated: "2026-04-03T23:47:22.667Z"
+category: "vercel-headers"
+subcategory: "headers"
+type: "guide"
 source: "https://vercel.com/docs/headers/response-headers"
---------------------------------------------------------------------------------
+tags: ["response", "response-headers", "cache-control", "content-length", "content-type", "date"]
+related: ["0582-request-headers.md", "0581-system-headers.md", "0148-cache-control-headers.md"]
+last_updated: "2026-04-03T23:47:22.667Z"
+---
 
 # Response headers
 

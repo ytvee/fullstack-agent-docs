@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0170"
 title: "vercel cache"
 description: "Learn how to manage cache for your project using the vercel cache CLI command."
-last_updated: "2026-04-03T23:47:17.191Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/cache"
---------------------------------------------------------------------------------
+tags: ["cache", "usage", "extended-usage", "unique-options", "tag", "srcimg"]
+related: ["0191-vercel-link.md", "0178-vercel-domains.md", "0192-vercel-list.md"]
+last_updated: "2026-04-03T23:47:17.191Z"
+---
 
 # vercel cache
 

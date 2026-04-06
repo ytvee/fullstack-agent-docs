@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0494"
 title: "Cleaning up after a full rollout"
 description: "Audit active flags, remove a fully rolled-out flag from your codebase, and archive it using the Vercel CLI."
-last_updated: "2026-04-03T23:47:20.884Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/cli/clean-up-after-rollout"
---------------------------------------------------------------------------------
+tags: ["cleaning", "up", "after", "full", "rollout", "cli"]
+related: ["0496-running-an-a-b-test.md", "0495-rolling-out-a-new-feature.md", "0497-setting-up-flags-explorer.md"]
+last_updated: "2026-04-03T23:47:20.884Z"
+---
 
 # Cleaning up after a full rollout
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0154"
 title: "Vercel CDN overview"
 description: "Vercel"
-last_updated: "2026-04-03T23:47:16.960Z"
+category: "vercel-caching"
+subcategory: "cdn"
+type: "concept"
 source: "https://vercel.com/docs/cdn"
---------------------------------------------------------------------------------
+tags: ["image-optimization", "isr", "what-you-can-build", "get-started-with-templates", "how-vercel-cdn-works", "global-network-and-regions"]
+related: ["0151-caching.md", "0585-how-vercel-cdn-works.md", "0149-vercel-cdn-cache.md"]
+last_updated: "2026-04-03T23:47:16.960Z"
+---
 
 # Vercel CDN overview
 

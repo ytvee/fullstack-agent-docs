@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0242"
 title: "ESLINT_NEXT_RULES_REQUIRED"
 description: "Requires that a workspace package is configured with required Next.js plugins and rules"
-last_updated: "2026-04-03T23:47:18.095Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/ESLINT_NEXT_RULES_REQUIRED"
---------------------------------------------------------------------------------
+tags: ["nextjs", "eslint", "next", "rules", "required", "eslint-next-rules-required"]
+related: ["0243-eslint-react-rules-required.md", "0244-eslint-rules-required.md", "0241-eslint-configuration.md"]
+last_updated: "2026-04-03T23:47:18.095Z"
+---
 
 # ESLINT_NEXT_RULES_REQUIRED
 

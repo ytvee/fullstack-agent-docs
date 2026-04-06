@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0580"
 title: "Glossary"
 description: "Learn about the terms and concepts used in Vercel"
-last_updated: "2026-04-03T23:47:22.446Z"
+category: "vercel-root"
+subcategory: "glossary"
+type: "concept"
 source: "https://vercel.com/docs/glossary"
---------------------------------------------------------------------------------
+tags: ["ai-gateway", "ai-sdk", "active-cpu", "analytics", "anycast-network", "build"]
+related: ["0572-vercel-fundamental-concepts.md", "0573-what-is-compute.md", "0671-vercel-documentation.md"]
+last_updated: "2026-04-03T23:47:22.446Z"
+---
 
 # Glossary
 

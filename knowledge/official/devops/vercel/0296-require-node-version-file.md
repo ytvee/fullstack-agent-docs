@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0296"
 title: "REQUIRE_NODE_VERSION_FILE"
 description: "Requires that workspaces have a valid Node.js version file ("
-last_updated: "2026-04-03T23:47:18.429Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/REQUIRE_NODE_VERSION_FILE"
---------------------------------------------------------------------------------
+tags: ["nodejs", "require", "node", "version", "file", "rules"]
+related: ["0297-require-one-version-policy.md", "0295-require-docs-on-exported-functions.md", "0240-bfcache-integrity-require-noopener-attribute.md"]
+last_updated: "2026-04-03T23:47:18.429Z"
+---
 
 # REQUIRE_NODE_VERSION_FILE
 

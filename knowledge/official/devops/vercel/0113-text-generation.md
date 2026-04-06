@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0113"
 title: "Text Generation"
 description: "Generate text responses using the OpenResponses API."
-last_updated: "2026-04-03T23:47:15.350Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses/text-generation"
---------------------------------------------------------------------------------
+tags: ["openresponses", "text", "generation", "sdks-and-apis", "text-generation", "response-format"]
+related: ["0110-openresponses-api.md", "0114-tool-calling.md", "0104-image-generation-2.md"]
+last_updated: "2026-04-03T23:47:15.350Z"
+---
 
 # Text Generation
 

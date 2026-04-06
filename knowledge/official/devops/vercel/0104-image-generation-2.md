@@ -4,10 +4,10 @@ title: "Image Generation"
 description: "Generate images using AI models that support multimodal output through the Chat Completions API."
 category: "vercel-ai-gateway"
 subcategory: "ai-gateway"
-type: "api-reference"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/image-generation"
-tags: ["image-generation", "multimodal", "chat-completions", "gemini"]
-related: ["0048-image-generation.md", "0046-image-generation-with-ai-sdk.md", "0102-chat-completions.md"]
+tags: ["chat-completions", "streaming", "openai", "generation", "sdks-and-apis", "openai-chat-completions"]
+related: ["0047-image-generation-with-chat-completions-api.md", "0102-chat-completions.md", "0107-structured-outputs-2.md"]
 last_updated: "2026-04-03T23:47:15.262Z"
 ---
 

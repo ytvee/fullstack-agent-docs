@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0159"
 title: "Checks API Reference"
 description: "The Vercel Checks API let you create tests and assertions that run after each deployment has been built, and are powered by Vercel Integrations."
-last_updated: "2026-04-03T23:47:16.989Z"
+category: "vercel-checks"
+subcategory: "checks"
+type: "api-reference"
 source: "https://vercel.com/docs/checks/checks-api"
---------------------------------------------------------------------------------
+tags: ["checks-api-reference", "checks-api", "api-reference", "cli-command"]
+related: ["0160-anatomy-of-the-checks-api.md", "0161-working-with-checks.md", "0188-vercel-install.md"]
+last_updated: "2026-04-03T23:47:16.989Z"
+---
 
 # Checks API Reference
 

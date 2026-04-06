@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0040"
 title: "CLI Workflows"
 description: "End-to-end workflows that show how to compose Vercel CLI commands into complete debugging, deployment, and recovery sessions."
-last_updated: "2026-04-03T23:47:14.213Z"
+category: "vercel-integrations"
+subcategory: "agent-resources"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/workflows"
---------------------------------------------------------------------------------
+tags: ["cli-workflows", "feature-flags", "cli", "workflows", "debugging-and-recovery", "setup-and-deployment"]
+related: ["0009-blackbox-ai.md", "0014-openai-codex.md", "0019-build-with-ai-agents-on-vercel.md"]
+last_updated: "2026-04-03T23:47:14.213Z"
+---
 
 # CLI Workflows
 

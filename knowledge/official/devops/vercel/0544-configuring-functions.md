@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0544"
 title: "Configuring Functions"
 description: "Learn how to configure the runtime, region, maximum duration, and memory for Vercel Functions."
-last_updated: "2026-04-03T23:47:21.766Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/configuring-functions"
---------------------------------------------------------------------------------
+tags: ["configuring-functions", "runtime", "region", "maximum-duration", "memory", "setup"]
+related: ["0542-configuring-maximum-duration-for-vercel-functions.md", "0545-configuring-regions-for-vercel-functions.md", "0546-configuring-the-runtime-for-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.766Z"
+---
 
 # Configuring Functions
 

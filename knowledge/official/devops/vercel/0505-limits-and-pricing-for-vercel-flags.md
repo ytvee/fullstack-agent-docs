@@ -6,8 +6,8 @@ category: "vercel-flags"
 subcategory: "flags"
 type: "concept"
 source: "https://vercel.com/docs/flags/vercel-flags/limits-and-pricing"
-tags: ["pricing", "limits", "flag-requests", "hobby", "pro"]
-related: ["0506-vercel-flags-2.md", "0502-managing-flags-in-the-dashboard.md", "0507-getting-started-with-vercel-flags.md"]
+tags: ["limits-and-pricing", "pricing", "flag-requests", "limits", "size-limits", "flag-validation"]
+related: ["0506-vercel-flags-2.md", "0500-entities.md", "0504-segments.md"]
 last_updated: "2026-04-03T23:47:21.017Z"
 ---
 

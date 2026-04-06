@@ -1,13 +1,13 @@
 ---
 id: "vercel-0310"
 title: "Vercel Enterprise Managed Infrastructure"
-description: ""
+description: "Vercel prices its [CDN](/docs/cdn) resources by region to help optimize costs and performance for your projects."
 category: "vercel-plans"
-subcategory: "plans"
+subcategory: "managed-infrastructure"
 type: "concept"
 source: "https://vercel.com/docs/contentful/managed-infrastructure"
-tags: ["enterprise", "managed-infrastructure", "miu", "cdn-pricing", "regional-pricing"]
-related: ["0674-vercel-enterprise-plan.md", "0676-account-plans-on-vercel.md", "0633-cdn-pricing-and-usage.md"]
+tags: ["fluid-compute", "enterprise", "managed", "infrastructure", "managed-infrastructure-units", "regional-pricing"]
+related: ["0673-using-mius-for-ai-gateway-and-vercel-agent.md", "0674-vercel-enterprise-plan.md", "0672-billing-faq-for-enterprise-plan.md"]
 last_updated: "2026-04-03T23:47:18.570Z"
 ---
 

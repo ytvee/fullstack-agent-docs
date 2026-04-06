@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0152"
 title: "Data Cache for Next.js"
 description: "Vercel Data Cache is a specialized cache that stores responses from data fetches in Next.js App Router"
-last_updated: "2026-04-03T23:47:16.900Z"
+category: "vercel-caching"
+subcategory: "caching"
+type: "concept"
 source: "https://vercel.com/docs/caching/runtime-cache/data-cache"
---------------------------------------------------------------------------------
+tags: ["observability", "nextjs", "data", "cache", "next-js", "runtime-cache"]
+related: ["0153-runtime-cache.md", "0149-vercel-cdn-cache.md", "0150-purging-vercel-cdn-cache.md"]
+last_updated: "2026-04-03T23:47:16.900Z"
+---
 
 # Data Cache for Next.js
 

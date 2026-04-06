@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0056"
 title: "Service Tiers"
 description: "Control processing priority and cost for OpenAI models using service tiers through AI Gateway, available via all supported APIs."
-last_updated: "2026-04-03T23:47:14.474Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/service-tiers"
---------------------------------------------------------------------------------
+tags: ["streaming", "openai", "service", "tiers", "capabilities", "service-tiers"]
+related: ["0054-openai-reasoning.md", "0047-image-generation-with-chat-completions-api.md", "0064-web-search.md"]
+last_updated: "2026-04-03T23:47:14.474Z"
+---
 
 # Service Tiers
 

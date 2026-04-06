@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0141"
 title: "Vercel Primitives"
 description: "Learn about the Vercel platform primitives and how they work together to create a Vercel Deployment."
-last_updated: "2026-04-03T23:47:16.828Z"
+category: "vercel-builds"
+subcategory: "build-output-api"
+type: "guide"
 source: "https://vercel.com/docs/build-output-api/primitives"
---------------------------------------------------------------------------------
+tags: ["edge-runtime", "primitives", "static-files", "configuration", "functions", "functions-with-edge-runtime"]
+related: ["0138-build-output-configuration.md", "0139-features.md", "0140-build-output-api.md"]
+last_updated: "2026-04-03T23:47:16.828Z"
+---
 
 # Vercel Primitives
 

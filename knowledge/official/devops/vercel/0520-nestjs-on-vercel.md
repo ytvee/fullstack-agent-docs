@@ -4,10 +4,10 @@ title: "NestJS on Vercel"
 description: "Deploy NestJS applications to Vercel with zero configuration."
 category: "vercel-frameworks"
 subcategory: "frameworks"
-type: "guide"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/backend/nestjs"
-tags: ["nestjs", "nodejs", "typescript", "backend", "zero-config"]
-related: ["0522-backends-on-vercel.md", "0514-express-on-vercel.md", "0516-fastify-on-vercel.md"]
+tags: ["nestjs-on-vercel", "nestjs", "nest", "js", "backend", "nestjs-entrypoint-detection"]
+related: ["0516-fastify-on-vercel.md", "0519-koa-on-vercel.md", "0514-express-on-vercel.md"]
 last_updated: "2026-04-03T23:47:21.245Z"
 ---
 

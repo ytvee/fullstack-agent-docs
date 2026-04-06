@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0272"
 title: "NO_DOCUMENT_WRITE"
 description: "Prevent unsafe usage of document.write() in your application."
-last_updated: "2026-04-03T23:47:18.290Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_DOCUMENT_WRITE"
---------------------------------------------------------------------------------
+tags: ["no", "document", "write", "rules", "no-document-write", "how-to-fix"]
+related: ["0271-no-dangerous-html.md", "0269-no-assign-window-location.md", "0273-no-eval.md"]
+last_updated: "2026-04-03T23:47:18.290Z"
+---
 
 # NO_DOCUMENT_WRITE
 

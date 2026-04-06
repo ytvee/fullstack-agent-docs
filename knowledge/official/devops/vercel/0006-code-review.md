@@ -2,12 +2,12 @@
 id: "vercel-0006"
 title: "Code Review"
 description: "Get automatic AI-powered code reviews on your pull requests"
-category: "vercel-integrations"
-subcategory: "integrations"
-type: "guide"
+category: "vercel-agent"
+subcategory: "agent"
+type: "concept"
 source: "https://vercel.com/docs/agent/pr-review"
-tags: ["ai-code-review", "pull-requests", "security-scanning", "sandboxed-validation"]
-related: ["0005-vercel-agent.md", "0007-managing-code-reviews.md", "0008-vercel-agent-pricing.md"]
+tags: ["code-review", "review", "pr-review", "how-to-set-up-code-review", "how-it-works", "using-vercel-agent-in-github"]
+related: ["0007-managing-code-reviews.md", "0005-vercel-agent.md", "0004-investigation.md"]
 last_updated: "2026-04-03T23:47:13.638Z"
 ---
 

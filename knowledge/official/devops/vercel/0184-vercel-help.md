@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0184"
 title: "vercel help"
 description: "Learn how to use the vercel help CLI command to get information about all available Vercel CLI commands."
-last_updated: "2026-04-03T23:47:17.360Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/help"
---------------------------------------------------------------------------------
+tags: ["help", "usage", "extended-usage", "api-reference", "cli-command"]
+related: ["0210-vercel-switch.md", "0212-vercel-teams.md", "0179-vercel-env.md"]
+last_updated: "2026-04-03T23:47:17.360Z"
+---
 
 # vercel help
 

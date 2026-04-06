@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0536"
 title: "Vite + Nitro on Vercel"
 description: "Add a backend to any Vite app with Nitro and deploy to Vercel with zero configuration."
-last_updated: "2026-04-03T23:47:21.716Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/full-stack/vite-with-nitro"
---------------------------------------------------------------------------------
+tags: ["vite-nitro-on-vercel", "observability", "environment-variables", "isr", "vite", "nitro"]
+related: ["0521-nitro-on-vercel.md", "0534-sveltekit-on-vercel.md", "0530-next-js-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.716Z"
+---
 
 # Vite + Nitro on Vercel
 

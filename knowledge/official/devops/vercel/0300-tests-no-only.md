@@ -6,8 +6,8 @@ category: "vercel-conformance"
 subcategory: "conformance"
 type: "concept"
 source: "https://vercel.com/docs/conformance/rules/TESTS_NO_ONLY"
-tags: ["conformance-rules", "testing", "focused-tests", "code-quality", "linting"]
-related: ["0299-tests-no-conditional-assertions.md", "0305-conformance-rules.md", "0238-introduction-to-conformance.md"]
+tags: ["tests", "no", "only", "rules", "tests-no-only", "example"]
+related: ["0299-tests-no-conditional-assertions.md", "0302-typescript-only.md", "0249-nextjs-missing-security-headers.md"]
 last_updated: "2026-04-03T23:47:18.445Z"
 ---
 

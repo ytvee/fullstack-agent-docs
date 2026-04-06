@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0475"
 title: "ROUTER_TOO_MANY_HAS_SELECTIONS"
 description: "The router has too many selections. This is a routing error."
-last_updated: "2026-04-03T23:47:20.644Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/ROUTER_TOO_MANY_HAS_SELECTIONS"
---------------------------------------------------------------------------------
+tags: ["router", "too", "many", "has", "selections", "troubleshoot"]
+related: ["0479-too-many-filesystem-checks.md", "0463-optimized-external-image-too-many-redirects.md", "0481-too-many-ranges.md"]
+last_updated: "2026-04-03T23:47:20.644Z"
+---
 
 # ROUTER_TOO_MANY_HAS_SELECTIONS
 

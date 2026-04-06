@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0193"
 title: "vercel login"
 description: "Learn how to login into your Vercel account using the vercel login CLI command."
-last_updated: "2026-04-03T23:47:17.453Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/login"
---------------------------------------------------------------------------------
+tags: ["login", "usage", "global-options", "related-guides", "api-reference", "cli-command"]
+related: ["0188-vercel-install.md", "0194-vercel-logout.md", "0200-vercel-project.md"]
+last_updated: "2026-04-03T23:47:17.453Z"
+---
 
 # vercel login
 

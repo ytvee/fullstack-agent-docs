@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0125"
 title: "Privacy and Compliance"
 description: "Learn how Vercel supports privacy and data compliance standards with Vercel Web Analytics."
-last_updated: "2026-04-03T23:47:15.627Z"
+category: "vercel-analytics"
+subcategory: "analytics"
+type: "guide"
 source: "https://vercel.com/docs/analytics/privacy-policy"
---------------------------------------------------------------------------------
+tags: ["privacy-and-compliance", "web-analytics", "privacy", "compliance", "privacy-policy", "data-collected"]
+related: ["0128-vercel-web-analytics-troubleshooting.md", "0126-getting-started-with-vercel-web-analytics.md", "0127-redacting-sensitive-data-from-web-analytics-events.md"]
+last_updated: "2026-04-03T23:47:15.627Z"
+---
 
 # Privacy and Compliance
 

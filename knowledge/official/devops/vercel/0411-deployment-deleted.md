@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0411"
 title: "DEPLOYMENT_DELETED"
 description: "The deployment has been removed"
-last_updated: "2026-04-03T23:47:20.332Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/DEPLOYMENT_DELETED"
---------------------------------------------------------------------------------
+tags: ["deleted", "deployment-deleted", "troubleshoot", "setup", "how-to", "troubleshooting"]
+related: ["0410-deployment-blocked.md", "0412-deployment-disabled.md", "0415-deployment-paused.md"]
+last_updated: "2026-04-03T23:47:20.332Z"
+---
 
 # DEPLOYMENT_DELETED
 

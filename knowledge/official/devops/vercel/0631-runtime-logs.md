@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0631"
 title: "Runtime Logs"
 description: "Learn how to search, inspect, and share your runtime logs with the Logs tab."
-last_updated: "2026-04-03T23:47:23.961Z"
+category: "vercel-observability"
+subcategory: "logs"
+type: "guide"
 source: "https://vercel.com/docs/logs/runtime"
---------------------------------------------------------------------------------
+tags: ["runtime-logs", "runtime", "what-are-runtime-logs", "available-log-types", "view-runtime-logs", "log-filters"]
+related: ["0630-logs.md", "0380-log-drains-reference.md", "0130-audit-logs.md"]
+last_updated: "2026-04-03T23:47:23.961Z"
+---
 
 # Runtime Logs
 

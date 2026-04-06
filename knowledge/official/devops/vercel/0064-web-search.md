@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0064"
 title: "Web Search"
 description: "Enable AI models to search the web for current information using built-in tools through AI Gateway."
-last_updated: "2026-04-03T23:47:14.641Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/web-search"
---------------------------------------------------------------------------------
+tags: ["openai", "anthropic", "web", "search", "capabilities", "web-search"]
+related: ["0056-service-tiers.md", "0046-image-generation-with-ai-sdk.md", "0047-image-generation-with-chat-completions-api.md"]
+last_updated: "2026-04-03T23:47:14.641Z"
+---
 
 # Web Search
 

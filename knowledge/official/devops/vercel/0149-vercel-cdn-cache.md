@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0149"
 title: "Vercel CDN Cache"
 description: "Learn how Vercel"
-last_updated: "2026-04-03T23:47:16.778Z"
+category: "vercel-caching"
+subcategory: "caching"
+type: "guide"
 source: "https://vercel.com/docs/caching/cdn-cache"
---------------------------------------------------------------------------------
+tags: ["cdn", "cache", "cdn-cache", "when-to-use-cdn-cache", "how-to-cache-responses", "using-vercel-functions"]
+related: ["0150-purging-vercel-cdn-cache.md", "0151-caching.md", "0153-runtime-cache.md"]
+last_updated: "2026-04-03T23:47:16.778Z"
+---
 
 # Vercel CDN Cache
 

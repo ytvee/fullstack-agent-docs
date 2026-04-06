@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "api-reference"
 source: "https://vercel.com/docs/cli/pull"
-tags: ["cli-command", "environment-variables", "local-development", "project-settings"]
-related: ["0179-vercel-env.md", "0403-environment-variables.md", "0176-vercel-dev.md"]
+tags: ["environment-variables", "pull", "usage", "unique-options", "yes", "environment"]
+related: ["0168-vercel-build.md", "0176-vercel-dev.md", "0191-vercel-link.md"]
 last_updated: "2026-04-03T23:47:17.573Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0377"
 title: "Draft Mode"
 description: "Vercel"
-last_updated: "2026-04-03T23:47:19.619Z"
+category: "vercel-deployments"
+subcategory: "draft-mode"
+type: "concept"
 source: "https://vercel.com/docs/draft-mode"
---------------------------------------------------------------------------------
+tags: ["draft", "mode", "how-draft-mode-works", "getting-started", "sharing-drafts"]
+related: ["0399-edit-mode.md", "0328-bypass-deployment-protection-for-testing-sharing-and-automation.md", "0329-protection-bypass-for-automation.md"]
+last_updated: "2026-04-03T23:47:19.619Z"
+---
 
 # Draft Mode
 

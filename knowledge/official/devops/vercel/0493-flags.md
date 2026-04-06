@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0493"
 title: "Flags"
 description: "Control feature visibility, run experiments, and ship with confidence using Vercel"
-last_updated: "2026-04-03T23:47:20.879Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags"
---------------------------------------------------------------------------------
+tags: ["observability", "feature-flags", "why-use-feature-flags", "choose-your-provider", "unified-dashboard", "developer-tools"]
+related: ["0506-vercel-flags-2.md", "0491-observability-2.md", "0490-marketplace.md"]
+last_updated: "2026-04-03T23:47:20.879Z"
+---
 
 # Flags
 

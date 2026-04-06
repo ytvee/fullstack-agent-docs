@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0166"
 title: "vercel bisect"
 description: "Learn how to perform a binary search on your deployments to help surface issues using the vercel bisect CLI command."
-last_updated: "2026-04-03T23:47:17.155Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/bisect"
---------------------------------------------------------------------------------
+tags: ["bisect", "usage", "unique-options", "good", "bad", "path"]
+related: ["0164-vercel-alias.md", "0187-vercel-inspect.md", "0207-vercel-rollback.md"]
+last_updated: "2026-04-03T23:47:17.155Z"
+---
 
 # vercel bisect
 

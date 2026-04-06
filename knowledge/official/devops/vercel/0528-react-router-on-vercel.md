@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0528"
 title: "React Router on Vercel"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:21.412Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/frontend/react-router"
---------------------------------------------------------------------------------
+tags: ["react-router-on-vercel", "react-router", "react", "router", "frontend", "integration"]
+related: ["0525-create-react-app-on-vercel.md", "0527-frontends-on-vercel.md", "0524-astro-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.412Z"
+---
 
 # React Router on Vercel
 

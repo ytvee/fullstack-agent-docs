@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0069"
 title: "OpenClaw (Clawdbot)"
 description: "Use OpenClaw (formerly Clawdbot) with AI Gateway."
-last_updated: "2026-04-03T23:47:14.746Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/chat-platforms/openclaw"
---------------------------------------------------------------------------------
+tags: ["openclaw-clawdbot", "open", "claw", "clawdbot", "chat-platforms", "openclaw"]
+related: ["0070-chat-platforms.md", "0068-open-webui.md", "0066-chatbox.md"]
+last_updated: "2026-04-03T23:47:14.746Z"
+---
 
 # OpenClaw (Clawdbot)
 

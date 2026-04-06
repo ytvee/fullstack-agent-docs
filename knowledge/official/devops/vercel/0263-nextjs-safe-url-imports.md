@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0263"
 title: "NEXTJS_SAFE_URL_IMPORTS"
 description: "Prevent unsafe URL Imports from being added to Next.js applications."
-last_updated: "2026-04-03T23:47:18.224Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_SAFE_URL_IMPORTS"
---------------------------------------------------------------------------------
+tags: ["nextjs", "safe", "url", "imports", "rules", "nextjs-safe-url-imports"]
+related: ["0262-nextjs-safe-svg-images.md", "0255-nextjs-no-fetch-in-server-props.md", "0258-nextjs-no-self-hosted-videos.md"]
+last_updated: "2026-04-03T23:47:18.224Z"
+---
 
 # NEXTJS_SAFE_URL_IMPORTS
 

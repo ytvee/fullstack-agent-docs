@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0534"
 title: "SvelteKit on Vercel"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:21.675Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/full-stack/sveltekit"
---------------------------------------------------------------------------------
+tags: ["sveltekit-on-vercel", "streaming", "web-analytics", "environment-variables", "image-optimization", "isr"]
+related: ["0530-next-js-on-vercel.md", "0536-vite-nitro-on-vercel.md", "0524-astro-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.675Z"
+---
 
 # SvelteKit on Vercel
 

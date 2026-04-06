@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0488"
 title: "Reference"
 description: "In-depth reference for configuring the Flags Explorer"
-last_updated: "2026-04-03T23:47:20.858Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "api-reference"
 source: "https://vercel.com/docs/flags/flags-explorer/reference"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "flags-explorer", "definitions", "values", "discovery-endpoint", "valid-json-response"]
+related: ["0487-flags-explorer.md", "0485-getting-started-with-flags-explorer.md", "0497-setting-up-flags-explorer.md"]
+last_updated: "2026-04-03T23:47:20.858Z"
+---
 
 # Reference
 

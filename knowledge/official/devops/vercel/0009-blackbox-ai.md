@@ -3,11 +3,11 @@ id: "vercel-0009"
 title: "Blackbox AI"
 description: "Use the Blackbox AI CLI with the AI Gateway."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/coding-agents/blackbox"
-tags: ["coding-agent", "cli-tool", "ai-gateway", "code-generation"]
-related: ["0016-coding-agents.md", "0011-cline.md", "0092-ai-gateway.md"]
+tags: ["blackbox-ai", "ai-gateway", "blackbox", "ai", "coding-agents", "configuring-blackbox-ai"]
+related: ["0014-openai-codex.md", "0016-coding-agents.md", "0010-claude-code-and-claude-agent-sdk.md"]
 last_updated: "2026-04-03T23:47:13.689Z"
 ---
 

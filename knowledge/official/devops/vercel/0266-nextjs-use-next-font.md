@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0266"
 title: "NEXTJS_USE_NEXT_FONT"
 description: "Requires using next/font to load local fonts and fonts from supported CDNs."
-last_updated: "2026-04-03T23:47:18.262Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_USE_NEXT_FONT"
---------------------------------------------------------------------------------
+tags: ["nextjs", "next", "font", "rules", "nextjs-use-next-font", "examples"]
+related: ["0267-nextjs-use-next-image.md", "0268-nextjs-use-next-script.md", "0265-nextjs-use-native-fetch.md"]
+last_updated: "2026-04-03T23:47:18.262Z"
+---
 
 # NEXTJS_USE_NEXT_FONT
 

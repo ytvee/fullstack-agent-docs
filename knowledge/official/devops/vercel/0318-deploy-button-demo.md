@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0318"
 title: "Deploy Button Demo"
 description: "Learn how to use the Deploy Button Demo parameters to showcase an example of a successful deployment to the user when clicking the Deploy Button and entering the Project creation flow."
-last_updated: "2026-04-03T23:47:18.670Z"
+category: "vercel-deployments"
+subcategory: "deploy-button"
+type: "example"
 source: "https://vercel.com/docs/deploy-button/demo"
---------------------------------------------------------------------------------
+tags: ["deploy-button-demo", "deploy", "button", "demo", "demo-title", "demo-description"]
+related: ["0322-deploy-button-source.md", "0317-using-callbacks-with-the-deploy-button.md", "0319-using-environment-variables-with-the-deploy-button.md"]
+last_updated: "2026-04-03T23:47:18.670Z"
+---
 
 # Deploy Button Demo
 

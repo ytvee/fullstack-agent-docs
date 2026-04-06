@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0391"
 title: "Using Edge Config with Statsig"
 description: "Learn how to use Edge Config with Vercel"
-last_updated: "2026-04-03T23:47:19.856Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/edge-config-integrations/statsig-edge-config"
---------------------------------------------------------------------------------
+tags: ["edge", "config", "statsig", "edge-config-integrations", "statsig-edge-config", "prerequisites"]
+related: ["0387-using-edge-config-with-hypertune.md", "0390-using-edge-config-with-split.md", "0386-using-edge-config-with-devcycle.md"]
+last_updated: "2026-04-03T23:47:19.856Z"
+---
 
 # Using Edge Config with Statsig
 

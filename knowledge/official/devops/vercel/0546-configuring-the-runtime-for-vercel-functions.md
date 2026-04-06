@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0546"
 title: "Configuring the Runtime for Vercel Functions"
 description: "Learn how to configure the runtime for Vercel Functions."
-last_updated: "2026-04-03T23:47:21.879Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/configuring-functions/runtime"
---------------------------------------------------------------------------------
+tags: ["python", "nodejs", "ruby", "runtime", "configuring-functions", "node-js"]
+related: ["0561-using-the-node-js-runtime-with-vercel-functions.md", "0545-configuring-regions-for-vercel-functions.md", "0544-configuring-functions.md"]
+last_updated: "2026-04-03T23:47:21.879Z"
+---
 
 # Configuring the Runtime for Vercel Functions
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0496"
 title: "Running an A/B test"
 description: "Set up an A/B test with a feature flag, track results through Web Analytics, and clean up afterward using the Vercel CLI."
-last_updated: "2026-04-03T23:47:20.902Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/cli/run-ab-test"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "feature-flags", "running", "b", "test", "cli"]
+related: ["0495-rolling-out-a-new-feature.md", "0494-cleaning-up-after-a-full-rollout.md", "0497-setting-up-flags-explorer.md"]
+last_updated: "2026-04-03T23:47:20.902Z"
+---
 
 # Running an A/B test
 

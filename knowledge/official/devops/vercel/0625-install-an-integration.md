@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0625"
 title: "Install an Integration"
 description: "Learn how to pair Vercel"
-last_updated: "2026-04-03T23:47:23.855Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/install-an-integration"
---------------------------------------------------------------------------------
+tags: ["install-an-integration", "installing-an-integration", "find-integrations", "marketplace", "templates", "third-party-site"]
+related: ["0622-add-a-connectable-account.md", "0623-interact-with-integrations-using-agent-tools.md", "0624-permissions-and-access.md"]
+last_updated: "2026-04-03T23:47:23.855Z"
+---
 
 # Install an Integration
 

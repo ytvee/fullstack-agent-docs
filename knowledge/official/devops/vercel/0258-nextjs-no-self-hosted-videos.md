@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0258"
 title: "NEXTJS_NO_SELF_HOSTED_VIDEOS"
 description: "Prevent video files from being added to Next.js applications."
-last_updated: "2026-04-03T23:47:18.201Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_NO_SELF_HOSTED_VIDEOS"
---------------------------------------------------------------------------------
+tags: ["nextjs", "no", "self", "hosted", "videos", "rules"]
+related: ["0255-nextjs-no-fetch-in-server-props.md", "0263-nextjs-safe-url-imports.md", "0259-nextjs-no-turbo-cache.md"]
+last_updated: "2026-04-03T23:47:18.201Z"
+---
 
 # NEXTJS_NO_SELF_HOSTED_VIDEOS
 

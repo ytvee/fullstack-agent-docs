@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0531"
 title: "Nuxt on Vercel"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:21.583Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/full-stack/nuxt"
---------------------------------------------------------------------------------
+tags: ["nuxt-on-vercel", "nuxt", "full-stack", "getting-started", "choosing-a-build-command", "editing-your-nuxt-config"]
+related: ["0532-full-stack-frameworks-on-vercel.md", "0535-tanstack-start-on-vercel.md", "0536-vite-nitro-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.583Z"
+---
 
 # Nuxt on Vercel
 

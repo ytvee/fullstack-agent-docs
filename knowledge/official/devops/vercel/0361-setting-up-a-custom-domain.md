@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0361"
 title: "Setting up a custom domain"
 description: "Add and configure a custom domain for your Vercel project using the CLI."
-last_updated: "2026-04-03T23:47:19.317Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/set-up-custom-domain"
---------------------------------------------------------------------------------
+tags: ["custom-domains", "dns", "ssl", "setting", "up", "custom"]
+related: ["0365-adding-configuring-a-custom-domain.md", "0366-assigning-a-custom-domain-to-an-environment.md", "0355-domain-connect.md"]
+last_updated: "2026-04-03T23:47:19.317Z"
+---
 
 # Setting up a custom domain
 

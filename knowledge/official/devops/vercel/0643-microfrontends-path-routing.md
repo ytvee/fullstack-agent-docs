@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0643"
 title: "Microfrontends path routing"
 description: "Route paths on your domain to different microfrontends."
-last_updated: "2026-04-03T23:47:24.208Z"
+category: "vercel-microfrontends"
+subcategory: "microfrontends"
+type: "concept"
 source: "https://vercel.com/docs/microfrontends/path-routing"
---------------------------------------------------------------------------------
+tags: ["microfrontends-path-routing", "custom-domains", "nextjs", "path", "routing", "path-routing"]
+related: ["0645-testing-troubleshooting-microfrontends.md", "0638-microfrontends-local-development.md", "0639-managing-microfrontends.md"]
+last_updated: "2026-04-03T23:47:24.208Z"
+---
 
 # Microfrontends path routing
 

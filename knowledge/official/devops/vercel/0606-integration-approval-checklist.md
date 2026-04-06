@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0606"
 title: "Integration Approval Checklist"
 description: "Review this checklist before submitting your native or connectable account integration for approval on the Vercel Marketplace."
-last_updated: "2026-04-03T23:47:23.412Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/approval-checklist"
---------------------------------------------------------------------------------
+tags: ["approval", "checklist", "create-integration", "approval-checklist", "native-integrations", "authentication-and-setup"]
+related: ["0614-create-an-integration.md", "0611-native-integration-flows.md", "0607-manage-billing-and-refunds-for-integrations.md"]
+last_updated: "2026-04-03T23:47:23.412Z"
+---
 
 # Integration Approval Checklist
 

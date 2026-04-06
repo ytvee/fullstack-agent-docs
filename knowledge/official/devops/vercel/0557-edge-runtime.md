@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0557"
 title: "Edge Runtime"
 description: "Learn about the Edge runtime, an environment in which Vercel Functions can run."
-last_updated: "2026-04-03T23:47:22.097Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "concept"
 source: "https://vercel.com/docs/functions/runtimes/edge"
---------------------------------------------------------------------------------
+tags: ["edge-runtime", "edge", "runtime", "runtimes", "region", "failover-mode"]
+related: ["0556-edge-functions.md", "0562-runtimes.md", "0561-using-the-node-js-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:22.097Z"
+---
 
 # Edge Runtime
 

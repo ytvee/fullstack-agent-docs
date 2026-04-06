@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0481"
 title: "TOO_MANY_RANGES"
 description: "Too many ranges have been specified in the Range header of the request. This is a request error."
-last_updated: "2026-04-03T23:47:20.668Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/TOO_MANY_RANGES"
---------------------------------------------------------------------------------
+tags: ["too", "many", "ranges", "too-many-ranges", "troubleshoot", "setup"]
+related: ["0463-optimized-external-image-too-many-redirects.md", "0479-too-many-filesystem-checks.md", "0480-too-many-forks.md"]
+last_updated: "2026-04-03T23:47:20.668Z"
+---
 
 # TOO_MANY_RANGES
 

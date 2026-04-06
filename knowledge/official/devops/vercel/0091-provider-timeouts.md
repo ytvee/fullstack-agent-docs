@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0091"
 title: "Provider Timeouts"
 description: "Configure per-provider timeouts for fast failover when a provider is slow to respond."
-last_updated: "2026-04-03T23:47:15.059Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/models-and-providers/provider-timeouts"
---------------------------------------------------------------------------------
+tags: ["provider", "timeouts", "models-and-providers", "provider-timeouts", "set-provider-timeouts", "timeout-limits"]
+related: ["0090-provider-options.md", "0086-model-fallbacks.md", "0089-provider-filtering-ordering.md"]
+last_updated: "2026-04-03T23:47:15.059Z"
+---
 
 # Provider Timeouts
 

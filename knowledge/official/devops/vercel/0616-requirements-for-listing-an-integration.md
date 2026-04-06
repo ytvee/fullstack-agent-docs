@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0616"
 title: "Requirements for listing an Integration"
 description: "Learn about all the requirements and guidelines needed when creating your Integration."
-last_updated: "2026-04-03T23:47:23.715Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/submit-integration"
---------------------------------------------------------------------------------
+tags: ["requirements", "listing", "create-integration", "submit-integration", "profile", "integration-name"]
+related: ["0612-create-a-native-integration.md", "0617-upgrade-an-integration.md", "0614-create-an-integration.md"]
+last_updated: "2026-04-03T23:47:23.715Z"
+---
 
 # Requirements for listing an Integration
 

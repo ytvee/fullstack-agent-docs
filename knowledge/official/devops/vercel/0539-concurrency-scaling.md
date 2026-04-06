@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0539"
 title: "Concurrency scaling"
 description: "Learn how Vercel automatically scales your functions to handle traffic surges."
-last_updated: "2026-04-03T23:47:21.728Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/concurrency-scaling"
---------------------------------------------------------------------------------
+tags: ["concurrency", "scaling", "concurrency-scaling", "burst-concurrency-limits", "setup"]
+related: ["0541-configuring-in-function-concurrency.md", "0554-getting-started-with-vercel-functions.md", "0540-advanced-configuration-2.md"]
+last_updated: "2026-04-03T23:47:21.728Z"
+---
 
 # Concurrency scaling
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0537"
 title: "Supported Frameworks on Vercel"
 description: "Learn about the frameworks that can be deployed to Vercel."
-last_updated: "2026-04-03T23:47:21.686Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "concept"
 source: "https://vercel.com/docs/frameworks/more-frameworks"
---------------------------------------------------------------------------------
+tags: ["supported", "more-frameworks", "all-frameworks", "more-resources"]
+related: ["0538-frameworks-on-vercel.md", "0527-frontends-on-vercel.md", "0532-full-stack-frameworks-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.686Z"
+---
 
 # Supported Frameworks on Vercel
 

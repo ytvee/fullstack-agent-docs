@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0379"
 title: "Web Analytics Drains Reference"
 description: "Learn about Web Analytics Drains - data formats and custom events configuration."
-last_updated: "2026-04-03T23:47:19.572Z"
+category: "vercel-observability"
+subcategory: "drains"
+type: "api-reference"
 source: "https://vercel.com/docs/drains/reference/analytics"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "web", "analytics", "web-analytics-schema", "format", "json"]
+related: ["0380-log-drains-reference.md", "0381-speed-insights-drains-reference.md", "0382-trace-drains-reference.md"]
+last_updated: "2026-04-03T23:47:19.572Z"
+---
 
 # Web Analytics Drains Reference
 

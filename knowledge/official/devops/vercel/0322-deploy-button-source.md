@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0322"
 title: "Deploy Button Source"
 description: "Learn how to use the Vercel Deploy Button source URL parameters."
-last_updated: "2026-04-03T23:47:18.724Z"
+category: "vercel-deployments"
+subcategory: "deploy-button"
+type: "guide"
 source: "https://vercel.com/docs/deploy-button/source"
---------------------------------------------------------------------------------
+tags: ["deploy-button-source", "deploy", "button", "source", "repository-url", "project-name"]
+related: ["0318-deploy-button-demo.md", "0317-using-callbacks-with-the-deploy-button.md", "0319-using-environment-variables-with-the-deploy-button.md"]
+last_updated: "2026-04-03T23:47:18.724Z"
+---
 
 # Deploy Button Source
 

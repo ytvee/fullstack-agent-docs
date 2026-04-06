@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0438"
 title: "INTERNAL_FUNCTION_INVOCATION_TIMEOUT"
 description: "The internal invocation of a function timed out. This is Vercel"
-last_updated: "2026-04-03T23:47:20.454Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_FUNCTION_INVOCATION_TIMEOUT"
---------------------------------------------------------------------------------
+tags: ["internal", "function", "invocation", "timeout", "troubleshoot", "setup"]
+related: ["0422-edge-function-invocation-timeout.md", "0436-internal-edge-function-invocation-timeout.md", "0437-internal-function-invocation-failed.md"]
+last_updated: "2026-04-03T23:47:20.454Z"
+---
 
 # INTERNAL_FUNCTION_INVOCATION_TIMEOUT
 

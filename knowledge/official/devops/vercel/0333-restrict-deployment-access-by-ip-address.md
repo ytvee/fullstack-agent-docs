@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0333"
 title: "Restrict deployment access by IP address"
 description: "Trusted IPs let you restrict access to your deployments to a list of allowed IP addresses."
-last_updated: "2026-04-03T23:47:18.894Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "concept"
 source: "https://vercel.com/docs/deployment-protection/methods-to-protect-deployments/trusted-ips"
---------------------------------------------------------------------------------
+tags: ["restrict", "access", "ip", "address", "trusted-ips", "general-considerations"]
+related: ["0334-restrict-access-to-deployments-with-vercel-authentication.md", "0331-methods-to-protect-deployments.md", "0332-password-protection.md"]
+last_updated: "2026-04-03T23:47:18.894Z"
+---
 
 # Restrict deployment access by IP address
 

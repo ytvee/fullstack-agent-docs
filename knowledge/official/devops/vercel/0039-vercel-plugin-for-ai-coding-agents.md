@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0039"
 title: "Vercel Plugin for AI Coding Agents"
 description: "Install the Vercel plugin to give AI coding agents expert-level knowledge of the Vercel ecosystem, including skills, specialist agents, and automatic context injection."
-last_updated: "2026-04-03T23:47:14.205Z"
+category: "vercel-integrations"
+subcategory: "agent-resources"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/vercel-plugin"
---------------------------------------------------------------------------------
+tags: ["plugin", "ai", "coding", "agents", "installation", "what-the-plugin-provides"]
+related: ["0016-coding-agents.md", "0019-build-with-ai-agents-on-vercel.md", "0009-blackbox-ai.md"]
+last_updated: "2026-04-03T23:47:14.205Z"
+---
 
 # Vercel Plugin for AI Coding Agents
 

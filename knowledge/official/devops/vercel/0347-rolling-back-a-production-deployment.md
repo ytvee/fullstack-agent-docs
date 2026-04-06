@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0347"
 title: "Rolling back a production deployment"
 description: "Recover from a bad production deployment by rolling back, investigating the root cause, and redeploying a fix."
-last_updated: "2026-04-03T23:47:19.098Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments/rollback-production-deployment"
---------------------------------------------------------------------------------
+tags: ["rolling", "back", "production", "quick-reference", "1-confirm-the-problem", "2-roll-back-immediately"]
+related: ["0345-promoting-a-preview-deployment-to-production.md", "0349-troubleshooting-build-errors.md", "0346-promoting-deployments.md"]
+last_updated: "2026-04-03T23:47:19.098Z"
+---
 
 # Rolling back a production deployment
 

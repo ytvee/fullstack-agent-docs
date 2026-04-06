@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0221"
 title: "Code Owners"
 description: "Use Code Owners to define users or teams that are responsible for directories and files in your codebase"
-last_updated: "2026-04-03T23:47:17.803Z"
+category: "vercel-code-owners"
+subcategory: "code-owners"
+type: "concept"
 source: "https://vercel.com/docs/code-owners"
---------------------------------------------------------------------------------
+tags: ["owners", "get-started", "code-approvers"]
+related: ["0219-code-approvers.md", "0220-getting-started-with-code-owners.md", "0217-code-owners-changelog.md"]
+last_updated: "2026-04-03T23:47:17.803Z"
+---
 
 # Code Owners
 

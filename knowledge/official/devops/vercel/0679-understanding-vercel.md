@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0679"
 title: "Understanding Vercel"
 description: "Learn all about Vercel"
-last_updated: "2026-04-03T23:47:24.848Z"
+category: "vercel-plans"
+subcategory: "plans"
+type: "concept"
 source: "https://vercel.com/docs/plans/pro-plan/trials"
---------------------------------------------------------------------------------
+tags: ["understanding-vercel", "pro-plan", "trials", "starting-a-trial", "trial-limitations"]
+related: ["0678-vercel-pro-plan.md", "0677-billing-faq-for-pro-plan.md", "0675-vercel-hobby-plan.md"]
+last_updated: "2026-04-03T23:47:24.848Z"
+---
 
 # Understanding Vercel
 

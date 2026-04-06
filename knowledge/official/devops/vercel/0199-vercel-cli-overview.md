@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0199"
 title: "Vercel CLI Overview"
 description: "Learn how to use the Vercel command-line interface (CLI) to manage and configure your Vercel Projects from the command line."
-last_updated: "2026-04-03T23:47:17.542Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli"
---------------------------------------------------------------------------------
+tags: ["installing-vercel-cli", "updating-vercel-cli", "checking-the-version", "using-in-a-ci-cd-environment", "available-commands", "activity"]
+related: ["0179-vercel-env.md", "0164-vercel-alias.md", "0168-vercel-build.md"]
+last_updated: "2026-04-03T23:47:17.542Z"
+---
 
 # Vercel CLI Overview
 

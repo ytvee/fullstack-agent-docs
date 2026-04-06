@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0147"
 title: "Builds"
 description: "Understand how the build step works when creating a Vercel Deployment."
-last_updated: "2026-04-03T23:47:16.675Z"
+category: "vercel-builds"
+subcategory: "builds"
+type: "guide"
 source: "https://vercel.com/docs/builds"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "monorepos", "build-infrastructure", "how-builds-are-triggered", "build-customization", "skipping-the-build-step"]
+related: ["0144-build-queues.md", "0142-build-features-for-customizing-deployments.md", "0145-configuring-a-build.md"]
+last_updated: "2026-04-03T23:47:16.675Z"
+---
 
 # Builds
 

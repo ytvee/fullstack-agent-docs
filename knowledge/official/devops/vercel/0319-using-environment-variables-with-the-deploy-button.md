@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0319"
 title: "Using Environment Variables with the Deploy Button"
 description: "Learn how to use Environment Variables with the Vercel Deploy Button."
-last_updated: "2026-04-03T23:47:18.678Z"
+category: "vercel-deployments"
+subcategory: "deploy-button"
+type: "guide"
 source: "https://vercel.com/docs/deploy-button/environment-variables"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "environment", "variables", "deploy", "button", "setup"]
+related: ["0320-using-integrations-with-the-deploy-button.md", "0321-working-with-the-deploy-button.md", "0318-deploy-button-demo.md"]
+last_updated: "2026-04-03T23:47:18.678Z"
+---
 
 # Using Environment Variables with the Deploy Button
 

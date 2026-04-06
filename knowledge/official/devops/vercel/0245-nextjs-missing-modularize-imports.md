@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0245"
 title: "NEXTJS_MISSING_MODULARIZE_IMPORTS"
 description: "modularizeImports can improve dev compilation speed for packages that use barrel files."
-last_updated: "2026-04-03T23:47:18.110Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_MISSING_MODULARIZE_IMPORTS"
---------------------------------------------------------------------------------
+tags: ["nextjs", "missing", "modularize", "imports", "rules", "how-to-fix"]
+related: ["0247-nextjs-missing-optimize-package-imports.md", "0249-nextjs-missing-security-headers.md", "0303-workspace-missing-conformance-script.md"]
+last_updated: "2026-04-03T23:47:18.110Z"
+---
 
 # NEXTJS_MISSING_MODULARIZE_IMPORTS
 

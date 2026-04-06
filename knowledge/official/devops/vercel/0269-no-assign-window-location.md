@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0269"
 title: "NO_ASSIGN_WINDOW_LOCATION"
 description: "Prevent unsafe assignment to window.location.href in your application."
-last_updated: "2026-04-03T23:47:18.277Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_ASSIGN_WINDOW_LOCATION"
---------------------------------------------------------------------------------
+tags: ["no", "assign", "window", "location", "rules", "no-assign-window-location"]
+related: ["0271-no-dangerous-html.md", "0272-no-document-write.md", "0273-no-eval.md"]
+last_updated: "2026-04-03T23:47:18.277Z"
+---
 
 # NO_ASSIGN_WINDOW_LOCATION
 

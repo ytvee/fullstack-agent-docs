@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0148"
 title: "Cache-Control headers"
 description: "Learn about the cache-control headers sent to each Vercel deployment and how to use them to control the caching behavior of your application."
-last_updated: "2026-04-03T23:47:16.705Z"
+category: "vercel-caching"
+subcategory: "caching"
+type: "guide"
 source: "https://vercel.com/docs/caching/cache-control-headers"
---------------------------------------------------------------------------------
+tags: ["cache", "control", "headers", "cache-control-headers", "default-cache-control-value", "recommended-settings"]
+related: ["0149-vercel-cdn-cache.md", "0152-data-cache-for-next-js.md", "0150-purging-vercel-cdn-cache.md"]
+last_updated: "2026-04-03T23:47:16.705Z"
+---
 
 # Cache-Control headers
 

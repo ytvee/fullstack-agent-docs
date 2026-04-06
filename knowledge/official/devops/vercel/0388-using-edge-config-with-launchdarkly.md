@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0388"
 title: "Using Edge Config with LaunchDarkly"
 description: "Learn how to use Edge Config with Vercel"
-last_updated: "2026-04-03T23:47:19.805Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/edge-config-integrations/launchdarkly-edge-config"
---------------------------------------------------------------------------------
+tags: ["edge", "config", "launch", "darkly", "edge-config-integrations", "launchdarkly-edge-config"]
+related: ["0386-using-edge-config-with-devcycle.md", "0387-using-edge-config-with-hypertune.md", "0390-using-edge-config-with-split.md"]
+last_updated: "2026-04-03T23:47:19.805Z"
+---
 
 # Using Edge Config with LaunchDarkly
 

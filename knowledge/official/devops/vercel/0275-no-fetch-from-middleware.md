@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0275"
 title: "NO_FETCH_FROM_MIDDLEWARE"
 description: "Requires that any fetch call that is depended on transitively by Next.js middleware be reviewed and approved before use."
-last_updated: "2026-04-03T23:47:18.310Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_FETCH_FROM_MIDDLEWARE"
---------------------------------------------------------------------------------
+tags: ["nextjs", "no", "fetch", "middleware", "rules", "no-fetch-from-middleware"]
+related: ["0256-nextjs-no-get-initial-props.md", "0253-nextjs-no-client-deps-in-middleware.md", "0255-nextjs-no-fetch-in-server-props.md"]
+last_updated: "2026-04-03T23:47:18.310Z"
+---
 
 # NO_FETCH_FROM_MIDDLEWARE
 

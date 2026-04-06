@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0052"
 title: "Anthropic Reasoning"
 description: "Configure extended thinking for Anthropic Claude models with the AI SDK and AI Gateway."
-last_updated: "2026-04-03T23:47:14.423Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/capabilities/reasoning/anthropic"
---------------------------------------------------------------------------------
+tags: ["anthropic-reasoning", "ai-sdk", "streaming", "anthropic", "reasoning", "capabilities"]
+related: ["0051-amazon-bedrock-reasoning.md", "0053-google-and-vertex-reasoning.md", "0055-reasoning.md"]
+last_updated: "2026-04-03T23:47:14.423Z"
+---
 
 # Anthropic Reasoning
 

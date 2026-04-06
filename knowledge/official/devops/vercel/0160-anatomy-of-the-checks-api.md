@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0160"
 title: "Anatomy of the Checks API"
 description: "Learn how to create your own Checks with Vercel Integrations. You can build your own Integration in order to register any arbitrary Check for your deployments."
-last_updated: "2026-04-03T23:47:17.029Z"
+category: "vercel-checks"
+subcategory: "checks"
+type: "guide"
 source: "https://vercel.com/docs/checks/creating-checks"
---------------------------------------------------------------------------------
+tags: ["creating-checks", "types-of-checks", "associations", "body-attributes", "response", "response-codes"]
+related: ["0159-checks-api-reference.md", "0161-working-with-checks.md", "0341-managing-deployments.md"]
+last_updated: "2026-04-03T23:47:17.029Z"
+---
 
 # Anatomy of the Checks API
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0459"
 title: "NO_RESPONSE_FROM_FUNCTION"
 description: "The application did not respond correctly, this is likely due to an exception being thrown from the function handler."
-last_updated: "2026-04-03T23:47:20.560Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/NO_RESPONSE_FROM_FUNCTION"
---------------------------------------------------------------------------------
+tags: ["no", "response", "function", "no-response-from-function", "setup", "how-to"]
+related: ["0425-function-invocation-timeout.md", "0421-edge-function-invocation-failed.md", "0409-body-not-a-string-from-function.md"]
+last_updated: "2026-04-03T23:47:20.560Z"
+---
 
 # NO_RESPONSE_FROM_FUNCTION
 

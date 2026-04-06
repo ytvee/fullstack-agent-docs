@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0053"
 title: "Google and Vertex Reasoning"
 description: "Configure thinking for Google Gemini models with the AI SDK and AI Gateway."
-last_updated: "2026-04-03T23:47:14.433Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/capabilities/reasoning/google"
---------------------------------------------------------------------------------
+tags: ["google-and-vertex-reasoning", "ai-sdk", "streaming", "google", "vertex", "reasoning"]
+related: ["0052-anthropic-reasoning.md", "0054-openai-reasoning.md", "0051-amazon-bedrock-reasoning.md"]
+last_updated: "2026-04-03T23:47:14.433Z"
+---
 
 # Google and Vertex Reasoning
 

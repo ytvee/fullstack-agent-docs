@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0240"
 title: "BFCACHE_INTEGRITY_REQUIRE_NOOPENER_ATTRIBUTE"
 description: "Requires that links opened with window.open use the noopener attribute to eliminate a source of eviction from the browser"
-last_updated: "2026-04-03T23:47:18.074Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/BFCACHE_INTEGRITY_REQUIRE_NOOPENER_ATTRIBUTE"
---------------------------------------------------------------------------------
+tags: ["bfcache", "integrity", "require", "noopener", "attribute", "rules"]
+related: ["0239-bfcache-integrity-no-unload-listeners.md", "0295-require-docs-on-exported-functions.md", "0296-require-node-version-file.md"]
+last_updated: "2026-04-03T23:47:18.074Z"
+---
 
 # BFCACHE_INTEGRITY_REQUIRE_NOOPENER_ATTRIBUTE
 

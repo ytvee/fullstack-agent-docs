@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0372"
 title: "Managing Domain Renewals and Redemptions"
 description: "Learn how to manage automatic and manual renewals for custom domains purchased through or registered with Vercel, and how to redeem expired domains with this guide."
-last_updated: "2026-04-03T23:47:19.485Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-domains/renew-a-domain"
---------------------------------------------------------------------------------
+tags: ["custom-domains", "domain", "renewals", "redemptions", "working-with-domains", "renew-a-domain"]
+related: ["0365-adding-configuring-a-custom-domain.md", "0370-working-with-domains.md", "0366-assigning-a-custom-domain-to-an-environment.md"]
+last_updated: "2026-04-03T23:47:19.485Z"
+---
 
 # Managing Domain Renewals and Redemptions
 

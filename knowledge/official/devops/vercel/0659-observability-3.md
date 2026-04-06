@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0659"
 title: "Observability"
 description: "Observability on Vercel provides framework-aware insights enabling you to optimize infrastructure and application performance."
-last_updated: "2026-04-03T23:47:24.541Z"
+category: "vercel-observability"
+subcategory: "observability"
+type: "concept"
 source: "https://vercel.com/docs/observability"
---------------------------------------------------------------------------------
+tags: ["observability-feature-access", "using-observability", "available-insights", "tracked-events", "pricing-and-limitations", "cli-workflows"]
+related: ["0657-observability-insights.md", "0656-debugging-production-500-errors.md", "0658-observability-plus.md"]
+last_updated: "2026-04-03T23:47:24.541Z"
+---
 
 # Observability
 

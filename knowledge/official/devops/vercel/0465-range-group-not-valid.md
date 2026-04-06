@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0465"
 title: "RANGE_GROUP_NOT_VALID"
 description: "The group value of the Range header in the request is invalid. This is a request error."
-last_updated: "2026-04-03T23:47:20.583Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/RANGE_GROUP_NOT_VALID"
---------------------------------------------------------------------------------
+tags: ["range", "group", "not", "valid", "range-group-not-valid", "troubleshoot"]
+related: ["0464-range-end-not-valid.md", "0467-range-start-not-valid.md", "0468-range-unit-not-supported.md"]
+last_updated: "2026-04-03T23:47:20.583Z"
+---
 
 # RANGE_GROUP_NOT_VALID
 

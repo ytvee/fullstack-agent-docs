@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0247"
 title: "NEXTJS_MISSING_OPTIMIZE_PACKAGE_IMPORTS"
 description: "optimizePackageImports improves compilation speed for packages that use barrel files or export many modules."
-last_updated: "2026-04-03T23:47:18.123Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_MISSING_OPTIMIZE_PACKAGE_IMPORTS"
---------------------------------------------------------------------------------
+tags: ["nextjs", "missing", "optimize", "package", "imports", "rules"]
+related: ["0245-nextjs-missing-modularize-imports.md", "0249-nextjs-missing-security-headers.md", "0289-package-management-no-circular-imports.md"]
+last_updated: "2026-04-03T23:47:18.123Z"
+---
 
 # NEXTJS_MISSING_OPTIMIZE_PACKAGE_IMPORTS
 

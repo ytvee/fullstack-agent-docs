@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0259"
 title: "NEXTJS_NO_TURBO_CACHE"
 description: "Prevent Turborepo from caching the Next.js .next/cache folder to prevent an oversized cache."
-last_updated: "2026-04-03T23:47:18.205Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_NO_TURBO_CACHE"
---------------------------------------------------------------------------------
+tags: ["turborepo", "nextjs", "no", "turbo", "cache", "rules"]
+related: ["0250-nextjs-no-async-layout.md", "0251-nextjs-no-async-page.md", "0252-nextjs-no-before-interactive.md"]
+last_updated: "2026-04-03T23:47:18.205Z"
+---
 
 # NEXTJS_NO_TURBO_CACHE
 

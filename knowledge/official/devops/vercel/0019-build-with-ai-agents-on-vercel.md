@@ -3,11 +3,11 @@ id: "vercel-0019"
 title: "Build with AI agents on Vercel"
 description: "Install AI agents and services through the Vercel Marketplace to automate workflows and build custom AI systems."
 category: "vercel-integrations"
-subcategory: "integrations"
-type: "concept"
+subcategory: "agent-resources"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-agents"
-tags: ["marketplace", "ai-agents", "native-integrations", "workflow-automation"]
-related: ["0016-coding-agents.md", "0627-vercel-integrations.md", "0028-build-with-ai-on-vercel.md"]
+tags: ["ai", "agents", "integrations-for-agents", "getting-started", "providers", "ai-agents"]
+related: ["0028-build-with-ai-on-vercel.md", "0027-vercel-openai-integration.md", "0039-vercel-plugin-for-ai-coding-agents.md"]
 last_updated: "2026-04-03T23:47:13.848Z"
 ---
 

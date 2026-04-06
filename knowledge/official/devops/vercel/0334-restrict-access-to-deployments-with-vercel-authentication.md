@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0334"
 title: "Restrict access to deployments with Vercel Authentication"
 description: "Vercel Authentication restricts access to your deployments so only authorized users can view and comment on your site."
-last_updated: "2026-04-03T23:47:18.910Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "concept"
 source: "https://vercel.com/docs/deployment-protection/methods-to-protect-deployments/vercel-authentication"
---------------------------------------------------------------------------------
+tags: ["restrict", "access", "authentication", "access-requests"]
+related: ["0333-restrict-deployment-access-by-ip-address.md", "0332-password-protection.md", "0331-methods-to-protect-deployments.md"]
+last_updated: "2026-04-03T23:47:18.910Z"
+---
 
 # Restrict access to deployments with Vercel Authentication
 

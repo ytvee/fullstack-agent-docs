@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0120"
 title: "Tracking custom events"
 description: "Learn how to send custom analytics events from your application."
-last_updated: "2026-04-03T23:47:15.564Z"
+category: "vercel-analytics"
+subcategory: "analytics"
+type: "guide"
 source: "https://vercel.com/docs/analytics/custom-events"
---------------------------------------------------------------------------------
+tags: ["tracking-custom-events", "tracking", "custom", "events", "custom-events", "tracking-a-client-side-event"]
+related: ["0127-redacting-sensitive-data-from-web-analytics-events.md", "0123-advanced-web-analytics-config-with-vercel-analytics.md", "0128-vercel-web-analytics-troubleshooting.md"]
+last_updated: "2026-04-03T23:47:15.564Z"
+---
 
 # Tracking custom events
 

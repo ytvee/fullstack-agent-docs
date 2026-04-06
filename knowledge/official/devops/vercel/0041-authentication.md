@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0041"
 title: "Authentication"
 description: "Learn how to authenticate with the AI Gateway using API keys and OIDC tokens."
-last_updated: "2026-04-03T23:47:14.226Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/authentication-and-byok/authentication"
---------------------------------------------------------------------------------
+tags: ["oidc", "authentication", "authentication-and-byok", "api-key", "creating-an-api-key", "using-the-api-key"]
+related: ["0043-authentication-byok.md", "0042-bring-your-own-key-byok.md", "0049-observability.md"]
+last_updated: "2026-04-03T23:47:14.226Z"
+---
 
 # Authentication
 

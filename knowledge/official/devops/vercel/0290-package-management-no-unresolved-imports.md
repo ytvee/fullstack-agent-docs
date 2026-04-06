@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0290"
 title: "PACKAGE_MANAGEMENT_NO_UNRESOLVED_IMPORTS"
 description: "Import statements that can not be resolved to a local file or a package from package.json dependencies are not allowed."
-last_updated: "2026-04-03T23:47:18.387Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/PACKAGE_MANAGEMENT_NO_UNRESOLVED_IMPORTS"
---------------------------------------------------------------------------------
+tags: ["package", "management", "no", "unresolved", "imports", "rules"]
+related: ["0289-package-management-no-circular-imports.md", "0299-tests-no-conditional-assertions.md", "0274-no-external-css-at-imports.md"]
+last_updated: "2026-04-03T23:47:18.387Z"
+---
 
 # PACKAGE_MANAGEMENT_NO_UNRESOLVED_IMPORTS
 

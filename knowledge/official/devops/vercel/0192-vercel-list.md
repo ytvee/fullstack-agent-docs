@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0192"
 title: "vercel list"
 description: "Learn how to list out all recent deployments for the current Vercel Project using the vercel list CLI command."
-last_updated: "2026-04-03T23:47:17.449Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/list"
---------------------------------------------------------------------------------
+tags: ["list", "usage", "extended-usage", "unique-options", "meta", "policy"]
+related: ["0170-vercel-cache.md", "0191-vercel-link.md", "0178-vercel-domains.md"]
+last_updated: "2026-04-03T23:47:17.449Z"
+---
 
 # vercel list
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0328"
 title: "Bypass Deployment Protection for testing, sharing, and automation"
 description: "Learn how to bypass Deployment Protection for specific domains, or for all deployments in a project."
-last_updated: "2026-04-03T23:47:18.837Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "guide"
 source: "https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection"
---------------------------------------------------------------------------------
+tags: ["bypass", "protection", "testing", "sharing", "automation", "shareable-links"]
+related: ["0329-protection-bypass-for-automation.md", "0326-deployment-protection-exceptions.md", "0327-options-allowlist.md"]
+last_updated: "2026-04-03T23:47:18.837Z"
+---
 
 # Bypass Deployment Protection for testing, sharing, and automation
 

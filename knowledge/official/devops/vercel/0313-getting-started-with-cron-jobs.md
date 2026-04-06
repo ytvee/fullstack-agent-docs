@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0313"
 title: "Getting started with cron jobs"
 description: "Learn how to schedule cron jobs to run at specific times or intervals."
-last_updated: "2026-04-03T23:47:18.711Z"
+category: "vercel-cron-jobs"
+subcategory: "cron-jobs"
+type: "guide"
 source: "https://vercel.com/docs/cron-jobs/quickstart"
---------------------------------------------------------------------------------
+tags: ["cron", "jobs", "quickstart", "prerequisites", "next-steps", "setup"]
+related: ["0311-managing-cron-jobs.md", "0312-cron-jobs.md", "0314-usage-pricing-for-cron-jobs.md"]
+last_updated: "2026-04-03T23:47:18.711Z"
+---
 
 # Getting started with cron jobs
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0195"
 title: "vercel logs"
 description: "View and filter request logs for your Vercel project, or stream live runtime logs from a deployment."
-last_updated: "2026-04-03T23:47:17.467Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/logs"
---------------------------------------------------------------------------------
+tags: ["logs", "usage", "unique-options", "project", "deployment", "follow"]
+related: ["0163-vercel-activity.md", "0187-vercel-inspect.md", "0196-vercel-mcp.md"]
+last_updated: "2026-04-03T23:47:17.467Z"
+---
 
 # vercel logs
 

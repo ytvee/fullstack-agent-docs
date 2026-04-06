@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0285"
 title: "PACKAGE_JSON_NAME_REQUIRED"
 description: "Requires that every package.json file has the name field set to ensure each workspace has a unique identifier."
-last_updated: "2026-04-03T23:47:18.366Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/PACKAGE_JSON_NAME_REQUIRED"
---------------------------------------------------------------------------------
+tags: ["package", "json", "name", "required", "rules", "package-json-name-required"]
+related: ["0283-package-json-description-required.md", "0286-package-json-private-required.md", "0288-package-json-type-required.md"]
+last_updated: "2026-04-03T23:47:18.366Z"
+---
 
 # PACKAGE_JSON_NAME_REQUIRED
 

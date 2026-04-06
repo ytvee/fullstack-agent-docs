@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0603"
 title: "Vercel CMS Integrations"
 description: "Learn how to integrate Vercel with CMS platforms, including Contentful, Sanity, and Sitecore XM Cloud."
-last_updated: "2026-04-03T23:47:23.361Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/cms"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "cms", "deploy-changes-from-cms", "featured-cms-integrations", "integration"]
+related: ["0605-vercel-and-sitecore-xm-cloud-integration.md", "0604-vercel-sanity-integration.md", "0597-vercel-agility-cms-integration.md"]
+last_updated: "2026-04-03T23:47:23.361Z"
+---
 
 # Vercel CMS Integrations
 

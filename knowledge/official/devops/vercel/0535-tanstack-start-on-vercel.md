@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0535"
 title: "TanStack Start on Vercel"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:21.680Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/full-stack/tanstack-start"
---------------------------------------------------------------------------------
+tags: ["tanstack-start-on-vercel", "tanstack-start", "tan", "stack", "start", "full-stack"]
+related: ["0532-full-stack-frameworks-on-vercel.md", "0536-vite-nitro-on-vercel.md", "0531-nuxt-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.680Z"
+---
 
 # TanStack Start on Vercel
 

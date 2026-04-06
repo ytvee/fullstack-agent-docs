@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0317"
 title: "Using Callbacks with the Deploy Button"
 description: "Learn how to use the Deploy Button"
-last_updated: "2026-04-03T23:47:18.645Z"
+category: "vercel-deployments"
+subcategory: "deploy-button"
+type: "guide"
 source: "https://vercel.com/docs/deploy-button/callback"
---------------------------------------------------------------------------------
+tags: ["deploy-hooks", "callbacks", "deploy", "button", "callback", "redirect-url"]
+related: ["0322-deploy-button-source.md", "0318-deploy-button-demo.md", "0319-using-environment-variables-with-the-deploy-button.md"]
+last_updated: "2026-04-03T23:47:18.645Z"
+---
 
 # Using Callbacks with the Deploy Button
 

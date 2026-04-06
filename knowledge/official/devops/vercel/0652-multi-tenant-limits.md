@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0652"
 title: "Multi-tenant Limits"
 description: "Understand the limits and features available for Vercel for Platforms."
-last_updated: "2026-04-03T23:47:24.423Z"
+category: "vercel-multi-tenant"
+subcategory: "multi-tenant"
+type: "concept"
 source: "https://vercel.com/docs/multi-tenant/limits"
---------------------------------------------------------------------------------
+tags: ["multi-tenant-limits", "custom-domains", "dns", "ssl", "multi", "tenant"]
+related: ["0651-domain-management-for-multi-tenant.md", "0653-vercel-for-platforms.md", "0361-setting-up-a-custom-domain.md"]
+last_updated: "2026-04-03T23:47:24.423Z"
+---
 
 # Multi-tenant Limits
 

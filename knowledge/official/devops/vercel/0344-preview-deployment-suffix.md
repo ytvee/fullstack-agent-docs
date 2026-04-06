@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0344"
 title: "Preview Deployment Suffix"
 description: "When you create a new deployment, Vercel will automatically generate a unique URL which you can use to access that particular deployment."
-last_updated: "2026-04-03T23:47:19.070Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "concept"
 source: "https://vercel.com/docs/deployments/preview-deployment-suffix"
---------------------------------------------------------------------------------
+tags: ["preview-deployments", "preview", "suffix", "preview-deployment-suffix"]
+related: ["0339-accessing-deployments-through-generated-urls.md", "0345-promoting-a-preview-deployment-to-production.md", "0348-sharing-a-preview-deployment.md"]
+last_updated: "2026-04-03T23:47:19.070Z"
+---
 
 # Preview Deployment Suffix
 

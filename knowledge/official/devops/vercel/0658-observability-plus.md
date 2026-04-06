@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0658"
 title: "Observability Plus"
 description: "Learn about using Observability Plus and its limits."
-last_updated: "2026-04-03T23:47:24.529Z"
+category: "vercel-observability"
+subcategory: "observability"
+type: "guide"
 source: "https://vercel.com/docs/observability/observability-plus"
---------------------------------------------------------------------------------
+tags: ["plus", "observability-plus", "using-observability-plus", "disabling-observability-plus", "pricing", "limitations"]
+related: ["0659-observability-3.md", "0656-debugging-production-500-errors.md", "0657-observability-insights.md"]
+last_updated: "2026-04-03T23:47:24.529Z"
+---
 
 # Observability Plus
 

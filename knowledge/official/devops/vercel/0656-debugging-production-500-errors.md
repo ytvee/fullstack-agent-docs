@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0656"
 title: "Debugging production 500 errors"
 description: "Find, fix, and verify production 500 errors using the Vercel CLI."
-last_updated: "2026-04-03T23:47:24.478Z"
+category: "vercel-observability"
+subcategory: "observability"
+type: "guide"
 source: "https://vercel.com/docs/observability/debug-production-errors"
---------------------------------------------------------------------------------
+tags: ["debugging", "production", "500", "errors", "debug-production-errors", "quick-reference"]
+related: ["0547-debugging-slow-vercel-functions.md", "0657-observability-insights.md", "0659-observability-3.md"]
+last_updated: "2026-04-03T23:47:24.478Z"
+---
 
 # Debugging production 500 errors
 

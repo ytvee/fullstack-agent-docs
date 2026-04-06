@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0575"
 title: "Deploying Git Repositories with Vercel"
 description: "Vercel allows for automatic deployments on every branch push and merges onto the production branch of your GitHub, GitLab, and Bitbucket projects."
-last_updated: "2026-04-03T23:47:22.331Z"
+category: "vercel-deployments"
+subcategory: "git"
+type: "guide"
 source: "https://vercel.com/docs/git"
---------------------------------------------------------------------------------
+tags: ["repositories", "supported-git-providers", "self-hosted-examples", "deploying-a-git-repository", "using-pro-teams", "using-hobby-teams"]
+related: ["0578-deploying-github-projects-with-vercel.md", "0577-deploying-bitbucket-projects-with-vercel.md", "0579-deploying-gitlab-projects-with-vercel.md"]
+last_updated: "2026-04-03T23:47:22.331Z"
+---
 
 # Deploying Git Repositories with Vercel
 

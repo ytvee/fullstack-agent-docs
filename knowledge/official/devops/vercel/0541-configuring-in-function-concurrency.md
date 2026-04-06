@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0541"
 title: "Configuring In-function Concurrency"
 description: "Learn how to allow multiple requests to share a single function instance."
-last_updated: "2026-04-03T23:47:21.743Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/configuring-functions/concurrency"
---------------------------------------------------------------------------------
+tags: ["function", "concurrency", "configuring-functions", "setup", "how-to"]
+related: ["0540-advanced-configuration-2.md", "0544-configuring-functions.md", "0542-configuring-maximum-duration-for-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.743Z"
+---
 
 # Configuring In-function Concurrency
 

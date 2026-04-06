@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0555"
 title: "Using the Bun Runtime with Vercel Functions"
 description: "Learn how to use the Bun runtime with Vercel Functions to create fast, efficient functions."
-last_updated: "2026-04-03T23:47:21.940Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/runtimes/bun"
---------------------------------------------------------------------------------
+tags: ["bun", "nextjs", "runtime", "runtimes", "configuring-the-runtime", "next-js"]
+related: ["0561-using-the-node-js-runtime-with-vercel-functions.md", "0557-edge-runtime.md", "0558-using-the-go-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.940Z"
+---
 
 # Using the Bun Runtime with Vercel Functions
 

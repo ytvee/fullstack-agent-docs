@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0332"
 title: "Password Protection"
 description: "Require visitors to enter a password before they can view your deployments."
-last_updated: "2026-04-03T23:47:18.881Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "concept"
 source: "https://vercel.com/docs/deployment-protection/methods-to-protect-deployments/password-protection"
---------------------------------------------------------------------------------
+tags: ["password", "protection", "password-protection"]
+related: ["0331-methods-to-protect-deployments.md", "0333-restrict-deployment-access-by-ip-address.md", "0334-restrict-access-to-deployments-with-vercel-authentication.md"]
+last_updated: "2026-04-03T23:47:18.881Z"
+---
 
 # Password Protection
 

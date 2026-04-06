@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0357"
 title: "Managing Nameservers"
 description: "Learn how to add custom nameservers and restore original nameservers for your domains on Vercel with this guide."
-last_updated: "2026-04-03T23:47:19.275Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/managing-nameservers"
---------------------------------------------------------------------------------
+tags: ["nameservers", "managing-nameservers", "add-custom-nameservers", "add-vercel-s-nameservers", "restore-original-nameservers", "setup"]
+related: ["0375-working-with-nameservers.md", "0367-assigning-a-domain-to-a-git-branch.md", "0356-managing-dns-records.md"]
+last_updated: "2026-04-03T23:47:19.275Z"
+---
 
 # Managing Nameservers
 

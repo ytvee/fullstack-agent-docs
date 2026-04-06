@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0119"
 title: "Alerts"
 description: "Get notified when something"
-last_updated: "2026-04-03T23:47:15.488Z"
+category: "vercel-observability"
+subcategory: "alerts"
+type: "concept"
 source: "https://vercel.com/docs/alerts"
---------------------------------------------------------------------------------
+tags: ["alert-types", "usage-anomaly-metrics", "investigate-alerts-with-ai"]
+related: ["0381-speed-insights-drains-reference.md", "0657-observability-insights.md", "0002-using-the-activity-log.md"]
+last_updated: "2026-04-03T23:47:15.488Z"
+---
 
 # Alerts
 

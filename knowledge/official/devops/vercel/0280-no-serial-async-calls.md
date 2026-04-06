@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0280"
 title: "NO_SERIAL_ASYNC_CALLS"
 description: "Prevent blocking serial async await calls in your applications."
-last_updated: "2026-04-03T23:47:18.345Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_SERIAL_ASYNC_CALLS"
---------------------------------------------------------------------------------
+tags: ["no", "serial", "async", "calls", "rules", "no-serial-async-calls"]
+related: ["0278-no-mixed-async-modules.md", "0255-nextjs-no-fetch-in-server-props.md", "0250-nextjs-no-async-layout.md"]
+last_updated: "2026-04-03T23:47:18.345Z"
+---
 
 # NO_SERIAL_ASYNC_CALLS
 

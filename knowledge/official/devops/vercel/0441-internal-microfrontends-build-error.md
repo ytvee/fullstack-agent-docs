@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0441"
 title: "INTERNAL_MICROFRONTENDS_BUILD_ERROR"
 description: "The microfrontend build did not include the required data as expected."
-last_updated: "2026-04-03T23:47:20.465Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_MICROFRONTENDS_BUILD_ERROR"
---------------------------------------------------------------------------------
+tags: ["internal-microfrontends-build-error", "microfrontends", "internal", "error", "troubleshoot", "setup"]
+related: ["0443-internal-microfrontends-unexpected-error.md", "0454-microfrontends-missing-fallback-error.md", "0430-internal-cache-error.md"]
+last_updated: "2026-04-03T23:47:20.465Z"
+---
 
 # INTERNAL_MICROFRONTENDS_BUILD_ERROR
 

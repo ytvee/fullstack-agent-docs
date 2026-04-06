@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0179"
 title: "vercel env"
 description: "Learn how to manage your environment variables in your Vercel Projects using the vercel env CLI command."
-last_updated: "2026-04-03T23:47:17.300Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/env"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "env", "usage", "extended-usage", "unique-options", "sensitive"]
+related: ["0203-vercel-pull.md", "0178-vercel-domains.md", "0186-vercel-init.md"]
+last_updated: "2026-04-03T23:47:17.300Z"
+---
 
 # vercel env
 

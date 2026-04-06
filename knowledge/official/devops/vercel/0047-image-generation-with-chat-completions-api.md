@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0047"
 title: "Image Generation with Chat Completions API"
 description: "Generate and edit images using AI models through Vercel AI Gateway with the Chat Completions API."
-last_updated: "2026-04-03T23:47:14.372Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/image-generation/openai"
---------------------------------------------------------------------------------
+tags: ["chat-completions", "streaming", "openai", "xai", "python", "generation"]
+related: ["0046-image-generation-with-ai-sdk.md", "0104-image-generation-2.md", "0048-image-generation.md"]
+last_updated: "2026-04-03T23:47:14.372Z"
+---
 
 # Image Generation with Chat Completions API
 

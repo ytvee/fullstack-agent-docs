@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0428"
 title: "FUNCTION_THROTTLED"
 description: "The function you are trying to call has exceeded the rate limit."
-last_updated: "2026-04-03T23:47:20.411Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/FUNCTION_THROTTLED"
---------------------------------------------------------------------------------
+tags: ["function", "throttled", "function-throttled", "troubleshoot", "setup", "how-to"]
+related: ["0409-body-not-a-string-from-function.md", "0411-deployment-deleted.md", "0421-edge-function-invocation-failed.md"]
+last_updated: "2026-04-03T23:47:20.411Z"
+---
 
 # FUNCTION_THROTTLED
 

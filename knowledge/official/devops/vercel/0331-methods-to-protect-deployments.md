@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0331"
 title: "Methods to Protect Deployments"
 description: "Vercel offers three methods to protect your deployments: Vercel Authentication, Password Protection, and Trusted IPs."
-last_updated: "2026-04-03T23:47:18.869Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "concept"
 source: "https://vercel.com/docs/deployment-protection/methods-to-protect-deployments"
---------------------------------------------------------------------------------
+tags: ["methods", "protect", "password-protection", "trusted-ips", "related-resources"]
+related: ["0333-restrict-deployment-access-by-ip-address.md", "0332-password-protection.md", "0334-restrict-access-to-deployments-with-vercel-authentication.md"]
+last_updated: "2026-04-03T23:47:18.869Z"
+---
 
 # Methods to Protect Deployments
 

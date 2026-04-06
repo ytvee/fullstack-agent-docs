@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "api-reference"
 source: "https://vercel.com/docs/cli/telemetry"
-tags: ["cli-command", "telemetry", "data-collection", "privacy"]
-related: ["0162-telemetry.md", "0199-vercel-cli-overview.md", "0182-vercel-cli-global-options.md"]
+tags: ["telemetry", "usage", "global-options", "why-is-telemetry-collected", "what-is-being-collected", "what-about-sensitive-data"]
+related: ["0162-telemetry.md", "0172-vercel-contract.md", "0177-vercel-dns.md"]
 last_updated: "2026-04-03T23:47:17.695Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0566"
 title: "Using WebAssembly (Wasm)"
 description: "Learn how to use WebAssembly (Wasm) to enable low-level languages to run on Vercel Functions and Routing Middleware."
-last_updated: "2026-04-03T23:47:22.182Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/runtimes/wasm"
---------------------------------------------------------------------------------
+tags: ["using-webassembly-wasm", "wasm", "web", "assembly", "runtimes", "using-a-wasm-file"]
+related: ["0555-using-the-bun-runtime-with-vercel-functions.md", "0562-runtimes.md", "0556-edge-functions.md"]
+last_updated: "2026-04-03T23:47:22.182Z"
+---
 
 # Using WebAssembly (Wasm)
 

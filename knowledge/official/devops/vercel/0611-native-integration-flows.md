@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0611"
 title: "Native Integration Flows"
 description: "Learn how information flows between the integration user, Vercel, and the integration provider for Vercel native integrations."
-last_updated: "2026-04-03T23:47:23.570Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/marketplace-flows"
---------------------------------------------------------------------------------
+tags: ["native-integration-flows", "edge-config", "native", "flows", "create-integration", "marketplace-flows"]
+related: ["0606-integration-approval-checklist.md", "0612-create-a-native-integration.md", "0613-native-integration-concepts.md"]
+last_updated: "2026-04-03T23:47:23.570Z"
+---
 
 # Native Integration Flows
 

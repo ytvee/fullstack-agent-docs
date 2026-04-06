@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0144"
 title: "Build Queues"
 description: "Understand how concurrency and same branch build queues manage multiple simultaneous deployments."
-last_updated: "2026-04-03T23:47:16.647Z"
+category: "vercel-builds"
+subcategory: "builds"
+type: "guide"
 source: "https://vercel.com/docs/builds/build-queues"
---------------------------------------------------------------------------------
+tags: ["queues", "build-queues", "concurrency-queue", "git-branch-queue", "setup"]
+related: ["0147-builds.md", "0146-managing-builds.md", "0142-build-features-for-customizing-deployments.md"]
+last_updated: "2026-04-03T23:47:16.647Z"
+---
 
 # Build Queues
 

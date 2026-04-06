@@ -6,8 +6,8 @@ category: "vercel-flags"
 subcategory: "flags"
 type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/quickstart"
-tags: ["feature-flags", "quickstart", "flags-sdk", "openfeature", "nextjs"]
-related: ["0506-vercel-flags-2.md", "0509-using-the-flags-sdk-with-vercel-flags.md", "0503-sdk-keys.md"]
+tags: ["feature-flags", "openfeature", "quickstart", "prerequisites", "built-in-resilience", "next-steps"]
+related: ["0500-entities.md", "0511-sdks.md", "0503-sdk-keys.md"]
 last_updated: "2026-04-03T23:47:21.049Z"
 ---
 

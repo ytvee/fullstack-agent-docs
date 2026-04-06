@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0241"
 title: "ESLINT_CONFIGURATION"
 description: "Requires that a workspace package has ESLint installed and configured correctly"
-last_updated: "2026-04-03T23:47:18.083Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/ESLINT_CONFIGURATION"
---------------------------------------------------------------------------------
+tags: ["eslint", "configuration", "rules", "eslint-configuration", "example", "how-to-fix"]
+related: ["0301-typescript-configuration.md", "0244-eslint-rules-required.md", "0243-eslint-react-rules-required.md"]
+last_updated: "2026-04-03T23:47:18.083Z"
+---
 
 # ESLINT_CONFIGURATION
 

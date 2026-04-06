@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0220"
 title: "Getting Started with Code Owners"
 description: "Learn how to set up Code Owners for your codebase."
-last_updated: "2026-04-03T23:47:17.788Z"
+category: "vercel-code-owners"
+subcategory: "code-owners"
+type: "guide"
 source: "https://vercel.com/docs/code-owners/getting-started"
---------------------------------------------------------------------------------
+tags: ["owners", "getting-started", "prerequisites", "get-access-to-code-owners", "more-resources", "setup"]
+related: ["0237-getting-started-with-conformance.md", "0221-code-owners.md", "0218-vercel-code-owners.md"]
+last_updated: "2026-04-03T23:47:17.788Z"
+---
 
 # Getting Started with Code Owners
 

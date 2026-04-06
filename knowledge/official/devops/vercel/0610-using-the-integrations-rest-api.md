@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0610"
 title: "Using the Integrations REST API"
 description: "Learn how to authenticate and use the Integrations REST API to build your integration server."
-last_updated: "2026-04-03T23:47:23.510Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/marketplace-api"
---------------------------------------------------------------------------------
+tags: ["rest", "create-integration", "marketplace-api", "how-it-works", "authentication", "provider-api-authentication"]
+related: ["0615-implementing-secrets-rotation.md", "0611-native-integration-flows.md", "0618-building-integrations-with-vercel-rest-api.md"]
+last_updated: "2026-04-03T23:47:23.510Z"
+---
 
 # Using the Integrations REST API
 

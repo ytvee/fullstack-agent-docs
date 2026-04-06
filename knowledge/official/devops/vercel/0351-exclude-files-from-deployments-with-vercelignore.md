@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0351"
 title: "Exclude Files from Deployments with .vercelignore"
 description: "The .vercelignore file allows you to define which files and directories should be ignored when uploading your project to Vercel."
-last_updated: "2026-04-03T23:47:19.204Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "concept"
 source: "https://vercel.com/docs/deployments/vercel-ignore"
---------------------------------------------------------------------------------
+tags: ["monorepos", "exclude", "files", "vercelignore", "allowlist", "uploaded-files"]
+related: ["0339-accessing-deployments-through-generated-urls.md", "0344-preview-deployment-suffix.md", "0341-managing-deployments.md"]
+last_updated: "2026-04-03T23:47:19.204Z"
+---
 
 # Exclude Files from Deployments with .vercelignore
 

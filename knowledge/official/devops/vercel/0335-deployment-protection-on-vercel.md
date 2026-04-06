@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0335"
 title: "Deployment Protection on Vercel"
 description: "Learn how to control access to your Vercel project"
-last_updated: "2026-04-03T23:47:18.933Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "guide"
 source: "https://vercel.com/docs/deployment-protection"
---------------------------------------------------------------------------------
+tags: ["preview-deployments", "protection", "choose-which-urls-to-protect", "standard-protection", "all-deployments", "only-production-deployments"]
+related: ["0328-bypass-deployment-protection-for-testing-sharing-and-automation.md", "0334-restrict-access-to-deployments-with-vercel-authentication.md", "0326-deployment-protection-exceptions.md"]
+last_updated: "2026-04-03T23:47:18.933Z"
+---
 
 # Deployment Protection on Vercel
 

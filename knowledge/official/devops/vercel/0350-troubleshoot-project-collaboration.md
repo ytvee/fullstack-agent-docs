@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0350"
 title: "Troubleshoot project collaboration"
 description: "Learn about common reasons for deployment issues related to team member requirements and how to resolve them."
-last_updated: "2026-04-03T23:47:19.197Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments/troubleshoot-project-collaboration"
---------------------------------------------------------------------------------
+tags: ["project", "collaboration", "team-configuration", "hobby-teams", "pro-teams", "bot-access"]
+related: ["0349-troubleshooting-build-errors.md", "0348-sharing-a-preview-deployment.md", "0339-accessing-deployments-through-generated-urls.md"]
+last_updated: "2026-04-03T23:47:19.197Z"
+---
 
 # Troubleshoot project collaboration
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0283"
 title: "PACKAGE_JSON_DESCRIPTION_REQUIRED"
 description: "Requires that every package.json file has the description field set."
-last_updated: "2026-04-03T23:47:18.358Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/PACKAGE_JSON_DESCRIPTION_REQUIRED"
---------------------------------------------------------------------------------
+tags: ["package", "json", "description", "required", "rules", "related-rules"]
+related: ["0286-package-json-private-required.md", "0285-package-json-name-required.md", "0288-package-json-type-required.md"]
+last_updated: "2026-04-03T23:47:18.358Z"
+---
 
 # PACKAGE_JSON_DESCRIPTION_REQUIRED
 

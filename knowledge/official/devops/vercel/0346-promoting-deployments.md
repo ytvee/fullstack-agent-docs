@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0346"
 title: "Promoting Deployments"
 description: "Learn how to promote deployments to production on Vercel."
-last_updated: "2026-04-03T23:47:19.087Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments/promoting-a-deployment"
---------------------------------------------------------------------------------
+tags: ["promoting-deployments", "promoting", "promoting-a-deployment", "instant-rollback", "cli", "dashboard"]
+related: ["0345-promoting-a-preview-deployment-to-production.md", "0338-environments.md", "0343-deploying-to-vercel.md"]
+last_updated: "2026-04-03T23:47:19.087Z"
+---
 
 # Promoting Deployments
 

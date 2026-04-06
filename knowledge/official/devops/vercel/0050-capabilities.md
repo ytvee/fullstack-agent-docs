@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0050"
 title: "Capabilities"
 description: "Explore AI Gateway capabilities including reasoning, image generation, video generation, web search, observability, usage tracking, data retention, and prompt training policies."
-last_updated: "2026-04-03T23:47:14.402Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/capabilities"
---------------------------------------------------------------------------------
+tags: ["observability", "capabilities", "what-you-can-build", "capabilities-overview", "custom-reporting", "reasoning"]
+related: ["0051-amazon-bedrock-reasoning.md", "0052-anthropic-reasoning.md", "0055-reasoning.md"]
+last_updated: "2026-04-03T23:47:14.402Z"
+---
 
 # Capabilities
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0479"
 title: "TOO_MANY_FILESYSTEM_CHECKS"
 description: "Too many filesystem checks occurred while processing the request. This is a routing error."
-last_updated: "2026-04-03T23:47:20.658Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/TOO_MANY_FILESYSTEM_CHECKS"
---------------------------------------------------------------------------------
+tags: ["too", "many", "filesystem", "checks", "too-many-filesystem-checks", "troubleshoot"]
+related: ["0463-optimized-external-image-too-many-redirects.md", "0475-router-too-many-has-selections.md", "0481-too-many-ranges.md"]
+last_updated: "2026-04-03T23:47:20.658Z"
+---
 
 # TOO_MANY_FILESYSTEM_CHECKS
 

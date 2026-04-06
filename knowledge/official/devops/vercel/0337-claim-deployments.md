@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0337"
 title: "Claim Deployments"
 description: "Learn how to take ownership of deployments on Vercel with the Claim Deployments feature."
-last_updated: "2026-04-03T23:47:18.952Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments/claim-deployments"
---------------------------------------------------------------------------------
+tags: ["claim", "claim-deployments", "get-started", "associated-resources", "important-endpoints", "team-restructuring"]
+related: ["0349-troubleshooting-build-errors.md", "0350-troubleshoot-project-collaboration.md", "0341-managing-deployments.md"]
+last_updated: "2026-04-03T23:47:18.952Z"
+---
 
 # Claim Deployments
 

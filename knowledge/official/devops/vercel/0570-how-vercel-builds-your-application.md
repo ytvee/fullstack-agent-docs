@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0570"
 title: "How Vercel builds your application"
 description: "Learn how Vercel transforms your source code into optimized assets ready to serve globally."
-last_updated: "2026-04-03T23:47:22.242Z"
+category: "vercel-root"
+subcategory: "fundamentals"
+type: "guide"
 source: "https://vercel.com/docs/fundamentals/builds"
---------------------------------------------------------------------------------
+tags: ["builds", "application", "starting-a-build", "the-build-environment", "understanding-your-project", "installing-dependencies"]
+related: ["0571-how-requests-flow-through-vercel.md", "0572-vercel-fundamental-concepts.md", "0573-what-is-compute.md"]
+last_updated: "2026-04-03T23:47:22.242Z"
+---
 
 # How Vercel builds your application
 

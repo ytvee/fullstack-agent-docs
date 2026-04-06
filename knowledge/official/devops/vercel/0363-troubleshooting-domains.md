@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0363"
 title: "Troubleshooting domains"
 description: "Learn about common reasons for domain misconfigurations and how to troubleshoot your domain on Vercel."
-last_updated: "2026-04-03T23:47:19.381Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/troubleshooting"
---------------------------------------------------------------------------------
+tags: ["troubleshooting-domains", "dns", "troubleshooting", "misconfigured-domain-issues", "common-dns-issues", "dns-record-propagation-times"]
+related: ["0364-working-with-dns.md", "0355-domain-connect.md", "0365-adding-configuring-a-custom-domain.md"]
+last_updated: "2026-04-03T23:47:19.381Z"
+---
 
 # Troubleshooting domains
 

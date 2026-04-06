@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0381"
 title: "Speed Insights Drains Reference"
 description: "Learn about Speed Insights Drains - data formats and performance metrics configuration."
-last_updated: "2026-04-03T23:47:19.669Z"
+category: "vercel-observability"
+subcategory: "drains"
+type: "api-reference"
 source: "https://vercel.com/docs/drains/reference/speed-insights"
---------------------------------------------------------------------------------
+tags: ["speed-insights", "speed", "insights", "speed-insights-schema", "format", "json"]
+related: ["0379-web-analytics-drains-reference.md", "0380-log-drains-reference.md", "0382-trace-drains-reference.md"]
+last_updated: "2026-04-03T23:47:19.669Z"
+---
 
 # Speed Insights Drains Reference
 

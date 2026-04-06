@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0664"
 title: "Connect to Amazon Web Services (AWS)"
 description: "Learn how to configure your AWS account to trust Vercel"
-last_updated: "2026-04-03T23:47:24.670Z"
+category: "vercel-security"
+subcategory: "oidc"
+type: "integration"
 source: "https://vercel.com/docs/oidc/aws"
---------------------------------------------------------------------------------
+tags: ["connect", "amazon", "web", "services", "aws", "configure-your-aws-account"]
+related: ["0665-connect-to-microsoft-azure.md", "0666-connect-to-google-cloud-platform-gcp.md", "0663-connect-to-your-own-api.md"]
+last_updated: "2026-04-03T23:47:24.670Z"
+---
 
 # Connect to Amazon Web Services (AWS)
 

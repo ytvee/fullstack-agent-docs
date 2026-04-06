@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0458"
 title: "NOT_FOUND"
 description: "The requested resource was not found. This is a deployment error."
-last_updated: "2026-04-03T23:47:20.540Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/NOT_FOUND"
---------------------------------------------------------------------------------
+tags: ["not", "found", "not-found", "troubleshoot", "setup", "how-to"]
+related: ["0413-deployment-not-found.md", "0470-resource-not-found.md", "0409-body-not-a-string-from-function.md"]
+last_updated: "2026-04-03T23:47:20.540Z"
+---
 
 # NOT_FOUND
 

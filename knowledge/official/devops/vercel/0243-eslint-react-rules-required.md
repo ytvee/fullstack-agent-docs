@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0243"
 title: "ESLINT_REACT_RULES_REQUIRED"
 description: "Requires that a workspace package is configured with required React plugins and rules"
-last_updated: "2026-04-03T23:47:18.090Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/ESLINT_REACT_RULES_REQUIRED"
---------------------------------------------------------------------------------
+tags: ["eslint", "react", "rules", "required", "eslint-react-rules-required", "example"]
+related: ["0244-eslint-rules-required.md", "0242-eslint-next-rules-required.md", "0241-eslint-configuration.md"]
+last_updated: "2026-04-03T23:47:18.090Z"
+---
 
 # ESLINT_REACT_RULES_REQUIRED
 

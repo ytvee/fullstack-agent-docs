@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0224"
 title: "Managing Comments on Preview Deployments"
 description: "Learn how to manage Comments on your Preview Deployments from Team members and invited collaborators."
-last_updated: "2026-04-03T23:47:17.838Z"
+category: "vercel-comments"
+subcategory: "comments"
+type: "guide"
 source: "https://vercel.com/docs/comments/managing-comments"
---------------------------------------------------------------------------------
+tags: ["preview-deployments", "preview", "deployments", "managing-comments", "resolve-comments", "notifications"]
+related: ["0226-using-comments-with-preview-deployments.md", "0225-comments-overview.md", "0223-integrations-for-comments.md"]
+last_updated: "2026-04-03T23:47:17.838Z"
+---
 
 # Managing Comments on Preview Deployments
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0165"
 title: "vercel api"
 description: "Learn how to make authenticated HTTP requests to the Vercel API using the vercel api CLI command."
-last_updated: "2026-04-03T23:47:17.148Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/api"
---------------------------------------------------------------------------------
+tags: ["usage", "examples", "get-current-user-information", "create-a-new-project", "delete-a-deployment", "post-json-from-a-file"]
+related: ["0173-vercel-curl.md", "0185-vercel-httpstat.md", "0198-vercel-open.md"]
+last_updated: "2026-04-03T23:47:17.148Z"
+---
 
 # vercel api
 

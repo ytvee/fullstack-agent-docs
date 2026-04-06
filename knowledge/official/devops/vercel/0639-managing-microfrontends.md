@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0639"
 title: "Managing microfrontends"
 description: "Learn how to manage your microfrontends on Vercel."
-last_updated: "2026-04-03T23:47:24.146Z"
+category: "vercel-microfrontends"
+subcategory: "microfrontends"
+type: "guide"
 source: "https://vercel.com/docs/microfrontends/managing-microfrontends"
---------------------------------------------------------------------------------
+tags: ["observability", "environment-variables", "managing-microfrontends", "adding-microfrontends", "removing-microfrontends", "fallback-environment"]
+related: ["0640-managing-microfrontends-security.md", "0641-managing-with-the-vercel-toolbar.md", "0638-microfrontends-local-development.md"]
+last_updated: "2026-04-03T23:47:24.146Z"
+---
 
 # Managing microfrontends
 

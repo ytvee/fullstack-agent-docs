@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0312"
 title: "Cron Jobs"
 description: "Learn about cron jobs, how they work, and how to use them on Vercel."
-last_updated: "2026-04-03T23:47:18.608Z"
+category: "vercel-cron-jobs"
+subcategory: "cron-jobs"
+type: "guide"
 source: "https://vercel.com/docs/cron-jobs"
---------------------------------------------------------------------------------
+tags: ["cron", "jobs", "how-cron-jobs-work", "cron-expressions", "validate-cron-expressions", "cron-expression-limitations"]
+related: ["0311-managing-cron-jobs.md", "0313-getting-started-with-cron-jobs.md", "0314-usage-pricing-for-cron-jobs.md"]
+last_updated: "2026-04-03T23:47:18.608Z"
+---
 
 # Cron Jobs
 

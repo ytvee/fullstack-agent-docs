@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0114"
 title: "Tool Calling"
 description: "Define tools the model can call using the OpenResponses API."
-last_updated: "2026-04-03T23:47:15.358Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses/tool-calling"
---------------------------------------------------------------------------------
+tags: ["openresponses", "tool-calling", "tool", "calling", "sdks-and-apis", "tool-call-response"]
+related: ["0100-tool-calls.md", "0108-tool-calls-2.md", "0111-provider-options-2.md"]
+last_updated: "2026-04-03T23:47:15.358Z"
+---
 
 # Tool Calling
 

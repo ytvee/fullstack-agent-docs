@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0617"
 title: "Upgrade an Integration"
 description: "Lean more about when you may need to upgrade your Integration."
-last_updated: "2026-04-03T23:47:23.730Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/upgrade-integration"
---------------------------------------------------------------------------------
+tags: ["upgrade-an-integration", "environment-variables", "deploy-button", "upgrade", "create-integration", "upgrade-integration"]
+related: ["0618-building-integrations-with-vercel-rest-api.md", "0613-native-integration-concepts.md", "0626-add-a-native-integration.md"]
+last_updated: "2026-04-03T23:47:23.730Z"
+---
 
 # Upgrade an Integration
 

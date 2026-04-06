@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0495"
 title: "Rolling out a new feature"
 description: "Create a feature flag, wire it into your application with the Flags SDK, and progressively enable it across environments using the Vercel CLI."
-last_updated: "2026-04-03T23:47:20.908Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/cli/roll-out-feature"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "feature-flags", "rolling", "out", "new", "feature"]
+related: ["0496-running-an-a-b-test.md", "0494-cleaning-up-after-a-full-rollout.md", "0507-getting-started-with-vercel-flags.md"]
+last_updated: "2026-04-03T23:47:20.908Z"
+---
 
 # Rolling out a new feature
 

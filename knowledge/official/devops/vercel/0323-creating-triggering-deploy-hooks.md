@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0323"
 title: "Creating & Triggering Deploy Hooks"
 description: "Learn how to create and trigger deploy hooks to integrate Vercel deployments with other systems."
-last_updated: "2026-04-03T23:47:18.763Z"
+category: "vercel-deployments"
+subcategory: "deploy-hooks"
+type: "guide"
 source: "https://vercel.com/docs/deploy-hooks"
---------------------------------------------------------------------------------
+tags: ["triggering", "deploy", "hooks", "creating-a-deploy-hook", "triggering-a-deploy-hook", "security"]
+related: ["0317-using-callbacks-with-the-deploy-button.md", "0343-deploying-to-vercel.md", "0319-using-environment-variables-with-the-deploy-button.md"]
+last_updated: "2026-04-03T23:47:18.763Z"
+---
 
 # Creating & Triggering Deploy Hooks
 

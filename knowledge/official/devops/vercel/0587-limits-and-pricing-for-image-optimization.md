@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0587"
 title: "Limits and Pricing for Image Optimization"
 description: "This page outlines information on the limits that are applicable when using Image Optimization, and the costs they can incur."
-last_updated: "2026-04-03T23:47:23.023Z"
+category: "vercel-image-optimization"
+subcategory: "image-optimization"
+type: "concept"
 source: "https://vercel.com/docs/image-optimization/limits-and-pricing"
---------------------------------------------------------------------------------
+tags: ["optimization", "limits-and-pricing", "pricing", "image-transformations", "image-cache-reads", "image-cache-writes"]
+related: ["0586-legacy-pricing-for-image-optimization.md", "0589-image-optimization-with-vercel.md", "0590-getting-started-with-image-optimization.md"]
+last_updated: "2026-04-03T23:47:23.023Z"
+---
 
 # Limits and Pricing for Image Optimization
 

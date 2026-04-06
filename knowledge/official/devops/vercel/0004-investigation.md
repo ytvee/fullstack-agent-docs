@@ -2,12 +2,12 @@
 id: "vercel-0004"
 title: "Investigation"
 description: "Let AI investigate your error alerts to help you debug faster"
-category: "vercel-integrations"
-subcategory: "integrations"
-type: "guide"
+category: "vercel-agent"
+subcategory: "agent"
+type: "concept"
 source: "https://vercel.com/docs/agent/investigation"
-tags: ["ai-agent", "error-alerts", "anomaly-detection", "debugging", "observability-plus"]
-related: ["0005-vercel-agent.md", "0658-observability-plus.md", "0008-vercel-agent-pricing.md"]
+tags: ["alerts", "investigation", "enable-agent-investigations", "pricing", "disable-agent-investigation"]
+related: ["0005-vercel-agent.md", "0003-installation.md", "0008-vercel-agent-pricing.md"]
 last_updated: "2026-04-03T23:47:13.576Z"
 ---
 

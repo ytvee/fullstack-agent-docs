@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0340"
 title: "Accessing Build Logs"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:18.993Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments/logs"
---------------------------------------------------------------------------------
+tags: ["accessing-build-logs", "accessing", "logs", "how-build-logs-work", "link-to-build-logs", "save-logs"]
+related: ["0339-accessing-deployments-through-generated-urls.md", "0349-troubleshooting-build-errors.md", "0343-deploying-to-vercel.md"]
+last_updated: "2026-04-03T23:47:18.993Z"
+---
 
 # Accessing Build Logs
 

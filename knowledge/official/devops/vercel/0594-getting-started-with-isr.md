@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0594"
 title: "Getting started with ISR"
 description: "Learn how to set up Incremental Static Regeneration (ISR) with time-based and on-demand revalidation."
-last_updated: "2026-04-03T23:47:23.337Z"
+category: "vercel-frameworks"
+subcategory: "incremental-static-regeneration"
+type: "guide"
 source: "https://vercel.com/docs/incremental-static-regeneration/quickstart"
---------------------------------------------------------------------------------
+tags: ["getting-started-with-isr", "isr", "quickstart", "prerequisites", "time-based-revalidation", "example"]
+related: ["0593-incremental-static-regeneration-isr.md", "0595-request-collapsing.md", "0592-isr-usage-and-pricing.md"]
+last_updated: "2026-04-03T23:47:23.337Z"
+---
 
 # Getting started with ISR
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0112"
 title: "Streaming"
 description: "Stream responses token by token using the OpenResponses API."
-last_updated: "2026-04-03T23:47:15.345Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses/streaming"
---------------------------------------------------------------------------------
+tags: ["openresponses", "streaming", "sdks-and-apis", "streaming-events", "setup", "how-to"]
+related: ["0109-image-input.md", "0110-openresponses-api.md", "0115-sdks-apis.md"]
+last_updated: "2026-04-03T23:47:15.345Z"
+---
 
 # Streaming
 

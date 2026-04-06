@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "api-reference"
 source: "https://vercel.com/docs/cli/remove"
-tags: ["cli-command", "deployment-removal", "deployment-management"]
-related: ["0341-managing-deployments.md", "0336-deployment-retention.md", "0204-vercel-redeploy.md"]
+tags: ["remove", "usage", "extended-usage", "unique-options", "safe", "yes"]
+related: ["0178-vercel-domains.md", "0191-vercel-link.md", "0170-vercel-cache.md"]
 last_updated: "2026-04-03T23:47:17.600Z"
 ---
 

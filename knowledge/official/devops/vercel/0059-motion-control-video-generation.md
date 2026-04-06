@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0059"
 title: "Motion Control Video Generation"
 description: "Transfer motion from a reference video to a character image using KlingAI through AI Gateway."
-last_updated: "2026-04-03T23:47:14.547Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/video-generation/motion-control"
---------------------------------------------------------------------------------
+tags: ["motion", "control", "video", "generation", "capabilities", "video-generation"]
+related: ["0058-image-to-video-generation.md", "0061-reference-to-video-generation.md", "0062-text-to-video-generation.md"]
+last_updated: "2026-04-03T23:47:14.547Z"
+---
 
 # Motion Control Video Generation
 

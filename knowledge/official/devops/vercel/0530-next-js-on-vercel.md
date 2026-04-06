@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0530"
 title: "Next.js on Vercel"
 description: "Vercel is the native Next.js platform, designed to enhance the Next.js experience."
-last_updated: "2026-04-03T23:47:21.548Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/full-stack/nextjs"
---------------------------------------------------------------------------------
+tags: ["next-js-on-vercel", "streaming", "image-optimization", "isr", "nextjs", "next-js"]
+related: ["0534-sveltekit-on-vercel.md", "0536-vite-nitro-on-vercel.md", "0524-astro-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.548Z"
+---
 
 # Next.js on Vercel
 

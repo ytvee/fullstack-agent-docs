@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0554"
 title: "Getting started with Vercel Functions"
 description: "Build your first Vercel Function in a few steps."
-last_updated: "2026-04-03T23:47:21.932Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/quickstart"
---------------------------------------------------------------------------------
+tags: ["quickstart", "prerequisites", "create-a-vercel-function", "next-steps", "setup"]
+related: ["0553-vercel-functions.md", "0541-configuring-in-function-concurrency.md", "0542-configuring-maximum-duration-for-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.932Z"
+---
 
 # Getting started with Vercel Functions
 

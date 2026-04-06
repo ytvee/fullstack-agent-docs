@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0268"
 title: "NEXTJS_USE_NEXT_SCRIPT"
 description: "Requires that next/script is used for all scripts."
-last_updated: "2026-04-03T23:47:18.274Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_USE_NEXT_SCRIPT"
---------------------------------------------------------------------------------
+tags: ["nextjs", "next", "script", "rules", "nextjs-use-next-script", "examples"]
+related: ["0267-nextjs-use-next-image.md", "0266-nextjs-use-next-font.md", "0242-eslint-next-rules-required.md"]
+last_updated: "2026-04-03T23:47:18.274Z"
+---
 
 # NEXTJS_USE_NEXT_SCRIPT
 

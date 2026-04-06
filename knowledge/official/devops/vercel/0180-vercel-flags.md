@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0180"
 title: "vercel flags"
 description: "Learn how to manage feature flags for your Vercel project using the vercel flags CLI command."
-last_updated: "2026-04-03T23:47:17.333Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/flags"
---------------------------------------------------------------------------------
+tags: ["feature-flags", "flags", "usage", "extended-usage", "adding-flags", "opening-flags"]
+related: ["0170-vercel-cache.md", "0179-vercel-env.md", "0191-vercel-link.md"]
+last_updated: "2026-04-03T23:47:17.333Z"
+---
 
 # vercel flags
 

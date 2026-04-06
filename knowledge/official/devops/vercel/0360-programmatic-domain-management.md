@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0360"
 title: "Programmatic Domain Management"
 description: "Programmatically search, price, purchase, renew, and manage domains with Vercel"
-last_updated: "2026-04-03T23:47:19.302Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "concept"
 source: "https://vercel.com/docs/domains/registrar-api"
---------------------------------------------------------------------------------
+tags: ["programmatic", "domain", "management", "registrar-api", "getting-started-with-the-api", "catalog-and-pricing"]
+related: ["0372-managing-domain-renewals-and-redemptions.md", "0355-domain-connect.md", "0365-adding-configuring-a-custom-domain.md"]
+last_updated: "2026-04-03T23:47:19.302Z"
+---
 
 # Programmatic Domain Management
 

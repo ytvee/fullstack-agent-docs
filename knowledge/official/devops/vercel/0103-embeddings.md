@@ -4,10 +4,10 @@ title: "Embeddings"
 description: "Generate vector embeddings from input text for semantic search, similarity matching, and RAG applications."
 category: "vercel-ai-gateway"
 subcategory: "ai-gateway"
-type: "api-reference"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/embeddings"
-tags: ["vector-embeddings", "semantic-search", "rag", "similarity-matching"]
-related: ["0105-openai-chat-completions-api.md", "0102-chat-completions.md", "0115-sdks-apis.md"]
+tags: ["embeddings", "openai", "sdks-and-apis", "openai-chat-completions"]
+related: ["0104-image-generation-2.md", "0101-advanced-configuration.md", "0107-structured-outputs-2.md"]
 last_updated: "2026-04-03T23:47:15.253Z"
 ---
 

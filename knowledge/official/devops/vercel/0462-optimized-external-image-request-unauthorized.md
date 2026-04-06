@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0462"
 title: "OPTIMIZED_EXTERNAL_IMAGE_REQUEST_UNAUTHORIZED"
 description: "The external image request is unauthorized. This is a request error."
-last_updated: "2026-04-03T23:47:20.576Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/OPTIMIZED_EXTERNAL_IMAGE_REQUEST_UNAUTHORIZED"
---------------------------------------------------------------------------------
+tags: ["optimized", "external", "request", "unauthorized", "troubleshoot", "setup"]
+related: ["0460-optimized-external-image-request-failed.md", "0461-optimized-external-image-request-invalid.md", "0445-internal-optimized-image-request-failed.md"]
+last_updated: "2026-04-03T23:47:20.576Z"
+---
 
 # OPTIMIZED_EXTERNAL_IMAGE_REQUEST_UNAUTHORIZED
 

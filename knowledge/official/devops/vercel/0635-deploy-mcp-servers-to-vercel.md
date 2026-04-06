@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0635"
 title: "Deploy MCP servers to Vercel"
 description: "Learn how to deploy Model Context Protocol (MCP) servers on Vercel with OAuth authentication and efficient scaling."
-last_updated: "2026-04-03T23:47:24.057Z"
+category: "vercel-mcp"
+subcategory: "mcp"
+type: "guide"
 source: "https://vercel.com/docs/mcp/deploy-mcp-servers-to-vercel"
---------------------------------------------------------------------------------
+tags: ["deploy", "servers", "deploy-mcp-servers-to-vercel", "test-the-mcp-server-locally", "configure-an-mcp-host", "enabling-authorization"]
+related: ["0636-model-context-protocol.md", "0523-xmcp-on-vercel.md", "0196-vercel-mcp.md"]
+last_updated: "2026-04-03T23:47:24.057Z"
+---
 
 # Deploy MCP servers to Vercel
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0435"
 title: "INTERNAL_EDGE_FUNCTION_INVOCATION_FAILED"
 description: "The request for a Edge Function was not completed successfully due to an internal error."
-last_updated: "2026-04-03T23:47:20.435Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_EDGE_FUNCTION_INVOCATION_FAILED"
---------------------------------------------------------------------------------
+tags: ["internal", "edge", "function", "invocation", "failed", "troubleshoot"]
+related: ["0421-edge-function-invocation-failed.md", "0455-middleware-invocation-failed.md", "0436-internal-edge-function-invocation-timeout.md"]
+last_updated: "2026-04-03T23:47:20.435Z"
+---
 
 # INTERNAL_EDGE_FUNCTION_INVOCATION_FAILED
 

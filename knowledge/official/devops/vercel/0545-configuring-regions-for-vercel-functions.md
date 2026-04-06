@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0545"
 title: "Configuring regions for Vercel Functions"
 description: "Learn how to configure regions for Vercel Functions."
-last_updated: "2026-04-03T23:47:21.780Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/configuring-functions/region"
---------------------------------------------------------------------------------
+tags: ["nodejs", "regions", "configuring-functions", "region", "setting-your-default-region", "dashboard"]
+related: ["0544-configuring-functions.md", "0542-configuring-maximum-duration-for-vercel-functions.md", "0546-configuring-the-runtime-for-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.780Z"
+---
 
 # Configuring regions for Vercel Functions
 

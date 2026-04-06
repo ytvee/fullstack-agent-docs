@@ -6,8 +6,8 @@ category: "vercel-conformance"
 subcategory: "conformance"
 type: "concept"
 source: "https://vercel.com/docs/conformance/rules/WORKSPACE_MISSING_CONFORMANCE_SCRIPT"
-tags: ["conformance-rules", "workspace", "package-json", "scripts", "monorepo"]
-related: ["0304-workspace-missing-package-json.md", "0305-conformance-rules.md", "0237-getting-started-with-conformance.md"]
+tags: ["workspace", "missing", "script", "rules", "example", "how-to-fix"]
+related: ["0304-workspace-missing-package-json.md", "0301-typescript-configuration.md", "0302-typescript-only.md"]
 last_updated: "2026-04-03T23:47:18.459Z"
 ---
 

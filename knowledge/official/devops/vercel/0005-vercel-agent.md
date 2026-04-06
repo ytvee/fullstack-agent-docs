@@ -2,12 +2,12 @@
 id: "vercel-0005"
 title: "Vercel Agent"
 description: "AI-powered development tools that speed up your workflow and help resolve issues faster"
-category: "vercel-integrations"
-subcategory: "integrations"
+category: "vercel-agent"
+subcategory: "agent"
 type: "concept"
 source: "https://vercel.com/docs/agent"
-tags: ["ai-agent", "code-review", "incident-response", "ai-cloud", "automation"]
-related: ["0006-code-review.md", "0004-investigation.md", "0008-vercel-agent-pricing.md"]
+tags: ["features", "code-review", "investigation", "installation", "getting-started", "pricing"]
+related: ["0003-installation.md", "0004-investigation.md", "0006-code-review.md"]
 last_updated: "2026-04-03T23:47:13.591Z"
 ---
 

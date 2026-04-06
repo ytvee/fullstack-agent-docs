@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0559"
 title: "Advanced Node.js Usage"
 description: "Learn about advanced configurations for Vercel functions on Vercel."
-last_updated: "2026-04-03T23:47:21.998Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "concept"
 source: "https://vercel.com/docs/functions/runtimes/node-js/advanced-node-configuration"
---------------------------------------------------------------------------------
+tags: ["advanced-node-js-usage", "nodejs", "node-js", "runtimes", "advanced-node-configuration"]
+related: ["0561-using-the-node-js-runtime-with-vercel-functions.md", "0560-supported-node-js-versions.md", "0549-vercel-functions-api-reference-node-js.md"]
+last_updated: "2026-04-03T23:47:21.998Z"
+---
 
 # Advanced Node.js Usage
 

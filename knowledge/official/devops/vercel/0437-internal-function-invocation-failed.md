@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0437"
 title: "INTERNAL_FUNCTION_INVOCATION_FAILED"
 description: "The internal invocation of a function failed. This is Vercel"
-last_updated: "2026-04-03T23:47:20.449Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_FUNCTION_INVOCATION_FAILED"
---------------------------------------------------------------------------------
+tags: ["internal", "function", "invocation", "failed", "troubleshoot", "setup"]
+related: ["0421-edge-function-invocation-failed.md", "0438-internal-function-invocation-timeout.md", "0435-internal-edge-function-invocation-failed.md"]
+last_updated: "2026-04-03T23:47:20.449Z"
+---
 
 # INTERNAL_FUNCTION_INVOCATION_FAILED
 

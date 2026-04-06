@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0088"
 title: "Models & Providers"
 description: "Learn about models and providers for the AI Gateway."
-last_updated: "2026-04-03T23:47:15.001Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/models-and-providers"
---------------------------------------------------------------------------------
+tags: ["models", "providers", "models-and-providers", "specifying-the-model", "embedding-models", "dynamic-model-discovery"]
+related: ["0087-model-variants.md", "0090-provider-options.md", "0085-automatic-caching.md"]
+last_updated: "2026-04-03T23:47:15.001Z"
+---
 
 # Models & Providers
 

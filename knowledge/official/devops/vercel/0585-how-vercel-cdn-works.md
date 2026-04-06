@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0585"
 title: "How Vercel CDN works"
 description: "Learn how Vercel"
-last_updated: "2026-04-03T23:47:22.529Z"
+category: "vercel-caching"
+subcategory: "how-vercel-cdn-works"
+type: "guide"
 source: "https://vercel.com/docs/how-vercel-cdn-works"
---------------------------------------------------------------------------------
+tags: ["cdn", "works", "ingress-layer", "firewall-layer", "routing-layer", "traffic-management-layer"]
+related: ["0584-vercel-cdn-compression.md", "0149-vercel-cdn-cache.md", "0150-purging-vercel-cdn-cache.md"]
+last_updated: "2026-04-03T23:47:22.529Z"
+---
 
 # How Vercel CDN works
 

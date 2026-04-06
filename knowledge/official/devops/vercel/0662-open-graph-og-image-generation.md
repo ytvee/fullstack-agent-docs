@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0662"
 title: "Open Graph (OG) Image Generation"
 description: "Learn how to optimize social media image generation through the Open Graph Protocol and @vercel/og library."
-last_updated: "2026-04-03T23:47:24.759Z"
+category: "vercel-og-image-generation"
+subcategory: "og-image-generation"
+type: "guide"
 source: "https://vercel.com/docs/og-image-generation"
---------------------------------------------------------------------------------
+tags: ["open", "graph", "og", "generation", "benefits", "supported-features"]
+related: ["0661-vercel-og-reference.md", "0660-og-image-generation-examples.md", "0342-inspecting-your-open-graph-metadata.md"]
+last_updated: "2026-04-03T23:47:24.759Z"
+---
 
 # Open Graph (OG) Image Generation
 

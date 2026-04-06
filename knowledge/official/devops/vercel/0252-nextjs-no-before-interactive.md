@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0252"
 title: "NEXTJS_NO_BEFORE_INTERACTIVE"
 description: "Requires review of usage of the beforeInteractive strategy in Script (next/script) elements."
-last_updated: "2026-04-03T23:47:18.163Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_NO_BEFORE_INTERACTIVE"
---------------------------------------------------------------------------------
+tags: ["nextjs", "no", "before", "interactive", "rules", "nextjs-no-before-interactive"]
+related: ["0259-nextjs-no-turbo-cache.md", "0275-no-fetch-from-middleware.md", "0268-nextjs-use-next-script.md"]
+last_updated: "2026-04-03T23:47:18.163Z"
+---
 
 # NEXTJS_NO_BEFORE_INTERACTIVE
 

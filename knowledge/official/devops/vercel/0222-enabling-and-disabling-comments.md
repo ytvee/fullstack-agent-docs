@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0222"
 title: "Enabling and Disabling Comments"
 description: "Learn when and where Comments are available, and how to enable and disable Comments at the account, project, and session or interface levels."
-last_updated: "2026-04-03T23:47:17.932Z"
+category: "vercel-comments"
+subcategory: "comments"
+type: "guide"
 source: "https://vercel.com/docs/comments/how-comments-work"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "enabling", "disabling", "how-comments-work", "at-the-account-level", "at-the-project-level"]
+related: ["0223-integrations-for-comments.md", "0224-managing-comments-on-preview-deployments.md", "0226-using-comments-with-preview-deployments.md"]
+last_updated: "2026-04-03T23:47:17.932Z"
+---
 
 # Enabling and Disabling Comments
 

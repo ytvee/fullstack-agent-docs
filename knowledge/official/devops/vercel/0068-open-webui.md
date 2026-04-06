@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0068"
 title: "Open WebUI"
 description: "Use Open WebUI with the AI Gateway."
-last_updated: "2026-04-03T23:47:14.735Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/chat-platforms/open-webui"
---------------------------------------------------------------------------------
+tags: ["open", "web", "ui", "chat-platforms", "open-webui", "configuring-open-webui"]
+related: ["0070-chat-platforms.md", "0069-openclaw-clawdbot.md", "0066-chatbox.md"]
+last_updated: "2026-04-03T23:47:14.735Z"
+---
 
 # Open WebUI
 

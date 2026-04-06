@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0127"
 title: "Redacting Sensitive Data from Web Analytics Events"
 description: "Learn how to redact sensitive data from your Web Analytics events."
-last_updated: "2026-04-03T23:47:15.825Z"
+category: "vercel-analytics"
+subcategory: "analytics"
+type: "guide"
 source: "https://vercel.com/docs/analytics/redacting-sensitive-data"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "redacting", "sensitive", "data", "web", "events"]
+related: ["0128-vercel-web-analytics-troubleshooting.md", "0126-getting-started-with-vercel-web-analytics.md", "0129-using-web-analytics.md"]
+last_updated: "2026-04-03T23:47:15.825Z"
+---
 
 # Redacting Sensitive Data from Web Analytics Events
 

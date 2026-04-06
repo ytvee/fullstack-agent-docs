@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0264"
 title: "NEXTJS_UNNEEDED_GET_SERVER_SIDE_PROPS"
 description: "Catches usages of getServerSideProps that could use static rendering instead, improving the performance of those pages."
-last_updated: "2026-04-03T23:47:18.229Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_UNNEEDED_GET_SERVER_SIDE_PROPS"
---------------------------------------------------------------------------------
+tags: ["nextjs", "unneeded", "get", "server", "side", "props"]
+related: ["0256-nextjs-no-get-initial-props.md", "0255-nextjs-no-fetch-in-server-props.md", "0242-eslint-next-rules-required.md"]
+last_updated: "2026-04-03T23:47:18.229Z"
+---
 
 # NEXTJS_UNNEEDED_GET_SERVER_SIDE_PROPS
 

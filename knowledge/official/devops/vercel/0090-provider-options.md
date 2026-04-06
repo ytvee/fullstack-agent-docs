@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0090"
 title: "Provider Options"
 description: "Configure provider routing, ordering, and fallback behavior in Vercel AI Gateway"
-last_updated: "2026-04-03T23:47:15.049Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/models-and-providers/provider-options"
---------------------------------------------------------------------------------
+tags: ["provider", "options", "models-and-providers", "provider-options", "automatic-caching", "provider-timeouts"]
+related: ["0091-provider-timeouts.md", "0111-provider-options-2.md", "0085-automatic-caching.md"]
+last_updated: "2026-04-03T23:47:15.049Z"
+---
 
 # Provider Options
 

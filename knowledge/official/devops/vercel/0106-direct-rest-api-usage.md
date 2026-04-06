@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0106"
 title: "Direct REST API Usage"
 description: "Use the AI Gateway API directly without client libraries using curl and fetch."
-last_updated: "2026-04-03T23:47:15.293Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/rest-api"
---------------------------------------------------------------------------------
+tags: ["direct-rest-api-usage", "tool-calling", "streaming", "openai", "direct", "rest"]
+related: ["0108-tool-calls-2.md", "0117-openai-responses-api.md", "0105-openai-chat-completions-api.md"]
+last_updated: "2026-04-03T23:47:15.293Z"
+---
 
 # Direct REST API Usage
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0429"
 title: "INFINITE_LOOP_DETECTED"
 description: "An infinite loop was detected within the application."
-last_updated: "2026-04-03T23:47:20.415Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INFINITE_LOOP_DETECTED"
---------------------------------------------------------------------------------
+tags: ["infinite", "loop", "detected", "infinite-loop-detected", "troubleshoot", "setup"]
+related: ["0421-edge-function-invocation-failed.md", "0455-middleware-invocation-failed.md", "0410-deployment-blocked.md"]
+last_updated: "2026-04-03T23:47:20.415Z"
+---
 
 # INFINITE_LOOP_DETECTED
 

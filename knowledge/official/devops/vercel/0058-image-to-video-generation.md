@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0058"
 title: "Image-to-Video Generation"
 description: "Animate static images into videos using Google Veo, KlingAI, Wan, Grok Imagine Video, or ByteDance Seedance through AI Gateway."
-last_updated: "2026-04-03T23:47:14.535Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/video-generation/image-to-video"
---------------------------------------------------------------------------------
+tags: ["image-to-video-generation", "video", "generation", "capabilities", "video-generation", "image-to-video"]
+related: ["0062-text-to-video-generation.md", "0061-reference-to-video-generation.md", "0060-video-generation.md"]
+last_updated: "2026-04-03T23:47:14.535Z"
+---
 
 # Image-to-Video Generation
 

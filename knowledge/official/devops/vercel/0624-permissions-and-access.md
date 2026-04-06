@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0624"
 title: "Permissions and Access"
 description: "Learn how to manage project access and added products for your integrations."
-last_updated: "2026-04-03T23:47:23.848Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/install-an-integration/manage-integrations-reference"
---------------------------------------------------------------------------------
+tags: ["permissions-and-access", "permissions", "access", "install-an-integration", "permission-types", "manage-project-access"]
+related: ["0626-add-a-native-integration.md", "0625-install-an-integration.md", "0623-interact-with-integrations-using-agent-tools.md"]
+last_updated: "2026-04-03T23:47:23.848Z"
+---
 
 # Permissions and Access
 

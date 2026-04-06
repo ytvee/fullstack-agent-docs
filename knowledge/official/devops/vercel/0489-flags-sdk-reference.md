@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0489"
 title: "Flags SDK Reference"
 description: "API reference for the Flags SDK for Next.js and SvelteKit."
-last_updated: "2026-04-03T23:47:20.781Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "api-reference"
 source: "https://vercel.com/docs/flags/flags-sdk-reference"
---------------------------------------------------------------------------------
+tags: ["flags-explorer", "sveltekit", "nextjs", "sdk", "flags-sdk-reference", "key-features"]
+related: ["0509-using-the-flags-sdk-with-vercel-flags.md", "0488-reference.md", "0497-setting-up-flags-explorer.md"]
+last_updated: "2026-04-03T23:47:20.781Z"
+---
 
 # Flags SDK Reference
 

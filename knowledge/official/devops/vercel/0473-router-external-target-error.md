@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0473"
 title: "ROUTER_EXTERNAL_TARGET_ERROR"
 description: "Error occurred while routing to an external target. This is a routing error."
-last_updated: "2026-04-03T23:47:20.636Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/ROUTER_EXTERNAL_TARGET_ERROR"
---------------------------------------------------------------------------------
+tags: ["router", "external", "target", "error", "router-external-target-error", "troubleshoot"]
+related: ["0472-router-external-target-connection-error.md", "0474-router-external-target-handshake-error.md", "0471-router-cannot-match.md"]
+last_updated: "2026-04-03T23:47:20.636Z"
+---
 
 # ROUTER_EXTERNAL_TARGET_ERROR
 

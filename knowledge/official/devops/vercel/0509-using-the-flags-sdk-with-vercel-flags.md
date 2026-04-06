@@ -6,8 +6,8 @@ category: "vercel-flags"
 subcategory: "flags"
 type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/sdks/flags-sdk"
-tags: ["flags-sdk", "nextjs", "sveltekit", "typescript", "flags-explorer"]
-related: ["0511-sdks.md", "0508-using-the-core-library.md", "0507-getting-started-with-vercel-flags.md"]
+tags: ["flags-explorer", "sveltekit", "nextjs", "sdk", "sdks", "flags-sdk"]
+related: ["0489-flags-sdk-reference.md", "0511-sdks.md", "0510-using-openfeature-with-vercel-flags.md"]
 last_updated: "2026-04-03T23:47:21.071Z"
 ---
 

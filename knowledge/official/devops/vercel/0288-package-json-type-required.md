@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0288"
 title: "PACKAGE_JSON_TYPE_REQUIRED"
 description: "Requires that every package.json file has the type field set to encourage using ES Modules since commonjs is the default."
-last_updated: "2026-04-03T23:47:18.381Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/rules/PACKAGE_JSON_TYPE_REQUIRED"
---------------------------------------------------------------------------------
+tags: ["package", "json", "type", "required", "rules", "package-json-type-required"]
+related: ["0283-package-json-description-required.md", "0285-package-json-name-required.md", "0286-package-json-private-required.md"]
+last_updated: "2026-04-03T23:47:18.381Z"
+---
 
 # PACKAGE_JSON_TYPE_REQUIRED
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0083"
 title: "Text Generation Quickstart"
 description: "Generate and stream text responses using AI Gateway."
-last_updated: "2026-04-03T23:47:14.881Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/getting-started/text"
---------------------------------------------------------------------------------
+tags: ["text-generation-quickstart", "openresponses", "chat-completions", "openai", "anthropic", "text"]
+related: ["0044-custom-reporting.md", "0045-disallow-prompt-training.md", "0065-zero-data-retention.md"]
+last_updated: "2026-04-03T23:47:14.881Z"
+---
 
 # Text Generation Quickstart
 

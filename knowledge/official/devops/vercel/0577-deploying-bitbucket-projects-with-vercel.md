@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0577"
 title: "Deploying Bitbucket Projects with Vercel"
 description: "​Vercel for Bitbucket automatically deploys your Bitbucket projects with Vercel, providing Preview Deployment URLs, and automatic Custom Domain updates."
-last_updated: "2026-04-03T23:47:22.378Z"
+category: "vercel-deployments"
+subcategory: "git"
+type: "guide"
 source: "https://vercel.com/docs/git/vercel-for-bitbucket"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "custom-domains", "preview-deployments", "bitbucket", "projects", "supported-bitbucket-products"]
+related: ["0579-deploying-gitlab-projects-with-vercel.md", "0578-deploying-github-projects-with-vercel.md", "0575-deploying-git-repositories-with-vercel.md"]
+last_updated: "2026-04-03T23:47:22.378Z"
+---
 
 # Deploying Bitbucket Projects with Vercel
 

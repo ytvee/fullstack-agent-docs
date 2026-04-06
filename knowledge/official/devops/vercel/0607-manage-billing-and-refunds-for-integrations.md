@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0607"
 title: "Manage Billing and Refunds for Integrations"
 description: "Learn how billing works for native integrations, including invoice lifecycle, pricing models, and refunds."
-last_updated: "2026-04-03T23:47:23.442Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/billing"
---------------------------------------------------------------------------------
+tags: ["billing", "refunds", "create-integration", "billing-api-endpoints", "billing-models", "billing-periods-and-cycles"]
+related: ["0606-integration-approval-checklist.md", "0614-create-an-integration.md", "0611-native-integration-flows.md"]
+last_updated: "2026-04-03T23:47:23.442Z"
+---
 
 # Manage Billing and Refunds for Integrations
 

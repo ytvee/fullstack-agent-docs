@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0223"
 title: "Integrations for Comments"
 description: "Learn how Comments integrates with Git providers like GitHub, GitLab, and BitBucket, as well as Vercel"
-last_updated: "2026-04-03T23:47:17.827Z"
+category: "vercel-comments"
+subcategory: "comments"
+type: "guide"
 source: "https://vercel.com/docs/comments/integrations"
---------------------------------------------------------------------------------
+tags: ["integrations-for-comments", "integrations", "git-provider-integration", "use-the-vercel-slack-app", "commenting-in-slack", "setup"]
+related: ["0224-managing-comments-on-preview-deployments.md", "0226-using-comments-with-preview-deployments.md", "0222-enabling-and-disabling-comments.md"]
+last_updated: "2026-04-03T23:47:17.827Z"
+---
 
 # Integrations for Comments
 

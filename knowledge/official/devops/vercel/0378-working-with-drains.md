@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0378"
 title: "Working with Drains"
 description: "Drains collect logs, traces, speed insights, and analytics from your applications. Forward observability data to custom endpoints or popular services."
-last_updated: "2026-04-03T23:47:19.562Z"
+category: "vercel-observability"
+subcategory: "drains"
+type: "guide"
 source: "https://vercel.com/docs/drains"
---------------------------------------------------------------------------------
+tags: ["working-with-drains", "speed-insights", "getting-started-with-drains", "data-types", "data-type-references", "rest-api-schemas-property"]
+related: ["0384-using-drains.md", "0381-speed-insights-drains-reference.md", "0379-web-analytics-drains-reference.md"]
+last_updated: "2026-04-03T23:47:19.562Z"
+---
 
 # Working with Drains
 

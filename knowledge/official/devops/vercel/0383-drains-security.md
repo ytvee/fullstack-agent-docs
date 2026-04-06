@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0383"
 title: "Drains Security"
 description: "Learn how to secure your Drains endpoints with authentication and signature verification."
-last_updated: "2026-04-03T23:47:19.688Z"
+category: "vercel-observability"
+subcategory: "drains"
+type: "guide"
 source: "https://vercel.com/docs/drains/security"
---------------------------------------------------------------------------------
+tags: ["drains-security", "security", "secure-drains", "ip-address-visibility", "more-resources", "setup"]
+related: ["0378-working-with-drains.md", "0380-log-drains-reference.md", "0384-using-drains.md"]
+last_updated: "2026-04-03T23:47:19.688Z"
+---
 
 # Drains Security
 

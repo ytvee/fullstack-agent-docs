@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0466"
 title: "RANGE_MISSING_UNIT"
 description: "The unit identifier of the Range header in the request is missing. This is a request error."
-last_updated: "2026-04-03T23:47:20.588Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/RANGE_MISSING_UNIT"
---------------------------------------------------------------------------------
+tags: ["range", "missing", "unit", "range-missing-unit", "troubleshoot", "setup"]
+related: ["0468-range-unit-not-supported.md", "0481-too-many-ranges.md", "0444-internal-missing-response-from-cache.md"]
+last_updated: "2026-04-03T23:47:20.588Z"
+---
 
 # RANGE_MISSING_UNIT
 

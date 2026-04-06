@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0093"
 title: "Pricing"
 description: "Learn about pricing for AI Gateway."
-last_updated: "2026-04-03T23:47:15.082Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/pricing"
---------------------------------------------------------------------------------
+tags: ["pricing", "free-and-paid-tiers", "ai-gateway-rates", "finding-model-pricing", "using-a-custom-api-key", "configure-auto-top-up"]
+related: ["0057-usage-billing.md", "0070-chat-platforms.md", "0088-models-providers.md"]
+last_updated: "2026-04-03T23:47:15.082Z"
+---
 
 # Pricing
 

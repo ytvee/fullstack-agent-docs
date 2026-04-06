@@ -6,8 +6,8 @@ category: "vercel-environment-variables"
 subcategory: "environment-variables"
 type: "guide"
 source: "https://vercel.com/docs/environment-variables/shared-environment-variables"
-tags: ["team-level", "multi-project", "linked-projects", "override", "team-settings"]
-related: ["0403-environment-variables.md", "0402-managing-environment-variables.md", "0406-sensitive-environment-variables.md"]
+tags: ["shared", "environment", "variables", "shared-environment-variables", "linking-to-projects", "project-level-linking"]
+related: ["0405-rotating-environment-variables.md", "0400-framework-environment-variables.md", "0402-managing-environment-variables.md"]
 last_updated: "2026-04-03T23:47:20.289Z"
 ---
 

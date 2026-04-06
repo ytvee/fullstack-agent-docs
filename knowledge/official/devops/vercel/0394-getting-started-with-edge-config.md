@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0394"
 title: "Getting started with Edge Config"
 description: "Learn how to create an Edge Config store and read from it in your project."
-last_updated: "2026-04-03T23:47:19.937Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/get-started"
---------------------------------------------------------------------------------
+tags: ["edge", "config", "get-started", "prerequisites", "next-steps", "setup"]
+related: ["0387-using-edge-config-with-hypertune.md", "0390-using-edge-config-with-split.md", "0391-using-edge-config-with-statsig.md"]
+last_updated: "2026-04-03T23:47:19.937Z"
+---
 
 # Getting started with Edge Config
 

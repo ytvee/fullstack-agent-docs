@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0399"
 title: "Edit Mode"
 description: "Discover how Vercel"
-last_updated: "2026-04-03T23:47:20.112Z"
+category: "vercel-deployments"
+subcategory: "edit-mode"
+type: "guide"
 source: "https://vercel.com/docs/edit-mode"
---------------------------------------------------------------------------------
+tags: ["edit", "mode", "accessing-edit-mode", "content-link", "setup", "how-to"]
+related: ["0321-working-with-the-deploy-button.md", "0336-deployment-retention.md", "0352-using-the-directory-listing.md"]
+last_updated: "2026-04-03T23:47:20.112Z"
+---
 
 # Edit Mode
 

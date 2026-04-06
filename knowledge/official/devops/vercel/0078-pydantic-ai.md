@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0078"
 title: "Pydantic AI"
 description: "Learn how to integrate Vercel AI Gateway with Pydantic AI to access multiple AI models through a unified interface"
-last_updated: "2026-04-03T23:47:14.826Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations/pydantic-ai"
---------------------------------------------------------------------------------
+tags: ["pydantic", "ai", "ecosystem", "framework-integrations", "pydantic-ai", "getting-started"]
+related: ["0072-langchain.md", "0073-langfuse.md", "0074-litellm.md"]
+last_updated: "2026-04-03T23:47:14.826Z"
+---
 
 # Pydantic AI
 

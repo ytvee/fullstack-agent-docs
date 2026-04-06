@@ -1,10 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0234"
 title: "forbidden-properties"
-description: "Learn how to set custom rules to disallow reading from,
-writing to, and/or calling one or more properties"
-last_updated: "2026-04-03T23:47:17.984Z"
+description: "\"Learn how to set custom rules to disallow reading from,"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/custom-rules/forbidden-properties"
---------------------------------------------------------------------------------
+tags: ["forbidden", "properties", "custom-rules", "forbidden-properties", "when-to-use-this-rule-type", "configuring-this-rule-type"]
+related: ["0230-forbidden-code.md", "0231-forbidden-dependencies.md", "0232-forbidden-imports.md"]
+last_updated: "2026-04-03T23:47:17.984Z"
+---
 
 # forbidden-properties
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0678"
 title: "Vercel Pro Plan"
 description: "Learn about the Vercel Pro plan with credit-based billing, free viewer seats, and self-serve enterprise features for professional teams."
-last_updated: "2026-04-03T23:47:24.837Z"
+category: "vercel-plans"
+subcategory: "plans"
+type: "concept"
 source: "https://vercel.com/docs/plans/pro-plan"
---------------------------------------------------------------------------------
+tags: ["pro", "plan", "pro-plan", "pro-plan-features", "monthly-credit", "credit-and-usage-allocation"]
+related: ["0677-billing-faq-for-pro-plan.md", "0679-understanding-vercel.md", "0674-vercel-enterprise-plan.md"]
+last_updated: "2026-04-03T23:47:24.837Z"
+---
 
 # Vercel Pro Plan
 

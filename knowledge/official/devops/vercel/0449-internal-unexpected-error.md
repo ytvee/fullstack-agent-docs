@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0449"
 title: "INTERNAL_UNEXPECTED_ERROR"
 description: "An unexpected internal error occurred. This is a general internal error."
-last_updated: "2026-04-03T23:47:20.494Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_UNEXPECTED_ERROR"
---------------------------------------------------------------------------------
+tags: ["internal", "unexpected", "error", "internal-unexpected-error", "troubleshoot", "setup"]
+related: ["0443-internal-microfrontends-unexpected-error.md", "0430-internal-cache-error.md", "0441-internal-microfrontends-build-error.md"]
+last_updated: "2026-04-03T23:47:20.494Z"
+---
 
 # INTERNAL_UNEXPECTED_ERROR
 

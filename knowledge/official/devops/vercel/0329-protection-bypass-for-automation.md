@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0329"
 title: "Protection Bypass for Automation"
 description: "Learn how to bypass Vercel Deployment Protection for automated tooling (e.g. E2E testing)."
-last_updated: "2026-04-03T23:47:18.849Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "guide"
 source: "https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/protection-bypass-automation"
---------------------------------------------------------------------------------
+tags: ["protection", "bypass", "automation", "protection-bypass-automation", "how-it-works", "what-gets-bypassed"]
+related: ["0328-bypass-deployment-protection-for-testing-sharing-and-automation.md", "0326-deployment-protection-exceptions.md", "0325-automated-agent-access.md"]
+last_updated: "2026-04-03T23:47:18.849Z"
+---
 
 # Protection Bypass for Automation
 

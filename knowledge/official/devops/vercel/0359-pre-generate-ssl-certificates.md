@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0359"
 title: "Pre-Generate SSL Certificates"
 description: "test"
-last_updated: "2026-04-03T23:47:19.292Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "concept"
 source: "https://vercel.com/docs/domains/pre-generating-ssl-certs"
---------------------------------------------------------------------------------
+tags: ["dns", "ssl", "pre", "generate", "certificates", "pre-generating-ssl-certs"]
+related: ["0361-setting-up-a-custom-domain.md", "0354-uploading-custom-ssl-certificates.md", "0376-working-with-ssl-certificates.md"]
+last_updated: "2026-04-03T23:47:19.292Z"
+---
 
 # Pre-Generate SSL Certificates
 

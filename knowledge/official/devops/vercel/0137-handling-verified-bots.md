@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0137"
 title: "Handling Verified Bots"
 description: "Information about verified bots and their handling in BotID"
-last_updated: "2026-04-03T23:47:16.334Z"
+category: "vercel-security"
+subcategory: "botid"
+type: "concept"
 source: "https://vercel.com/docs/botid/verified-bots"
---------------------------------------------------------------------------------
+tags: ["handling-verified-bots", "handling", "verified", "bots", "verified-bots", "checking-for-verified-bots"]
+related: ["0132-advanced-botid-configuration.md", "0134-get-started-with-botid.md", "0136-botid.md"]
+last_updated: "2026-04-03T23:47:16.334Z"
+---
 
 # Handling Verified Bots
 

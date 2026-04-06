@@ -3,11 +3,11 @@ id: "vercel-0037"
 title: "Use Vercel"
 description: "Vercel MCP has tools available for searching docs along with managing teams, projects, and deployments."
 category: "vercel-integrations"
-subcategory: "integrations"
-type: "guide"
+subcategory: "agent-resources"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/vercel-mcp"
-tags: ["mcp", "model-context-protocol", "oauth", "ai-assistant", "project-management"]
-related: ["0038-tools.md", "0196-vercel-mcp.md", "0635-deploy-mcp-servers-to-vercel.md"]
+tags: ["use-vercel", "mcp", "what-is-vercel-mcp", "available-tools", "connecting-to-vercel-mcp", "supported-clients"]
+related: ["0038-tools.md", "0035-agent-resources.md", "0039-vercel-plugin-for-ai-coding-agents.md"]
 last_updated: "2026-04-03T23:47:14.149Z"
 ---
 

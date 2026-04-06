@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0667"
 title: "OpenID Connect (OIDC) Federation"
 description: "Secure the access to your backend using OIDC Federation to enable auto-generated, short-lived, and non-persistent credentials."
-last_updated: "2026-04-03T23:47:24.707Z"
+category: "vercel-security"
+subcategory: "oidc"
+type: "guide"
 source: "https://vercel.com/docs/oidc"
---------------------------------------------------------------------------------
+tags: ["open", "id", "connect", "federation", "benefits", "getting-started"]
+related: ["0668-oidc-federation-reference.md", "0663-connect-to-your-own-api.md", "0666-connect-to-google-cloud-platform-gcp.md"]
+last_updated: "2026-04-03T23:47:24.707Z"
+---
 
 # OpenID Connect (OIDC) Federation
 

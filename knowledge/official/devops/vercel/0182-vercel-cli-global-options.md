@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0182"
 title: "Vercel CLI Global Options"
 description: "Global options are commonly available to use with multiple Vercel CLI commands. Learn about Vercel CLI"
-last_updated: "2026-04-03T23:47:17.357Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/global-options"
---------------------------------------------------------------------------------
+tags: ["global", "options", "global-options", "current-working-directory", "debug", "global-config"]
+related: ["0191-vercel-link.md", "0196-vercel-mcp.md", "0200-vercel-project.md"]
+last_updated: "2026-04-03T23:47:17.357Z"
+---
 
 # Vercel CLI Global Options
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0371"
 title: "Removing a Domain from a Project"
 description: "Learn how to remove a domain from a Project and from your account completely with this guide."
-last_updated: "2026-04-03T23:47:19.473Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-domains/remove-a-domain"
---------------------------------------------------------------------------------
+tags: ["removing", "domain", "project", "working-with-domains", "remove-a-domain", "using-curl"]
+related: ["0373-transferring-domains-to-another-team-or-project.md", "0365-adding-configuring-a-custom-domain.md", "0367-assigning-a-domain-to-a-git-branch.md"]
+last_updated: "2026-04-03T23:47:19.473Z"
+---
 
 # Removing a Domain from a Project
 

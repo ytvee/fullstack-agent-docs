@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0614"
 title: "Create an Integration"
 description: "Learn how to create and manage your own integration for internal or public use with Vercel."
-last_updated: "2026-04-03T23:47:23.655Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration"
---------------------------------------------------------------------------------
+tags: ["create-an-integration", "create-integration", "creating-an-integration", "create-product-form-details", "after-integration-creation", "native-integrations"]
+related: ["0606-integration-approval-checklist.md", "0611-native-integration-flows.md", "0612-create-a-native-integration.md"]
+last_updated: "2026-04-03T23:47:23.655Z"
+---
 
 # Create an Integration
 

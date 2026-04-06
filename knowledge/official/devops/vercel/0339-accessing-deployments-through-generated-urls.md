@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0339"
 title: "Accessing Deployments through Generated URLs"
 description: "When you create a new deployment, Vercel will automatically generate a unique URL which you can use to access that particular deployment."
-last_updated: "2026-04-03T23:47:18.975Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "concept"
 source: "https://vercel.com/docs/deployments/generated-urls"
---------------------------------------------------------------------------------
+tags: ["preview-deployments", "accessing", "through", "generated", "urls", "generated-urls"]
+related: ["0344-preview-deployment-suffix.md", "0345-promoting-a-preview-deployment-to-production.md", "0348-sharing-a-preview-deployment.md"]
+last_updated: "2026-04-03T23:47:18.975Z"
+---
 
 # Accessing Deployments through Generated URLs
 

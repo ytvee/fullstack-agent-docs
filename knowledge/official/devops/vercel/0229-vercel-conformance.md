@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0229"
 title: "vercel-conformance"
 description: "Learn how Conformance improves collaboration, productivity, and software quality at scale."
-last_updated: "2026-04-03T23:47:17.900Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/cli"
---------------------------------------------------------------------------------
+tags: ["cli", "using-the-cli", "sub-commands", "audit", "init", "setup"]
+related: ["0305-conformance-rules.md", "0235-conformance-custom-rules.md", "0238-introduction-to-conformance.md"]
+last_updated: "2026-04-03T23:47:17.900Z"
+---
 
 # vercel-conformance
 

@@ -6,8 +6,8 @@ category: "vercel-environment-variables"
 subcategory: "environment-variables"
 type: "guide"
 source: "https://vercel.com/docs/environment-variables/rotating-secrets"
-tags: ["secrets-rotation", "api-keys", "security", "credentials", "redeploy"]
-related: ["0406-sensitive-environment-variables.md", "0403-environment-variables.md", "0402-managing-environment-variables.md"]
+tags: ["rotating", "environment", "variables", "rotating-secrets", "rotating-secrets-safely", "troubleshooting"]
+related: ["0407-shared-environment-variables.md", "0400-framework-environment-variables.md", "0401-managing-environment-variables-across-environments.md"]
 last_updated: "2026-04-03T23:47:20.260Z"
 ---
 

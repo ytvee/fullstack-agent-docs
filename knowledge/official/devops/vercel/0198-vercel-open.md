@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0198"
 title: "vercel open"
 description: "Learn how to open your current project in the Vercel Dashboard using the vercel open CLI command."
-last_updated: "2026-04-03T23:47:17.514Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/open"
---------------------------------------------------------------------------------
+tags: ["open", "usage", "how-it-works", "examples", "open-the-current-project", "troubleshooting"]
+related: ["0173-vercel-curl.md", "0185-vercel-httpstat.md", "0196-vercel-mcp.md"]
+last_updated: "2026-04-03T23:47:17.514Z"
+---
 
 # vercel open
 

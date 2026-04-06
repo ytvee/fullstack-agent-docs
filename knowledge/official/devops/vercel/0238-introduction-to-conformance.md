@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0238"
 title: "Introduction to Conformance"
 description: "Learn how Conformance improves collaboration, productivity, and software quality at scale."
-last_updated: "2026-04-03T23:47:18.040Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance"
---------------------------------------------------------------------------------
+tags: ["introduction-to-conformance", "getting-started", "conformance-rules", "conformance-allowlists", "customizing-conformance", "more-resources"]
+related: ["0235-conformance-custom-rules.md", "0305-conformance-rules.md", "0229-vercel-conformance.md"]
+last_updated: "2026-04-03T23:47:18.040Z"
+---
 
 # Introduction to Conformance
 

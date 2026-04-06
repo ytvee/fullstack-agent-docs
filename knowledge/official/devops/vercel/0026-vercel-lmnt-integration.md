@@ -3,11 +3,11 @@ id: "vercel-0026"
 title: "Vercel LMNT Integration"
 description: "Learn how to add LMNT connectable account integration with Vercel."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/lmnt"
-tags: ["text-to-speech", "voice-cloning", "low-latency-streaming", "connectable-account"]
-related: ["0023-vercel-elevenlabs-integration.md", "0028-build-with-ai-on-vercel.md", "0021-adding-a-provider.md"]
+tags: ["lmnt", "integrations-for-models", "use-cases", "getting-started", "prerequisites", "more-resources"]
+related: ["0029-vercel-perplexity-integration.md", "0030-vercel-pinecone-integration.md", "0031-vercel-replicate-integration.md"]
 last_updated: "2026-04-03T23:47:13.980Z"
 ---
 

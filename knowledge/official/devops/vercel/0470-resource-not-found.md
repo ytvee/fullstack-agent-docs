@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0470"
 title: "RESOURCE_NOT_FOUND"
 description: "This error signifies that a specified resource could not be located."
-last_updated: "2026-04-03T23:47:20.614Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/RESOURCE_NOT_FOUND"
---------------------------------------------------------------------------------
+tags: ["resource", "not", "found", "resource-not-found", "troubleshoot", "setup"]
+related: ["0458-not-found.md", "0413-deployment-not-found.md", "0476-sanbdox-not-found.md"]
+last_updated: "2026-04-03T23:47:20.614Z"
+---
 
 # RESOURCE_NOT_FOUND
 

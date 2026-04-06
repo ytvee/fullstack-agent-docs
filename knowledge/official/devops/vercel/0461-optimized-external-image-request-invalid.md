@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0461"
 title: "OPTIMIZED_EXTERNAL_IMAGE_REQUEST_INVALID"
 description: "The external image request is invalid. This is a request error."
-last_updated: "2026-04-03T23:47:20.573Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/OPTIMIZED_EXTERNAL_IMAGE_REQUEST_INVALID"
---------------------------------------------------------------------------------
+tags: ["optimized", "external", "request", "invalid", "troubleshoot", "setup"]
+related: ["0460-optimized-external-image-request-failed.md", "0462-optimized-external-image-request-unauthorized.md", "0445-internal-optimized-image-request-failed.md"]
+last_updated: "2026-04-03T23:47:20.573Z"
+---
 
 # OPTIMIZED_EXTERNAL_IMAGE_REQUEST_INVALID
 

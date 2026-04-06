@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0374"
 title: "Viewing & Searching Domains"
 description: "Learn how to view and search all registered domains that are assigned to Vercel Projects through the Vercel dashboard."
-last_updated: "2026-04-03T23:47:19.510Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-domains/view-and-search-domains"
---------------------------------------------------------------------------------
+tags: ["viewing", "searching", "working-with-domains", "view-and-search-domains", "viewing-domains", "searching-domains"]
+related: ["0370-working-with-domains.md", "0368-claiming-domain-ownership.md", "0372-managing-domain-renewals-and-redemptions.md"]
+last_updated: "2026-04-03T23:47:19.510Z"
+---
 
 # Viewing & Searching Domains
 

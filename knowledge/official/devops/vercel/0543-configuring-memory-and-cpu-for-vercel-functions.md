@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0543"
 title: "Configuring Memory and CPU for Vercel Functions"
 description: "Learn how to set the memory / CPU of a Vercel Function."
-last_updated: "2026-04-03T23:47:21.872Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/configuring-functions/memory"
---------------------------------------------------------------------------------
+tags: ["memory", "cpu", "configuring-functions", "memory-cpu-type", "memory-limits", "pricing"]
+related: ["0542-configuring-maximum-duration-for-vercel-functions.md", "0544-configuring-functions.md", "0545-configuring-regions-for-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.872Z"
+---
 
 # Configuring Memory and CPU for Vercel Functions
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0622"
 title: "Add a Connectable Account"
 description: "Learn how to connect Vercel to your third-party account."
-last_updated: "2026-04-03T23:47:23.823Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/install-an-integration/add-a-connectable-account"
---------------------------------------------------------------------------------
+tags: ["add", "connectable", "install-an-integration", "add-a-connectable-account", "manage-connectable-accounts", "integration"]
+related: ["0625-install-an-integration.md", "0626-add-a-native-integration.md", "0623-interact-with-integrations-using-agent-tools.md"]
+last_updated: "2026-04-03T23:47:23.823Z"
+---
 
 # Add a Connectable Account
 

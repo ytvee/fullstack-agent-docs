@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0244"
 title: "ESLINT_RULES_REQUIRED"
 description: "Requires that a workspace package is configured with required ESLint plugins and rules"
-last_updated: "2026-04-03T23:47:18.101Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/ESLINT_RULES_REQUIRED"
---------------------------------------------------------------------------------
+tags: ["eslint", "rules", "required", "eslint-rules-required", "example", "how-to-fix"]
+related: ["0243-eslint-react-rules-required.md", "0242-eslint-next-rules-required.md", "0241-eslint-configuration.md"]
+last_updated: "2026-04-03T23:47:18.101Z"
+---
 
 # ESLINT_RULES_REQUIRED
 

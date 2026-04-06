@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0191"
 title: "vercel link"
 description: "Learn how to link a local directory to a Vercel Project using the vercel link CLI command."
-last_updated: "2026-04-03T23:47:17.438Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/link"
---------------------------------------------------------------------------------
+tags: ["link", "usage", "extended-usage", "unique-options", "repo-and-x20", "yes"]
+related: ["0178-vercel-domains.md", "0206-vercel-remove.md", "0170-vercel-cache.md"]
+last_updated: "2026-04-03T23:47:17.438Z"
+---
 
 # vercel link
 

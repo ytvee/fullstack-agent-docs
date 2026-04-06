@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0612"
 title: "Create a Native Integration"
 description: "Learn how to create a product for your Vercel native integration"
-last_updated: "2026-04-03T23:47:23.589Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/marketplace-product"
---------------------------------------------------------------------------------
+tags: ["create-a-native-integration", "native", "create-integration", "marketplace-product", "requirements", "create-your-product"]
+related: ["0611-native-integration-flows.md", "0613-native-integration-concepts.md", "0614-create-an-integration.md"]
+last_updated: "2026-04-03T23:47:23.589Z"
+---
 
 # Create a Native Integration
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0484"
 title: "Error Codes"
 description: "Use this guide to find specific solutions and insights for common Vercel errors."
-last_updated: "2026-04-03T23:47:20.720Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors"
---------------------------------------------------------------------------------
+tags: ["error-codes", "error", "codes", "application-errors", "platform-errors", "setup"]
+related: ["0449-internal-unexpected-error.md", "0453-microfrontends-middleware-error.md", "0421-edge-function-invocation-failed.md"]
+last_updated: "2026-04-03T23:47:20.720Z"
+---
 
 # Error Codes
 

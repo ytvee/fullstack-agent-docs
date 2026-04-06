@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0364"
 title: "Working with DNS"
 description: "Learn how DNS works in order to properly configure your domain."
-last_updated: "2026-04-03T23:47:19.402Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-dns"
---------------------------------------------------------------------------------
+tags: ["dns", "working-with-dns", "dns-records", "dns-propagation", "dns-best-practices", "troubleshooting"]
+related: ["0363-troubleshooting-domains.md", "0355-domain-connect.md", "0361-setting-up-a-custom-domain.md"]
+last_updated: "2026-04-03T23:47:19.402Z"
+---
 
 # Working with DNS
 

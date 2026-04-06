@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0186"
 title: "vercel init"
 description: "Learn how to initialize Vercel supported framework examples locally using the vercel init CLI command."
-last_updated: "2026-04-03T23:47:17.381Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/init"
---------------------------------------------------------------------------------
+tags: ["init", "usage", "extended-usage", "unique-options", "force", "global-options"]
+related: ["0177-vercel-dns.md", "0178-vercel-domains.md", "0196-vercel-mcp.md"]
+last_updated: "2026-04-03T23:47:17.381Z"
+---
 
 # vercel init
 

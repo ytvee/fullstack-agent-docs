@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0591"
 title: "Incremental Migration to Vercel"
 description: "Learn how to migrate your app or website to Vercel with minimal risk and high impact."
-last_updated: "2026-04-03T23:47:23.056Z"
+category: "vercel-deployments"
+subcategory: "incremental-migration"
+type: "guide"
 source: "https://vercel.com/docs/incremental-migration"
---------------------------------------------------------------------------------
+tags: ["incremental", "migration", "vertical-migration", "horizontal-migration", "hybrid-migration", "implementation-approaches"]
+related: ["0341-managing-deployments.md", "0335-deployment-protection-on-vercel.md", "0345-promoting-a-preview-deployment-to-production.md"]
+last_updated: "2026-04-03T23:47:23.056Z"
+---
 
 # Incremental Migration to Vercel
 

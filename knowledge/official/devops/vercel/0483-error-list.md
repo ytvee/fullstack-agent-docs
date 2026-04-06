@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0483"
 title: "Error List"
 description: "You may encounter a variety of errors when you interact with the Vercel platform. This section focuses on errors that can happen when you interact with the Vercel Dashboard."
-last_updated: "2026-04-03T23:47:20.717Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/error-list"
---------------------------------------------------------------------------------
+tags: ["error", "error-list", "missing-public-directory", "missing-build-script", "maximum-team-member-requests", "blocked-scopes"]
+related: ["0431-internal-cache-key-too-long.md", "0420-dns-hostname-server-error.md", "0454-microfrontends-missing-fallback-error.md"]
+last_updated: "2026-04-03T23:47:20.717Z"
+---
 
 # Error List
 

@@ -4,10 +4,10 @@ title: "Koa on Vercel"
 description: "Deploy Koa applications to Vercel with zero configuration."
 category: "vercel-frameworks"
 subcategory: "frameworks"
-type: "guide"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/backend/koa"
-tags: ["koa", "nodejs", "middleware", "backend", "zero-config"]
-related: ["0522-backends-on-vercel.md", "0514-express-on-vercel.md", "0516-fastify-on-vercel.md"]
+tags: ["koa-on-vercel", "koa", "backend", "koa-entrypoint-detection", "local-development", "deploying-the-application"]
+related: ["0516-fastify-on-vercel.md", "0520-nestjs-on-vercel.md", "0514-express-on-vercel.md"]
 last_updated: "2026-04-03T23:47:21.183Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0454"
 title: "MICROFRONTENDS_MISSING_FALLBACK_ERROR"
 description: "The microfrontend request did not have a fallback for the environment."
-last_updated: "2026-04-03T23:47:20.522Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/MICROFRONTENDS_MISSING_FALLBACK_ERROR"
---------------------------------------------------------------------------------
+tags: ["microfrontends", "missing", "fallback", "error", "troubleshoot", "setup"]
+related: ["0441-internal-microfrontends-build-error.md", "0443-internal-microfrontends-unexpected-error.md", "0453-microfrontends-middleware-error.md"]
+last_updated: "2026-04-03T23:47:20.522Z"
+---
 
 # MICROFRONTENDS_MISSING_FALLBACK_ERROR
 

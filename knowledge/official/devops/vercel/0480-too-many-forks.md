@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0480"
 title: "TOO_MANY_FORKS"
 description: "An error occurred in the application when matching too many conditional routes. You cannot have more than 5 \"
-last_updated: "2026-04-03T23:47:20.663Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/TOO_MANY_FORKS"
---------------------------------------------------------------------------------
+tags: ["too", "many", "forks", "too-many-forks", "setup", "how-to"]
+related: ["0481-too-many-ranges.md", "0479-too-many-filesystem-checks.md", "0425-function-invocation-timeout.md"]
+last_updated: "2026-04-03T23:47:20.663Z"
+---
 
 # TOO_MANY_FORKS
 

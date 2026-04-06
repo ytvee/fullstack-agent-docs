@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0478"
 title: "SANBDOX_STOPPED"
 description: "The Sandbox was stopped and is no longer reachable. This is a platform error."
-last_updated: "2026-04-03T23:47:20.655Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/SANDBOX_STOPPED"
---------------------------------------------------------------------------------
+tags: ["sanbdox-stopped", "sanbdox", "stopped", "sandbox-stopped", "troubleshoot", "setup"]
+related: ["0476-sanbdox-not-found.md", "0410-deployment-blocked.md", "0413-deployment-not-found.md"]
+last_updated: "2026-04-03T23:47:20.655Z"
+---
 
 # SANBDOX_STOPPED
 

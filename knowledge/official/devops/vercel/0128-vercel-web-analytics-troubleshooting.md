@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0128"
 title: "Vercel Web Analytics Troubleshooting"
 description: "Learn how to troubleshoot common issues with Vercel Web Analytics."
-last_updated: "2026-04-03T23:47:15.644Z"
+category: "vercel-analytics"
+subcategory: "analytics"
+type: "guide"
 source: "https://vercel.com/docs/analytics/troubleshooting"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "web", "troubleshooting", "setup", "how-to"]
+related: ["0127-redacting-sensitive-data-from-web-analytics-events.md", "0123-advanced-web-analytics-config-with-vercel-analytics.md", "0126-getting-started-with-vercel-web-analytics.md"]
+last_updated: "2026-04-03T23:47:15.644Z"
+---
 
 # Vercel Web Analytics Troubleshooting
 

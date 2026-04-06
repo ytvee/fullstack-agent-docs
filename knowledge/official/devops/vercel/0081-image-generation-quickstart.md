@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0081"
 title: "Image Generation Quickstart"
 description: "Generate images from text prompts using AI Gateway."
-last_updated: "2026-04-03T23:47:14.859Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/getting-started/image"
---------------------------------------------------------------------------------
+tags: ["image-generation-quickstart", "generation", "getting-started", "image", "alternative-models", "flux-2-flex-bfl-flux-2-flex"]
+related: ["0046-image-generation-with-ai-sdk.md", "0084-video-generation-quickstart.md", "0082-getting-started.md"]
+last_updated: "2026-04-03T23:47:14.859Z"
+---
 
 # Image Generation Quickstart
 

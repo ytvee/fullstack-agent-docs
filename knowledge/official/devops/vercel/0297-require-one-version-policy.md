@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0297"
 title: "REQUIRE_ONE_VERSION_POLICY"
 description: "Requires all dependencies in a monorepo to have the same version policy."
-last_updated: "2026-04-03T23:47:18.433Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/REQUIRE_ONE_VERSION_POLICY"
---------------------------------------------------------------------------------
+tags: ["monorepos", "require", "one", "version", "policy", "rules"]
+related: ["0296-require-node-version-file.md", "0295-require-docs-on-exported-functions.md", "0240-bfcache-integrity-require-noopener-attribute.md"]
+last_updated: "2026-04-03T23:47:18.433Z"
+---
 
 # REQUIRE_ONE_VERSION_POLICY
 

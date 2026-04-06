@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0440"
 title: "INTERNAL_FUNCTION_NOT_READY"
 description: "The internal function is not ready to be invoked. This is a Vercel error."
-last_updated: "2026-04-03T23:47:20.461Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_FUNCTION_NOT_READY"
---------------------------------------------------------------------------------
+tags: ["internal", "function", "not", "ready", "internal-function-not-ready", "troubleshoot"]
+related: ["0439-internal-function-not-found.md", "0409-body-not-a-string-from-function.md", "0414-deployment-not-ready-redirecting.md"]
+last_updated: "2026-04-03T23:47:20.461Z"
+---
 
 # INTERNAL_FUNCTION_NOT_READY
 

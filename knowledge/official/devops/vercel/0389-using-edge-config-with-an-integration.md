@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0389"
 title: "Using Edge Config with an integration"
 description: "Learn how to use Edge Config with popular A/B testing and feature flag service integrations."
-last_updated: "2026-04-03T23:47:19.810Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/edge-config-integrations"
---------------------------------------------------------------------------------
+tags: ["feature-flags", "edge", "config", "edge-config-integrations", "more-resources", "setup"]
+related: ["0387-using-edge-config-with-hypertune.md", "0395-vercel-edge-config-2.md", "0386-using-edge-config-with-devcycle.md"]
+last_updated: "2026-04-03T23:47:19.810Z"
+---
 
 # Using Edge Config with an integration
 

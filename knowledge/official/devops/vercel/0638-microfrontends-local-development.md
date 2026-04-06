@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0638"
 title: "Microfrontends local development"
 description: "Learn how to run and test your microfrontends locally."
-last_updated: "2026-04-03T23:47:24.122Z"
+category: "vercel-microfrontends"
+subcategory: "microfrontends"
+type: "guide"
 source: "https://vercel.com/docs/microfrontends/local-development"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "local", "development", "local-development", "prerequisites", "debug-routing"]
+related: ["0644-getting-started-with-microfrontends.md", "0645-testing-troubleshooting-microfrontends.md", "0639-managing-microfrontends.md"]
+last_updated: "2026-04-03T23:47:24.122Z"
+---
 
 # Microfrontends local development
 

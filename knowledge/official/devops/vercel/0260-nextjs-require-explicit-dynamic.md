@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0260"
 title: "NEXTJS_REQUIRE_EXPLICIT_DYNAMIC"
 description: "Requires explicitly setting the "
-last_updated: "2026-04-03T23:47:18.212Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_REQUIRE_EXPLICIT_DYNAMIC"
---------------------------------------------------------------------------------
+tags: ["nextjs", "require", "explicit", "dynamic", "rules", "examples"]
+related: ["0267-nextjs-use-next-image.md", "0268-nextjs-use-next-script.md", "0295-require-docs-on-exported-functions.md"]
+last_updated: "2026-04-03T23:47:18.212Z"
+---
 
 # NEXTJS_REQUIRE_EXPLICIT_DYNAMIC
 

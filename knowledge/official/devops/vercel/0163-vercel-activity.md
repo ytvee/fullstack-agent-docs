@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0163"
 title: "vercel activity"
 description: "View activity events for your Vercel project or team, filtered by type, date range, and project."
-last_updated: "2026-04-03T23:47:17.138Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/activity"
---------------------------------------------------------------------------------
+tags: ["activity", "usage", "unique-options", "type", "since", "until"]
+related: ["0195-vercel-logs.md", "0164-vercel-alias.md", "0168-vercel-build.md"]
+last_updated: "2026-04-03T23:47:17.138Z"
+---
 
 # vercel activity
 

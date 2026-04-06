@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0256"
 title: "NEXTJS_NO_GET_INITIAL_PROPS"
 description: "Requires any use of getInitialProps in Next.js pages be reviewed and approved, and encourages using getServerSideProps or getStaticProps instead."
-last_updated: "2026-04-03T23:47:18.179Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_NO_GET_INITIAL_PROPS"
---------------------------------------------------------------------------------
+tags: ["nextjs", "no", "get", "initial", "props", "rules"]
+related: ["0264-nextjs-unneeded-get-server-side-props.md", "0275-no-fetch-from-middleware.md", "0255-nextjs-no-fetch-in-server-props.md"]
+last_updated: "2026-04-03T23:47:18.179Z"
+---
 
 # NEXTJS_NO_GET_INITIAL_PROPS
 

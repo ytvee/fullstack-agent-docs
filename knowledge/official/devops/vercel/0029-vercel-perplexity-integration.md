@@ -3,11 +3,11 @@ id: "vercel-0029"
 title: "Vercel Perplexity Integration"
 description: "Learn how to add Perplexity connectable account integration with Vercel."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/perplexity"
-tags: ["web-search", "real-time-answers", "citations", "sonar-api", "connectable-account"]
-related: ["0028-build-with-ai-on-vercel.md", "0064-web-search.md", "0021-adding-a-provider.md"]
+tags: ["perplexity", "integrations-for-models", "use-cases", "available-models", "getting-started", "prerequisites"]
+related: ["0031-vercel-replicate-integration.md", "0024-vercel-fal-integration.md", "0025-vercel-groq-integration.md"]
 last_updated: "2026-04-03T23:47:13.991Z"
 ---
 

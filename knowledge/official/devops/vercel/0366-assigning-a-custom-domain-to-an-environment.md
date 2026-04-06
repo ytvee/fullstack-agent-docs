@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0366"
 title: "Assigning a custom domain to an environment"
 description: "Learn how to add a custom domain to your Vercel project, verify it, and correctly set the DNS or Nameserver values."
-last_updated: "2026-04-03T23:47:19.421Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-domains/add-a-domain-to-environment"
---------------------------------------------------------------------------------
+tags: ["custom-domains", "dns", "assigning", "custom", "domain", "environment"]
+related: ["0365-adding-configuring-a-custom-domain.md", "0361-setting-up-a-custom-domain.md", "0372-managing-domain-renewals-and-redemptions.md"]
+last_updated: "2026-04-03T23:47:19.421Z"
+---
 
 # Assigning a custom domain to an environment
 

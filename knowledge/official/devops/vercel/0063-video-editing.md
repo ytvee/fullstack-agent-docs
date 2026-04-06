@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0063"
 title: "Video Editing"
 description: "Edit existing videos using text prompts with Grok Imagine Video through AI Gateway."
-last_updated: "2026-04-03T23:47:14.606Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/video-generation/video-editing"
---------------------------------------------------------------------------------
+tags: ["video", "editing", "capabilities", "video-generation", "video-editing", "grok-imagine-video"]
+related: ["0062-text-to-video-generation.md", "0060-video-generation.md", "0058-image-to-video-generation.md"]
+last_updated: "2026-04-03T23:47:14.606Z"
+---
 
 # Video Editing
 

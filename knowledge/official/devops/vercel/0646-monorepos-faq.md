@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0646"
 title: "Monorepos FAQ"
 description: "Learn the answer to common questions about deploying monorepos on Vercel."
-last_updated: "2026-04-03T23:47:24.234Z"
+category: "vercel-monorepos"
+subcategory: "monorepos"
+type: "guide"
 source: "https://vercel.com/docs/monorepos/monorepo-faq"
---------------------------------------------------------------------------------
+tags: ["monorepos-faq", "environment-variables", "turborepo", "nx", "faq", "monorepo-faq"]
+related: ["0650-deploying-turborepo-to-vercel.md", "0648-using-monorepos.md", "0647-deploying-nx-to-vercel.md"]
+last_updated: "2026-04-03T23:47:24.234Z"
+---
 
 # Monorepos FAQ
 

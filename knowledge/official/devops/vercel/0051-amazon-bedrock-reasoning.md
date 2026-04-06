@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0051"
 title: "Amazon Bedrock Reasoning"
 description: "Configure reasoning for models hosted on Amazon Bedrock with the AI SDK and AI Gateway."
-last_updated: "2026-04-03T23:47:14.412Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/capabilities/reasoning/amazon-bedrock"
---------------------------------------------------------------------------------
+tags: ["amazon-bedrock-reasoning", "ai-sdk", "amazon", "bedrock", "reasoning", "capabilities"]
+related: ["0052-anthropic-reasoning.md", "0053-google-and-vertex-reasoning.md", "0055-reasoning.md"]
+last_updated: "2026-04-03T23:47:14.412Z"
+---
 
 # Amazon Bedrock Reasoning
 

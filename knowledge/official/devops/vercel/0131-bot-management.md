@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0131"
 title: "Bot Management"
 description: "Learn how to manage bot traffic to your site."
-last_updated: "2026-04-03T23:47:16.258Z"
+category: "vercel-security"
+subcategory: "bot-management"
+type: "guide"
 source: "https://vercel.com/docs/bot-management"
---------------------------------------------------------------------------------
+tags: ["bot", "management", "how-bot-management-works", "enable-the-ruleset", "ai-bots-managed-ruleset", "verified-bots"]
+related: ["0137-handling-verified-bots.md", "0133-form-submissions.md", "0134-get-started-with-botid.md"]
+last_updated: "2026-04-03T23:47:16.258Z"
+---
 
 # Bot Management
 

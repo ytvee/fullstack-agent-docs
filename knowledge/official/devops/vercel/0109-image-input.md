@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0109"
 title: "Image Input"
 description: "Send images for analysis using the OpenResponses API."
-last_updated: "2026-04-03T23:47:15.317Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses/image-input"
---------------------------------------------------------------------------------
+tags: ["openresponses", "image-input", "sdks-and-apis", "base64-encoded-images", "detail-parameter", "setup"]
+related: ["0112-streaming.md", "0110-openresponses-api.md", "0115-sdks-apis.md"]
+last_updated: "2026-04-03T23:47:15.317Z"
+---
 
 # Image Input
 

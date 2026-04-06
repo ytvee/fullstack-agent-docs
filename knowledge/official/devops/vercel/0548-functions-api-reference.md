@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0548"
 title: "Functions API Reference"
 description: "Learn about available APIs when working with Vercel Functions."
-last_updated: "2026-04-03T23:47:21.898Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "api-reference"
 source: "https://vercel.com/docs/functions/functions-api-reference"
---------------------------------------------------------------------------------
+tags: ["oidc", "functions-api-reference", "function-signature", "fetch-web-standard", "cancel-requests", "config-object"]
+related: ["0549-vercel-functions-api-reference-node-js.md", "0550-vercel-functions-api-reference-python.md", "0557-edge-runtime.md"]
+last_updated: "2026-04-03T23:47:21.898Z"
+---
 
 # Functions API Reference
 

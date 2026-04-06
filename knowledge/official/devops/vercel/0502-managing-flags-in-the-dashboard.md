@@ -6,8 +6,8 @@ category: "vercel-flags"
 subcategory: "flags"
 type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard"
-tags: ["feature-flags", "dashboard", "rollout", "experiments", "release-management"]
-related: ["0501-feature-flag-configuration.md", "0506-vercel-flags-2.md", "0507-getting-started-with-vercel-flags.md"]
+tags: ["feature-flags", "dashboard", "access-your-flags", "how-to-create-a-flag", "flags-tab-sections", "drafts"]
+related: ["0500-entities.md", "0504-segments.md", "0506-vercel-flags-2.md"]
 last_updated: "2026-04-03T23:47:20.976Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0387"
 title: "Using Edge Config with Hypertune"
 description: "Learn how to use Hypertune"
-last_updated: "2026-04-03T23:47:19.791Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/edge-config-integrations/hypertune-edge-config"
---------------------------------------------------------------------------------
+tags: ["edge", "config", "hypertune", "edge-config-integrations", "hypertune-edge-config", "prerequisites"]
+related: ["0390-using-edge-config-with-split.md", "0391-using-edge-config-with-statsig.md", "0389-using-edge-config-with-an-integration.md"]
+last_updated: "2026-04-03T23:47:19.791Z"
+---
 
 # Using Edge Config with Hypertune
 

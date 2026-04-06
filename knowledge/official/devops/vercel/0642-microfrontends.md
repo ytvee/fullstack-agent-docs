@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0642"
 title: "Microfrontends"
 description: "Learn how to use microfrontends on Vercel to split apart large applications, improve developer experience and make incremental migrations easier."
-last_updated: "2026-04-03T23:47:24.185Z"
+category: "vercel-microfrontends"
+subcategory: "microfrontends"
+type: "guide"
 source: "https://vercel.com/docs/microfrontends"
---------------------------------------------------------------------------------
+tags: ["when-to-use-microfrontends", "managing-microfrontends", "limits-and-pricing", "more-resources", "setup"]
+related: ["0641-managing-with-the-vercel-toolbar.md", "0640-managing-microfrontends-security.md", "0644-getting-started-with-microfrontends.md"]
+last_updated: "2026-04-03T23:47:24.185Z"
+---
 
 # Microfrontends
 

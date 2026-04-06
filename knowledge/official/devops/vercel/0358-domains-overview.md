@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0358"
 title: "Domains Overview"
 description: "Learn the fundamentals of how domains, DNS, and nameservers work on Vercel."
-last_updated: "2026-04-03T23:47:19.284Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "concept"
 source: "https://vercel.com/docs/domains"
---------------------------------------------------------------------------------
+tags: ["domains-overview", "dns", "more-resources"]
+related: ["0363-troubleshooting-domains.md", "0356-managing-dns-records.md", "0359-pre-generate-ssl-certificates.md"]
+last_updated: "2026-04-03T23:47:19.284Z"
+---
 
 # Domains Overview
 

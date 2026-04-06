@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0416"
 title: "DNS_HOSTNAME_EMPTY"
 description: "An empty DNS record was received as part of the DNS response. This is a DNS error."
-last_updated: "2026-04-03T23:47:20.353Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/DNS_HOSTNAME_EMPTY"
---------------------------------------------------------------------------------
+tags: ["dns", "hostname", "empty", "dns-hostname-empty", "troubleshoot", "setup"]
+related: ["0418-dns-hostname-resolved-private.md", "0419-dns-hostname-resolve-failed.md", "0420-dns-hostname-server-error.md"]
+last_updated: "2026-04-03T23:47:20.353Z"
+---
 
 # DNS_HOSTNAME_EMPTY
 

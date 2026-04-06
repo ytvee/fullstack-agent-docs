@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0365"
 title: "Adding & Configuring a Custom Domain"
 description: "Learn how to add a custom domain to your Vercel project, verify it, and correctly set the DNS or Nameserver values."
-last_updated: "2026-04-03T23:47:19.416Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-domains/add-a-domain"
---------------------------------------------------------------------------------
+tags: ["custom-domains", "dns", "adding", "custom", "domain", "working-with-domains"]
+related: ["0366-assigning-a-custom-domain-to-an-environment.md", "0361-setting-up-a-custom-domain.md", "0372-managing-domain-renewals-and-redemptions.md"]
+last_updated: "2026-04-03T23:47:19.416Z"
+---
 
 # Adding & Configuring a Custom Domain
 

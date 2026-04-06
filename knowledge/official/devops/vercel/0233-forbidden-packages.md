@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0233"
 title: "forbidden-packages"
 description: "Learn how to set custom rules to disallow packages from being listed as dependencies."
-last_updated: "2026-04-03T23:47:17.976Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/custom-rules/forbidden-packages"
---------------------------------------------------------------------------------
+tags: ["forbidden", "packages", "custom-rules", "forbidden-packages", "when-to-use-this-rule-type", "configuring-this-rule-type"]
+related: ["0231-forbidden-dependencies.md", "0230-forbidden-code.md", "0232-forbidden-imports.md"]
+last_updated: "2026-04-03T23:47:17.976Z"
+---
 
 # forbidden-packages
 

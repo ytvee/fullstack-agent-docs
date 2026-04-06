@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0392"
 title: "Edge Config Limits and pricing"
 description: "Learn about the Edge Configs limits and pricing based on account plans."
-last_updated: "2026-04-03T23:47:19.888Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "concept"
 source: "https://vercel.com/docs/edge-config/edge-config-limits"
---------------------------------------------------------------------------------
+tags: ["edge", "config", "edge-config-limits", "pricing", "limits-by-plan", "usage"]
+related: ["0394-getting-started-with-edge-config.md", "0385-managing-edge-configs-with-the-dashboard.md", "0395-vercel-edge-config-2.md"]
+last_updated: "2026-04-03T23:47:19.888Z"
+---
 
 # Edge Config Limits and pricing
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0271"
 title: "NO_DANGEROUS_HTML"
 description: "Prevent the unsafe creation of DOM via HTML methods in your application."
-last_updated: "2026-04-03T23:47:18.287Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_DANGEROUS_HTML"
---------------------------------------------------------------------------------
+tags: ["no", "dangerous", "html", "rules", "no-dangerous-html", "how-to-fix"]
+related: ["0272-no-document-write.md", "0269-no-assign-window-location.md", "0273-no-eval.md"]
+last_updated: "2026-04-03T23:47:18.287Z"
+---
 
 # NO_DANGEROUS_HTML
 

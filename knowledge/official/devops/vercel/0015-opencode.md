@@ -3,11 +3,11 @@ id: "vercel-0015"
 title: "OpenCode"
 description: "Use OpenCode with the AI Gateway."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/coding-agents/opencode"
-tags: ["coding-agent", "terminal", "ai-gateway", "multi-provider"]
-related: ["0016-coding-agents.md", "0013-crush.md", "0092-ai-gateway.md"]
+tags: ["ai-gateway", "open", "coding-agents", "opencode", "configuring-opencode", "integration"]
+related: ["0014-openai-codex.md", "0016-coding-agents.md", "0011-cline.md"]
 last_updated: "2026-04-03T23:47:13.821Z"
 ---
 

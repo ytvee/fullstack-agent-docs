@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0178"
 title: "vercel domains"
 description: "Learn how to buy, sell, transfer, and manage your domains using the vercel domains CLI command."
-last_updated: "2026-04-03T23:47:17.283Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/domains"
---------------------------------------------------------------------------------
+tags: ["domains", "usage", "extended-usage", "unique-options", "yes", "limit"]
+related: ["0164-vercel-alias.md", "0177-vercel-dns.md", "0191-vercel-link.md"]
+last_updated: "2026-04-03T23:47:17.283Z"
+---
 
 # vercel domains
 

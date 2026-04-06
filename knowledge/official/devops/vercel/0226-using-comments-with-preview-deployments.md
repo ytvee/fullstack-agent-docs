@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0226"
 title: "Using Comments with Preview Deployments"
 description: "This guide will help you get started with using Comments with your Vercel Preview Deployments."
-last_updated: "2026-04-03T23:47:17.856Z"
+category: "vercel-comments"
+subcategory: "comments"
+type: "guide"
 source: "https://vercel.com/docs/comments/using-comments"
---------------------------------------------------------------------------------
+tags: ["preview-deployments", "preview", "deployments", "using-comments", "add-comments", "mention-users"]
+related: ["0224-managing-comments-on-preview-deployments.md", "0225-comments-overview.md", "0223-integrations-for-comments.md"]
+last_updated: "2026-04-03T23:47:17.856Z"
+---
 
 # Using Comments with Preview Deployments
 

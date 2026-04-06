@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0647"
 title: "Deploying Nx to Vercel"
 description: "Nx is an extensible build system with support for monorepos, integrations, and Remote Caching on Vercel. Learn how to deploy Nx to Vercel with this guide."
-last_updated: "2026-04-03T23:47:24.245Z"
+category: "vercel-monorepos"
+subcategory: "monorepos"
+type: "guide"
 source: "https://vercel.com/docs/monorepos/nx"
---------------------------------------------------------------------------------
+tags: ["deploying-nx-to-vercel", "remote-caching", "nx", "deploy-nx-to-vercel", "using-nx-ignore", "nx-17-to-19"]
+related: ["0650-deploying-turborepo-to-vercel.md", "0649-remote-caching.md", "0646-monorepos-faq.md"]
+last_updated: "2026-04-03T23:47:24.245Z"
+---
 
 # Deploying Nx to Vercel
 

@@ -6,8 +6,8 @@ category: "vercel-conformance"
 subcategory: "conformance"
 type: "concept"
 source: "https://vercel.com/docs/conformance/rules/TYPESCRIPT_CONFIGURATION"
-tags: ["conformance-rules", "typescript", "tsconfig", "type-checking", "monorepo"]
-related: ["0302-typescript-only.md", "0305-conformance-rules.md", "0238-introduction-to-conformance.md"]
+tags: ["typescript", "configuration", "rules", "typescript-configuration", "example", "how-to-fix"]
+related: ["0241-eslint-configuration.md", "0302-typescript-only.md", "0244-eslint-rules-required.md"]
 last_updated: "2026-04-03T23:47:18.452Z"
 ---
 

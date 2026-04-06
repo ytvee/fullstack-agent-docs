@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0276"
 title: "NO_INLINE_SVG"
 description: "Prevent the use of "
-last_updated: "2026-04-03T23:47:18.314Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_INLINE_SVG"
---------------------------------------------------------------------------------
+tags: ["no", "inline", "svg", "rules", "no-inline-svg", "how-to-fix"]
+related: ["0271-no-dangerous-html.md", "0272-no-document-write.md", "0279-no-postinstall-script.md"]
+last_updated: "2026-04-03T23:47:18.314Z"
+---
 
 # NO_INLINE_SVG
 

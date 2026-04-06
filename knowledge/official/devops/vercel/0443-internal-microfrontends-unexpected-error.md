@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0443"
 title: "INTERNAL_MICROFRONTENDS_UNEXPECTED_ERROR"
 description: "An unexpected internal error occurred in the microfrontend."
-last_updated: "2026-04-03T23:47:20.470Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_MICROFRONTENDS_UNEXPECTED_ERROR"
---------------------------------------------------------------------------------
+tags: ["microfrontends", "internal", "unexpected", "error", "troubleshoot", "setup"]
+related: ["0441-internal-microfrontends-build-error.md", "0449-internal-unexpected-error.md", "0430-internal-cache-error.md"]
+last_updated: "2026-04-03T23:47:20.470Z"
+---
 
 # INTERNAL_MICROFRONTENDS_UNEXPECTED_ERROR
 

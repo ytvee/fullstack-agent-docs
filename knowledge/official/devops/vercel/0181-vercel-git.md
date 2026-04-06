@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0181"
 title: "vercel git"
 description: "Learn how to manage your Git provider connections using the vercel git CLI command."
-last_updated: "2026-04-03T23:47:17.340Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/git"
---------------------------------------------------------------------------------
+tags: ["git", "usage", "unique-options", "yes", "global-options", "api-reference"]
+related: ["0172-vercel-contract.md", "0214-vercel-usage.md", "0164-vercel-alias.md"]
+last_updated: "2026-04-03T23:47:17.340Z"
+---
 
 # vercel git
 

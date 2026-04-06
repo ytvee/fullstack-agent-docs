@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0424"
 title: "FUNCTION_INVOCATION_FAILED"
 description: "The invocation of a function failed. This is a function error."
-last_updated: "2026-04-03T23:47:20.386Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/FUNCTION_INVOCATION_FAILED"
---------------------------------------------------------------------------------
+tags: ["function", "invocation", "failed", "function-invocation-failed", "possible-causes", "troubleshoot"]
+related: ["0421-edge-function-invocation-failed.md", "0435-internal-edge-function-invocation-failed.md", "0437-internal-function-invocation-failed.md"]
+last_updated: "2026-04-03T23:47:20.386Z"
+---
 
 # FUNCTION_INVOCATION_FAILED
 

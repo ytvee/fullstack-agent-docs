@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0237"
 title: "Getting Started with Conformance"
 description: "Learn how to set up Conformance for your codebase."
-last_updated: "2026-04-03T23:47:18.034Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/getting-started"
---------------------------------------------------------------------------------
+tags: ["getting-started", "prerequisites", "get-access-to-conformance", "more-resources", "setup"]
+related: ["0238-introduction-to-conformance.md", "0220-getting-started-with-code-owners.md", "0229-vercel-conformance.md"]
+last_updated: "2026-04-03T23:47:18.034Z"
+---
 
 # Getting Started with Conformance
 

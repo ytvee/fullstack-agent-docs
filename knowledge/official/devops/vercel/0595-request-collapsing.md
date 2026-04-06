@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0595"
 title: "Request Collapsing"
 description: "Learn how Vercel"
-last_updated: "2026-04-03T23:47:23.147Z"
+category: "vercel-frameworks"
+subcategory: "incremental-static-regeneration"
+type: "guide"
 source: "https://vercel.com/docs/incremental-static-regeneration/request-collapsing"
---------------------------------------------------------------------------------
+tags: ["request", "collapsing", "request-collapsing", "how-request-collapsing-works", "example", "supported-features"]
+related: ["0594-getting-started-with-isr.md", "0593-incremental-static-regeneration-isr.md", "0592-isr-usage-and-pricing.md"]
+last_updated: "2026-04-03T23:47:23.147Z"
+---
 
 # Request Collapsing
 

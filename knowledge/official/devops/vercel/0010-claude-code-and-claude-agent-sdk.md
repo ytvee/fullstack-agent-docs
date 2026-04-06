@@ -3,11 +3,11 @@ id: "vercel-0010"
 title: "Claude Code and Claude Agent SDK"
 description: "Use Claude Code and the Claude Agent SDK with AI Gateway."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/coding-agents/claude-code"
-tags: ["claude", "anthropic", "ai-gateway", "coding-agent", "sdk-configuration"]
-related: ["0016-coding-agents.md", "0012-conductor.md", "0092-ai-gateway.md"]
+tags: ["ai-gateway", "claude", "agent", "sdk", "coding-agents", "claude-code"]
+related: ["0016-coding-agents.md", "0009-blackbox-ai.md", "0011-cline.md"]
 last_updated: "2026-04-03T23:47:13.714Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0463"
 title: "OPTIMIZED_EXTERNAL_IMAGE_TOO_MANY_REDIRECTS"
 description: "The external image request encountered too many redirects. This is a request error."
-last_updated: "2026-04-03T23:47:20.579Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/OPTIMIZED_EXTERNAL_IMAGE_TOO_MANY_REDIRECTS"
---------------------------------------------------------------------------------
+tags: ["optimized", "external", "too", "many", "redirects", "troubleshoot"]
+related: ["0460-optimized-external-image-request-failed.md", "0461-optimized-external-image-request-invalid.md", "0462-optimized-external-image-request-unauthorized.md"]
+last_updated: "2026-04-03T23:47:20.579Z"
+---
 
 # OPTIMIZED_EXTERNAL_IMAGE_TOO_MANY_REDIRECTS
 

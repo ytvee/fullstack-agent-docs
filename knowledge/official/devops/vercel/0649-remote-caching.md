@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0649"
 title: "Remote Caching"
 description: "Vercel Remote Cache allows you to share build outputs and artifacts across distributed teams."
-last_updated: "2026-04-03T23:47:24.309Z"
+category: "vercel-monorepos"
+subcategory: "monorepos"
+type: "concept"
 source: "https://vercel.com/docs/monorepos/remote-caching"
---------------------------------------------------------------------------------
+tags: ["remote-caching", "remote", "caching", "get-started", "usage", "artifacts"]
+related: ["0650-deploying-turborepo-to-vercel.md", "0647-deploying-nx-to-vercel.md", "0646-monorepos-faq.md"]
+last_updated: "2026-04-03T23:47:24.309Z"
+---
 
 # Remote Caching
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0049"
 title: "Observability"
 description: "Learn how to monitor and debug your AI Gateway requests."
-last_updated: "2026-04-03T23:47:14.388Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/observability"
---------------------------------------------------------------------------------
+tags: ["observability", "capabilities", "usage", "requests-by-model", "time-to-first-token-ttft", "input-output-token-counts"]
+related: ["0050-capabilities.md", "0057-usage-billing.md", "0059-motion-control-video-generation.md"]
+last_updated: "2026-04-03T23:47:14.388Z"
+---
 
 # Observability
 

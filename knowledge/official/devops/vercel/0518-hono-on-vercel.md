@@ -4,10 +4,10 @@ title: "Hono on Vercel"
 description: "Deploy Hono applications to Vercel with zero configuration. Learn about observability, ISR, and custom build configurations."
 category: "vercel-frameworks"
 subcategory: "frameworks"
-type: "guide"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/backend/hono"
-tags: ["hono", "web-standards", "backend", "typescript", "zero-config"]
-related: ["0522-backends-on-vercel.md", "0513-elysia-on-vercel.md", "0523-xmcp-on-vercel.md"]
+tags: ["hono-on-vercel", "streaming", "observability", "isr", "hono", "backend"]
+related: ["0514-express-on-vercel.md", "0521-nitro-on-vercel.md", "0515-fastapi-on-vercel.md"]
 last_updated: "2026-04-03T23:47:21.240Z"
 ---
 

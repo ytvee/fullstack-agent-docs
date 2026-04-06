@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0348"
 title: "Sharing a Preview Deployment"
 description: "Learn how to share a preview deployment with your team and external collaborators."
-last_updated: "2026-04-03T23:47:19.131Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments/sharing-deployments"
---------------------------------------------------------------------------------
+tags: ["sharing-a-preview-deployment", "preview-deployments", "deployment-protection", "sharing", "preview", "sharing-deployments"]
+related: ["0344-preview-deployment-suffix.md", "0339-accessing-deployments-through-generated-urls.md", "0345-promoting-a-preview-deployment-to-production.md"]
+last_updated: "2026-04-03T23:47:19.131Z"
+---
 
 # Sharing a Preview Deployment
 

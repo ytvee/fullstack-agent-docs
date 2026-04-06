@@ -4,10 +4,10 @@ title: "Astro on Vercel"
 description: "Learn how to use Vercel"
 category: "vercel-frameworks"
 subcategory: "frameworks"
-type: "guide"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/frontend/astro"
-tags: ["astro", "static-site", "server-rendering", "zero-config", "frontend"]
-related: ["0527-frontends-on-vercel.md", "0529-vite-on-vercel.md", "0538-frameworks-on-vercel.md"]
+tags: ["astro-on-vercel", "image-optimization", "isr", "astro", "frontend", "configuration-options"]
+related: ["0526-gatsby-on-vercel.md", "0530-next-js-on-vercel.md", "0534-sveltekit-on-vercel.md"]
 last_updated: "2026-04-03T23:47:21.499Z"
 ---
 

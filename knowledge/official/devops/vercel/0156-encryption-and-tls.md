@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0156"
 title: "Encryption and TLS"
 description: "Learn how Vercel encrypts data in transit and at rest."
-last_updated: "2026-04-03T23:47:16.970Z"
+category: "vercel-security"
+subcategory: "cdn-security"
+type: "guide"
 source: "https://vercel.com/docs/cdn-security/encryption"
---------------------------------------------------------------------------------
+tags: ["encryption-and-tls", "ssl", "encryption", "tls", "supported-tls-versions", "tls-resumption"]
+related: ["0157-cdn-security.md", "0158-content-security-policy.md", "0668-oidc-federation-reference.md"]
+last_updated: "2026-04-03T23:47:16.970Z"
+---
 
 # Encryption and TLS
 

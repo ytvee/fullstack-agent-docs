@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0354"
 title: "Uploading Custom SSL Certificates"
 description: "By default, Vercel provides all domains with a custom SSL certificates. However, Enterprise teams can upload their own custom SSL certificate."
-last_updated: "2026-04-03T23:47:19.224Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "concept"
 source: "https://vercel.com/docs/domains/custom-SSL-certificate"
---------------------------------------------------------------------------------
+tags: ["ssl", "uploading", "custom", "certificates", "custom-ssl-certificate", "ssl-best-practices"]
+related: ["0359-pre-generate-ssl-certificates.md", "0361-setting-up-a-custom-domain.md", "0376-working-with-ssl-certificates.md"]
+last_updated: "2026-04-03T23:47:19.224Z"
+---
 
 # Uploading Custom SSL Certificates
 

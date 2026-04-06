@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0343"
 title: "Deploying to Vercel"
 description: "Learn how to create and manage deployments on Vercel."
-last_updated: "2026-04-03T23:47:19.040Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments"
---------------------------------------------------------------------------------
+tags: ["deploying-to-vercel", "deploy-hooks", "deployment-methods", "git", "accessing-deployments", "using-the-dashboard"]
+related: ["0339-accessing-deployments-through-generated-urls.md", "0346-promoting-deployments.md", "0349-troubleshooting-build-errors.md"]
+last_updated: "2026-04-03T23:47:19.040Z"
+---
 
 # Deploying to Vercel
 

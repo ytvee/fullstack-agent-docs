@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0356"
 title: "Managing DNS Records"
 description: "Learn how to add, verify, and remove DNS records for your domains on Vercel with this guide."
-last_updated: "2026-04-03T23:47:19.266Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/managing-dns-records"
---------------------------------------------------------------------------------
+tags: ["dns", "records", "managing-dns-records", "adding-dns-records", "verifying-dns-records", "removing-dns-records"]
+related: ["0361-setting-up-a-custom-domain.md", "0365-adding-configuring-a-custom-domain.md", "0366-assigning-a-custom-domain-to-an-environment.md"]
+last_updated: "2026-04-03T23:47:19.266Z"
+---
 
 # Managing DNS Records
 

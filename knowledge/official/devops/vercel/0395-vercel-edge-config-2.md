@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0395"
 title: "Vercel Edge Config"
 description: "An Edge Config is a global data store that enables experimentation with feature flags, A/B testing, critical redirects, and more."
-last_updated: "2026-04-03T23:47:19.960Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "concept"
 source: "https://vercel.com/docs/edge-config"
---------------------------------------------------------------------------------
+tags: ["feature-flags", "edge", "config", "use-cases", "getting-started", "limits"]
+related: ["0389-using-edge-config-with-an-integration.md", "0387-using-edge-config-with-hypertune.md", "0394-getting-started-with-edge-config.md"]
+last_updated: "2026-04-03T23:47:19.960Z"
+---
 
 # Vercel Edge Config
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0183"
 title: "vercel guidance"
 description: "Enable or disable guidance messages in the Vercel CLI using the vercel guidance command."
-last_updated: "2026-04-03T23:47:17.346Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/guidance"
---------------------------------------------------------------------------------
+tags: ["guidance", "usage", "subcommands", "enable", "disable", "status"]
+related: ["0169-vercel-buy.md", "0202-vercel-promote.md", "0207-vercel-rollback.md"]
+last_updated: "2026-04-03T23:47:17.346Z"
+---
 
 # vercel guidance
 

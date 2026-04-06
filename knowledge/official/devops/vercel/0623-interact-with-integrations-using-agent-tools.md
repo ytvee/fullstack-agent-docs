@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0623"
 title: "Interact with Integrations using Agent Tools"
 description: "Use Agent Tools to query, debug, and manage your installed integrations through a chat interface with natural language."
-last_updated: "2026-04-03T23:47:23.838Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/install-an-integration/agent-tools"
---------------------------------------------------------------------------------
+tags: ["interact", "agent", "tools", "install-an-integration", "agent-tools", "access-agent-tools"]
+related: ["0626-add-a-native-integration.md", "0625-install-an-integration.md", "0624-permissions-and-access.md"]
+last_updated: "2026-04-03T23:47:23.838Z"
+---
 
 # Interact with Integrations using Agent Tools
 

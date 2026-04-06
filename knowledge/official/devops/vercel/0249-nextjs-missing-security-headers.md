@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0249"
 title: "NEXTJS_MISSING_SECURITY_HEADERS"
 description: "Requires that security headers are set correctly for Next.js apps and contain valid directives."
-last_updated: "2026-04-03T23:47:18.131Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_MISSING_SECURITY_HEADERS"
---------------------------------------------------------------------------------
+tags: ["nextjs", "missing", "security", "headers", "rules", "example"]
+related: ["0242-eslint-next-rules-required.md", "0275-no-fetch-from-middleware.md", "0245-nextjs-missing-modularize-imports.md"]
+last_updated: "2026-04-03T23:47:18.131Z"
+---
 
 # NEXTJS_MISSING_SECURITY_HEADERS
 

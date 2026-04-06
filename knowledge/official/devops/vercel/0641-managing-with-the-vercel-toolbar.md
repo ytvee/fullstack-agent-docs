@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0641"
 title: "Managing with the Vercel Toolbar"
 description: "Learn how to use the Vercel Toolbar to make it easier to manage microfrontends."
-last_updated: "2026-04-03T23:47:24.171Z"
+category: "vercel-microfrontends"
+subcategory: "microfrontends"
+type: "guide"
 source: "https://vercel.com/docs/microfrontends/managing-microfrontends/vercel-toolbar"
---------------------------------------------------------------------------------
+tags: ["toolbar", "managing-microfrontends", "view-all-microfrontends", "routing-overrides", "enable-routing-debug-mode", "setup"]
+related: ["0640-managing-microfrontends-security.md", "0639-managing-microfrontends.md", "0642-microfrontends.md"]
+last_updated: "2026-04-03T23:47:24.171Z"
+---
 
 # Managing with the Vercel Toolbar
 

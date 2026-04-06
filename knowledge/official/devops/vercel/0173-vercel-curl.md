@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0173"
 title: "vercel curl"
 description: "Learn how to make HTTP requests to your Vercel deployments with automatic deployment protection bypass using the vercel curl CLI command."
-last_updated: "2026-04-03T23:47:17.223Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/curl"
---------------------------------------------------------------------------------
+tags: ["deployment-protection", "curl", "usage", "examples", "basic-request", "post-request-with-data"]
+related: ["0185-vercel-httpstat.md", "0165-vercel-api.md", "0196-vercel-mcp.md"]
+last_updated: "2026-04-03T23:47:17.223Z"
+---
 
 # vercel curl
 

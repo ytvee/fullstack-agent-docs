@@ -3,11 +3,11 @@ id: "vercel-0017"
 title: "Roo Code"
 description: "Use Roo Code with the AI Gateway."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/coding-agents/roo-code"
-tags: ["coding-agent", "vscode-extension", "ai-gateway", "autonomous-coding"]
-related: ["0016-coding-agents.md", "0011-cline.md", "0092-ai-gateway.md"]
+tags: ["ai-gateway", "roo", "coding-agents", "roo-code", "configuring-roo-code", "integration"]
+related: ["0016-coding-agents.md", "0011-cline.md", "0012-conductor.md"]
 last_updated: "2026-04-03T23:47:13.828Z"
 ---
 

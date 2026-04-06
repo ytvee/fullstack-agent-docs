@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0644"
 title: "Getting started with microfrontends"
 description: "Learn how to get started with microfrontends on Vercel."
-last_updated: "2026-04-03T23:47:24.392Z"
+category: "vercel-microfrontends"
+subcategory: "microfrontends"
+type: "guide"
 source: "https://vercel.com/docs/microfrontends/quickstart"
---------------------------------------------------------------------------------
+tags: ["quickstart", "prerequisites", "key-concepts", "next-steps", "setup"]
+related: ["0638-microfrontends-local-development.md", "0640-managing-microfrontends-security.md", "0641-managing-with-the-vercel-toolbar.md"]
+last_updated: "2026-04-03T23:47:24.392Z"
+---
 
 # Getting started with microfrontends
 

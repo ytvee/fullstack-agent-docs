@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0265"
 title: "NEXTJS_USE_NATIVE_FETCH"
 description: "Requires using native "
-last_updated: "2026-04-03T23:47:18.251Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_USE_NATIVE_FETCH"
---------------------------------------------------------------------------------
+tags: ["nextjs", "native", "fetch", "rules", "nextjs-use-native-fetch", "examples"]
+related: ["0266-nextjs-use-next-font.md", "0260-nextjs-require-explicit-dynamic.md", "0267-nextjs-use-next-image.md"]
+last_updated: "2026-04-03T23:47:18.251Z"
+---
 
 # NEXTJS_USE_NATIVE_FETCH
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0645"
 title: "Testing & troubleshooting microfrontends"
 description: "Learn about testing, common issues, and how to troubleshoot microfrontends on Vercel."
-last_updated: "2026-04-03T23:47:24.228Z"
+category: "vercel-microfrontends"
+subcategory: "microfrontends"
+type: "guide"
 source: "https://vercel.com/docs/microfrontends/troubleshooting"
---------------------------------------------------------------------------------
+tags: ["observability", "testing", "troubleshooting", "validatemiddlewareconfig", "validaterouting", "debugging-routing"]
+related: ["0638-microfrontends-local-development.md", "0639-managing-microfrontends.md", "0641-managing-with-the-vercel-toolbar.md"]
+last_updated: "2026-04-03T23:47:24.228Z"
+---
 
 # Testing & troubleshooting microfrontends
 

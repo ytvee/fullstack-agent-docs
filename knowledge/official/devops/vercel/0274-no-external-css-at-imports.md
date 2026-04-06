@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0274"
 title: "NO_EXTERNAL_CSS_AT_IMPORTS"
 description: "Disallows @import at-rules that import from URLs."
-last_updated: "2026-04-03T23:47:18.306Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_EXTERNAL_CSS_AT_IMPORTS"
---------------------------------------------------------------------------------
+tags: ["no", "external", "css", "imports", "rules", "no-external-css-at-imports"]
+related: ["0290-package-management-no-unresolved-imports.md", "0289-package-management-no-circular-imports.md", "0278-no-mixed-async-modules.md"]
+last_updated: "2026-04-03T23:47:18.306Z"
+---
 
 # NO_EXTERNAL_CSS_AT_IMPORTS
 

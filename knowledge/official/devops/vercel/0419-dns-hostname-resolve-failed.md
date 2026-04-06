@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0419"
 title: "DNS_HOSTNAME_RESOLVE_FAILED"
 description: "No error with the DNS resolution but no IP was returned. This is a DNS error."
-last_updated: "2026-04-03T23:47:20.365Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/DNS_HOSTNAME_RESOLVE_FAILED"
---------------------------------------------------------------------------------
+tags: ["dns", "hostname", "resolve", "failed", "dns-hostname-resolve-failed", "troubleshoot"]
+related: ["0416-dns-hostname-empty.md", "0417-dns-hostname-not-found.md", "0418-dns-hostname-resolved-private.md"]
+last_updated: "2026-04-03T23:47:20.365Z"
+---
 
 # DNS_HOSTNAME_RESOLVE_FAILED
 

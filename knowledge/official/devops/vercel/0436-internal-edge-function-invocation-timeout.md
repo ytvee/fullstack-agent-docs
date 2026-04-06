@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0436"
 title: "INTERNAL_EDGE_FUNCTION_INVOCATION_TIMEOUT"
 description: "The Edge Function invocation timed out unexpectedly."
-last_updated: "2026-04-03T23:47:20.440Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_EDGE_FUNCTION_INVOCATION_TIMEOUT"
---------------------------------------------------------------------------------
+tags: ["internal", "edge", "function", "invocation", "timeout", "troubleshoot"]
+related: ["0422-edge-function-invocation-timeout.md", "0438-internal-function-invocation-timeout.md", "0435-internal-edge-function-invocation-failed.md"]
+last_updated: "2026-04-03T23:47:20.440Z"
+---
 
 # INTERNAL_EDGE_FUNCTION_INVOCATION_TIMEOUT
 

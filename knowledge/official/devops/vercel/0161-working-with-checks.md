@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0161"
 title: "Working with Checks"
 description: "Vercel automatically keeps an eye on various aspects of your web application using the Checks API. Learn how to use Checks in your Vercel workflow here."
-last_updated: "2026-04-03T23:47:17.038Z"
+category: "vercel-checks"
+subcategory: "checks"
+type: "guide"
 source: "https://vercel.com/docs/checks"
---------------------------------------------------------------------------------
+tags: ["working-with-checks", "checks-lifecycle", "checks-integrations", "install-integrations", "setup"]
+related: ["0160-anatomy-of-the-checks-api.md", "0159-checks-api-reference.md", "0003-installation.md"]
+last_updated: "2026-04-03T23:47:17.038Z"
+---
 
 # Working with Checks
 

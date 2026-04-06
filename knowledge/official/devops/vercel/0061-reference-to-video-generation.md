@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0061"
 title: "Reference-to-Video Generation"
 description: "Generate videos featuring characters from reference images or videos using Wan through AI Gateway."
-last_updated: "2026-04-03T23:47:14.571Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "api-reference"
 source: "https://vercel.com/docs/ai-gateway/capabilities/video-generation/reference-to-video"
---------------------------------------------------------------------------------
+tags: ["video", "generation", "capabilities", "video-generation", "reference-to-video", "wan"]
+related: ["0060-video-generation.md", "0058-image-to-video-generation.md", "0062-text-to-video-generation.md"]
+last_updated: "2026-04-03T23:47:14.571Z"
+---
 
 # Reference-to-Video Generation
 

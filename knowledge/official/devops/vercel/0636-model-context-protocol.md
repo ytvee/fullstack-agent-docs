@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0636"
 title: "Model Context Protocol"
 description: "Learn more about MCP and how you can use it on Vercel."
-last_updated: "2026-04-03T23:47:24.069Z"
+category: "vercel-mcp"
+subcategory: "mcp"
+type: "guide"
 source: "https://vercel.com/docs/mcp"
---------------------------------------------------------------------------------
+tags: ["model-context-protocol", "model", "context", "protocol", "more-resources", "setup"]
+related: ["0635-deploy-mcp-servers-to-vercel.md", "0538-frameworks-on-vercel.md", "0220-getting-started-with-code-owners.md"]
+last_updated: "2026-04-03T23:47:24.069Z"
+---
 
 # Model Context Protocol
 

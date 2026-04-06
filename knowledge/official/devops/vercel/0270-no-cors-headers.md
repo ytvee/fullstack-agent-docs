@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0270"
 title: "NO_CORS_HEADERS"
 description: "Warns when CORS header (or header-like) configuration is detected, requiring that configuration to be allowlisted."
-last_updated: "2026-04-03T23:47:18.282Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_CORS_HEADERS"
---------------------------------------------------------------------------------
+tags: ["no", "cors", "headers", "rules", "no-cors-headers", "examples"]
+related: ["0281-no-unnecessary-prop-spreading.md", "0250-nextjs-no-async-layout.md", "0251-nextjs-no-async-page.md"]
+last_updated: "2026-04-03T23:47:18.282Z"
+---
 
 # NO_CORS_HEADERS
 

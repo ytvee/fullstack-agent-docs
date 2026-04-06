@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0417"
 title: "DNS_HOSTNAME_NOT_FOUND"
 description: "The domain does not exist, resulting in an NXDOMAIN error during DNS resolution. This is a DNS error."
-last_updated: "2026-04-03T23:47:20.357Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/DNS_HOSTNAME_NOT_FOUND"
---------------------------------------------------------------------------------
+tags: ["dns", "hostname", "not", "found", "dns-hostname-not-found", "troubleshoot"]
+related: ["0418-dns-hostname-resolved-private.md", "0419-dns-hostname-resolve-failed.md", "0413-deployment-not-found.md"]
+last_updated: "2026-04-03T23:47:20.357Z"
+---
 
 # DNS_HOSTNAME_NOT_FOUND
 

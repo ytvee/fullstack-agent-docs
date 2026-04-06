@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0492"
 title: "Integrate flags with Vercel Web Analytics"
 description: "Learn how to tag your page views and custom events with feature flags"
-last_updated: "2026-04-03T23:47:20.873Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/observability/web-analytics"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "observability", "feature-flags", "integrate", "web", "analytics"]
+related: ["0491-observability-2.md", "0496-running-an-a-b-test.md", "0493-flags.md"]
+last_updated: "2026-04-03T23:47:20.873Z"
+---
 
 # Integrate flags with Vercel Web Analytics
 

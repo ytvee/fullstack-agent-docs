@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0525"
 title: "Create React App on Vercel"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:21.351Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/frontend/create-react-app"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "speed-insights", "observability", "preview-deployments", "react", "frontend"]
+related: ["0526-gatsby-on-vercel.md", "0528-react-router-on-vercel.md", "0524-astro-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.351Z"
+---
 
 # Create React App on Vercel
 

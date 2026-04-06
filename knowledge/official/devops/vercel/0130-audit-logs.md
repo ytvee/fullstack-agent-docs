@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0130"
 title: "Audit Logs"
 description: "Learn how to track and analyze your team members"
-last_updated: "2026-04-03T23:47:15.685Z"
+category: "vercel-observability"
+subcategory: "audit-log"
+type: "guide"
 source: "https://vercel.com/docs/audit-log"
---------------------------------------------------------------------------------
+tags: ["streaming", "audit-logs", "audit", "logs", "export-audit-logs", "custom-siem-log-streaming"]
+related: ["0630-logs.md", "0380-log-drains-reference.md", "0002-using-the-activity-log.md"]
+last_updated: "2026-04-03T23:47:15.685Z"
+---
 
 # Audit Logs
 

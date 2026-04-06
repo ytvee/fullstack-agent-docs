@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0474"
 title: "ROUTER_EXTERNAL_TARGET_HANDSHAKE_ERROR"
 description: "Error in establishing a connection with an external target."
-last_updated: "2026-04-03T23:47:20.640Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/ROUTER_EXTERNAL_TARGET_HANDSHAKE_ERROR"
---------------------------------------------------------------------------------
+tags: ["router", "external", "target", "handshake", "error", "troubleshoot"]
+related: ["0472-router-external-target-connection-error.md", "0473-router-external-target-error.md", "0460-optimized-external-image-request-failed.md"]
+last_updated: "2026-04-03T23:47:20.640Z"
+---
 
 # ROUTER_EXTERNAL_TARGET_HANDSHAKE_ERROR
 

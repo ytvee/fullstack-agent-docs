@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0592"
 title: "ISR Usage and Pricing"
 description: "Learn about ISR costs, usage metrics, and strategies to optimize your ISR reads and writes."
-last_updated: "2026-04-03T23:47:23.089Z"
+category: "vercel-frameworks"
+subcategory: "incremental-static-regeneration"
+type: "concept"
 source: "https://vercel.com/docs/incremental-static-regeneration/limits-and-pricing"
---------------------------------------------------------------------------------
+tags: ["isr-usage-and-pricing", "isr", "limits-and-pricing", "pricing", "usage", "storage"]
+related: ["0593-incremental-static-regeneration-isr.md", "0594-getting-started-with-isr.md", "0595-request-collapsing.md"]
+last_updated: "2026-04-03T23:47:23.089Z"
+---
 
 # ISR Usage and Pricing
 

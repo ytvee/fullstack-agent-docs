@@ -6,7 +6,7 @@ category: "vercel-cron-jobs"
 subcategory: "cron-jobs"
 type: "guide"
 source: "https://vercel.com/docs/cron-jobs/manage-cron-jobs"
-tags: ["cron-jobs", "scheduling", "cron-secret", "error-handling", "concurrency"]
+tags: ["managing-cron-jobs", "cron", "jobs", "manage-cron-jobs", "viewing-cron-jobs", "cron-jobs-maintenance"]
 related: ["0312-cron-jobs.md", "0313-getting-started-with-cron-jobs.md", "0314-usage-pricing-for-cron-jobs.md"]
 last_updated: "2026-04-03T23:47:18.600Z"
 ---

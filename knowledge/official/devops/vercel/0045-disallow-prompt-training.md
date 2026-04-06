@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0045"
 title: "Disallow Prompt Training"
 description: "Learn how to prevent AI providers from using your prompts and responses for model training through AI Gateway."
-last_updated: "2026-04-03T23:47:14.330Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/disallow-prompt-training"
---------------------------------------------------------------------------------
+tags: ["ai-sdk", "openresponses", "responses-api", "chat-completions", "anthropic", "disallow"]
+related: ["0044-custom-reporting.md", "0065-zero-data-retention.md", "0083-text-generation-quickstart.md"]
+last_updated: "2026-04-03T23:47:14.330Z"
+---
 
 # Disallow Prompt Training
 

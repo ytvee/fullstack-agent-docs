@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0653"
 title: "Vercel for Platforms"
 description: "Build multi-tenant applications that serve multiple customers from a single codebase with custom domains and subdomains."
-last_updated: "2026-04-03T23:47:24.431Z"
+category: "vercel-domains"
+subcategory: "multi-tenant"
+type: "concept"
 source: "https://vercel.com/docs/multi-tenant"
---------------------------------------------------------------------------------
+tags: ["custom-domains", "platforms", "why-build-multi-tenant-apps", "getting-started", "next-steps"]
+related: ["0651-domain-management-for-multi-tenant.md", "0652-multi-tenant-limits.md", "0361-setting-up-a-custom-domain.md"]
+last_updated: "2026-04-03T23:47:24.431Z"
+---
 
 # Vercel for Platforms
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0499"
 title: "Draft Flags"
 description: "Learn how draft flags work and how to promote them to Vercel Flags."
-last_updated: "2026-04-03T23:47:20.929Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard/drafts"
---------------------------------------------------------------------------------
+tags: ["draft-flags", "draft", "dashboard", "drafts", "how-drafts-work", "draft-behavior"]
+related: ["0502-managing-flags-in-the-dashboard.md", "0498-archive.md", "0504-segments.md"]
+last_updated: "2026-04-03T23:47:20.929Z"
+---
 
 # Draft Flags
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0633"
 title: "CDN pricing and usage"
 description: "Understand CDN pricing resources, monitor usage from your dashboard, and optimize Fast Data Transfer, Fast Origin Transfer, and CDN Requests."
-last_updated: "2026-04-03T23:47:24.002Z"
+category: "vercel-manage-cdn-usage"
+subcategory: "manage-cdn-usage"
+type: "concept"
 source: "https://vercel.com/docs/manage-cdn-usage"
---------------------------------------------------------------------------------
+tags: ["cdn-pricing-and-usage", "cdn", "fast-data-transfer", "fast-origin-transfer", "cdn-requests", "managing-cdn-requests"]
+related: ["0657-observability-insights.md", "0584-vercel-cdn-compression.md", "0632-manage-and-optimize-usage-for-observability.md"]
+last_updated: "2026-04-03T23:47:24.002Z"
+---
 
 # CDN pricing and usage
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0420"
 title: "DNS_HOSTNAME_SERVER_ERROR"
 description: "The DNS server was unable to fulfill the DNS request due to an internal issue or misconfiguration. This is a DNS error."
-last_updated: "2026-04-03T23:47:20.368Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/DNS_HOSTNAME_SERVER_ERROR"
---------------------------------------------------------------------------------
+tags: ["dns", "hostname", "server", "error", "dns-hostname-server-error", "troubleshoot"]
+related: ["0416-dns-hostname-empty.md", "0419-dns-hostname-resolve-failed.md", "0417-dns-hostname-not-found.md"]
+last_updated: "2026-04-03T23:47:20.368Z"
+---
 
 # DNS_HOSTNAME_SERVER_ERROR
 

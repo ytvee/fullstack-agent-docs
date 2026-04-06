@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0382"
 title: "Trace Drains Reference"
 description: "Learn about Trace Drains - OpenTelemetry-compliant distributed tracing data formats and configuration."
-last_updated: "2026-04-03T23:47:19.679Z"
+category: "vercel-observability"
+subcategory: "drains"
+type: "api-reference"
 source: "https://vercel.com/docs/drains/reference/traces"
---------------------------------------------------------------------------------
+tags: ["trace-drains-reference", "trace", "traces", "traces-schema", "format", "json"]
+related: ["0379-web-analytics-drains-reference.md", "0380-log-drains-reference.md", "0381-speed-insights-drains-reference.md"]
+last_updated: "2026-04-03T23:47:19.679Z"
+---
 
 # Trace Drains Reference
 

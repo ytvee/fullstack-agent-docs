@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "api-reference"
 source: "https://vercel.com/docs/cli/project"
-tags: ["cli-command", "project-management", "project-listing", "project-creation"]
-related: ["0199-vercel-cli-overview.md", "0201-linking-projects-with-vercel-cli.md", "0191-vercel-link.md"]
+tags: ["project", "usage", "global-options", "api-reference", "cli-command"]
+related: ["0212-vercel-teams.md", "0188-vercel-install.md", "0193-vercel-login.md"]
 last_updated: "2026-04-03T23:47:17.548Z"
 ---
 

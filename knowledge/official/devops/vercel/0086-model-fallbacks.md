@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0086"
 title: "Model Fallbacks"
 description: "Configure model-level failover to try backup models when the primary model is unavailable"
-last_updated: "2026-04-03T23:47:14.939Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/models-and-providers/model-fallbacks"
---------------------------------------------------------------------------------
+tags: ["model", "fallbacks", "models-and-providers", "model-fallbacks", "using-the-models-option", "how-failover-works"]
+related: ["0090-provider-options.md", "0091-provider-timeouts.md", "0087-model-variants.md"]
+last_updated: "2026-04-03T23:47:14.939Z"
+---
 
 # Model Fallbacks
 

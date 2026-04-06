@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0665"
 title: "Connect to Microsoft Azure"
 description: "Learn how to configure your Microsoft Azure account to trust Vercel"
-last_updated: "2026-04-03T23:47:24.681Z"
+category: "vercel-security"
+subcategory: "oidc"
+type: "integration"
 source: "https://vercel.com/docs/oidc/azure"
---------------------------------------------------------------------------------
+tags: ["connect-to-microsoft-azure", "connect", "microsoft", "azure", "configure-your-azure-account", "example"]
+related: ["0664-connect-to-amazon-web-services-aws.md", "0666-connect-to-google-cloud-platform-gcp.md", "0663-connect-to-your-own-api.md"]
+last_updated: "2026-04-03T23:47:24.681Z"
+---
 
 # Connect to Microsoft Azure
 

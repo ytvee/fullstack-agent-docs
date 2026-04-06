@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0174"
 title: "vercel deploy"
 description: "Learn how to deploy your Vercel projects using the vercel deploy CLI command."
-last_updated: "2026-04-03T23:47:17.246Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/deploy"
---------------------------------------------------------------------------------
+tags: ["custom-domains", "deploy", "usage", "extended-usage", "standard-output-usage", "deploying-to-a-custom-domain"]
+related: ["0164-vercel-alias.md", "0179-vercel-env.md", "0204-vercel-redeploy.md"]
+last_updated: "2026-04-03T23:47:17.246Z"
+---
 
 # vercel deploy
 

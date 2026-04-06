@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0048"
 title: "Image Generation"
 description: "Generate and edit images using AI models through Vercel AI Gateway with support for multiple providers and modalities."
-last_updated: "2026-04-03T23:47:14.377Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/image-generation"
---------------------------------------------------------------------------------
+tags: ["generation", "capabilities", "image-generation", "integration-methods", "setup"]
+related: ["0046-image-generation-with-ai-sdk.md", "0047-image-generation-with-chat-completions-api.md", "0061-reference-to-video-generation.md"]
+last_updated: "2026-04-03T23:47:14.377Z"
+---
 
 # Image Generation
 

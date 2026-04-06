@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0634"
 title: "Storage on Vercel Marketplace"
 description: "Connect Postgres, Redis, NoSQL, and other storage solutions through the Vercel Marketplace."
-last_updated: "2026-04-03T23:47:24.028Z"
+category: "vercel-integrations"
+subcategory: "marketplace-storage"
+type: "integration"
 source: "https://vercel.com/docs/marketplace-storage"
---------------------------------------------------------------------------------
+tags: ["storage", "marketplace", "why-use-marketplace-storage", "getting-started", "choosing-a-storage-solution", "best-practices"]
+related: ["0019-build-with-ai-agents-on-vercel.md", "0024-vercel-fal-integration.md", "0025-vercel-groq-integration.md"]
+last_updated: "2026-04-03T23:47:24.028Z"
+---
 
 # Storage on Vercel Marketplace
 

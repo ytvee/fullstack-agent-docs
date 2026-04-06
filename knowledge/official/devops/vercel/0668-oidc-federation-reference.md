@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0668"
 title: "OIDC Federation Reference"
 description: "Review helper libraries to help you connect with your backend and understand the structure of an OIDC token."
-last_updated: "2026-04-03T23:47:24.719Z"
+category: "vercel-security"
+subcategory: "oidc"
+type: "api-reference"
 source: "https://vercel.com/docs/oidc/reference"
---------------------------------------------------------------------------------
+tags: ["oidc-federation-reference", "federation", "helper-libraries", "aws-sdk-credentials-provider", "other-cloud-providers", "oidc-token-anatomy"]
+related: ["0667-openid-connect-oidc-federation.md", "0666-connect-to-google-cloud-platform-gcp.md", "0663-connect-to-your-own-api.md"]
+last_updated: "2026-04-03T23:47:24.719Z"
+---
 
 # OIDC Federation Reference
 

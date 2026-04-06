@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0586"
 title: "Legacy Pricing for Image Optimization"
 description: "This page outlines information on the pricing and limits for the source images-based legacy option."
-last_updated: "2026-04-03T23:47:22.563Z"
+category: "vercel-image-optimization"
+subcategory: "image-optimization"
+type: "concept"
 source: "https://vercel.com/docs/image-optimization/legacy-pricing"
---------------------------------------------------------------------------------
+tags: ["legacy", "optimization", "legacy-pricing", "pricing", "usage", "source-images"]
+related: ["0587-limits-and-pricing-for-image-optimization.md", "0589-image-optimization-with-vercel.md", "0590-getting-started-with-image-optimization.md"]
+last_updated: "2026-04-03T23:47:22.563Z"
+---
 
 # Legacy Pricing for Image Optimization
 

@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "api-reference"
 source: "https://vercel.com/docs/cli/rollback"
-tags: ["cli-command", "instant-rollback", "production", "deployment-management"]
-related: ["0347-rolling-back-a-production-deployment.md", "0596-performing-an-instant-rollback-on-a-deployment.md", "0202-vercel-promote.md"]
+tags: ["rollback", "usage", "commands", "status", "unique-options", "timeout"]
+related: ["0202-vercel-promote.md", "0187-vercel-inspect.md", "0164-vercel-alias.md"]
 last_updated: "2026-04-03T23:47:17.612Z"
 ---
 

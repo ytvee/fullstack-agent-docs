@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0111"
 title: "Provider Options"
 description: "Configure provider routing, fallbacks, and restrictions using the OpenResponses API."
-last_updated: "2026-04-03T23:47:15.339Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses/provider-options"
---------------------------------------------------------------------------------
+tags: ["openresponses", "provider", "options", "sdks-and-apis", "provider-options", "model-fallbacks"]
+related: ["0110-openresponses-api.md", "0114-tool-calling.md", "0090-provider-options.md"]
+last_updated: "2026-04-03T23:47:15.339Z"
+---
 
 # Provider Options
 

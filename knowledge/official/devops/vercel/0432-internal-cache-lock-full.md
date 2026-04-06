@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0432"
 title: "INTERNAL_CACHE_LOCK_FULL"
 description: "An unexpected error happened when CDN is accessing internal cache."
-last_updated: "2026-04-03T23:47:20.423Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_CACHE_LOCK_FULL"
---------------------------------------------------------------------------------
+tags: ["internal", "cache", "lock", "full", "internal-cache-lock-full", "troubleshoot"]
+related: ["0433-internal-cache-lock-timeout.md", "0430-internal-cache-error.md", "0444-internal-missing-response-from-cache.md"]
+last_updated: "2026-04-03T23:47:20.423Z"
+---
 
 # INTERNAL_CACHE_LOCK_FULL
 

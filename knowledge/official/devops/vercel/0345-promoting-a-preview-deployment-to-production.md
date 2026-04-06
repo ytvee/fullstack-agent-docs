@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0345"
 title: "Promoting a preview deployment to production"
 description: "Test a preview deployment and promote it to production using the CLI."
-last_updated: "2026-04-03T23:47:19.060Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments/promote-preview-to-production"
---------------------------------------------------------------------------------
+tags: ["preview-deployments", "promoting", "preview", "production", "quick-reference", "2-inspect-the-deployment"]
+related: ["0347-rolling-back-a-production-deployment.md", "0346-promoting-deployments.md", "0344-preview-deployment-suffix.md"]
+last_updated: "2026-04-03T23:47:19.060Z"
+---
 
 # Promoting a preview deployment to production
 

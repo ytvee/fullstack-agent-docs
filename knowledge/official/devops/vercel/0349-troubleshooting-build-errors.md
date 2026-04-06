@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0349"
 title: "Troubleshooting Build Errors"
 description: "Learn how to resolve common scenarios you may encounter during the Build step, including build errors that cancel a deployment and long build times."
-last_updated: "2026-04-03T23:47:19.188Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments/troubleshoot-a-build"
---------------------------------------------------------------------------------
+tags: ["troubleshooting-build-errors", "errors", "troubleshoot-a-build", "troubleshooting-views", "troubleshoot-build-failures", "investigating-build-logs"]
+related: ["0350-troubleshoot-project-collaboration.md", "0347-rolling-back-a-production-deployment.md", "0339-accessing-deployments-through-generated-urls.md"]
+last_updated: "2026-04-03T23:47:19.188Z"
+---
 
 # Troubleshooting Build Errors
 

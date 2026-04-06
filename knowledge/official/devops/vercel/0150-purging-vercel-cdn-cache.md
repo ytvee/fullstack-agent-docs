@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0150"
 title: "Purging Vercel CDN Cache"
 description: "Learn how to invalidate and delete cached content on Vercel"
-last_updated: "2026-04-03T23:47:16.631Z"
+category: "vercel-caching"
+subcategory: "caching"
+type: "guide"
 source: "https://vercel.com/docs/caching/cdn-cache/purge"
---------------------------------------------------------------------------------
+tags: ["purging-vercel-cdn-cache", "purging", "cdn", "cache", "cdn-cache", "purge"]
+related: ["0149-vercel-cdn-cache.md", "0151-caching.md", "0152-data-cache-for-next-js.md"]
+last_updated: "2026-04-03T23:47:16.631Z"
+---
 
 # Purging Vercel CDN Cache
 

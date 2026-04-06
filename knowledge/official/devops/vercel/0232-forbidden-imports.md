@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0232"
 title: "forbidden-imports"
 description: "Learn how to set custom rules to disallow one or more files from importing one or more predefined modules"
-last_updated: "2026-04-03T23:47:17.966Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/custom-rules/forbidden-imports"
---------------------------------------------------------------------------------
+tags: ["forbidden", "imports", "custom-rules", "forbidden-imports", "when-to-use-this-rule-type", "configuring-this-rule-type"]
+related: ["0231-forbidden-dependencies.md", "0230-forbidden-code.md", "0233-forbidden-packages.md"]
+last_updated: "2026-04-03T23:47:17.966Z"
+---
 
 # forbidden-imports
 

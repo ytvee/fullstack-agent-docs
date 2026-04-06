@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0468"
 title: "RANGE_UNIT_NOT_SUPPORTED"
 description: "The unit identifier of the Range header in the request is not supported. This is a request error."
-last_updated: "2026-04-03T23:47:20.601Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/RANGE_UNIT_NOT_SUPPORTED"
---------------------------------------------------------------------------------
+tags: ["range", "unit", "not", "supported", "range-unit-not-supported", "troubleshoot"]
+related: ["0466-range-missing-unit.md", "0464-range-end-not-valid.md", "0465-range-group-not-valid.md"]
+last_updated: "2026-04-03T23:47:20.601Z"
+---
 
 # RANGE_UNIT_NOT_SUPPORTED
 

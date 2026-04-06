@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0369"
 title: "Deploying & Redirecting Domains"
 description: "Learn how to deploy your domains and set up domain redirects with this guide."
-last_updated: "2026-04-03T23:47:19.443Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-domains/deploying-and-redirecting"
---------------------------------------------------------------------------------
+tags: ["redirecting", "working-with-domains", "deploying-and-redirecting", "deploying-your-domain", "redirecting-domains", "redirecting-www-domains"]
+related: ["0370-working-with-domains.md", "0365-adding-configuring-a-custom-domain.md", "0367-assigning-a-domain-to-a-git-branch.md"]
+last_updated: "2026-04-03T23:47:19.443Z"
+---
 
 # Deploying & Redirecting Domains
 

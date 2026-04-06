@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0581"
 title: "System Headers"
 description: "This reference covers the list of request, response, cache-control, and custom response headers included with deployments with Vercel."
-last_updated: "2026-04-03T23:47:22.453Z"
+category: "vercel-headers"
+subcategory: "headers"
+type: "concept"
 source: "https://vercel.com/docs/headers"
---------------------------------------------------------------------------------
+tags: ["system-headers", "system", "using-headers", "request-headers", "response-headers", "cache-control-header"]
+related: ["0582-request-headers.md", "0583-response-headers.md", "0225-comments-overview.md"]
+last_updated: "2026-04-03T23:47:22.453Z"
+---
 
 # System Headers
 

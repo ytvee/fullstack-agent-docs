@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0618"
 title: "Building Integrations with Vercel REST API"
 description: "Learn how to use Vercel REST API to build your integrations and work with redirect URLs."
-last_updated: "2026-04-03T23:47:23.746Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/vercel-api-integrations"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "building", "rest", "create-integration", "using-the-vercel-rest-api", "create-an-access-token"]
+related: ["0617-upgrade-an-integration.md", "0613-native-integration-concepts.md", "0610-using-the-integrations-rest-api.md"]
+last_updated: "2026-04-03T23:47:23.746Z"
+---
 
 # Building Integrations with Vercel REST API
 

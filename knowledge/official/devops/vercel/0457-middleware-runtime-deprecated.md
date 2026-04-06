@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0457"
 title: "MIDDLEWARE_RUNTIME_DEPRECATED"
 description: "A middleware is using a deprecated runtime."
-last_updated: "2026-04-03T23:47:20.535Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/MIDDLEWARE_RUNTIME_DEPRECATED"
---------------------------------------------------------------------------------
+tags: ["middleware-runtime-deprecated", "middleware", "runtime", "deprecated", "troubleshoot", "setup"]
+related: ["0453-microfrontends-middleware-error.md", "0455-middleware-invocation-failed.md", "0456-middleware-invocation-timeout.md"]
+last_updated: "2026-04-03T23:47:20.535Z"
+---
 
 # MIDDLEWARE_RUNTIME_DEPRECATED
 

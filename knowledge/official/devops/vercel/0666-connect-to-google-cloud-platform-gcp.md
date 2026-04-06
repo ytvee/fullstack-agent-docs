@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0666"
 title: "Connect to Google Cloud Platform (GCP)"
 description: "Learn how to configure your GCP project to trust Vercel"
-last_updated: "2026-04-03T23:47:24.699Z"
+category: "vercel-security"
+subcategory: "oidc"
+type: "integration"
 source: "https://vercel.com/docs/oidc/gcp"
---------------------------------------------------------------------------------
+tags: ["connect", "google", "cloud", "platform", "gcp", "configure-your-gcp-project"]
+related: ["0665-connect-to-microsoft-azure.md", "0664-connect-to-amazon-web-services-aws.md", "0668-oidc-federation-reference.md"]
+last_updated: "2026-04-03T23:47:24.699Z"
+---
 
 # Connect to Google Cloud Platform (GCP)
 

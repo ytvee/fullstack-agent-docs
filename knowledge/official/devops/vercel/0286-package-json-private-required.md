@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0286"
 title: "PACKAGE_JSON_PRIVATE_REQUIRED"
 description: "Requires that every package.json file has the private field set to prevent accidental publishing to npm."
-last_updated: "2026-04-03T23:47:18.372Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/PACKAGE_JSON_PRIVATE_REQUIRED"
---------------------------------------------------------------------------------
+tags: ["package", "json", "private", "required", "rules", "related-rules"]
+related: ["0283-package-json-description-required.md", "0285-package-json-name-required.md", "0287-package-json-private-requiredpackage-json-side-effects-required.md"]
+last_updated: "2026-04-03T23:47:18.372Z"
+---
 
 # PACKAGE_JSON_PRIVATE_REQUIRED
 

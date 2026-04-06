@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0589"
 title: "Image Optimization with Vercel"
 description: "Transform and optimize images to improve page load performance."
-last_updated: "2026-04-03T23:47:22.616Z"
+category: "vercel-image-optimization"
+subcategory: "image-optimization"
+type: "concept"
 source: "https://vercel.com/docs/image-optimization"
---------------------------------------------------------------------------------
+tags: ["optimization", "get-started", "how-image-optimization-works", "local-images", "remote-images", "opt-in"]
+related: ["0586-legacy-pricing-for-image-optimization.md", "0587-limits-and-pricing-for-image-optimization.md", "0590-getting-started-with-image-optimization.md"]
+last_updated: "2026-04-03T23:47:22.616Z"
+---
 
 # Image Optimization with Vercel
 

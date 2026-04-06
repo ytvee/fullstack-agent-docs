@@ -6,8 +6,8 @@ category: "vercel-flags"
 subcategory: "flags"
 type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/sdks/openfeature"
-tags: ["openfeature", "vendor-neutral", "feature-flags", "provider", "typescript"]
-related: ["0511-sdks.md", "0508-using-the-core-library.md", "0509-using-the-flags-sdk-with-vercel-flags.md"]
+tags: ["nextjs", "openfeature", "open", "feature", "sdks", "setup"]
+related: ["0511-sdks.md", "0509-using-the-flags-sdk-with-vercel-flags.md", "0508-using-the-core-library.md"]
 last_updated: "2026-04-03T23:47:21.079Z"
 ---
 

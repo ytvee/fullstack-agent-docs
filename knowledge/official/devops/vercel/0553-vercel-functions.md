@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0553"
 title: "Vercel Functions"
 description: "Run server-side code on Vercel without managing a server."
-last_updated: "2026-04-03T23:47:22.019Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions"
---------------------------------------------------------------------------------
+tags: ["related", "setup", "how-to", "troubleshooting"]
+related: ["0541-configuring-in-function-concurrency.md", "0554-getting-started-with-vercel-functions.md", "0540-advanced-configuration-2.md"]
+last_updated: "2026-04-03T23:47:22.019Z"
+---
 
 # Vercel Functions
 

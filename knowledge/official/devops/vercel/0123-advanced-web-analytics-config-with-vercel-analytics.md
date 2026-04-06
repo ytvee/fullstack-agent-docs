@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0123"
 title: "Advanced Web Analytics Config with @vercel/analytics"
 description: "With the @vercel/analytics npm package, you are able to configure your application to send analytics data to Vercel."
-last_updated: "2026-04-03T23:47:15.814Z"
+category: "vercel-analytics"
+subcategory: "analytics"
+type: "concept"
 source: "https://vercel.com/docs/analytics/package"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "web", "config", "package", "getting-started", "what-s-new-in-version-2-x"]
+related: ["0128-vercel-web-analytics-troubleshooting.md", "0124-vercel-web-analytics.md", "0126-getting-started-with-vercel-web-analytics.md"]
+last_updated: "2026-04-03T23:47:15.814Z"
+---
 
 # Advanced Web Analytics Config with @vercel/analytics
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0092"
 title: "AI Gateway"
 description: "AI Gateway provides a unified API to access hundreds of AI models through a single endpoint, with built-in budgets, usage monitoring, and fallbacks."
-last_updated: "2026-04-03T23:47:15.070Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway"
---------------------------------------------------------------------------------
+tags: ["ai", "gateway", "what-ai-gateway-provides", "get-started-and-learn-more"]
+related: ["0078-pydantic-ai.md", "0094-ai-sdk.md", "0072-langchain.md"]
+last_updated: "2026-04-03T23:47:15.070Z"
+---
 
 # AI Gateway
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0096"
 title: "File Attachments"
 description: "Send images and PDF documents as part of your Anthropic API message requests."
-last_updated: "2026-04-03T23:47:15.118Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api/file-attachments"
---------------------------------------------------------------------------------
+tags: ["anthropic", "file", "attachments", "sdks-and-apis", "anthropic-messages-api", "file-attachments"]
+related: ["0098-anthropic-messages-api.md", "0097-messages.md", "0095-advanced-features.md"]
+last_updated: "2026-04-03T23:47:15.118Z"
+---
 
 # File Attachments
 

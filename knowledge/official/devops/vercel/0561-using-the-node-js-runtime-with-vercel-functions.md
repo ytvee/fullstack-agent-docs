@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0561"
 title: "Using the Node.js Runtime with Vercel Functions"
 description: "Learn how to use the Node.js runtime with Vercel Functions to create functions."
-last_updated: "2026-04-03T23:47:22.120Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/runtimes/node-js"
---------------------------------------------------------------------------------
+tags: ["nodejs", "express", "node-js", "runtime", "runtimes", "creating-a-node-js-function"]
+related: ["0560-supported-node-js-versions.md", "0559-advanced-node-js-usage.md", "0555-using-the-bun-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:22.120Z"
+---
 
 # Using the Node.js Runtime with Vercel Functions
 

@@ -6,8 +6,8 @@ category: "vercel-environment-variables"
 subcategory: "environment-variables"
 type: "concept"
 source: "https://vercel.com/docs/environment-variables"
-tags: ["key-value", "encryption", "64kb-limit", "build-step", "runtime"]
-related: ["0402-managing-environment-variables.md", "0408-system-environment-variables.md", "0406-sensitive-environment-variables.md"]
+tags: ["environment", "variables", "environments"]
+related: ["0401-managing-environment-variables-across-environments.md", "0402-managing-environment-variables.md", "0400-framework-environment-variables.md"]
 last_updated: "2026-04-03T23:47:20.327Z"
 ---
 

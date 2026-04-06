@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0396"
 title: "Using Edge Config"
 description: "Learn how to use Edge Configs in your projects."
-last_updated: "2026-04-03T23:47:20.101Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/using-edge-config"
---------------------------------------------------------------------------------
+tags: ["edge", "config", "using-edge-config", "creating-a-read-access-token", "using-a-connection-string", "setup"]
+related: ["0393-vercel-edge-config.md", "0394-getting-started-with-edge-config.md", "0385-managing-edge-configs-with-the-dashboard.md"]
+last_updated: "2026-04-03T23:47:20.101Z"
+---
 
 # Using Edge Config
 

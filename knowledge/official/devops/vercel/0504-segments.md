@@ -4,10 +4,10 @@ title: "Segments"
 description: "Create reusable user segments for targeting feature flags."
 category: "vercel-flags"
 subcategory: "flags"
-type: "guide"
+type: "concept"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard/segments"
-tags: ["feature-flags", "user-segments", "targeting", "rollout", "beta-users"]
-related: ["0500-entities.md", "0501-feature-flag-configuration.md", "0502-managing-flags-in-the-dashboard.md"]
+tags: ["feature-flags", "segments", "dashboard", "common-segment-examples", "how-to-create-a-segment", "defining-segment-rules"]
+related: ["0498-archive.md", "0506-vercel-flags-2.md", "0502-managing-flags-in-the-dashboard.md"]
 last_updated: "2026-04-03T23:47:21.004Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0497"
 title: "Setting up Flags Explorer"
 description: "Add the Flags Explorer to the Vercel Toolbar so you can override flag values on preview deployments without affecting other users."
-last_updated: "2026-04-03T23:47:20.911Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/cli/set-up-flags-explorer"
---------------------------------------------------------------------------------
+tags: ["setting-up-flags-explorer", "preview-deployments", "flags-explorer", "setting", "up", "explorer"]
+related: ["0496-running-an-a-b-test.md", "0494-cleaning-up-after-a-full-rollout.md", "0485-getting-started-with-flags-explorer.md"]
+last_updated: "2026-04-03T23:47:20.911Z"
+---
 
 # Setting up Flags Explorer
 

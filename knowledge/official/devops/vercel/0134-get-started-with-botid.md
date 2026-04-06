@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0134"
 title: "Get Started with BotID"
 description: "Step-by-step guide to setting up BotID protection in your Vercel project"
-last_updated: "2026-04-03T23:47:16.301Z"
+category: "vercel-security"
+subcategory: "botid"
+type: "concept"
 source: "https://vercel.com/docs/botid/get-started"
---------------------------------------------------------------------------------
+tags: ["get-started-with-botid", "nextjs", "get", "bot", "id", "get-started"]
+related: ["0132-advanced-botid-configuration.md", "0133-form-submissions.md", "0136-botid.md"]
+last_updated: "2026-04-03T23:47:16.301Z"
+---
 
 # Get Started with BotID
 

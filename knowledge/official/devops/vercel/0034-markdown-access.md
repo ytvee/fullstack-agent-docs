@@ -3,11 +3,11 @@ id: "vercel-0034"
 title: "Markdown Access"
 description: "Access Vercel documentation as markdown using .md endpoints or the copy button."
 category: "vercel-integrations"
-subcategory: "integrations"
-type: "guide"
+subcategory: "agent-resources"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/markdown-access"
-tags: ["documentation", "markdown", "ai-assistant", "llm-context", "api-access"]
-related: ["0035-agent-resources.md", "0671-vercel-documentation.md", "0038-tools.md"]
+tags: ["custom-domains", "markdown", "access", "markdown-access", "md-endpoints", "using-md-endpoints"]
+related: ["0035-agent-resources.md", "0016-coding-agents.md", "0019-build-with-ai-agents-on-vercel.md"]
 last_updated: "2026-04-03T23:47:14.083Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0456"
 title: "MIDDLEWARE_INVOCATION_TIMEOUT"
 description: "The Routing Middleware invocation timed out. This is an application error."
-last_updated: "2026-04-03T23:47:20.531Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/MIDDLEWARE_INVOCATION_TIMEOUT"
---------------------------------------------------------------------------------
+tags: ["middleware-invocation-timeout", "middleware", "invocation", "timeout", "troubleshoot", "setup"]
+related: ["0422-edge-function-invocation-timeout.md", "0455-middleware-invocation-failed.md", "0438-internal-function-invocation-timeout.md"]
+last_updated: "2026-04-03T23:47:20.531Z"
+---
 
 # MIDDLEWARE_INVOCATION_TIMEOUT
 

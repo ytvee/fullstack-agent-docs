@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0295"
 title: "REQUIRE_DOCS_ON_EXPORTED_FUNCTIONS"
 description: "Requires that all exported functions have JSDoc comments."
-last_updated: "2026-04-03T23:47:18.425Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/REQUIRE_DOCS_ON_EXPORTED_FUNCTIONS"
---------------------------------------------------------------------------------
+tags: ["require", "exported", "functions", "rules", "examples", "how-to-fix"]
+related: ["0260-nextjs-require-explicit-dynamic.md", "0296-require-node-version-file.md", "0294-require-caret-dependencies.md"]
+last_updated: "2026-04-03T23:47:18.425Z"
+---
 
 # REQUIRE_DOCS_ON_EXPORTED_FUNCTIONS
 

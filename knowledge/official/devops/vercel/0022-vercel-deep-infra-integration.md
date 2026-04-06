@@ -3,11 +3,11 @@ id: "vercel-0022"
 title: "Vercel Deep Infra Integration"
 description: "Learn how to add the Deep Infra native integration with Vercel."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/deepinfra"
-tags: ["ai-provider", "deepseek", "llama", "inference", "ml-models"]
-related: ["0028-build-with-ai-on-vercel.md", "0021-adding-a-provider.md", "0088-models-providers.md"]
+tags: ["deep", "infra", "integrations-for-models", "deepinfra", "use-cases", "available-models"]
+related: ["0024-vercel-fal-integration.md", "0025-vercel-groq-integration.md", "0033-vercel-xai-integration.md"]
 last_updated: "2026-04-03T23:47:14.021Z"
 ---
 

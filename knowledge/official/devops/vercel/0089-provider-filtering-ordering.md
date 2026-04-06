@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0089"
 title: "Provider Filtering & Ordering"
 description: "Control which providers handle your requests and in what order using the order and only options."
-last_updated: "2026-04-03T23:47:15.027Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/models-and-providers/provider-filtering-and-ordering"
---------------------------------------------------------------------------------
+tags: ["provider", "filtering", "ordering", "models-and-providers", "provider-ordering", "getting-started"]
+related: ["0090-provider-options.md", "0091-provider-timeouts.md", "0088-models-providers.md"]
+last_updated: "2026-04-03T23:47:15.027Z"
+---
 
 # Provider Filtering & Ordering
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0563"
 title: "Using the Python Runtime with Vercel Functions"
 description: "Learn how to use the Python runtime to run Python applications on Vercel."
-last_updated: "2026-04-03T23:47:22.162Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/runtimes/python"
---------------------------------------------------------------------------------
+tags: ["streaming", "python", "runtime", "runtimes", "run-a-python-application", "python-version"]
+related: ["0558-using-the-go-runtime-with-vercel-functions.md", "0561-using-the-node-js-runtime-with-vercel-functions.md", "0564-using-the-ruby-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:22.162Z"
+---
 
 # Using the Python Runtime with Vercel Functions
 

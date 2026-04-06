@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0262"
 title: "NEXTJS_SAFE_SVG_IMAGES"
 description: "Prevent dangerouslyAllowSVG without Content Security Policy in Next.js applications."
-last_updated: "2026-04-03T23:47:18.221Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_SAFE_SVG_IMAGES"
---------------------------------------------------------------------------------
+tags: ["nextjs", "safe", "svg", "images", "rules", "nextjs-safe-svg-images"]
+related: ["0263-nextjs-safe-url-imports.md", "0255-nextjs-no-fetch-in-server-props.md", "0258-nextjs-no-self-hosted-videos.md"]
+last_updated: "2026-04-03T23:47:18.221Z"
+---
 
 # NEXTJS_SAFE_SVG_IMAGES
 

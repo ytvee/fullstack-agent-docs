@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0073"
 title: "LangFuse"
 description: "Learn how to integrate Vercel AI Gateway with LangFuse to access multiple AI models through a unified interface"
-last_updated: "2026-04-03T23:47:14.789Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations/langfuse"
---------------------------------------------------------------------------------
+tags: ["lang", "fuse", "ecosystem", "framework-integrations", "langfuse", "getting-started"]
+related: ["0072-langchain.md", "0074-litellm.md", "0075-llamaindex.md"]
+last_updated: "2026-04-03T23:47:14.789Z"
+---
 
 # LangFuse
 

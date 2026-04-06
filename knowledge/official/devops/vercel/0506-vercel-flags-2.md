@@ -6,8 +6,8 @@ category: "vercel-flags"
 subcategory: "flags"
 type: "concept"
 source: "https://vercel.com/docs/flags/vercel-flags"
-tags: ["feature-flags", "ab-testing", "experiments", "targeting", "trunk-based-development"]
-related: ["0507-getting-started-with-vercel-flags.md", "0502-managing-flags-in-the-dashboard.md", "0511-sdks.md"]
+tags: ["feature-flags", "flags-explorer", "why-vercel-flags", "how-it-works", "flags-and-sdks", "entities-and-targeting"]
+related: ["0500-entities.md", "0504-segments.md", "0502-managing-flags-in-the-dashboard.md"]
 last_updated: "2026-04-03T23:47:21.027Z"
 ---
 

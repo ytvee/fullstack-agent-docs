@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0477"
 title: "SANBDOX_NOT_LISTENING"
 description: "The Sandbox is not listening on the requested port. This is an application error."
-last_updated: "2026-04-03T23:47:20.651Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/SANDBOX_NOT_LISTENING"
---------------------------------------------------------------------------------
+tags: ["sanbdox-not-listening", "sanbdox", "not", "listening", "sandbox-not-listening", "troubleshoot"]
+related: ["0476-sanbdox-not-found.md", "0458-not-found.md", "0478-sanbdox-stopped.md"]
+last_updated: "2026-04-03T23:47:20.651Z"
+---
 
 # SANBDOX_NOT_LISTENING
 

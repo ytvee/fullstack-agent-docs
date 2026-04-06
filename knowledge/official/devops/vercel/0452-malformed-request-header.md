@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0452"
 title: "MALFORMED_REQUEST_HEADER"
 description: "The MALFORMED_REQUEST_HEADER error occurs when a request contains an improperly formatted or invalid header. This is a request error."
-last_updated: "2026-04-03T23:47:20.519Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/MALFORMED_REQUEST_HEADER"
---------------------------------------------------------------------------------
+tags: ["malformed", "request", "header", "malformed-request-header", "troubleshoot", "setup"]
+related: ["0447-internal-static-request-failed.md", "0450-invalid-image-optimize-request.md", "0451-invalid-request-method.md"]
+last_updated: "2026-04-03T23:47:20.519Z"
+---
 
 # MALFORMED_REQUEST_HEADER
 

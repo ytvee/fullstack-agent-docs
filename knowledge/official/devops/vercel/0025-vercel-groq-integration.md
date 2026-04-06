@@ -3,11 +3,11 @@ id: "vercel-0025"
 title: "Vercel Groq Integration"
 description: "Learn how to add the Groq native integration with Vercel."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/groq"
-tags: ["ai-provider", "low-latency", "llm-inference", "lpu-architecture", "native-integration"]
-related: ["0028-build-with-ai-on-vercel.md", "0021-adding-a-provider.md", "0088-models-providers.md"]
+tags: ["groq", "integrations-for-models", "use-cases", "available-models", "getting-started", "prerequisites"]
+related: ["0024-vercel-fal-integration.md", "0029-vercel-perplexity-integration.md", "0031-vercel-replicate-integration.md"]
 last_updated: "2026-04-03T23:47:14.037Z"
 ---
 

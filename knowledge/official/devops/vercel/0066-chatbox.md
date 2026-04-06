@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0066"
 title: "Chatbox"
 description: "Use Chatbox with the AI Gateway."
-last_updated: "2026-04-03T23:47:14.669Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/chat-platforms/chatbox"
---------------------------------------------------------------------------------
+tags: ["chatbox", "chat-platforms", "configuring-chatbox"]
+related: ["0070-chat-platforms.md", "0067-librechat.md", "0068-open-webui.md"]
+last_updated: "2026-04-03T23:47:14.669Z"
+---
 
 # Chatbox
 

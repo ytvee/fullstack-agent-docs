@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0177"
 title: "vercel dns"
 description: "Learn how to manage your DNS records for your domains using the vercel dns CLI command."
-last_updated: "2026-04-03T23:47:17.275Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/dns"
---------------------------------------------------------------------------------
+tags: ["dns", "usage", "extended-usage", "unique-options", "limit", "global-options"]
+related: ["0178-vercel-domains.md", "0171-vercel-certs.md", "0186-vercel-init.md"]
+last_updated: "2026-04-03T23:47:17.275Z"
+---
 
 # vercel dns
 

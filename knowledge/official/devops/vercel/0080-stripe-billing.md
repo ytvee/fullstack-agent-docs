@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0080"
 title: "Stripe Billing"
 description: "Add usage-based billing to your AI application with Stripe and AI Gateway."
-last_updated: "2026-04-03T23:47:14.847Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/ecosystem/stripe-billing"
---------------------------------------------------------------------------------
+tags: ["stripe", "billing", "ecosystem", "stripe-billing", "how-it-works", "prerequisites"]
+related: ["0071-app-attribution.md", "0079-ecosystem.md", "0072-langchain.md"]
+last_updated: "2026-04-03T23:47:14.847Z"
+---
 
 # Stripe Billing
 

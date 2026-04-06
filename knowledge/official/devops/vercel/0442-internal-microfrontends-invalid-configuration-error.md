@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0442"
 title: "INTERNAL_MICROFRONTENDS_INVALID_CONFIGURATION_ERROR"
 description: "The microfrontend configuration file is invalid."
-last_updated: "2026-04-03T23:47:20.468Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_MICROFRONTENDS_INVALID_CONFIGURATION_ERROR"
---------------------------------------------------------------------------------
+tags: ["microfrontends", "internal", "invalid", "configuration", "error", "troubleshoot"]
+related: ["0441-internal-microfrontends-build-error.md", "0443-internal-microfrontends-unexpected-error.md", "0453-microfrontends-middleware-error.md"]
+last_updated: "2026-04-03T23:47:20.468Z"
+---
 
 # INTERNAL_MICROFRONTENDS_INVALID_CONFIGURATION_ERROR
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0386"
 title: "Using Edge Config with DevCycle"
 description: "Learn how to use Edge Config with Vercel"
-last_updated: "2026-04-03T23:47:19.780Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/edge-config-integrations/devcycle-edge-config"
---------------------------------------------------------------------------------
+tags: ["edge", "config", "dev", "cycle", "edge-config-integrations", "devcycle-edge-config"]
+related: ["0387-using-edge-config-with-hypertune.md", "0388-using-edge-config-with-launchdarkly.md", "0390-using-edge-config-with-split.md"]
+last_updated: "2026-04-03T23:47:19.780Z"
+---
 
 # Using Edge Config with DevCycle
 

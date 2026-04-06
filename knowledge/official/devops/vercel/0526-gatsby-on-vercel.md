@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0526"
 title: "Gatsby on Vercel"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:21.511Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/frontend/gatsby"
---------------------------------------------------------------------------------
+tags: ["gatsby-on-vercel", "speed-insights", "image-optimization", "isr", "gatsby", "frontend"]
+related: ["0524-astro-on-vercel.md", "0530-next-js-on-vercel.md", "0536-vite-nitro-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.511Z"
+---
 
 # Gatsby on Vercel
 

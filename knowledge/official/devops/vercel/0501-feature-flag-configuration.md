@@ -6,8 +6,8 @@ category: "vercel-flags"
 subcategory: "flags"
 type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard/feature-flag"
-tags: ["feature-flags", "variants", "targeting-rules", "environments", "ab-testing"]
-related: ["0502-managing-flags-in-the-dashboard.md", "0504-segments.md", "0506-vercel-flags-2.md"]
+tags: ["feature-flag-configuration", "feature-flags", "feature", "flag", "configuration", "dashboard"]
+related: ["0500-entities.md", "0502-managing-flags-in-the-dashboard.md", "0504-segments.md"]
 last_updated: "2026-04-03T23:47:20.959Z"
 ---
 

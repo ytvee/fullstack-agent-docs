@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0445"
 title: "INTERNAL_OPTIMIZED_IMAGE_REQUEST_FAILED"
 description: "The request for an internally optimized image failed. This is a server error."
-last_updated: "2026-04-03T23:47:20.483Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_OPTIMIZED_IMAGE_REQUEST_FAILED"
---------------------------------------------------------------------------------
+tags: ["internal", "optimized", "request", "failed", "troubleshoot", "setup"]
+related: ["0460-optimized-external-image-request-failed.md", "0447-internal-static-request-failed.md", "0434-internal-deployment-fetch-failed.md"]
+last_updated: "2026-04-03T23:47:20.483Z"
+---
 
 # INTERNAL_OPTIMIZED_IMAGE_REQUEST_FAILED
 

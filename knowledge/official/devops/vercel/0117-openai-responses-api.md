@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0117"
 title: "OpenAI Responses API"
 description: "Use the OpenAI Responses API with AI Gateway to generate text, call tools, stream tokens, and more across any supported provider."
-last_updated: "2026-04-03T23:47:15.449Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/responses"
---------------------------------------------------------------------------------
+tags: ["openai-responses-api", "responses-api", "structured-outputs", "tool-calling", "streaming", "openai"]
+related: ["0116-python.md", "0094-ai-sdk.md", "0106-direct-rest-api-usage.md"]
+last_updated: "2026-04-03T23:47:15.449Z"
+---
 
 # OpenAI Responses API
 

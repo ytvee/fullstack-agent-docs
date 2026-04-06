@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0533"
 title: "Remix on Vercel"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:21.621Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/full-stack/remix"
---------------------------------------------------------------------------------
+tags: ["remix-on-vercel", "remix", "full-stack", "integration"]
+related: ["0532-full-stack-frameworks-on-vercel.md", "0531-nuxt-on-vercel.md", "0535-tanstack-start-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.621Z"
+---
 
 # Remix on Vercel
 

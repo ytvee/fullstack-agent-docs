@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0632"
 title: "Manage and optimize usage for Observability"
 description: "Learn how to understand the different charts in the Vercel dashboard, how usage relates to billing, and how to optimize your usage of Web Analytics and Speed Insights."
-last_updated: "2026-04-03T23:47:23.985Z"
+category: "vercel-observability"
+subcategory: "manage-and-optimize-observability"
+type: "guide"
 source: "https://vercel.com/docs/manage-and-optimize-observability"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "speed-insights", "optimize", "plan-usage", "managing-monitoring-events", "optimizing-monitoring-events"]
+related: ["0378-working-with-drains.md", "0379-web-analytics-drains-reference.md", "0381-speed-insights-drains-reference.md"]
+last_updated: "2026-04-03T23:47:23.985Z"
+---
 
 # Manage and optimize usage for Observability
 

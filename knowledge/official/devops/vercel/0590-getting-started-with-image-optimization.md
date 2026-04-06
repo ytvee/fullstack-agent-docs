@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0590"
 title: "Getting started with Image Optimization"
 description: "Learn how you can leverage Vercel Image Optimization in your projects."
-last_updated: "2026-04-03T23:47:22.643Z"
+category: "vercel-image-optimization"
+subcategory: "image-optimization"
+type: "guide"
 source: "https://vercel.com/docs/image-optimization/quickstart"
---------------------------------------------------------------------------------
+tags: ["optimization", "quickstart", "prerequisites", "next-steps", "setup"]
+related: ["0588-managing-usage-costs.md", "0587-limits-and-pricing-for-image-optimization.md", "0586-legacy-pricing-for-image-optimization.md"]
+last_updated: "2026-04-03T23:47:22.643Z"
+---
 
 # Getting started with Image Optimization
 

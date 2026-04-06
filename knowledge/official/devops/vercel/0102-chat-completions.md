@@ -4,10 +4,10 @@ title: "Chat Completions"
 description: "Create chat completions using the Chat Completions API with support for streaming, image attachments, and PDF documents."
 category: "vercel-ai-gateway"
 subcategory: "ai-gateway"
-type: "api-reference"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/chat-completions"
-tags: ["chat-completions", "streaming", "image-attachments", "pdf-documents", "openai-compatible"]
-related: ["0105-openai-chat-completions-api.md", "0112-streaming.md", "0113-text-generation.md"]
+tags: ["chat-completions", "streaming", "openai", "chat", "completions", "sdks-and-apis"]
+related: ["0104-image-generation-2.md", "0106-direct-rest-api-usage.md", "0107-structured-outputs-2.md"]
 last_updated: "2026-04-03T23:47:15.242Z"
 ---
 

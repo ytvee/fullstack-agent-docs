@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0079"
 title: "Ecosystem"
 description: "Explore community framework integrations and ecosystem features for the AI Gateway."
-last_updated: "2026-04-03T23:47:14.834Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/ecosystem"
---------------------------------------------------------------------------------
+tags: ["ecosystem", "framework-integrations", "langchain", "llamaindex", "pydantic-ai", "stripe-billing"]
+related: ["0072-langchain.md", "0075-llamaindex.md", "0077-framework-integrations.md"]
+last_updated: "2026-04-03T23:47:14.834Z"
+---
 
 # Ecosystem
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0418"
 title: "DNS_HOSTNAME_RESOLVED_PRIVATE"
 description: "The DNS hostname resolved to a private IP address or an IPv6 address during an external rewrite. This is a DNS error."
-last_updated: "2026-04-03T23:47:20.361Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/DNS_HOSTNAME_RESOLVED_PRIVATE"
---------------------------------------------------------------------------------
+tags: ["dns", "hostname", "resolved", "private", "troubleshoot", "setup"]
+related: ["0416-dns-hostname-empty.md", "0417-dns-hostname-not-found.md", "0419-dns-hostname-resolve-failed.md"]
+last_updated: "2026-04-03T23:47:20.361Z"
+---
 
 # DNS_HOSTNAME_RESOLVED_PRIVATE
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0185"
 title: "vercel httpstat"
 description: "Learn how to visualize HTTP request timing statistics for your Vercel deployments using the vercel httpstat CLI command."
-last_updated: "2026-04-03T23:47:17.375Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/httpstat"
---------------------------------------------------------------------------------
+tags: ["deployment-protection", "httpstat", "usage", "examples", "basic-timing-analysis", "post-request-timing"]
+related: ["0173-vercel-curl.md", "0165-vercel-api.md", "0196-vercel-mcp.md"]
+last_updated: "2026-04-03T23:47:17.375Z"
+---
 
 # vercel httpstat
 

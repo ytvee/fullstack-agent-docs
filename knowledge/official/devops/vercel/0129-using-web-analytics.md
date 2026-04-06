@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0129"
 title: "Using Web Analytics"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:15.653Z"
+category: "vercel-analytics"
+subcategory: "analytics"
+type: "guide"
 source: "https://vercel.com/docs/analytics/using-web-analytics"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "web", "using-web-analytics", "accessing-web-analytics", "specifying-a-timeframe", "exporting-data-as-csv"]
+related: ["0128-vercel-web-analytics-troubleshooting.md", "0126-getting-started-with-vercel-web-analytics.md", "0127-redacting-sensitive-data-from-web-analytics-events.md"]
+last_updated: "2026-04-03T23:47:15.653Z"
+---
 
 # Using Web Analytics
 

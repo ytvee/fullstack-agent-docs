@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0287"
 title: "PACKAGE_JSON_PRIVATE_REQUIREDPACKAGE_JSON_SIDE_EFFECTS_REQUIRED"
 description: "Requires that every package.json file has the sideEffects field set to ensure tree-shaking works optimally."
-last_updated: "2026-04-03T23:47:18.376Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/PACKAGE_JSON_SIDE_EFFECTS_REQUIRED"
---------------------------------------------------------------------------------
+tags: ["package", "json", "private", "requiredpackage", "side", "effects"]
+related: ["0286-package-json-private-required.md", "0285-package-json-name-required.md", "0283-package-json-description-required.md"]
+last_updated: "2026-04-03T23:47:18.376Z"
+---
 
 # PACKAGE_JSON_PRIVATE_REQUIREDPACKAGE_JSON_SIDE_EFFECTS_REQUIRED
 

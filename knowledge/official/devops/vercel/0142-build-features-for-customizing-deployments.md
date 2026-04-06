@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0142"
 title: "Build Features for Customizing Deployments"
 description: "Learn how to customize your deployments using Vercel"
-last_updated: "2026-04-03T23:47:16.643Z"
+category: "vercel-builds"
+subcategory: "builds"
+type: "concept"
 source: "https://vercel.com/docs/builds/build-features"
---------------------------------------------------------------------------------
+tags: ["features", "customizing", "deployments", "build-features", "private-npm-packages", "ignored-files-and-folders"]
+related: ["0147-builds.md", "0144-build-queues.md", "0143-build-image-overview.md"]
+last_updated: "2026-04-03T23:47:16.643Z"
+---
 
 # Build Features for Customizing Deployments
 

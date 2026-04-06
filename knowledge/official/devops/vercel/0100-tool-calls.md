@@ -4,10 +4,10 @@ title: "Tool Calls"
 description: "Use function calling with the Anthropic Messages API to allow models to call tools and functions."
 category: "vercel-ai-gateway"
 subcategory: "ai-gateway"
-type: "api-reference"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api/tool-calls"
-tags: ["function-calling", "anthropic-messages-api", "tool-use", "llm-integration"]
-related: ["0108-tool-calls-2.md", "0114-tool-calling.md", "0098-anthropic-messages-api.md"]
+tags: ["tool-calling", "anthropic", "tool", "calls", "sdks-and-apis", "anthropic-messages-api"]
+related: ["0108-tool-calls-2.md", "0098-anthropic-messages-api.md", "0114-tool-calling.md"]
 last_updated: "2026-04-03T23:47:15.171Z"
 ---
 

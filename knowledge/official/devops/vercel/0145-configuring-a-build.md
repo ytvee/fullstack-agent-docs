@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0145"
 title: "Configuring a Build"
 description: "Vercel automatically configures the build settings for many front-end frameworks, but you can also customize the build according to your requirements."
-last_updated: "2026-04-03T23:47:16.867Z"
+category: "vercel-builds"
+subcategory: "builds"
+type: "guide"
 source: "https://vercel.com/docs/builds/configure-a-build"
---------------------------------------------------------------------------------
+tags: ["configuring-a-build", "configure-a-build", "framework-settings", "framework-preset", "build-command", "output-directory"]
+related: ["0146-managing-builds.md", "0147-builds.md", "0142-build-features-for-customizing-deployments.md"]
+last_updated: "2026-04-03T23:47:16.867Z"
+---
 
 # Configuring a Build
 

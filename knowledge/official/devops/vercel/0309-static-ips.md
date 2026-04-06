@@ -2,12 +2,12 @@
 id: "vercel-0309"
 title: "Static IPs"
 description: "Access IP-restricted backend services through shared static egress IPs for Pro and Enterprise teams."
-category: "vercel-security"
-subcategory: "security"
+category: "vercel-connectivity"
+subcategory: "connectivity"
 type: "concept"
 source: "https://vercel.com/docs/connectivity/static-ips"
-tags: ["static-ips", "egress", "ip-allowlisting", "database-connectivity", "shared-vpc"]
-related: ["0306-connectivity.md", "0307-secure-compute.md", "0308-getting-started-with-static-ips.md"]
+tags: ["static", "ips", "static-ips", "when-to-use-static-ips", "when-not-to-use-static-ips", "static-ips-or-secure-compute"]
+related: ["0308-getting-started-with-static-ips.md", "0306-connectivity.md", "0307-secure-compute.md"]
 last_updated: "2026-04-03T23:47:18.562Z"
 ---
 

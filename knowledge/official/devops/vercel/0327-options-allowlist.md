@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0327"
 title: "OPTIONS Allowlist"
 description: "Learn how to disable Deployment Protection for CORS preflight requests for a list of paths."
-last_updated: "2026-04-03T23:47:18.820Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "guide"
 source: "https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/options-allowlist"
---------------------------------------------------------------------------------
+tags: ["options", "allowlist", "options-allowlist", "enabling-options-allowlist", "disabling-options-allowlist", "setup"]
+related: ["0328-bypass-deployment-protection-for-testing-sharing-and-automation.md", "0330-sharable-links.md", "0326-deployment-protection-exceptions.md"]
+last_updated: "2026-04-03T23:47:18.820Z"
+---
 
 # OPTIONS Allowlist
 

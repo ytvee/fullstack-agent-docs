@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0655"
 title: "Notifications"
 description: "Learn how to use Notifications to view and manage important alerts about your deployments, domains, integrations, account, and usage."
-last_updated: "2026-04-03T23:47:24.459Z"
+category: "vercel-accounts"
+subcategory: "notifications"
+type: "guide"
 source: "https://vercel.com/docs/notifications"
---------------------------------------------------------------------------------
+tags: ["alerts", "receiving-notifications", "basic-capabilities", "managing-notifications", "notifications-for-comments", "types-of-notifications"]
+related: ["0001-account-management.md", "0223-integrations-for-comments.md", "0160-anatomy-of-the-checks-api.md"]
+last_updated: "2026-04-03T23:47:24.459Z"
+---
 
 # Notifications
 

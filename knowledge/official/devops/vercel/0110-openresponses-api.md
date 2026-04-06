@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0110"
 title: "OpenResponses API"
 description: "Use the OpenResponses API specification with AI Gateway for a unified, provider-agnostic interface."
-last_updated: "2026-04-03T23:47:15.328Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openresponses"
---------------------------------------------------------------------------------
+tags: ["openresponses-api", "openresponses", "open", "responses", "sdks-and-apis", "base-url"]
+related: ["0098-anthropic-messages-api.md", "0111-provider-options-2.md", "0115-sdks-apis.md"]
+last_updated: "2026-04-03T23:47:15.328Z"
+---
 
 # OpenResponses API
 

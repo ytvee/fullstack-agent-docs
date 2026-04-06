@@ -3,11 +3,11 @@ id: "vercel-0030"
 title: "Vercel Pinecone Integration"
 description: "Learn how to add Pinecone connectable account integration with Vercel."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/pinecone"
-tags: ["vector-database", "embeddings", "semantic-search", "recommendation-systems", "connectable-account"]
-related: ["0028-build-with-ai-on-vercel.md", "0021-adding-a-provider.md", "0634-storage-on-vercel-marketplace.md"]
+tags: ["pinecone", "integrations-for-models", "use-cases", "getting-started", "prerequisites", "deploy-a-template"]
+related: ["0031-vercel-replicate-integration.md", "0026-vercel-lmnt-integration.md", "0029-vercel-perplexity-integration.md"]
 last_updated: "2026-04-03T23:47:14.000Z"
 ---
 

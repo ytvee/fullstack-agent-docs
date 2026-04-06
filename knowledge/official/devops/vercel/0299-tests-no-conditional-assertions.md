@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0299"
 title: "TESTS_NO_CONDITIONAL_ASSERTIONS"
 description: "Requires that assertions are not conditional, or that expect.assertions is used."
-last_updated: "2026-04-03T23:47:18.441Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/TESTS_NO_CONDITIONAL_ASSERTIONS"
---------------------------------------------------------------------------------
+tags: ["tests", "no", "conditional", "assertions", "rules", "example"]
+related: ["0300-tests-no-only.md", "0290-package-management-no-unresolved-imports.md", "0302-typescript-only.md"]
+last_updated: "2026-04-03T23:47:18.441Z"
+---
 
 # TESTS_NO_CONDITIONAL_ASSERTIONS
 

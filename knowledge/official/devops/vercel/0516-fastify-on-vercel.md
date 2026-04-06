@@ -4,10 +4,10 @@ title: "Fastify on Vercel"
 description: "Deploy Fastify applications to Vercel with zero configuration."
 category: "vercel-frameworks"
 subcategory: "frameworks"
-type: "guide"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/backend/fastify"
-tags: ["fastify", "nodejs", "plugins", "backend", "zero-config"]
-related: ["0522-backends-on-vercel.md", "0514-express-on-vercel.md", "0519-koa-on-vercel.md"]
+tags: ["fastify-on-vercel", "fastify", "backend", "fastify-entrypoint-detection", "local-development", "deploying-the-application"]
+related: ["0519-koa-on-vercel.md", "0520-nestjs-on-vercel.md", "0514-express-on-vercel.md"]
 last_updated: "2026-04-03T23:47:21.225Z"
 ---
 

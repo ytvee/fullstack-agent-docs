@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0324"
 title: "Deployment Checks"
 description: "Set conditions that must be met before proceeding to the next phase of the deployment lifecycle."
-last_updated: "2026-04-03T23:47:18.774Z"
+category: "vercel-deployments"
+subcategory: "deployment-checks"
+type: "concept"
 source: "https://vercel.com/docs/deployment-checks"
---------------------------------------------------------------------------------
+tags: ["checks", "enabling-deployment-checks", "bypassing-deployment-checks", "limitations"]
+related: ["0325-automated-agent-access.md", "0332-password-protection.md", "0333-restrict-deployment-access-by-ip-address.md"]
+last_updated: "2026-04-03T23:47:18.774Z"
+---
 
 # Deployment Checks
 

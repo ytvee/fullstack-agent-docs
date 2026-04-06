@@ -3,11 +3,11 @@ id: "vercel-0512"
 title: "Fluid compute"
 description: "Learn about fluid compute, an execution model for Vercel Functions that provides a more flexible and efficient way to run your functions."
 category: "vercel-functions"
-subcategory: "functions"
+subcategory: "fluid-compute"
 type: "concept"
 source: "https://vercel.com/docs/fluid-compute"
-tags: ["fluid-compute", "serverless", "concurrency", "cold-starts", "scaling"]
-related: ["0553-vercel-functions.md", "0539-concurrency-scaling.md", "0569-fluid-compute-pricing.md"]
+tags: ["fluid", "compute", "enabling-fluid-compute", "enable-for-entire-project", "available-runtime-support", "optimized-concurrency"]
+related: ["0569-fluid-compute-pricing.md", "0557-edge-runtime.md", "0560-supported-node-js-versions.md"]
 last_updated: "2026-04-03T23:47:21.105Z"
 ---
 

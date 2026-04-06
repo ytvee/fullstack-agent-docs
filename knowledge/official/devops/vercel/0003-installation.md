@@ -2,12 +2,12 @@
 id: "vercel-0003"
 title: "Installation"
 description: "Let AI automatically install Web Analytics and Speed Insights in your app"
-category: "vercel-integrations"
-subcategory: "integrations"
+category: "vercel-agent"
+subcategory: "agent"
 type: "guide"
 source: "https://vercel.com/docs/agent/installation"
-tags: ["web-analytics", "speed-insights", "ai-agent", "automated-setup", "pull-request"]
-related: ["0005-vercel-agent.md", "0124-vercel-web-analytics.md", "0126-getting-started-with-vercel-web-analytics.md"]
+tags: ["web-analytics", "speed-insights", "installation", "getting-started", "pricing", "setup"]
+related: ["0005-vercel-agent.md", "0004-investigation.md", "0008-vercel-agent-pricing.md"]
 last_updated: "2026-04-03T23:47:13.553Z"
 ---
 

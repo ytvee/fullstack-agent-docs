@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0065"
 title: "Zero Data Retention"
 description: "Learn about zero data retention policies and how to enforce ZDR on a per-request basis with AI Gateway."
-last_updated: "2026-04-03T23:47:14.663Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/zdr"
---------------------------------------------------------------------------------
+tags: ["zero-data-retention", "ai-sdk", "openresponses", "responses-api", "chat-completions", "anthropic"]
+related: ["0045-disallow-prompt-training.md", "0044-custom-reporting.md", "0083-text-generation-quickstart.md"]
+last_updated: "2026-04-03T23:47:14.663Z"
+---
 
 # Zero Data Retention
 

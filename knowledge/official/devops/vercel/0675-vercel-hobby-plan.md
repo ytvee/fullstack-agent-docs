@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0675"
 title: "Vercel Hobby Plan"
 description: "Learn about the Hobby plan and how it compares to the Pro plan."
-last_updated: "2026-04-03T23:47:24.884Z"
+category: "vercel-plans"
+subcategory: "plans"
+type: "concept"
 source: "https://vercel.com/docs/plans/hobby"
---------------------------------------------------------------------------------
+tags: ["hobby", "plan", "hobby-billing-cycle", "upgrading-to-pro"]
+related: ["0676-account-plans-on-vercel.md", "0678-vercel-pro-plan.md", "0677-billing-faq-for-pro-plan.md"]
+last_updated: "2026-04-03T23:47:24.884Z"
+---
 
 # Vercel Hobby Plan
 

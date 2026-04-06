@@ -6,8 +6,8 @@ category: "vercel-environment-variables"
 subcategory: "environment-variables"
 type: "concept"
 source: "https://vercel.com/docs/environment-variables/reserved-environment-variables"
-tags: ["aws-lambda", "runtime", "restrictions", "node-js", "function-runtime"]
-related: ["0403-environment-variables.md", "0408-system-environment-variables.md", "0400-framework-environment-variables.md"]
+tags: ["reserved", "environment", "variables"]
+related: ["0400-framework-environment-variables.md", "0408-system-environment-variables.md", "0407-shared-environment-variables.md"]
 last_updated: "2026-04-03T23:47:20.222Z"
 ---
 

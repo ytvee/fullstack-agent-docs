@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0671"
 title: "Vercel Documentation"
 description: "Vercel is the AI Cloud - a unified platform for building, deploying, and scaling AI-powered applications and agentic workloads."
-last_updated: "2026-04-03T23:47:24.778Z"
+category: "vercel-root"
+subcategory: "root"
+type: "concept"
 source: "https://vercel.com/docs"
---------------------------------------------------------------------------------
+tags: ["get-started-with-vercel", "quick-references", "build-your-applications", "collaborate-with-your-team", "secure-your-applications", "deploy-and-scale"]
+related: ["0571-how-requests-flow-through-vercel.md", "0574-getting-started-with-vercel.md", "0580-glossary.md"]
+last_updated: "2026-04-03T23:47:24.778Z"
+---
 
 # Vercel Documentation
 

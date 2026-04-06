@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0188"
 title: "vercel install"
 description: "Learn how to install marketplace native integrations and provision resources with the vercel install CLI command."
-last_updated: "2026-04-03T23:47:17.418Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/install"
---------------------------------------------------------------------------------
+tags: ["install", "usage", "examples", "global-options", "api-reference", "cli-command"]
+related: ["0189-vercel-integration.md", "0193-vercel-login.md", "0194-vercel-logout.md"]
+last_updated: "2026-04-03T23:47:17.418Z"
+---
 
 # vercel install
 

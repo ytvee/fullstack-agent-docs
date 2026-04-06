@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0164"
 title: "vercel alias"
 description: "Learn how to apply custom domain aliases to your Vercel deployments using the vercel alias CLI command."
-last_updated: "2026-04-03T23:47:17.131Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/alias"
---------------------------------------------------------------------------------
+tags: ["custom-domains", "alias", "usage", "unique-options", "yes", "limit"]
+related: ["0178-vercel-domains.md", "0168-vercel-build.md", "0177-vercel-dns.md"]
+last_updated: "2026-04-03T23:47:17.131Z"
+---
 
 # vercel alias
 

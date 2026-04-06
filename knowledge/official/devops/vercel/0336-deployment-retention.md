@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0336"
 title: "Deployment Retention"
 description: "Learn how Deployment Retention policies affect a deployment"
-last_updated: "2026-04-03T23:47:18.943Z"
+category: "vercel-deployments"
+subcategory: "deployment-retention"
+type: "guide"
 source: "https://vercel.com/docs/deployment-retention"
---------------------------------------------------------------------------------
+tags: ["retention", "more-resources", "setup", "how-to", "troubleshooting"]
+related: ["0352-using-the-directory-listing.md", "0321-working-with-the-deploy-button.md", "0399-edit-mode.md"]
+last_updated: "2026-04-03T23:47:18.943Z"
+---
 
 # Deployment Retention
 

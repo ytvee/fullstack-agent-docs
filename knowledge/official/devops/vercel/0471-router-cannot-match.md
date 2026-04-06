@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0471"
 title: "ROUTER_CANNOT_MATCH"
 description: "The router cannot match the route to any of the known patterns. This is a routing error."
-last_updated: "2026-04-03T23:47:20.628Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/ROUTER_CANNOT_MATCH"
---------------------------------------------------------------------------------
+tags: ["router", "cannot", "match", "router-cannot-match", "troubleshoot", "setup"]
+related: ["0455-middleware-invocation-failed.md", "0456-middleware-invocation-timeout.md", "0472-router-external-target-connection-error.md"]
+last_updated: "2026-04-03T23:47:20.628Z"
+---
 
 # ROUTER_CANNOT_MATCH
 

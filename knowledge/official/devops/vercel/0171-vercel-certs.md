@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0171"
 title: "vercel certs"
 description: "Learn how to manage certificates for your domains using the vercel certs CLI command."
-last_updated: "2026-04-03T23:47:17.199Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/certs"
---------------------------------------------------------------------------------
+tags: ["ssl", "certs", "usage", "extended-usage", "unique-options", "challenge-only"]
+related: ["0177-vercel-dns.md", "0178-vercel-domains.md", "0170-vercel-cache.md"]
+last_updated: "2026-04-03T23:47:17.199Z"
+---
 
 # vercel certs
 

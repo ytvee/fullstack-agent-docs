@@ -6,8 +6,8 @@ category: "vercel-environment-variables"
 subcategory: "environment-variables"
 type: "concept"
 source: "https://vercel.com/docs/environment-variables/system-environment-variables"
-tags: ["vercel-url", "git-branch", "deployment-id", "auto-populated", "skew-protection"]
-related: ["0403-environment-variables.md", "0400-framework-environment-variables.md", "0404-reserved-environment-variables.md"]
+tags: ["system", "environment", "variables", "system-environment-variables"]
+related: ["0400-framework-environment-variables.md", "0404-reserved-environment-variables.md", "0401-managing-environment-variables-across-environments.md"]
 last_updated: "2026-04-03T23:47:20.298Z"
 ---
 

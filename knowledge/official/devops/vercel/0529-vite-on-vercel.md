@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0529"
 title: "Vite on Vercel"
 description: "Learn how to use Vercel"
-last_updated: "2026-04-03T23:47:21.432Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/frontend/vite"
---------------------------------------------------------------------------------
+tags: ["vite-on-vercel", "environment-variables", "vite", "frontend", "getting-started", "server-side-rendering-ssr"]
+related: ["0536-vite-nitro-on-vercel.md", "0524-astro-on-vercel.md", "0526-gatsby-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.432Z"
+---
 
 # Vite on Vercel
 

@@ -4,10 +4,10 @@ title: "Entities"
 description: "Define entities and their attributes for precise feature flag targeting."
 category: "vercel-flags"
 subcategory: "flags"
-type: "guide"
+type: "concept"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard/entities"
-tags: ["feature-flags", "targeting", "user-attributes", "segments", "evaluation-context"]
-related: ["0504-segments.md", "0501-feature-flag-configuration.md", "0503-sdk-keys.md"]
+tags: ["feature-flags", "openfeature", "entities", "dashboard", "how-to-define-entities", "attribute-types"]
+related: ["0507-getting-started-with-vercel-flags.md", "0502-managing-flags-in-the-dashboard.md", "0503-sdk-keys.md"]
 last_updated: "2026-04-03T23:47:20.940Z"
 ---
 

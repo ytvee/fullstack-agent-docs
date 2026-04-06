@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0569"
 title: "Fluid compute pricing"
 description: "Learn about usage and pricing for fluid compute on Vercel."
-last_updated: "2026-04-03T23:47:22.232Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "concept"
 source: "https://vercel.com/docs/functions/usage-and-pricing"
---------------------------------------------------------------------------------
+tags: ["fluid-compute-pricing", "fluid-compute", "fluid", "compute", "usage-and-pricing", "resource-details"]
+related: ["0568-legacy-usage-pricing-for-functions.md", "0548-functions-api-reference.md", "0549-vercel-functions-api-reference-node-js.md"]
+last_updated: "2026-04-03T23:47:22.232Z"
+---
 
 # Fluid compute pricing
 

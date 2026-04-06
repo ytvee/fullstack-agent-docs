@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0444"
 title: "INTERNAL_MISSING_RESPONSE_FROM_CACHE"
 description: "This error indicates a missing response from the cache during a deployment or build process."
-last_updated: "2026-04-03T23:47:20.479Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_MISSING_RESPONSE_FROM_CACHE"
---------------------------------------------------------------------------------
+tags: ["internal", "missing", "response", "cache", "troubleshoot", "setup"]
+related: ["0430-internal-cache-error.md", "0434-internal-deployment-fetch-failed.md", "0445-internal-optimized-image-request-failed.md"]
+last_updated: "2026-04-03T23:47:20.479Z"
+---
 
 # INTERNAL_MISSING_RESPONSE_FROM_CACHE
 

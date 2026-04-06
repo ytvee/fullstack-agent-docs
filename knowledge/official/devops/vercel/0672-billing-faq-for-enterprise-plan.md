@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0672"
 title: "Billing FAQ for Enterprise Plan"
 description: "This page covers frequently asked questions around payments, invoices, and billing on the Enterprise plan."
-last_updated: "2026-04-03T23:47:24.860Z"
+category: "vercel-plans"
+subcategory: "plans"
+type: "concept"
 source: "https://vercel.com/docs/plans/enterprise/billing"
---------------------------------------------------------------------------------
+tags: ["billing", "faq", "enterprise", "plan", "payments", "when-are-payments-taken"]
+related: ["0677-billing-faq-for-pro-plan.md", "0674-vercel-enterprise-plan.md", "0676-account-plans-on-vercel.md"]
+last_updated: "2026-04-03T23:47:24.860Z"
+---
 
 # Billing FAQ for Enterprise Plan
 

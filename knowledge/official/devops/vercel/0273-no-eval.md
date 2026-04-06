@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0273"
 title: "NO_EVAL"
 description: "Prevent unsafe usage of eval() in your application."
-last_updated: "2026-04-03T23:47:18.302Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_EVAL"
---------------------------------------------------------------------------------
+tags: ["no", "eval", "rules", "no-eval", "example", "references"]
+related: ["0282-no-variable-import-references.md", "0269-no-assign-window-location.md", "0271-no-dangerous-html.md"]
+last_updated: "2026-04-03T23:47:18.302Z"
+---
 
 # NO_EVAL
 

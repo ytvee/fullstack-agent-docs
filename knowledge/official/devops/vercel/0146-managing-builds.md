@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0146"
 title: "Managing Builds"
 description: "Vercel allows you to increase the speed of your builds when needed in specific situations and workflows."
-last_updated: "2026-04-03T23:47:16.841Z"
+category: "vercel-builds"
+subcategory: "builds"
+type: "guide"
 source: "https://vercel.com/docs/builds/managing-builds"
---------------------------------------------------------------------------------
+tags: ["managing-builds", "larger-build-machines", "on-demand-concurrent-builds", "force-an-on-demand-build", "optimizing-builds", "prioritize-production-builds"]
+related: ["0144-build-queues.md", "0145-configuring-a-build.md", "0147-builds.md"]
+last_updated: "2026-04-03T23:47:16.841Z"
+---
 
 # Managing Builds
 

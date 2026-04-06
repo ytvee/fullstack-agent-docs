@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0228"
 title: "Conformance changelog"
 description: "Find out what"
-last_updated: "2026-04-03T23:47:17.892Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "changelog"
 source: "https://vercel.com/docs/conformance/changelog"
---------------------------------------------------------------------------------
+tags: ["conformance-changelog", "changelog", "upgrade-instructions", "releases", "1-12-3", "1-12-2"]
+related: ["0237-getting-started-with-conformance.md", "0282-no-variable-import-references.md", "0227-conformance-allowlists.md"]
+last_updated: "2026-04-03T23:47:17.892Z"
+---
 
 # Conformance changelog
 

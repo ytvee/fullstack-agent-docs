@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0342"
 title: "Inspecting your Open Graph metadata"
 description: "Learn how to inspect and validate your Open Graph metadata through the Open Graph deployment tab."
-last_updated: "2026-04-03T23:47:19.049Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments/og-preview"
---------------------------------------------------------------------------------
+tags: ["inspecting", "open", "graph", "metadata", "og-preview", "filter-by-pathname"]
+related: ["0341-managing-deployments.md", "0345-promoting-a-preview-deployment-to-production.md", "0339-accessing-deployments-through-generated-urls.md"]
+last_updated: "2026-04-03T23:47:19.049Z"
+---
 
 # Inspecting your Open Graph metadata
 

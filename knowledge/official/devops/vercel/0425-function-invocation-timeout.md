@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0425"
 title: "FUNCTION_INVOCATION_TIMEOUT"
 description: "The request for a Vercel Function reached the timeout threshold. This is an application error."
-last_updated: "2026-04-03T23:47:20.391Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/FUNCTION_INVOCATION_TIMEOUT"
---------------------------------------------------------------------------------
+tags: ["function", "invocation", "timeout", "function-invocation-timeout", "setup", "how-to"]
+related: ["0422-edge-function-invocation-timeout.md", "0421-edge-function-invocation-failed.md", "0438-internal-function-invocation-timeout.md"]
+last_updated: "2026-04-03T23:47:20.391Z"
+---
 
 # FUNCTION_INVOCATION_TIMEOUT
 

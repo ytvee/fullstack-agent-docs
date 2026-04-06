@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0410"
 title: "DEPLOYMENT_BLOCKED"
 description: "The deployment was blocked due to certain conditions. This is a deployment error."
-last_updated: "2026-04-03T23:47:20.313Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/DEPLOYMENT_BLOCKED"
---------------------------------------------------------------------------------
+tags: ["blocked", "deployment-blocked", "troubleshoot", "setup", "how-to", "troubleshooting"]
+related: ["0415-deployment-paused.md", "0412-deployment-disabled.md", "0413-deployment-not-found.md"]
+last_updated: "2026-04-03T23:47:20.313Z"
+---
 
 # DEPLOYMENT_BLOCKED
 

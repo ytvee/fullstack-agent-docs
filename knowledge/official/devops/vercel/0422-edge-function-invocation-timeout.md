@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0422"
 title: "EDGE_FUNCTION_INVOCATION_TIMEOUT"
 description: "The Edge Function invocation timed out. This is an application error."
-last_updated: "2026-04-03T23:47:20.379Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/EDGE_FUNCTION_INVOCATION_TIMEOUT"
---------------------------------------------------------------------------------
+tags: ["edge", "function", "invocation", "timeout", "troubleshoot", "setup"]
+related: ["0421-edge-function-invocation-failed.md", "0438-internal-function-invocation-timeout.md", "0456-middleware-invocation-timeout.md"]
+last_updated: "2026-04-03T23:47:20.379Z"
+---
 
 # EDGE_FUNCTION_INVOCATION_TIMEOUT
 

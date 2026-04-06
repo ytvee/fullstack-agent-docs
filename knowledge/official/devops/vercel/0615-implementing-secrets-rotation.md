@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0615"
 title: "Implementing secrets rotation"
 description: "Learn how to implement secrets rotation in your integration to allow users to rotate credentials securely."
-last_updated: "2026-04-03T23:47:23.669Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/secrets-rotation"
---------------------------------------------------------------------------------
+tags: ["implementing", "secrets", "rotation", "create-integration", "secrets-rotation", "how-it-works"]
+related: ["0610-using-the-integrations-rest-api.md", "0614-create-an-integration.md", "0607-manage-billing-and-refunds-for-integrations.md"]
+last_updated: "2026-04-03T23:47:23.669Z"
+---
 
 # Implementing secrets rotation
 

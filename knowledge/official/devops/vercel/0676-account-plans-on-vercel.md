@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0676"
 title: "Account Plans on Vercel"
 description: "Learn about the different plans available on Vercel."
-last_updated: "2026-04-03T23:47:24.815Z"
+category: "vercel-plans"
+subcategory: "plans"
+type: "concept"
 source: "https://vercel.com/docs/plans"
---------------------------------------------------------------------------------
+tags: ["account-plans-on-vercel", "hobby", "pro", "enterprise", "general-billing-information"]
+related: ["0677-billing-faq-for-pro-plan.md", "0672-billing-faq-for-enterprise-plan.md", "0675-vercel-hobby-plan.md"]
+last_updated: "2026-04-03T23:47:24.815Z"
+---
 
 # Account Plans on Vercel
 

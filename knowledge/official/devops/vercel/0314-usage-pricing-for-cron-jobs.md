@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0314"
 title: "Usage & Pricing for Cron Jobs"
 description: "Learn about cron jobs usage and pricing details."
-last_updated: "2026-04-03T23:47:18.618Z"
+category: "vercel-cron-jobs"
+subcategory: "cron-jobs"
+type: "concept"
 source: "https://vercel.com/docs/cron-jobs/usage-and-pricing"
---------------------------------------------------------------------------------
+tags: ["cron", "jobs", "usage-and-pricing", "hobby-scheduling-limits", "pricing"]
+related: ["0312-cron-jobs.md", "0313-getting-started-with-cron-jobs.md", "0311-managing-cron-jobs.md"]
+last_updated: "2026-04-03T23:47:18.618Z"
+---
 
 # Usage & Pricing for Cron Jobs
 

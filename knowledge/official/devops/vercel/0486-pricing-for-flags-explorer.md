@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0486"
 title: "Pricing for Flags Explorer"
 description: "Learn about pricing for Flags Explorer."
-last_updated: "2026-04-03T23:47:20.738Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "concept"
 source: "https://vercel.com/docs/flags/flags-explorer/limits-and-pricing"
---------------------------------------------------------------------------------
+tags: ["pricing-for-flags-explorer", "flags-explorer", "explorer", "limits-and-pricing", "pricing", "limits-per-plan"]
+related: ["0487-flags-explorer.md", "0485-getting-started-with-flags-explorer.md", "0488-reference.md"]
+last_updated: "2026-04-03T23:47:20.738Z"
+---
 
 # Pricing for Flags Explorer
 

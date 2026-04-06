@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0190"
 title: "vercel integration-resource"
 description: "Learn how to manage marketplace native integration resources using the vercel integration-resource CLI command."
-last_updated: "2026-04-03T23:47:17.414Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/integration-resource"
---------------------------------------------------------------------------------
+tags: ["resource", "integration-resource", "options", "examples", "arguments", "validation-rules"]
+related: ["0189-vercel-integration.md", "0188-vercel-install.md", "0197-vercel-microfrontends.md"]
+last_updated: "2026-04-03T23:47:17.414Z"
+---
 
 # vercel integration-resource
 

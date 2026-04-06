@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0540"
 title: "Advanced Configuration"
 description: "Learn how to add utility files to the /api directory, and bundle Vercel Functions."
-last_updated: "2026-04-03T23:47:21.735Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/configuring-functions/advanced-configuration"
---------------------------------------------------------------------------------
+tags: ["configuration", "configuring-functions", "advanced-configuration", "bundling-vercel-functions", "setup", "how-to"]
+related: ["0541-configuring-in-function-concurrency.md", "0544-configuring-functions.md", "0542-configuring-maximum-duration-for-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.735Z"
+---
 
 # Advanced Configuration
 

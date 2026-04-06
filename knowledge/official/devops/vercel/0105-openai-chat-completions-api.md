@@ -6,8 +6,8 @@ category: "vercel-ai-gateway"
 subcategory: "ai-gateway"
 type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions"
-tags: ["openai-compatible", "chat-completions", "provider-agnostic", "base-url"]
-related: ["0102-chat-completions.md", "0117-openai-responses-api.md", "0115-sdks-apis.md"]
+tags: ["openai-chat-completions-api", "ai-sdk", "chat-completions", "openai", "open", "ai"]
+related: ["0108-tool-calls-2.md", "0106-direct-rest-api-usage.md", "0104-image-generation-2.md"]
 last_updated: "2026-04-03T23:47:15.274Z"
 ---
 

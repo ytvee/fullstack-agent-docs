@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0097"
 title: "Messages"
 description: "Create messages using the Anthropic Messages API format with support for streaming."
-last_updated: "2026-04-03T23:47:15.126Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api/messages"
---------------------------------------------------------------------------------
+tags: ["streaming", "anthropic", "messages", "sdks-and-apis", "anthropic-messages-api", "basic-message"]
+related: ["0098-anthropic-messages-api.md", "0099-structured-outputs.md", "0102-chat-completions.md"]
+last_updated: "2026-04-03T23:47:15.126Z"
+---
 
 # Messages
 

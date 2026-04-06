@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "api-reference"
 source: "https://vercel.com/docs/cli/target"
-tags: ["cli-command", "custom-environments", "deployment-targets", "environments"]
-related: ["0338-environments.md", "0203-vercel-pull.md", "0199-vercel-cli-overview.md"]
+tags: ["environment-variables", "target", "usage", "commands", "list-ls", "using-the-target-flag"]
+related: ["0179-vercel-env.md", "0203-vercel-pull.md", "0168-vercel-build.md"]
 last_updated: "2026-04-03T23:47:17.682Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0385"
 title: "Managing Edge Configs with the Dashboard"
 description: "Learn how to create, view and update your Edge Configs and the data inside them in your Vercel Dashboard at the Hobby team, team, and project levels."
-last_updated: "2026-04-03T23:47:19.769Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/edge-config-dashboard"
---------------------------------------------------------------------------------
+tags: ["edge", "configs", "dashboard", "edge-config-dashboard", "at-the-account-level", "at-the-project-level"]
+related: ["0397-managing-edge-configs-with-vercel-rest-api.md", "0396-using-edge-config.md", "0392-edge-config-limits-and-pricing.md"]
+last_updated: "2026-04-03T23:47:19.769Z"
+---
 
 # Managing Edge Configs with the Dashboard
 

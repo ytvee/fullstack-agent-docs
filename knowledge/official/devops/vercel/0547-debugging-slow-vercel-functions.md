@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0547"
 title: "Debugging slow Vercel Functions"
 description: "Diagnose and fix slow Vercel Functions using CLI tools, logs, and timing analysis."
-last_updated: "2026-04-03T23:47:21.796Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/debug-slow-functions"
---------------------------------------------------------------------------------
+tags: ["debugging", "slow", "debug-slow-functions", "quick-reference", "2-measure-endpoint-timing", "5-check-for-cold-starts"]
+related: ["0545-configuring-regions-for-vercel-functions.md", "0565-using-the-rust-runtime-with-vercel-functions.md", "0552-vercel-function-logs.md"]
+last_updated: "2026-04-03T23:47:21.796Z"
+---
 
 # Debugging slow Vercel Functions
 

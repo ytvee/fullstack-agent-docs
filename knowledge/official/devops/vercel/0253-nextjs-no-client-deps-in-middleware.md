@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0253"
 title: "NEXTJS_NO_CLIENT_DEPS_IN_MIDDLEWARE"
 description: "Disallows dependency on client libraries inside of middleware to improve performance of middleware."
-last_updated: "2026-04-03T23:47:18.167Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_NO_CLIENT_DEPS_IN_MIDDLEWARE"
---------------------------------------------------------------------------------
+tags: ["nextjs", "no", "client", "deps", "middleware", "rules"]
+related: ["0275-no-fetch-from-middleware.md", "0256-nextjs-no-get-initial-props.md", "0250-nextjs-no-async-layout.md"]
+last_updated: "2026-04-03T23:47:18.167Z"
+---
 
 # NEXTJS_NO_CLIENT_DEPS_IN_MIDDLEWARE
 

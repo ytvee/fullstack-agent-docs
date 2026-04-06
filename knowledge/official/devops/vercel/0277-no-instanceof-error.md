@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0277"
 title: "NO_INSTANCEOF_ERROR"
 description: "Disallows using "
-last_updated: "2026-04-03T23:47:18.334Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/rules/NO_INSTANCEOF_ERROR"
---------------------------------------------------------------------------------
+tags: ["nodejs", "no", "instanceof", "error", "rules", "no-instanceof-error"]
+related: ["0257-nextjs-no-production-source-maps.md", "0281-no-unnecessary-prop-spreading.md", "0239-bfcache-integrity-no-unload-listeners.md"]
+last_updated: "2026-04-03T23:47:18.334Z"
+---
 
 # NO_INSTANCEOF_ERROR
 

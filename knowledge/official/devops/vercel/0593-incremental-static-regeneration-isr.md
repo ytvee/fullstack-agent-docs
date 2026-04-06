@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0593"
 title: "Incremental Static Regeneration (ISR)"
 description: "ISR serves cached static pages while regenerating content in the background. Vercel\"
-last_updated: "2026-04-03T23:47:23.123Z"
+category: "vercel-frameworks"
+subcategory: "incremental-static-regeneration"
+type: "concept"
 source: "https://vercel.com/docs/incremental-static-regeneration"
---------------------------------------------------------------------------------
+tags: ["image-optimization", "isr", "incremental", "static", "regeneration", "using-isr"]
+related: ["0594-getting-started-with-isr.md", "0592-isr-usage-and-pricing.md", "0595-request-collapsing.md"]
+last_updated: "2026-04-03T23:47:23.123Z"
+---
 
 # Incremental Static Regeneration (ISR)
 

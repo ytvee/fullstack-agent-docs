@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0609"
 title: "Integration Image Guidelines"
 description: "Guidelines for creating images for integrations, including layout, content, visual assets, descriptions, and design standards."
-last_updated: "2026-04-03T23:47:23.458Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/integration-image-guidelines"
---------------------------------------------------------------------------------
+tags: ["guidelines", "create-integration", "integration-image-guidelines", "1-rules-on-image-layout", "3-rules-on-descriptions", "4-rules-on-image-design"]
+related: ["0614-create-an-integration.md", "0607-manage-billing-and-refunds-for-integrations.md", "0616-requirements-for-listing-an-integration.md"]
+last_updated: "2026-04-03T23:47:23.458Z"
+---
 
 # Integration Image Guidelines
 

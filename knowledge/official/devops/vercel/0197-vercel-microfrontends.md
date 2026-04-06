@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0197"
 title: "vercel microfrontends"
 description: "Manage microfrontends groups from the CLI. Learn how to create groups, inspect group metadata, add and remove projects, and pull configuration for local development."
-last_updated: "2026-04-03T23:47:17.506Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/microfrontends"
---------------------------------------------------------------------------------
+tags: ["microfrontends", "subcommands", "create-group", "options", "examples", "add-to-group"]
+related: ["0189-vercel-integration.md", "0190-vercel-integration-resource.md", "0196-vercel-mcp.md"]
+last_updated: "2026-04-03T23:47:17.506Z"
+---
 
 # vercel microfrontends
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0579"
 title: "Deploying GitLab Projects with Vercel"
 description: "​Vercel for GitLab automatically deploys your GitLab projects with Vercel, providing Preview Deployment URLs, and automatic Custom Domain updates."
-last_updated: "2026-04-03T23:47:22.419Z"
+category: "vercel-deployments"
+subcategory: "git"
+type: "guide"
 source: "https://vercel.com/docs/git/vercel-for-gitlab"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "custom-domains", "preview-deployments", "lab", "projects", "supported-gitlab-products"]
+related: ["0577-deploying-bitbucket-projects-with-vercel.md", "0578-deploying-github-projects-with-vercel.md", "0575-deploying-git-repositories-with-vercel.md"]
+last_updated: "2026-04-03T23:47:22.419Z"
+---
 
 # Deploying GitLab Projects with Vercel
 

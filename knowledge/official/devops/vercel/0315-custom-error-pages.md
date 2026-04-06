@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0315"
 title: "Custom error pages"
 description: "Learn how to configure custom error pages for 5xx server errors on Vercel."
-last_updated: "2026-04-03T23:47:18.625Z"
+category: "vercel-errors"
+subcategory: "custom-error-pages"
+type: "guide"
 source: "https://vercel.com/docs/custom-error-pages"
---------------------------------------------------------------------------------
+tags: ["custom", "error", "pages", "how-it-works", "error-page-tokens", "getting-started"]
+related: ["0420-dns-hostname-server-error.md", "0430-internal-cache-error.md", "0441-internal-microfrontends-build-error.md"]
+last_updated: "2026-04-03T23:47:18.625Z"
+---
 
 # Custom error pages
 

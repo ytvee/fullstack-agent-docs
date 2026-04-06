@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0621"
 title: "Integrating Vercel and Kubernetes"
 description: "Deploy your frontend on Vercel alongside your existing Kubernetes infrastructure."
-last_updated: "2026-04-03T23:47:23.816Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/external-platforms/kubernetes"
---------------------------------------------------------------------------------
+tags: ["observability", "integrating", "kubernetes", "external-platforms", "scaling-and-redundancy", "managing-access-and-security"]
+related: ["0597-vercel-agility-cms-integration.md", "0603-vercel-cms-integrations.md", "0604-vercel-sanity-integration.md"]
+last_updated: "2026-04-03T23:47:23.816Z"
+---
 
 # Integrating Vercel and Kubernetes
 

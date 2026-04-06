@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0413"
 title: "DEPLOYMENT_NOT_FOUND"
 description: "The deployment was not found. This is a deployment error."
-last_updated: "2026-04-03T23:47:20.341Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/DEPLOYMENT_NOT_FOUND"
---------------------------------------------------------------------------------
+tags: ["not", "found", "deployment-not-found", "troubleshoot", "setup", "how-to"]
+related: ["0458-not-found.md", "0470-resource-not-found.md", "0409-body-not-a-string-from-function.md"]
+last_updated: "2026-04-03T23:47:20.341Z"
+---
 
 # DEPLOYMENT_NOT_FOUND
 

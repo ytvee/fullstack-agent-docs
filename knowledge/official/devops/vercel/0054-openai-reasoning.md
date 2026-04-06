@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0054"
 title: "OpenAI Reasoning"
 description: "Configure reasoning and thinking for OpenAI models with the AI SDK and AI Gateway."
-last_updated: "2026-04-03T23:47:14.446Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/capabilities/reasoning/openai"
---------------------------------------------------------------------------------
+tags: ["openai-reasoning", "ai-sdk", "streaming", "openai", "open", "ai"]
+related: ["0053-google-and-vertex-reasoning.md", "0052-anthropic-reasoning.md", "0051-amazon-bedrock-reasoning.md"]
+last_updated: "2026-04-03T23:47:14.446Z"
+---
 
 # OpenAI Reasoning
 

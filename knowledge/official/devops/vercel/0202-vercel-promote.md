@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "api-reference"
 source: "https://vercel.com/docs/cli/promote"
-tags: ["cli-command", "deployment-promotion", "production", "instant-rollback"]
-related: ["0345-promoting-a-preview-deployment-to-production.md", "0346-promoting-deployments.md", "0207-vercel-rollback.md"]
+tags: ["promote", "usage", "commands", "status", "unique-options", "timeout"]
+related: ["0207-vercel-rollback.md", "0187-vercel-inspect.md", "0164-vercel-alias.md"]
 last_updated: "2026-04-03T23:47:17.561Z"
 ---
 

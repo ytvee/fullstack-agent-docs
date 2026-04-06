@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0136"
 title: "BotID"
 description: "Protect your applications from automated attacks with intelligent bot detection and verification, powered by Kasada."
-last_updated: "2026-04-03T23:47:16.320Z"
+category: "vercel-security"
+subcategory: "botid"
+type: "concept"
 source: "https://vercel.com/docs/botid"
---------------------------------------------------------------------------------
+tags: ["observability", "bot", "id", "resources", "validation-flow", "check-levels"]
+related: ["0132-advanced-botid-configuration.md", "0134-get-started-with-botid.md", "0137-handling-verified-bots.md"]
+last_updated: "2026-04-03T23:47:16.320Z"
+---
 
 # BotID
 

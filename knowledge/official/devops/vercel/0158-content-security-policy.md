@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0158"
 title: "Content Security Policy"
 description: "Learn how the Content Security Policy (CSP) offers defense against web vulnerabilities, its key features, and best practices."
-last_updated: "2026-04-03T23:47:16.986Z"
+category: "vercel-security"
+subcategory: "cdn-security"
+type: "guide"
 source: "https://vercel.com/docs/cdn-security/security-headers"
---------------------------------------------------------------------------------
+tags: ["content-security-policy", "content", "policy", "security-headers", "best-practices", "setup"]
+related: ["0157-cdn-security.md", "0156-encryption-and-tls.md", "0133-form-submissions.md"]
+last_updated: "2026-04-03T23:47:16.986Z"
+---
 
 # Content Security Policy
 

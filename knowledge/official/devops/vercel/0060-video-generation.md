@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0060"
 title: "Video Generation"
 description: "Generate videos from text prompts, images, or video input using AI models through Vercel AI Gateway."
-last_updated: "2026-04-03T23:47:14.556Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/video-generation"
---------------------------------------------------------------------------------
+tags: ["nodejs", "video", "generation", "capabilities", "video-generation", "common-parameters"]
+related: ["0062-text-to-video-generation.md", "0061-reference-to-video-generation.md", "0058-image-to-video-generation.md"]
+last_updated: "2026-04-03T23:47:14.556Z"
+---
 
 # Video Generation
 

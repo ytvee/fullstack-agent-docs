@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0071"
 title: "App Attribution"
 description: "Attribute your requests so Vercel can identify and feature your app on AI Gateway pages"
-last_updated: "2026-04-03T23:47:14.765Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/ecosystem/app-attribution"
---------------------------------------------------------------------------------
+tags: ["attribution", "ecosystem", "app-attribution", "how-it-works", "examples"]
+related: ["0080-stripe-billing.md", "0079-ecosystem.md", "0085-automatic-caching.md"]
+last_updated: "2026-04-03T23:47:14.765Z"
+---
 
 # App Attribution
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0573"
 title: "What is Compute?"
 description: "Learn about the different models for compute and how they can be used with Vercel."
-last_updated: "2026-04-03T23:47:22.286Z"
+category: "vercel-root"
+subcategory: "fundamentals"
+type: "concept"
 source: "https://vercel.com/docs/fundamentals/what-is-compute"
---------------------------------------------------------------------------------
+tags: ["fluid-compute", "compute", "what-is-compute", "where-does-compute-happen", "compute-in-practice", "servers"]
+related: ["0571-how-requests-flow-through-vercel.md", "0572-vercel-fundamental-concepts.md", "0570-how-vercel-builds-your-application.md"]
+last_updated: "2026-04-03T23:47:22.286Z"
+---
 
 # What is Compute?
 

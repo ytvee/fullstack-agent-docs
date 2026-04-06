@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0434"
 title: "INTERNAL_DEPLOYMENT_FETCH_FAILED"
 description: "Failed to fetch the internal deployment. This is a deployment error."
-last_updated: "2026-04-03T23:47:20.432Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_DEPLOYMENT_FETCH_FAILED"
---------------------------------------------------------------------------------
+tags: ["internal-deployment-fetch-failed", "internal", "fetch", "failed", "troubleshoot", "setup"]
+related: ["0445-internal-optimized-image-request-failed.md", "0447-internal-static-request-failed.md", "0448-internal-unarchive-failed.md"]
+last_updated: "2026-04-03T23:47:20.432Z"
+---
 
 # INTERNAL_DEPLOYMENT_FETCH_FAILED
 

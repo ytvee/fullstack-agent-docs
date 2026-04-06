@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0218"
 title: "vercel-code-owners"
 description: "Learn how to use Code Owners with the CLI."
-last_updated: "2026-04-03T23:47:17.748Z"
+category: "vercel-code-owners"
+subcategory: "code-owners"
+type: "guide"
 source: "https://vercel.com/docs/code-owners/cli"
---------------------------------------------------------------------------------
+tags: ["owners", "cli", "using-the-cli", "sub-commands", "init", "validate"]
+related: ["0220-getting-started-with-code-owners.md", "0217-code-owners-changelog.md", "0221-code-owners.md"]
+last_updated: "2026-04-03T23:47:17.748Z"
+---
 
 # vercel-code-owners
 

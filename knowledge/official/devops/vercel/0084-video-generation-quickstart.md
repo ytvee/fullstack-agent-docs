@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0084"
 title: "Video Generation Quickstart"
 description: "Generate videos from text prompts, images, or video input using AI Gateway."
-last_updated: "2026-04-03T23:47:14.913Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/getting-started/video"
---------------------------------------------------------------------------------
+tags: ["video-generation-quickstart", "video", "generation", "getting-started", "more-ways-to-generate-video", "image-to-video"]
+related: ["0081-image-generation-quickstart.md", "0082-getting-started.md", "0060-video-generation.md"]
+last_updated: "2026-04-03T23:47:14.913Z"
+---
 
 # Video Generation Quickstart
 

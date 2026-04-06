@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0527"
 title: "Frontends on Vercel"
 description: "Vercel supports a wide range of the most popular frontend frameworks, optimizing how your application builds and runs no matter what tooling you use."
-last_updated: "2026-04-03T23:47:21.372Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "guide"
 source: "https://vercel.com/docs/frameworks/frontend"
---------------------------------------------------------------------------------
+tags: ["frontends-on-vercel", "frontends", "frontend", "setup", "how-to", "troubleshooting"]
+related: ["0532-full-stack-frameworks-on-vercel.md", "0538-frameworks-on-vercel.md", "0522-backends-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.372Z"
+---
 
 # Frontends on Vercel
 

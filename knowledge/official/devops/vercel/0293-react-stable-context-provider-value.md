@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0293"
 title: "REACT_STABLE_CONTEXT_PROVIDER_VALUE"
 description: "Prevent non-stable values from being used in React Context providers that could cause unnecessary re-renders."
-last_updated: "2026-04-03T23:47:18.416Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/REACT_STABLE_CONTEXT_PROVIDER_VALUE"
---------------------------------------------------------------------------------
+tags: ["react", "stable", "context", "provider", "value", "rules"]
+related: ["0292-react-no-static-imports-in-event-handlers.md", "0243-eslint-react-rules-required.md", "0267-nextjs-use-next-image.md"]
+last_updated: "2026-04-03T23:47:18.416Z"
+---
 
 # REACT_STABLE_CONTEXT_PROVIDER_VALUE
 

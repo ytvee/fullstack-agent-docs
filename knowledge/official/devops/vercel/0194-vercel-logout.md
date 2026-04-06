@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0194"
 title: "vercel logout"
 description: "Learn how to logout from your Vercel account using the vercel logout CLI command."
-last_updated: "2026-04-03T23:47:17.457Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/logout"
---------------------------------------------------------------------------------
+tags: ["logout", "usage", "global-options", "api-reference", "cli-command"]
+related: ["0188-vercel-install.md", "0193-vercel-login.md", "0200-vercel-project.md"]
+last_updated: "2026-04-03T23:47:17.457Z"
+---
 
 # vercel logout
 

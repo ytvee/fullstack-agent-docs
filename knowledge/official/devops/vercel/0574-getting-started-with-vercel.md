@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0574"
 title: "Getting started with Vercel"
 description: "Install the Vercel CLI, add the Vercel Plugin or agent skills, and deploy your first project."
-last_updated: "2026-04-03T23:47:22.295Z"
+category: "vercel-root"
+subcategory: "getting-started-with-vercel"
+type: "guide"
 source: "https://vercel.com/docs/getting-started-with-vercel"
---------------------------------------------------------------------------------
+tags: ["prerequisites", "install-the-vercel-cli", "install-the-vercel-plugin", "deploy-from-the-dashboard", "next-steps", "setup"]
+related: ["0570-how-vercel-builds-your-application.md", "0654-notebooks.md", "0670-package-managers.md"]
+last_updated: "2026-04-03T23:47:22.295Z"
+---
 
 # Getting started with Vercel
 

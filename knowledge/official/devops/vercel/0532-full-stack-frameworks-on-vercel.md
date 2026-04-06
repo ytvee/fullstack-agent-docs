@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0532"
 title: "Full-stack frameworks on Vercel"
 description: "Vercel supports a wide range of the most popular backend frameworks, optimizing how your application builds and runs no matter what tooling you use."
-last_updated: "2026-04-03T23:47:21.588Z"
+category: "vercel-frameworks"
+subcategory: "frameworks"
+type: "guide"
 source: "https://vercel.com/docs/frameworks/full-stack"
---------------------------------------------------------------------------------
+tags: ["full", "stack", "full-stack", "setup", "how-to"]
+related: ["0527-frontends-on-vercel.md", "0538-frameworks-on-vercel.md", "0522-backends-on-vercel.md"]
+last_updated: "2026-04-03T23:47:21.588Z"
+---
 
 # Full-stack frameworks on Vercel
 

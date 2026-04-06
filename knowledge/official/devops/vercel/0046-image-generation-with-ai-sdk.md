@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0046"
 title: "Image Generation with AI SDK"
 description: "Generate and edit images using AI models through Vercel AI Gateway with the AI SDK."
-last_updated: "2026-04-03T23:47:14.353Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/image-generation/ai-sdk"
---------------------------------------------------------------------------------
+tags: ["ai-sdk", "openai", "xai", "generation", "ai", "sdk"]
+related: ["0047-image-generation-with-chat-completions-api.md", "0048-image-generation.md", "0053-google-and-vertex-reasoning.md"]
+last_updated: "2026-04-03T23:47:14.353Z"
+---
 
 # Image Generation with AI SDK
 

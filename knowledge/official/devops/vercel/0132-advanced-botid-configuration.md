@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0132"
 title: "Advanced BotID Configuration"
 description: "Fine-grained control over BotID detection levels and backend domain configuration"
-last_updated: "2026-04-03T23:47:16.269Z"
+category: "vercel-security"
+subcategory: "botid"
+type: "concept"
 source: "https://vercel.com/docs/botid/advanced-configuration"
---------------------------------------------------------------------------------
+tags: ["advanced-botid-configuration", "nextjs", "bot", "id", "configuration", "advanced-configuration"]
+related: ["0134-get-started-with-botid.md", "0136-botid.md", "0133-form-submissions.md"]
+last_updated: "2026-04-03T23:47:16.269Z"
+---
 
 # Advanced BotID Configuration
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0608"
 title: "Deployment integration actions"
 description: "These actions allow integration providers to set up automated tasks with Vercel deployments."
-last_updated: "2026-04-03T23:47:23.452Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/deployment-integration-action"
---------------------------------------------------------------------------------
+tags: ["actions", "create-integration", "how-deployment-actions-work", "creating-deployment-actions", "integration"]
+related: ["0614-create-an-integration.md", "0615-implementing-secrets-rotation.md", "0618-building-integrations-with-vercel-rest-api.md"]
+last_updated: "2026-04-03T23:47:23.452Z"
+---
 
 # Deployment integration actions
 

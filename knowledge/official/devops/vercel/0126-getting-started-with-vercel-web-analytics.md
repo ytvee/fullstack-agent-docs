@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0126"
 title: "Getting started with Vercel Web Analytics"
 description: "Vercel Web Analytics provides you detailed insights into your website"
-last_updated: "2026-04-03T23:47:15.865Z"
+category: "vercel-analytics"
+subcategory: "analytics"
+type: "guide"
 source: "https://vercel.com/docs/analytics/quickstart"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "web", "quickstart", "prerequisites", "set-up-your-project", "next-steps"]
+related: ["0124-vercel-web-analytics.md", "0128-vercel-web-analytics-troubleshooting.md", "0123-advanced-web-analytics-config-with-vercel-analytics.md"]
+last_updated: "2026-04-03T23:47:15.865Z"
+---
 
 # Getting started with Vercel Web Analytics
 

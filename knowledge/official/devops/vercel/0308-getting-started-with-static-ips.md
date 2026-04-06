@@ -2,11 +2,11 @@
 id: "vercel-0308"
 title: "Getting Started with Static IPs"
 description: "Learn how to set up Static IPs for your Vercel projects to connect to IP-restricted backend services."
-category: "vercel-security"
-subcategory: "security"
+category: "vercel-connectivity"
+subcategory: "connectivity"
 type: "guide"
 source: "https://vercel.com/docs/connectivity/static-ips/getting-started"
-tags: ["static-ips", "ip-allowlisting", "backend-connectivity", "regions", "pro-plan"]
+tags: ["static", "ips", "static-ips", "getting-started", "prerequisites", "next-steps"]
 related: ["0309-static-ips.md", "0306-connectivity.md", "0307-secure-compute.md"]
 last_updated: "2026-04-03T23:47:18.540Z"
 ---

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0133"
 title: "Form Submissions"
 description: "How to properly handle form submissions with BotID protection"
-last_updated: "2026-04-03T23:47:16.272Z"
+category: "vercel-security"
+subcategory: "botid"
+type: "guide"
 source: "https://vercel.com/docs/botid/form-submissions"
---------------------------------------------------------------------------------
+tags: ["nextjs", "form", "submissions", "form-submissions", "setup"]
+related: ["0134-get-started-with-botid.md", "0132-advanced-botid-configuration.md", "0135-local-development-behavior.md"]
+last_updated: "2026-04-03T23:47:16.272Z"
+---
 
 # Form Submissions
 

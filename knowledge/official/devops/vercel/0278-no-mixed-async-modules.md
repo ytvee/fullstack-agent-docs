@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0278"
 title: "NO_MIXED_ASYNC_MODULES"
 description: "Prevent imports to modules that contain top-level awaits in your applications."
-last_updated: "2026-04-03T23:47:18.338Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_MIXED_ASYNC_MODULES"
---------------------------------------------------------------------------------
+tags: ["no", "mixed", "async", "modules", "rules", "no-mixed-async-modules"]
+related: ["0280-no-serial-async-calls.md", "0250-nextjs-no-async-layout.md", "0251-nextjs-no-async-page.md"]
+last_updated: "2026-04-03T23:47:18.338Z"
+---
 
 # NO_MIXED_ASYNC_MODULES
 

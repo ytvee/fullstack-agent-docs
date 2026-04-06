@@ -6,8 +6,8 @@ category: "vercel-environment-variables"
 subcategory: "environment-variables"
 type: "guide"
 source: "https://vercel.com/docs/environment-variables/managing-environment-variables"
-tags: ["dashboard", "key-value", "project-settings", "node-js", "secrets"]
-related: ["0403-environment-variables.md", "0406-sensitive-environment-variables.md", "0407-shared-environment-variables.md"]
+tags: ["environment", "variables", "setup", "how-to"]
+related: ["0407-shared-environment-variables.md", "0403-environment-variables.md", "0401-managing-environment-variables-across-environments.md"]
 last_updated: "2026-04-03T23:47:20.204Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0231"
 title: "forbidden-dependencies"
 description: "Learn how to set custom rules to disallow one or more files from depending on one or more predefined module"
-last_updated: "2026-04-03T23:47:17.946Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/custom-rules/forbidden-dependencies"
---------------------------------------------------------------------------------
+tags: ["forbidden", "dependencies", "custom-rules", "forbidden-dependencies", "when-to-use-this-rule-type", "configuring-this-rule-type"]
+related: ["0232-forbidden-imports.md", "0233-forbidden-packages.md", "0230-forbidden-code.md"]
+last_updated: "2026-04-03T23:47:17.946Z"
+---
 
 # forbidden-dependencies
 

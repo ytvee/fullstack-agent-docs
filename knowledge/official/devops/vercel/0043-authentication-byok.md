@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0043"
 title: "Authentication & BYOK"
 description: "Learn how to authenticate with the AI Gateway and configure your own provider keys."
-last_updated: "2026-04-03T23:47:14.248Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/authentication-and-byok"
---------------------------------------------------------------------------------
+tags: ["oidc", "authentication", "byok", "authentication-and-byok", "quick-start", "authentication-methods"]
+related: ["0041-authentication.md", "0042-bring-your-own-key-byok.md", "0094-ai-sdk.md"]
+last_updated: "2026-04-03T23:47:14.248Z"
+---
 
 # Authentication & BYOK
 

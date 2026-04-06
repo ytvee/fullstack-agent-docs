@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0167"
 title: "vercel blob"
 description: "Learn how to interact with Vercel Blob storage using the vercel blob CLI command."
-last_updated: "2026-04-03T23:47:17.168Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/blob"
---------------------------------------------------------------------------------
+tags: ["blob", "usage", "list-ls", "put", "del", "copy-cp"]
+related: ["0165-vercel-api.md", "0211-vercel-target.md", "0184-vercel-help.md"]
+last_updated: "2026-04-03T23:47:17.168Z"
+---
 
 # vercel blob
 

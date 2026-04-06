@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0677"
 title: "Billing FAQ for Pro Plan"
 description: "This page covers frequently asked questions around payments, invoices, and billing on the Pro plan."
-last_updated: "2026-04-03T23:47:24.871Z"
+category: "vercel-plans"
+subcategory: "plans"
+type: "concept"
 source: "https://vercel.com/docs/plans/pro-plan/billing"
---------------------------------------------------------------------------------
+tags: ["billing", "faq", "pro", "plan", "pro-plan", "payments"]
+related: ["0672-billing-faq-for-enterprise-plan.md", "0678-vercel-pro-plan.md", "0676-account-plans-on-vercel.md"]
+last_updated: "2026-04-03T23:47:24.871Z"
+---
 
 # Billing FAQ for Pro Plan
 

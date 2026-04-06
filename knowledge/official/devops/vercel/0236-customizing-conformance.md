@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0236"
 title: "Customizing Conformance"
 description: "Learn how to manage and configure your Conformance rules."
-last_updated: "2026-04-03T23:47:18.003Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/customize"
---------------------------------------------------------------------------------
+tags: ["customizing-conformance", "customizing", "customize", "ignoring-files", "configuration-cascade", "managing-a-conformance-rule"]
+related: ["0231-forbidden-dependencies.md", "0232-forbidden-imports.md", "0230-forbidden-code.md"]
+last_updated: "2026-04-03T23:47:18.003Z"
+---
 
 # Customizing Conformance
 

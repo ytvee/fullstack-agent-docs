@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0316"
 title: "Build Settings"
 description: "Learn how to configure the Build & Development settings for your Vercel Deploy Button."
-last_updated: "2026-04-03T23:47:18.636Z"
+category: "vercel-deployments"
+subcategory: "deploy-button"
+type: "guide"
 source: "https://vercel.com/docs/deploy-button/build-settings"
---------------------------------------------------------------------------------
+tags: ["build-settings", "build-command", "install-command", "development-command", "ignored-build-command", "root-directory"]
+related: ["0317-using-callbacks-with-the-deploy-button.md", "0319-using-environment-variables-with-the-deploy-button.md", "0320-using-integrations-with-the-deploy-button.md"]
+last_updated: "2026-04-03T23:47:18.636Z"
+---
 
 # Build Settings
 

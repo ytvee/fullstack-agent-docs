@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0187"
 title: "vercel inspect"
 description: "Learn how to retrieve information about your Vercel deployments using the vercel inspect CLI command."
-last_updated: "2026-04-03T23:47:17.388Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/inspect"
---------------------------------------------------------------------------------
+tags: ["inspect", "usage", "unique-options", "timeout", "wait", "logs"]
+related: ["0207-vercel-rollback.md", "0202-vercel-promote.md", "0164-vercel-alias.md"]
+last_updated: "2026-04-03T23:47:17.388Z"
+---
 
 # vercel inspect
 

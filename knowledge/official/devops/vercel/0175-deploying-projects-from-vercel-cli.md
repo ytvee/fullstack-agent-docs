@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0175"
 title: "Deploying Projects from Vercel CLI"
 description: "Learn how to deploy your Vercel Projects from Vercel CLI using the vercel or vercel deploy commands."
-last_updated: "2026-04-03T23:47:17.257Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "guide"
 source: "https://vercel.com/docs/cli/deploying-from-cli"
---------------------------------------------------------------------------------
+tags: ["projects", "deploying-from-cli", "deploying-from-source", "relevant-commands", "setup"]
+related: ["0201-linking-projects-with-vercel-cli.md", "0174-vercel-deploy.md", "0164-vercel-alias.md"]
+last_updated: "2026-04-03T23:47:17.257Z"
+---
 
 # Deploying Projects from Vercel CLI
 

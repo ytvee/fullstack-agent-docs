@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0448"
 title: "INTERNAL_UNARCHIVE_FAILED"
 description: "Unarchiving of the deployment or resource failed. This is an internal error."
-last_updated: "2026-04-03T23:47:20.492Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_UNARCHIVE_FAILED"
---------------------------------------------------------------------------------
+tags: ["internal", "unarchive", "failed", "internal-unarchive-failed", "troubleshoot", "setup"]
+related: ["0434-internal-deployment-fetch-failed.md", "0445-internal-optimized-image-request-failed.md", "0447-internal-static-request-failed.md"]
+last_updated: "2026-04-03T23:47:20.492Z"
+---
 
 # INTERNAL_UNARCHIVE_FAILED
 

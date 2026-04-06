@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0153"
 title: "Runtime Cache"
 description: "Vercel Runtime Cache is a specialized cache that stores responses from data fetches in Vercel functions"
-last_updated: "2026-04-03T23:47:16.928Z"
+category: "vercel-caching"
+subcategory: "caching"
+type: "concept"
 source: "https://vercel.com/docs/caching/runtime-cache"
---------------------------------------------------------------------------------
+tags: ["observability", "nextjs", "runtime", "cache", "runtime-cache", "when-to-use-runtime-cache"]
+related: ["0152-data-cache-for-next-js.md", "0149-vercel-cdn-cache.md", "0151-caching.md"]
+last_updated: "2026-04-03T23:47:16.928Z"
+---
 
 # Runtime Cache
 

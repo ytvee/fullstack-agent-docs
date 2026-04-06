@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0430"
 title: "INTERNAL_CACHE_ERROR"
 description: "An unexpected error happened when CDN is fetching data from the Vercel CDN cache."
-last_updated: "2026-04-03T23:47:20.418Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_CACHE_ERROR"
---------------------------------------------------------------------------------
+tags: ["internal", "cache", "error", "internal-cache-error", "troubleshoot", "setup"]
+related: ["0432-internal-cache-lock-full.md", "0433-internal-cache-lock-timeout.md", "0441-internal-microfrontends-build-error.md"]
+last_updated: "2026-04-03T23:47:20.418Z"
+---
 
 # INTERNAL_CACHE_ERROR
 

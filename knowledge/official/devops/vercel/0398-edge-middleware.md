@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0398"
 title: "Edge Middleware"
 description: "Learn how you can use Edge Middleware, code that executes before a request is processed on a site, to provide speed and personalization to your users."
-last_updated: "2026-04-03T23:47:20.019Z"
+category: "vercel-functions"
+subcategory: "edge-middleware"
+type: "guide"
 source: "https://vercel.com/docs/edge-middleware"
---------------------------------------------------------------------------------
+tags: ["edge", "middleware", "create-edge-middleware", "logging", "setup"]
+related: ["0554-getting-started-with-vercel-functions.md", "0557-edge-runtime.md", "0539-concurrency-scaling.md"]
+last_updated: "2026-04-03T23:47:20.019Z"
+---
 
 # Edge Middleware
 

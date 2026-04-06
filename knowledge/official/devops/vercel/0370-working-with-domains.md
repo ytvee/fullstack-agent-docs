@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0370"
 title: "Working with domains"
 description: "Learn how domains work and the options Vercel provides for managing them."
-last_updated: "2026-04-03T23:47:19.458Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-domains"
---------------------------------------------------------------------------------
+tags: ["working-with-domains", "buying-a-domain-name", "apex-domain", "subdomain", "wildcard-domain", "using-email-with-domains"]
+related: ["0372-managing-domain-renewals-and-redemptions.md", "0373-transferring-domains-to-another-team-or-project.md", "0365-adding-configuring-a-custom-domain.md"]
+last_updated: "2026-04-03T23:47:19.458Z"
+---
 
 # Working with domains
 

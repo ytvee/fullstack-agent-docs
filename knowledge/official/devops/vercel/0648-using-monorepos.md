@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0648"
 title: "Using Monorepos"
 description: "Vercel provides support for monorepos. Learn how to deploy a monorepo here."
-last_updated: "2026-04-03T23:47:24.269Z"
+category: "vercel-monorepos"
+subcategory: "monorepos"
+type: "guide"
 source: "https://vercel.com/docs/monorepos"
---------------------------------------------------------------------------------
+tags: ["using-monorepos", "deploy-a-template-monorepo", "skipping-unaffected-projects", "ignoring-the-build-step", "requirements", "getting-started"]
+related: ["0646-monorepos-faq.md", "0647-deploying-nx-to-vercel.md", "0650-deploying-turborepo-to-vercel.md"]
+last_updated: "2026-04-03T23:47:24.269Z"
+---
 
 # Using Monorepos
 

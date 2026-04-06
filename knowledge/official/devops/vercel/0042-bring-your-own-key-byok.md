@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0042"
 title: "Bring Your Own Key (BYOK)"
 description: "Learn how to configure your own provider keys with the AI Gateway."
-last_updated: "2026-04-03T23:47:14.238Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/authentication-and-byok/byok"
---------------------------------------------------------------------------------
+tags: ["ai-sdk", "bring", "own", "key", "byok", "authentication-and-byok"]
+related: ["0043-authentication-byok.md", "0041-authentication.md", "0044-custom-reporting.md"]
+last_updated: "2026-04-03T23:47:14.238Z"
+---
 
 # Bring Your Own Key (BYOK)
 

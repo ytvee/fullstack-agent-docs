@@ -6,8 +6,8 @@ category: "vercel-conformance"
 subcategory: "conformance"
 type: "concept"
 source: "https://vercel.com/docs/conformance/rules/WORKSPACE_MISSING_PACKAGE_JSON"
-tags: ["conformance-rules", "workspace", "package-json", "pnpm", "monorepo"]
-related: ["0303-workspace-missing-conformance-script.md", "0305-conformance-rules.md", "0237-getting-started-with-conformance.md"]
+tags: ["workspace", "missing", "package", "json", "rules", "example"]
+related: ["0303-workspace-missing-conformance-script.md", "0284-package-json-duplicate-dependencies.md", "0285-package-json-name-required.md"]
 last_updated: "2026-04-03T23:47:18.463Z"
 ---
 

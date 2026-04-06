@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0095"
 title: "Advanced Features"
 description: "Advanced Anthropic API features including extended thinking, web search, and automatic caching."
-last_updated: "2026-04-03T23:47:15.101Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api/advanced"
---------------------------------------------------------------------------------
+tags: ["advanced-features", "anthropic", "features", "sdks-and-apis", "anthropic-messages-api", "advanced"]
+related: ["0098-anthropic-messages-api.md", "0096-file-attachments.md", "0100-tool-calls.md"]
+last_updated: "2026-04-03T23:47:15.101Z"
+---
 
 # Advanced Features
 

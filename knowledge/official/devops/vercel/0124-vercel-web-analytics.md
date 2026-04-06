@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0124"
 title: "Vercel Web Analytics"
 description: "With Web Analytics, you can get detailed insights into your website"
-last_updated: "2026-04-03T23:47:15.607Z"
+category: "vercel-analytics"
+subcategory: "analytics"
+type: "concept"
 source: "https://vercel.com/docs/analytics"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "web", "visitors", "how-visitors-are-determined", "page-views", "bounce-rate"]
+related: ["0126-getting-started-with-vercel-web-analytics.md", "0123-advanced-web-analytics-config-with-vercel-analytics.md", "0128-vercel-web-analytics-troubleshooting.md"]
+last_updated: "2026-04-03T23:47:15.607Z"
+---
 
 # Vercel Web Analytics
 

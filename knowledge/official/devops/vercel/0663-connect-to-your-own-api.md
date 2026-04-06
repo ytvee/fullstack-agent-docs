@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0663"
 title: "Connect to your own API"
 description: "Learn how to configure your own API to trust Vercel"
-last_updated: "2026-04-03T23:47:24.659Z"
+category: "vercel-security"
+subcategory: "oidc"
+type: "guide"
 source: "https://vercel.com/docs/oidc/api"
---------------------------------------------------------------------------------
+tags: ["connect", "own", "validate-the-tokens", "setup"]
+related: ["0664-connect-to-amazon-web-services-aws.md", "0665-connect-to-microsoft-azure.md", "0666-connect-to-google-cloud-platform-gcp.md"]
+last_updated: "2026-04-03T23:47:24.659Z"
+---
 
 # Connect to your own API
 

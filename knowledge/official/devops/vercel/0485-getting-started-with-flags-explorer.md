@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0485"
 title: "Getting started with Flags Explorer"
 description: "Learn how to set up the Flags Explorer so you can see and override your application"
-last_updated: "2026-04-03T23:47:20.822Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "guide"
 source: "https://vercel.com/docs/flags/flags-explorer/getting-started"
---------------------------------------------------------------------------------
+tags: ["flags-explorer", "explorer", "getting-started", "prerequisites", "quickstart", "more-resources"]
+related: ["0487-flags-explorer.md", "0497-setting-up-flags-explorer.md", "0486-pricing-for-flags-explorer.md"]
+last_updated: "2026-04-03T23:47:20.822Z"
+---
 
 # Getting started with Flags Explorer
 

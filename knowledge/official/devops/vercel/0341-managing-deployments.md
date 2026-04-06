@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0341"
 title: "Managing Deployments"
 description: "Learn how to manage your current and previously deployed projects to Vercel through the dashboard. You can redeploy at any time and even delete a deployment."
-last_updated: "2026-04-03T23:47:19.016Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "guide"
 source: "https://vercel.com/docs/deployments/managing-deployments"
---------------------------------------------------------------------------------
+tags: ["deployment-protection", "managing-deployments", "filter-deployment", "delete-a-deployment", "redeploy-a-project", "when-to-redeploy"]
+related: ["0339-accessing-deployments-through-generated-urls.md", "0348-sharing-a-preview-deployment.md", "0344-preview-deployment-suffix.md"]
+last_updated: "2026-04-03T23:47:19.016Z"
+---
 
 # Managing Deployments
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0397"
 title: "Managing Edge Configs with Vercel REST API"
 description: "Learn how to use the Vercel REST API to create and update Edge Configs. You can also read data stored in Edge Configs with the Vercel REST API."
-last_updated: "2026-04-03T23:47:20.183Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/vercel-api"
---------------------------------------------------------------------------------
+tags: ["edge", "configs", "rest", "read-all-items", "read-metadata", "request-all-items"]
+related: ["0393-vercel-edge-config.md", "0385-managing-edge-configs-with-the-dashboard.md", "0396-using-edge-config.md"]
+last_updated: "2026-04-03T23:47:20.183Z"
+---
 
 # Managing Edge Configs with Vercel REST API
 

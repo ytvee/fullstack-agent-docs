@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0140"
 title: "Build Output API"
 description: "The Build Output API is a file-system-based specification for a directory structure that can produce a Vercel deployment."
-last_updated: "2026-04-03T23:47:16.366Z"
+category: "vercel-builds"
+subcategory: "build-output-api"
+type: "concept"
 source: "https://vercel.com/docs/build-output-api"
---------------------------------------------------------------------------------
+tags: ["output", "known-limitations", "more-resources"]
+related: ["0138-build-output-configuration.md", "0141-vercel-primitives.md", "0139-features.md"]
+last_updated: "2026-04-03T23:47:16.366Z"
+---
 
 # Build Output API
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0107"
 title: "Structured Outputs"
 description: "Generate structured JSON responses that conform to a specific schema using the Chat Completions API."
-last_updated: "2026-04-03T23:47:15.307Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/structured-outputs"
---------------------------------------------------------------------------------
+tags: ["chat-completions", "structured-outputs", "openai", "structured", "outputs", "sdks-and-apis"]
+related: ["0099-structured-outputs.md", "0104-image-generation-2.md", "0102-chat-completions.md"]
+last_updated: "2026-04-03T23:47:15.307Z"
+---
 
 # Structured Outputs
 

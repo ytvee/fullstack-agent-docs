@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0108"
 title: "Tool Calls"
 description: "Use function calling with the Chat Completions API to enable models to call tools and functions through AI Gateway."
-last_updated: "2026-04-03T23:47:15.313Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/openai-chat-completions/tool-calls"
---------------------------------------------------------------------------------
+tags: ["chat-completions", "tool-calling", "openai", "tool", "calls", "sdks-and-apis"]
+related: ["0100-tool-calls.md", "0105-openai-chat-completions-api.md", "0106-direct-rest-api-usage.md"]
+last_updated: "2026-04-03T23:47:15.313Z"
+---
 
 # Tool Calls
 

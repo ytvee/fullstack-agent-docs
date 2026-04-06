@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0412"
 title: "DEPLOYMENT_DISABLED"
 description: "The deployment is disabled. This is a deployment error."
-last_updated: "2026-04-03T23:47:20.337Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/DEPLOYMENT_DISABLED"
---------------------------------------------------------------------------------
+tags: ["disabled", "deployment-disabled", "troubleshoot", "setup", "how-to", "troubleshooting"]
+related: ["0410-deployment-blocked.md", "0415-deployment-paused.md", "0413-deployment-not-found.md"]
+last_updated: "2026-04-03T23:47:20.337Z"
+---
 
 # DEPLOYMENT_DISABLED
 

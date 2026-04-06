@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0116"
 title: "Python"
 description: "Use the AI Gateway with Python through OpenAI or Anthropic SDKs with full streaming, tool calling, and async support."
-last_updated: "2026-04-03T23:47:15.414Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/python"
---------------------------------------------------------------------------------
+tags: ["structured-outputs", "tool-calling", "streaming", "openai", "anthropic", "python"]
+related: ["0117-openai-responses-api.md", "0094-ai-sdk.md", "0099-structured-outputs.md"]
+last_updated: "2026-04-03T23:47:15.414Z"
+---
 
 # Python
 

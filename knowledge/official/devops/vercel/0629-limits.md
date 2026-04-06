@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0629"
 title: "Limits"
 description: "This reference covers a list of all the limits and limitations that apply on Vercel."
-last_updated: "2026-04-03T23:47:23.912Z"
+category: "vercel-plans"
+subcategory: "limits"
+type: "concept"
 source: "https://vercel.com/docs/limits"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "general-limits", "included-usage", "on-demand-resources-for-pro", "pro-trial-limits", "build-time-per-deployment"]
+related: ["0628-fair-use-guidelines.md", "0677-billing-faq-for-pro-plan.md", "0679-understanding-vercel.md"]
+last_updated: "2026-04-03T23:47:23.912Z"
+---
 
 # Limits
 

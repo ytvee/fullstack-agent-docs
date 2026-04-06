@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "guide"
 source: "https://vercel.com/docs/cli/project-linking"
-tags: ["project-linking", "cli-command", "team-scope", "local-development"]
-related: ["0200-vercel-project.md", "0191-vercel-link.md", "0199-vercel-cli-overview.md"]
+tags: ["linking", "projects", "project-linking", "framework-detection", "relevant-commands", "setup"]
+related: ["0175-deploying-projects-from-vercel-cli.md", "0165-vercel-api.md", "0179-vercel-env.md"]
 last_updated: "2026-04-03T23:47:17.554Z"
 ---
 

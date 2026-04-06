@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0251"
 title: "NEXTJS_NO_ASYNC_PAGE"
 description: "Ensures that the exported Next.js page component and its transitive dependencies are not asynchronous, as that blocks the rendering of the page."
-last_updated: "2026-04-03T23:47:18.156Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_NO_ASYNC_PAGE"
---------------------------------------------------------------------------------
+tags: ["nextjs", "no", "async", "page", "rules", "nextjs-no-async-page"]
+related: ["0250-nextjs-no-async-layout.md", "0257-nextjs-no-production-source-maps.md", "0254-nextjs-no-dynamic-auto.md"]
+last_updated: "2026-04-03T23:47:18.156Z"
+---
 
 # NEXTJS_NO_ASYNC_PAGE
 

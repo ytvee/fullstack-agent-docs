@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0605"
 title: "Vercel and Sitecore XM Cloud Integration"
 description: "Integrate Vercel with Sitecore XM Cloud to deploy your content."
-last_updated: "2026-04-03T23:47:23.397Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/cms/sitecore"
---------------------------------------------------------------------------------
+tags: ["nextjs", "sitecore", "xm", "cloud", "cms", "how-it-works"]
+related: ["0603-vercel-cms-integrations.md", "0599-vercel-and-contentful-integration.md", "0602-vercel-makeswift-integration.md"]
+last_updated: "2026-04-03T23:47:23.397Z"
+---
 
 # Vercel and Sitecore XM Cloud Integration
 

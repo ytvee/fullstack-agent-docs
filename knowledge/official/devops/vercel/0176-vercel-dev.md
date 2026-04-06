@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0176"
 title: "vercel dev"
 description: "Learn how to replicate the Vercel deployment environment locally and test your Vercel Project before deploying using the vercel dev CLI command."
-last_updated: "2026-04-03T23:47:17.266Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/dev"
---------------------------------------------------------------------------------
+tags: ["dev", "when-to-use-this-command", "usage", "unique-options", "listen", "yes"]
+related: ["0168-vercel-build.md", "0203-vercel-pull.md", "0191-vercel-link.md"]
+last_updated: "2026-04-03T23:47:17.266Z"
+---
 
 # vercel dev
 

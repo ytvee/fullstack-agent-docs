@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0596"
 title: "Performing an Instant Rollback on a Deployment"
 description: "Learn how to perform an Instant Rollback on your production deployments and quickly roll back to a previously deployed production deployment."
-last_updated: "2026-04-03T23:47:23.181Z"
+category: "vercel-deployments"
+subcategory: "instant-rollback"
+type: "guide"
 source: "https://vercel.com/docs/instant-rollback"
---------------------------------------------------------------------------------
+tags: ["performing", "instant", "rollback", "how-to-roll-back-deployments", "undo-a-rollback", "from-the-dashboard"]
+related: ["0346-promoting-deployments.md", "0341-managing-deployments.md", "0343-deploying-to-vercel.md"]
+last_updated: "2026-04-03T23:47:23.181Z"
+---
 
 # Performing an Instant Rollback on a Deployment
 

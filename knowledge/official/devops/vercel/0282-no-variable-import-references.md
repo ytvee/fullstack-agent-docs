@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0282"
 title: "NO_VARIABLE_IMPORT_REFERENCES"
 description: "import and require statements must be passed string literals to avoid arbitrary user access to code."
-last_updated: "2026-04-03T23:47:18.354Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "api-reference"
 source: "https://vercel.com/docs/conformance/rules/NO_VARIABLE_IMPORT_REFERENCES"
---------------------------------------------------------------------------------
+tags: ["no", "variable", "import", "references", "rules", "example"]
+related: ["0273-no-eval.md", "0290-package-management-no-unresolved-imports.md", "0299-tests-no-conditional-assertions.md"]
+last_updated: "2026-04-03T23:47:18.354Z"
+---
 
 # NO_VARIABLE_IMPORT_REFERENCES
 

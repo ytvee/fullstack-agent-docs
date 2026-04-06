@@ -6,8 +6,8 @@ category: "vercel-environment-variables"
 subcategory: "environment-variables"
 type: "guide"
 source: "https://vercel.com/docs/environment-variables/manage-across-environments"
-tags: ["cli", "development", "preview", "production", "vercel-env"]
-related: ["0402-managing-environment-variables.md", "0403-environment-variables.md", "0407-shared-environment-variables.md"]
+tags: ["environment", "variables", "across", "environments", "manage-across-environments", "quick-reference"]
+related: ["0403-environment-variables.md", "0400-framework-environment-variables.md", "0406-sensitive-environment-variables.md"]
 last_updated: "2026-04-03T23:47:20.194Z"
 ---
 

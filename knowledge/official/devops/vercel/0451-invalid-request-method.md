@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0451"
 title: "INVALID_REQUEST_METHOD"
 description: "The request method used is invalid or not supported. This is a request error."
-last_updated: "2026-04-03T23:47:20.506Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INVALID_REQUEST_METHOD"
---------------------------------------------------------------------------------
+tags: ["invalid", "request", "method", "invalid-request-method", "troubleshoot", "setup"]
+related: ["0450-invalid-image-optimize-request.md", "0461-optimized-external-image-request-invalid.md", "0452-malformed-request-header.md"]
+last_updated: "2026-04-03T23:47:20.506Z"
+---
 
 # INVALID_REQUEST_METHOD
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0390"
 title: "Using Edge Config with Split"
 description: "Learn how to use Edge Config with Vercel"
-last_updated: "2026-04-03T23:47:19.842Z"
+category: "vercel-edge-config"
+subcategory: "edge-config"
+type: "guide"
 source: "https://vercel.com/docs/edge-config/edge-config-integrations/split-edge-config"
---------------------------------------------------------------------------------
+tags: ["edge", "config", "split", "edge-config-integrations", "split-edge-config", "prerequisites"]
+related: ["0387-using-edge-config-with-hypertune.md", "0391-using-edge-config-with-statsig.md", "0386-using-edge-config-with-devcycle.md"]
+last_updated: "2026-04-03T23:47:19.842Z"
+---
 
 # Using Edge Config with Split
 

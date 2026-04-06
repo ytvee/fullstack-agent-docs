@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0338"
 title: "Environments"
 description: "Environments are for developing locally, testing changes in a pre-production environment, and serving end-users in production."
-last_updated: "2026-04-03T23:47:18.965Z"
+category: "vercel-deployments"
+subcategory: "deployments"
+type: "concept"
 source: "https://vercel.com/docs/deployments/environments"
---------------------------------------------------------------------------------
+tags: ["environments", "production-environment", "custom-environments", "pricing-and-limits", "more-resources"]
+related: ["0345-promoting-a-preview-deployment-to-production.md", "0346-promoting-deployments.md", "0339-accessing-deployments-through-generated-urls.md"]
+last_updated: "2026-04-03T23:47:18.965Z"
+---
 
 # Environments
 

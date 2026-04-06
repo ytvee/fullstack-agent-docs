@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "api-reference"
 source: "https://vercel.com/docs/cli/teams"
-tags: ["cli-command", "team-management", "members", "invitations"]
-related: ["0210-vercel-switch.md", "0001-account-management.md", "0199-vercel-cli-overview.md"]
+tags: ["teams", "usage", "extended-usage", "global-options", "api-reference", "cli-command"]
+related: ["0210-vercel-switch.md", "0200-vercel-project.md", "0188-vercel-install.md"]
 last_updated: "2026-04-03T23:47:17.687Z"
 ---
 

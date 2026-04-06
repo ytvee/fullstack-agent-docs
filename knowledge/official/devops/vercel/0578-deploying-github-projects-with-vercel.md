@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0578"
 title: "Deploying GitHub Projects with Vercel"
 description: "Vercel for GitHub automatically deploys your GitHub projects with Vercel, providing Preview Deployment URLs, and automatic Custom Domain updates."
-last_updated: "2026-04-03T23:47:22.404Z"
+category: "vercel-deployments"
+subcategory: "git"
+type: "guide"
 source: "https://vercel.com/docs/git/vercel-for-github"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "custom-domains", "preview-deployments", "hub", "projects", "supported-github-products"]
+related: ["0577-deploying-bitbucket-projects-with-vercel.md", "0579-deploying-gitlab-projects-with-vercel.md", "0575-deploying-git-repositories-with-vercel.md"]
+last_updated: "2026-04-03T23:47:22.404Z"
+---
 
 # Deploying GitHub Projects with Vercel
 

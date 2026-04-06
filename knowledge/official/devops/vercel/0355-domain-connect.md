@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0355"
 title: "Domain Connect"
 description: "Learn how to integrate your service with Vercel DNS using the Domain Connect protocol to automatically configure DNS records for your users."
-last_updated: "2026-04-03T23:47:19.246Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/domain-connect"
---------------------------------------------------------------------------------
+tags: ["dns", "domain", "connect", "domain-connect", "prerequisites", "url-format"]
+related: ["0361-setting-up-a-custom-domain.md", "0364-working-with-dns.md", "0365-adding-configuring-a-custom-domain.md"]
+last_updated: "2026-04-03T23:47:19.246Z"
+---
 
 # Domain Connect
 

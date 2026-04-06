@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0139"
 title: "Features"
 description: "Learn how to implement common Vercel platform features through the Build Output API."
-last_updated: "2026-04-03T23:47:16.422Z"
+category: "vercel-builds"
+subcategory: "build-output-api"
+type: "concept"
 source: "https://vercel.com/docs/build-output-api/features"
---------------------------------------------------------------------------------
+tags: ["isr", "features", "high-level-routing", "routing-middleware", "routing-middleware-example", "draft-mode"]
+related: ["0141-vercel-primitives.md", "0138-build-output-configuration.md", "0140-build-output-api.md"]
+last_updated: "2026-04-03T23:47:16.422Z"
+---
 
 # Features
 

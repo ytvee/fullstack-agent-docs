@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0491"
 title: "Observability"
 description: "Track feature flag evaluations and analyze their impact with Web Analytics."
-last_updated: "2026-04-03T23:47:20.866Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "concept"
 source: "https://vercel.com/docs/flags/observability"
---------------------------------------------------------------------------------
+tags: ["web-analytics", "observability", "feature-flags", "why-track-flag-evaluations", "observability-options", "how-it-works"]
+related: ["0492-integrate-flags-with-vercel-web-analytics.md", "0496-running-an-a-b-test.md", "0506-vercel-flags-2.md"]
+last_updated: "2026-04-03T23:47:20.866Z"
+---
 
 # Observability
 

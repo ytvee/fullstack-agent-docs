@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0628"
 title: "Fair Use Guidelines"
 description: "Learn about all subscription plans included usage that is subject to Vercel"
-last_updated: "2026-04-03T23:47:23.890Z"
+category: "vercel-plans"
+subcategory: "limits"
+type: "concept"
 source: "https://vercel.com/docs/limits/fair-use-guidelines"
---------------------------------------------------------------------------------
+tags: ["fair", "guidelines", "fair-use-guidelines", "examples-of-fair-use", "never-fair-use", "usage-guidelines"]
+related: ["0629-limits.md", "0676-account-plans-on-vercel.md", "0678-vercel-pro-plan.md"]
+last_updated: "2026-04-03T23:47:23.890Z"
+---
 
 # Fair Use Guidelines
 

@@ -2,12 +2,12 @@
 id: "vercel-0409"
 title: "BODY_NOT_A_STRING_FROM_FUNCTION"
 description: "The function returned a non-string body. This is a function error."
-category: "vercel-functions"
-subcategory: "functions"
-type: "concept"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/BODY_NOT_A_STRING_FROM_FUNCTION"
-tags: ["error-502", "bad-gateway", "function-response", "json-stringify", "troubleshooting"]
-related: ["0424-function-invocation-failed.md", "0427-function-response-payload-too-large.md", "0484-error-codes.md"]
+tags: ["body", "not", "string", "function", "troubleshoot", "setup"]
+related: ["0421-edge-function-invocation-failed.md", "0413-deployment-not-found.md", "0414-deployment-not-ready-redirecting.md"]
 last_updated: "2026-04-03T23:47:20.309Z"
 ---
 

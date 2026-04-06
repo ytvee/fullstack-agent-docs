@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0321"
 title: "Working with the Deploy Button"
 description: "Deploy public Git projects with the Deploy Button, and set up new projects with Vercel and GitHub, GitLab, or Bitbucket"
-last_updated: "2026-04-03T23:47:18.715Z"
+category: "vercel-deployments"
+subcategory: "deploy-button"
+type: "guide"
 source: "https://vercel.com/docs/deploy-button"
---------------------------------------------------------------------------------
+tags: ["deploy", "button", "snippets", "setup", "how-to"]
+related: ["0319-using-environment-variables-with-the-deploy-button.md", "0320-using-integrations-with-the-deploy-button.md", "0317-using-callbacks-with-the-deploy-button.md"]
+last_updated: "2026-04-03T23:47:18.715Z"
+---
 
 # Working with the Deploy Button
 

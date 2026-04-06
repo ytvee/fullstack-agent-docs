@@ -3,11 +3,11 @@ id: "vercel-0012"
 title: "Conductor"
 description: "Use Conductor with the AI Gateway."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/coding-agents/conductor"
-tags: ["coding-agent", "parallel-agents", "ai-gateway", "claude-code"]
-related: ["0016-coding-agents.md", "0010-claude-code-and-claude-agent-sdk.md", "0092-ai-gateway.md"]
+tags: ["ai-gateway", "conductor", "coding-agents", "configuring-conductor", "integration"]
+related: ["0011-cline.md", "0013-crush.md", "0015-opencode.md"]
 last_updated: "2026-04-03T23:47:13.739Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0239"
 title: "BFCACHE_INTEGRITY_NO_UNLOAD_LISTENERS"
 description: "Disallows the use of the unload and beforeunload events to eliminate a source of eviction from the browser"
-last_updated: "2026-04-03T23:47:18.069Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/BFCACHE_INTEGRITY_NO_UNLOAD_LISTENERS"
---------------------------------------------------------------------------------
+tags: ["bfcache", "integrity", "no", "unload", "listeners", "rules"]
+related: ["0240-bfcache-integrity-require-noopener-attribute.md", "0253-nextjs-no-client-deps-in-middleware.md", "0282-no-variable-import-references.md"]
+last_updated: "2026-04-03T23:47:18.069Z"
+---
 
 # BFCACHE_INTEGRITY_NO_UNLOAD_LISTENERS
 

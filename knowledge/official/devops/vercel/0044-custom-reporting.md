@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0044"
 title: "Custom Reporting"
 description: "Query AI Gateway usage data grouped by model, user, tag, provider, or credential type using the Custom Reporting API."
-last_updated: "2026-04-03T23:47:14.300Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/capabilities/custom-reporting"
---------------------------------------------------------------------------------
+tags: ["ai-sdk", "openresponses", "responses-api", "chat-completions", "anthropic", "custom"]
+related: ["0045-disallow-prompt-training.md", "0065-zero-data-retention.md", "0083-text-generation-quickstart.md"]
+last_updated: "2026-04-03T23:47:14.300Z"
+---
 
 # Custom Reporting
 

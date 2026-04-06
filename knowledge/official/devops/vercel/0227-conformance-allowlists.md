@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0227"
 title: "Conformance Allowlists"
 description: "Learn how to use allowlists to bypass your Conformance rules to merge changes into your codebase."
-last_updated: "2026-04-03T23:47:17.863Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/allowlist"
---------------------------------------------------------------------------------
+tags: ["conformance-allowlists", "allowlists", "allowlist", "the-needsresolution-field", "allowlists-location", "allowlisting-all-errors"]
+related: ["0238-introduction-to-conformance.md", "0237-getting-started-with-conformance.md", "0288-package-json-type-required.md"]
+last_updated: "2026-04-03T23:47:17.863Z"
+---
 
 # Conformance Allowlists
 

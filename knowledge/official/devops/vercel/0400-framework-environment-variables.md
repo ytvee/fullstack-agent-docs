@@ -6,8 +6,8 @@ category: "vercel-environment-variables"
 subcategory: "environment-variables"
 type: "concept"
 source: "https://vercel.com/docs/environment-variables/framework-environment-variables"
-tags: ["framework-prefix", "next-public", "sveltekit", "build-step", "env-pull"]
-related: ["0403-environment-variables.md", "0402-managing-environment-variables.md", "0408-system-environment-variables.md"]
+tags: ["framework", "environment", "variables", "next-public-vercel-env", "next-public-vercel-url"]
+related: ["0408-system-environment-variables.md", "0401-managing-environment-variables-across-environments.md", "0407-shared-environment-variables.md"]
 last_updated: "2026-04-03T23:47:20.082Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0565"
 title: "Using the Rust Runtime with Vercel functions"
 description: "Build fast, memory-safe serverless functions with Rust on Vercel."
-last_updated: "2026-04-03T23:47:22.175Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/runtimes/rust"
---------------------------------------------------------------------------------
+tags: ["rust", "runtime", "runtimes", "getting-started", "project-setup", "cargo-toml-configuration"]
+related: ["0558-using-the-go-runtime-with-vercel-functions.md", "0555-using-the-bun-runtime-with-vercel-functions.md", "0563-using-the-python-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:22.175Z"
+---
 
 # Using the Rust Runtime with Vercel functions
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0576"
 title: "Deploying from Azure DevOps with Vercel"
 description: "​Vercel for Azure DevOps allows you to deploy from Azure Pipelines to Vercel automatically."
-last_updated: "2026-04-03T23:47:22.363Z"
+category: "vercel-deployments"
+subcategory: "git"
+type: "guide"
 source: "https://vercel.com/docs/git/vercel-for-azure-pipelines"
---------------------------------------------------------------------------------
+tags: ["azure", "dev", "ops", "quickstart", "prerequisites", "update-your-pipeline"]
+related: ["0577-deploying-bitbucket-projects-with-vercel.md", "0578-deploying-github-projects-with-vercel.md", "0575-deploying-git-repositories-with-vercel.md"]
+last_updated: "2026-04-03T23:47:22.363Z"
+---
 
 # Deploying from Azure DevOps with Vercel
 

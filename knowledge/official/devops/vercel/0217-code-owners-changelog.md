@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0217"
 title: "Code Owners changelog"
 description: "Find out what"
-last_updated: "2026-04-03T23:47:17.744Z"
+category: "vercel-code-owners"
+subcategory: "code-owners"
+type: "changelog"
 source: "https://vercel.com/docs/code-owners/changelog"
---------------------------------------------------------------------------------
+tags: ["code-owners-changelog", "owners", "changelog", "upgrade-instructions", "releases", "1-0-7"]
+related: ["0220-getting-started-with-code-owners.md", "0218-vercel-code-owners.md", "0221-code-owners.md"]
+last_updated: "2026-04-03T23:47:17.744Z"
+---
 
 # Code Owners changelog
 

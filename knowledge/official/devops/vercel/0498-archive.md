@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0498"
 title: "Archive"
 description: "Archive unused feature flags and restore them when needed."
-last_updated: "2026-04-03T23:47:20.919Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "concept"
 source: "https://vercel.com/docs/flags/vercel-flags/dashboard/archive"
---------------------------------------------------------------------------------
+tags: ["feature-flags", "archive", "dashboard", "archiving-vs-deleting", "how-to-archive-a-flag", "how-to-restore-a-flag"]
+related: ["0504-segments.md", "0502-managing-flags-in-the-dashboard.md", "0500-entities.md"]
+last_updated: "2026-04-03T23:47:20.919Z"
+---
 
 # Archive
 

@@ -3,11 +3,11 @@ id: "vercel-0032"
 title: "Vercel Together AI Integration"
 description: "Learn how to add Together AI connectable account integration with Vercel."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/togetherai"
-tags: ["ai-provider", "collaborative-ai", "real-time-interaction", "connectable-account"]
-related: ["0028-build-with-ai-on-vercel.md", "0021-adding-a-provider.md", "0088-models-providers.md"]
+tags: ["together", "ai", "integrations-for-models", "togetherai", "use-cases", "available-models"]
+related: ["0033-vercel-xai-integration.md", "0023-vercel-elevenlabs-integration.md", "0029-vercel-perplexity-integration.md"]
 last_updated: "2026-04-03T23:47:14.054Z"
 ---
 

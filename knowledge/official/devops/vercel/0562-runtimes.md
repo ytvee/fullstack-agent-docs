@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0562"
 title: "Runtimes"
 description: "Runtimes transform your source code into Functions, which are served by our CDN. Learn about the official runtimes supported by Vercel."
-last_updated: "2026-04-03T23:47:22.142Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "concept"
 source: "https://vercel.com/docs/functions/runtimes"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "runtimes", "official-runtimes", "community-runtimes", "features", "location"]
+related: ["0556-edge-functions.md", "0557-edge-runtime.md", "0560-supported-node-js-versions.md"]
+last_updated: "2026-04-03T23:47:22.142Z"
+---
 
 # Runtimes
 

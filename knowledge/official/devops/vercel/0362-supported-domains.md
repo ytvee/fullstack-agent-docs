@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0362"
 title: "Supported domains"
-
-last_updated: "2026-04-03T23:47:19.320Z"
+description: "-------------------------------------------------------------------------- title: \"Supported domains\" last_updated: \"2026-04-03T23:47:19.320Z\" source: \"https://"
+category: "vercel-domains"
+subcategory: "domains"
+type: "concept"
 source: "https://vercel.com/docs/domains/supported-domains"
---------------------------------------------------------------------------------
+tags: ["supported", "supported-domains", "domains"]
+related: ["0363-troubleshooting-domains.md", "0354-uploading-custom-ssl-certificates.md", "0358-domains-overview.md"]
+last_updated: "2026-04-03T23:47:19.320Z"
+---
 
 # Supported domains
 

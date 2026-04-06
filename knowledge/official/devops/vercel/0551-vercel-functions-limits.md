@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0551"
 title: "Vercel Functions Limits"
 description: "Learn about the limits and restrictions of using Vercel Functions with the Node.js runtime."
-last_updated: "2026-04-03T23:47:21.913Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/limitations"
---------------------------------------------------------------------------------
+tags: ["edge-runtime", "environment-variables", "python", "nodejs", "limitations", "functions-name"]
+related: ["0546-configuring-the-runtime-for-vercel-functions.md", "0557-edge-runtime.md", "0561-using-the-node-js-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.913Z"
+---
 
 # Vercel Functions Limits
 

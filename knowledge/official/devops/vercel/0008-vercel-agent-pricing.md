@@ -2,12 +2,12 @@
 id: "vercel-0008"
 title: "Vercel Agent Pricing"
 description: "Understand how Vercel Agent pricing works and how to manage your credits"
-category: "vercel-integrations"
-subcategory: "integrations"
+category: "vercel-agent"
+subcategory: "agent"
 type: "concept"
 source: "https://vercel.com/docs/agent/pricing"
-tags: ["credits", "token-costs", "billing", "promotional-credit", "auto-recharge"]
-related: ["0005-vercel-agent.md", "0006-code-review.md", "0004-investigation.md"]
+tags: ["pricing", "promotional-credit", "track-costs-and-spending", "adding-credits", "manual-credit-purchases", "auto-reload"]
+related: ["0007-managing-code-reviews.md", "0004-investigation.md", "0005-vercel-agent.md"]
 last_updated: "2026-04-03T23:47:13.666Z"
 ---
 

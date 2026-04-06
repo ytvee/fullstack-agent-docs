@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0567"
 title: "Streaming"
 description: "Learn how to stream responses from Vercel Functions."
-last_updated: "2026-04-03T23:47:22.191Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/streaming-functions"
---------------------------------------------------------------------------------
+tags: ["streaming", "python", "streaming-functions", "getting-started", "prerequisites", "function-duration"]
+related: ["0563-using-the-python-runtime-with-vercel-functions.md", "0554-getting-started-with-vercel-functions.md", "0551-vercel-functions-limits.md"]
+last_updated: "2026-04-03T23:47:22.191Z"
+---
 
 # Streaming
 

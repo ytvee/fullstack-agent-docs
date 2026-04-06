@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0450"
 title: "INVALID_IMAGE_OPTIMIZE_REQUEST"
 description: "The query string is using an invalid value for q, w, or url parameters. This is a request error."
-last_updated: "2026-04-03T23:47:20.500Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INVALID_IMAGE_OPTIMIZE_REQUEST"
---------------------------------------------------------------------------------
+tags: ["invalid-image-optimize-request", "invalid", "optimize", "request", "troubleshoot", "setup"]
+related: ["0451-invalid-request-method.md", "0461-optimized-external-image-request-invalid.md", "0452-malformed-request-header.md"]
+last_updated: "2026-04-03T23:47:20.500Z"
+---
 
 # INVALID_IMAGE_OPTIMIZE_REQUEST
 

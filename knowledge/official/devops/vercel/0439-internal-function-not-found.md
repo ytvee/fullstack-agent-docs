@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0439"
 title: "INTERNAL_FUNCTION_NOT_FOUND"
 description: "The internal function could not be found. This is a Vercel"
-last_updated: "2026-04-03T23:47:20.457Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_FUNCTION_NOT_FOUND"
---------------------------------------------------------------------------------
+tags: ["internal", "function", "not", "found", "internal-function-not-found", "troubleshoot"]
+related: ["0440-internal-function-not-ready.md", "0470-resource-not-found.md", "0476-sanbdox-not-found.md"]
+last_updated: "2026-04-03T23:47:20.457Z"
+---
 
 # INTERNAL_FUNCTION_NOT_FOUND
 

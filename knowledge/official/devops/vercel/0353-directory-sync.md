@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0353"
 title: "Directory Sync"
 description: "Learn how to configure Directory Sync for your Vercel Team."
-last_updated: "2026-04-03T23:47:19.218Z"
+category: "vercel-deployments"
+subcategory: "directory-sync"
+type: "guide"
 source: "https://vercel.com/docs/directory-sync"
---------------------------------------------------------------------------------
+tags: ["directory", "sync", "configuring-directory-sync", "supported-providers", "preventing-account-lockout", "setup"]
+related: ["0352-using-the-directory-listing.md", "0319-using-environment-variables-with-the-deploy-button.md", "0320-using-integrations-with-the-deploy-button.md"]
+last_updated: "2026-04-03T23:47:19.218Z"
+---
 
 # Directory Sync
 

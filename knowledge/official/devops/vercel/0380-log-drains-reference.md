@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0380"
 title: "Log Drains Reference"
 description: "Learn about Log Drains - data formats, sources, environments, and security configuration."
-last_updated: "2026-04-03T23:47:19.650Z"
+category: "vercel-observability"
+subcategory: "drains"
+type: "api-reference"
 source: "https://vercel.com/docs/drains/reference/logs"
---------------------------------------------------------------------------------
+tags: ["log-drains-reference", "log", "logs", "logs-schema", "format", "json"]
+related: ["0379-web-analytics-drains-reference.md", "0381-speed-insights-drains-reference.md", "0382-trace-drains-reference.md"]
+last_updated: "2026-04-03T23:47:19.650Z"
+---
 
 # Log Drains Reference
 

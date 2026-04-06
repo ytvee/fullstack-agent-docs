@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0235"
 title: "Conformance Custom Rules"
 description: "Learn how Conformance improves collaboration, productivity, and software quality at scale."
-last_updated: "2026-04-03T23:47:17.993Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/custom-rules"
---------------------------------------------------------------------------------
+tags: ["conformance-custom-rules", "custom", "rules", "custom-rules", "available-custom-rule-types", "getting-started"]
+related: ["0230-forbidden-code.md", "0231-forbidden-dependencies.md", "0232-forbidden-imports.md"]
+last_updated: "2026-04-03T23:47:17.993Z"
+---
 
 # Conformance Custom Rules
 

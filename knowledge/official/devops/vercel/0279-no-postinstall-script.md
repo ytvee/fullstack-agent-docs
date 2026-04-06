@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0279"
 title: "NO_POSTINSTALL_SCRIPT"
 description: "Prevent the use of "
-last_updated: "2026-04-03T23:47:18.341Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_POSTINSTALL_SCRIPT"
---------------------------------------------------------------------------------
+tags: ["no", "postinstall", "script", "rules", "no-postinstall-script", "how-to-fix"]
+related: ["0271-no-dangerous-html.md", "0272-no-document-write.md", "0276-no-inline-svg.md"]
+last_updated: "2026-04-03T23:47:18.341Z"
+---
 
 # NO_POSTINSTALL_SCRIPT
 

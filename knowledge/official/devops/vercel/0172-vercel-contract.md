@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0172"
 title: "vercel contract"
 description: "Learn how to view contract commitment information for your Vercel account using the vercel contract CLI command."
-last_updated: "2026-04-03T23:47:17.207Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/contract"
---------------------------------------------------------------------------------
+tags: ["contract", "usage", "unique-options", "format", "global-options", "api-reference"]
+related: ["0214-vercel-usage.md", "0181-vercel-git.md", "0177-vercel-dns.md"]
+last_updated: "2026-04-03T23:47:17.207Z"
+---
 
 # vercel contract
 

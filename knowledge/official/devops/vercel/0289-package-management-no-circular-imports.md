@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0289"
 title: "PACKAGE_MANAGEMENT_NO_CIRCULAR_IMPORTS"
 description: "Circular imports between two files are not allowed."
-last_updated: "2026-04-03T23:47:18.384Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/PACKAGE_MANAGEMENT_NO_CIRCULAR_IMPORTS"
---------------------------------------------------------------------------------
+tags: ["package", "management", "no", "circular", "imports", "rules"]
+related: ["0290-package-management-no-unresolved-imports.md", "0247-nextjs-missing-optimize-package-imports.md", "0299-tests-no-conditional-assertions.md"]
+last_updated: "2026-04-03T23:47:18.384Z"
+---
 
 # PACKAGE_MANAGEMENT_NO_CIRCULAR_IMPORTS
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0330"
 title: "Sharable Links"
 description: "Learn how to share your deployments with external users."
-last_updated: "2026-04-03T23:47:18.860Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "guide"
 source: "https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/sharable-links"
---------------------------------------------------------------------------------
+tags: ["sharable", "links", "sharable-links", "creating-sharable-links", "managing-shareable-links", "setup"]
+related: ["0328-bypass-deployment-protection-for-testing-sharing-and-automation.md", "0327-options-allowlist.md", "0329-protection-bypass-for-automation.md"]
+last_updated: "2026-04-03T23:47:18.860Z"
+---
 
 # Sharable Links
 

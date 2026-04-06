@@ -6,8 +6,8 @@ category: "vercel-integrations"
 subcategory: "integrations"
 type: "integration"
 source: "https://vercel.com/docs/integrations/cms/formspree"
-tags: ["formspree", "forms", "static-site", "form-backend", "serverless"]
-related: ["0603-vercel-cms-integrations.md", "0627-vercel-integrations.md", "0625-install-an-integration.md"]
+tags: ["formspree", "cms", "getting-started", "integration"]
+related: ["0602-vercel-makeswift-integration.md", "0598-vercel-buttercms-integration.md", "0600-vercel-datocms-integration.md"]
 last_updated: "2026-04-03T23:47:23.343Z"
 ---
 

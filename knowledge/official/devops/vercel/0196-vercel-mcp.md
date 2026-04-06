@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0196"
 title: "vercel mcp"
 description: "Set up Model Context Protocol (MCP) usage with a Vercel project using the vercel mcp CLI command."
-last_updated: "2026-04-03T23:47:17.479Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/mcp"
---------------------------------------------------------------------------------
+tags: ["mcp", "usage", "examples", "unique-options", "project", "global-options"]
+related: ["0186-vercel-init.md", "0172-vercel-contract.md", "0177-vercel-dns.md"]
+last_updated: "2026-04-03T23:47:17.479Z"
+---
 
 # vercel mcp
 

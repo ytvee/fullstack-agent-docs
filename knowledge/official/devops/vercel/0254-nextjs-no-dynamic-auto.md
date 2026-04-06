@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0254"
 title: "NEXTJS_NO_DYNAMIC_AUTO"
 description: "Prevent usage of force-dynamic as a dynamic page rendering strategy."
-last_updated: "2026-04-03T23:47:18.170Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_NO_DYNAMIC_AUTO"
---------------------------------------------------------------------------------
+tags: ["nextjs", "no", "dynamic", "auto", "rules", "nextjs-no-dynamic-auto"]
+related: ["0251-nextjs-no-async-page.md", "0252-nextjs-no-before-interactive.md", "0255-nextjs-no-fetch-in-server-props.md"]
+last_updated: "2026-04-03T23:47:18.170Z"
+---
 
 # NEXTJS_NO_DYNAMIC_AUTO
 

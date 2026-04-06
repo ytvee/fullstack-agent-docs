@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0135"
 title: "Local Development Behavior"
 description: "How BotID behaves in local development environments and testing options"
-last_updated: "2026-04-03T23:47:16.304Z"
+category: "vercel-security"
+subcategory: "botid"
+type: "guide"
 source: "https://vercel.com/docs/botid/local-development-behavior"
---------------------------------------------------------------------------------
+tags: ["local", "development", "behavior", "local-development-behavior", "using-developmentoptions", "setup"]
+related: ["0133-form-submissions.md", "0132-advanced-botid-configuration.md", "0134-get-started-with-botid.md"]
+last_updated: "2026-04-03T23:47:16.304Z"
+---
 
 # Local Development Behavior
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0070"
 title: "Chat Platforms"
 description: "Configure AI chat platforms to use the AI Gateway for unified model access and spend monitoring."
-last_updated: "2026-04-03T23:47:14.756Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/chat-platforms"
---------------------------------------------------------------------------------
+tags: ["chat", "platforms", "chat-platforms", "supported-platforms", "librechat", "openclaw-clawdbot"]
+related: ["0069-openclaw-clawdbot.md", "0067-librechat.md", "0068-open-webui.md"]
+last_updated: "2026-04-03T23:47:14.756Z"
+---
 
 # Chat Platforms
 

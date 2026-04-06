@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0122"
 title: "Pricing for Web Analytics"
 description: "Learn about pricing for Vercel Web Analytics."
-last_updated: "2026-04-03T23:47:16.240Z"
+category: "vercel-analytics"
+subcategory: "analytics"
+type: "concept"
 source: "https://vercel.com/docs/analytics/limits-and-pricing"
---------------------------------------------------------------------------------
+tags: ["pricing-for-web-analytics", "web-analytics", "web", "limits-and-pricing", "pricing", "usage"]
+related: ["0123-advanced-web-analytics-config-with-vercel-analytics.md", "0126-getting-started-with-vercel-web-analytics.md", "0128-vercel-web-analytics-troubleshooting.md"]
+last_updated: "2026-04-03T23:47:16.240Z"
+---
 
 # Pricing for Web Analytics
 

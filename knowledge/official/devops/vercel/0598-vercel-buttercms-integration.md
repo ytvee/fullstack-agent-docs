@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0598"
 title: "Vercel ButterCMS Integration"
 description: "Learn how to integrate ButterCMS with Vercel. Follow our tutorial to set up the ButterCMS template on Vercel and manage content seamlessly using ButterCMS API."
-last_updated: "2026-04-03T23:47:23.225Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/cms/butter-cms"
---------------------------------------------------------------------------------
+tags: ["butter", "cms", "butter-cms", "getting-started", "integration"]
+related: ["0600-vercel-datocms-integration.md", "0597-vercel-agility-cms-integration.md", "0601-vercel-formspree-integration.md"]
+last_updated: "2026-04-03T23:47:23.225Z"
+---
 
 # Vercel ButterCMS Integration
 

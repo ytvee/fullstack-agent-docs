@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0670"
 title: "Package Managers"
 description: "Discover the package managers supported by Vercel for dependency management. Learn how Vercel detects and uses npm, Yarn, pnpm, and Bun for optimal build performance."
-last_updated: "2026-04-03T23:47:24.743Z"
+category: "vercel-root"
+subcategory: "package-managers"
+type: "guide"
 source: "https://vercel.com/docs/package-managers"
---------------------------------------------------------------------------------
+tags: ["bun", "package", "managers", "supported-package-managers", "project-override", "deployment-override"]
+related: ["0574-getting-started-with-vercel.md", "0570-how-vercel-builds-your-application.md", "0669-open-source-program.md"]
+last_updated: "2026-04-03T23:47:24.743Z"
+---
 
 # Package Managers
 

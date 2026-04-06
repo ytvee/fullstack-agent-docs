@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0157"
 title: "CDN security"
 description: "Learn how Vercel"
-last_updated: "2026-04-03T23:47:16.979Z"
+category: "vercel-security"
+subcategory: "cdn-security"
+type: "guide"
 source: "https://vercel.com/docs/cdn-security"
---------------------------------------------------------------------------------
+tags: ["cdn", "encryption-and-tls", "supported-protocols", "firewall-protection", "platform-wide-firewall", "web-application-firewall-waf"]
+related: ["0156-encryption-and-tls.md", "0158-content-security-policy.md", "0131-bot-management.md"]
+last_updated: "2026-04-03T23:47:16.979Z"
+---
 
 # CDN security
 

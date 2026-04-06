@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0325"
 title: "Automated & Agent Access"
 description: "Grant AI agents, CI/CD pipelines, MCP servers, and testing tools access to Vercel deployments that have Deployment Protection enabled."
-last_updated: "2026-04-03T23:47:18.795Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "concept"
 source: "https://vercel.com/docs/deployment-protection/automated-agent-access"
---------------------------------------------------------------------------------
+tags: ["automated-and-agent-access", "mcp", "automated", "agent", "access", "automated-agent-access"]
+related: ["0329-protection-bypass-for-automation.md", "0333-restrict-deployment-access-by-ip-address.md", "0328-bypass-deployment-protection-for-testing-sharing-and-automation.md"]
+last_updated: "2026-04-03T23:47:18.795Z"
+---
 
 # Automated & Agent Access
 

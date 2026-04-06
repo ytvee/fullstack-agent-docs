@@ -6,7 +6,7 @@ category: "vercel-flags"
 subcategory: "flags"
 type: "guide"
 source: "https://vercel.com/docs/flags/vercel-flags/sdks/core"
-tags: ["flags-core", "custom-integration", "typescript", "server-side", "evaluation"]
+tags: ["using-the-core-library", "core", "library", "sdks", "when-to-use-the-core-library", "installation"]
 related: ["0511-sdks.md", "0509-using-the-flags-sdk-with-vercel-flags.md", "0510-using-openfeature-with-vercel-flags.md"]
 last_updated: "2026-04-03T23:47:21.063Z"
 ---

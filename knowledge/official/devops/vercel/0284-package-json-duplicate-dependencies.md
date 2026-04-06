@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0284"
 title: "PACKAGE_JSON_DUPLICATE_DEPENDENCIES"
 description: "Found duplicate dependencies between the list of dependencies and devDependencies or peerDependencies in a package.json file.."
-last_updated: "2026-04-03T23:47:18.362Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/PACKAGE_JSON_DUPLICATE_DEPENDENCIES"
---------------------------------------------------------------------------------
+tags: ["package", "json", "duplicate", "dependencies", "rules", "example"]
+related: ["0304-workspace-missing-package-json.md", "0283-package-json-description-required.md", "0285-package-json-name-required.md"]
+last_updated: "2026-04-03T23:47:18.362Z"
+---
 
 # PACKAGE_JSON_DUPLICATE_DEPENDENCIES
 

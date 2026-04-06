@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0281"
 title: "NO_UNNECESSARY_PROP_SPREADING"
 description: "Disallows the usage of object spreading in a JSX component."
-last_updated: "2026-04-03T23:47:18.351Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NO_UNNECESSARY_PROP_SPREADING"
---------------------------------------------------------------------------------
+tags: ["no", "unnecessary", "prop", "spreading", "rules", "examples"]
+related: ["0270-no-cors-headers.md", "0251-nextjs-no-async-page.md", "0277-no-instanceof-error.md"]
+last_updated: "2026-04-03T23:47:18.351Z"
+---
 
 # NO_UNNECESSARY_PROP_SPREADING
 

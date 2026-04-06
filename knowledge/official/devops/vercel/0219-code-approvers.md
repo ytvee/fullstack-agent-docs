@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0219"
 title: "Code Approvers"
 description: "Use Code Owners to define users or teams that are responsible for directories and files in your codebase"
-last_updated: "2026-04-03T23:47:17.773Z"
+category: "vercel-code-owners"
+subcategory: "code-owners"
+type: "concept"
 source: "https://vercel.com/docs/code-owners/code-approvers"
---------------------------------------------------------------------------------
+tags: ["approvers", "code-approvers", "enforcing-code-approvals", "inheritance", "reviewer-selection", "bypassing-reviewer-selection"]
+related: ["0221-code-owners.md", "0220-getting-started-with-code-owners.md", "0217-code-owners-changelog.md"]
+last_updated: "2026-04-03T23:47:17.773Z"
+---
 
 # Code Approvers
 

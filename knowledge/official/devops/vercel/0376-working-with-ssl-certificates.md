@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0376"
 title: "Working with SSL Certificates"
 description: "Learn how Vercel uses SSL certification to keep your site secure."
-last_updated: "2026-04-03T23:47:19.594Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-ssl"
---------------------------------------------------------------------------------
+tags: ["ssl", "certificates", "working-with-ssl", "troubleshooting", "related", "setup"]
+related: ["0375-working-with-nameservers.md", "0354-uploading-custom-ssl-certificates.md", "0359-pre-generate-ssl-certificates.md"]
+last_updated: "2026-04-03T23:47:19.594Z"
+---
 
 # Working with SSL Certificates
 

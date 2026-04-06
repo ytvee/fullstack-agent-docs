@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0067"
 title: "LibreChat"
 description: "Use LibreChat with the AI Gateway."
-last_updated: "2026-04-03T23:47:14.690Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/chat-platforms/librechat"
---------------------------------------------------------------------------------
+tags: ["libre", "chat", "chat-platforms", "librechat", "configuring-librechat", "configuration-options"]
+related: ["0070-chat-platforms.md", "0066-chatbox.md", "0068-open-webui.md"]
+last_updated: "2026-04-03T23:47:14.690Z"
+---
 
 # LibreChat
 

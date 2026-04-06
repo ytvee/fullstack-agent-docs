@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0582"
 title: "Request headers"
 description: "Learn about the request headers sent to each Vercel deployment and how to use them to process requests before sending a response."
-last_updated: "2026-04-03T23:47:22.661Z"
+category: "vercel-headers"
+subcategory: "headers"
+type: "guide"
 source: "https://vercel.com/docs/headers/request-headers"
---------------------------------------------------------------------------------
+tags: ["request", "request-headers", "host", "x-vercel-id", "x-forwarded-host", "x-forwarded-proto"]
+related: ["0583-response-headers.md", "0581-system-headers.md", "0148-cache-control-headers.md"]
+last_updated: "2026-04-03T23:47:22.661Z"
+---
 
 # Request headers
 

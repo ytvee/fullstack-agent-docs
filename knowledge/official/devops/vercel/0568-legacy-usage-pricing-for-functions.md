@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0568"
 title: "Legacy Usage & Pricing for Functions"
 description: "Learn about legacy usage and pricing for Vercel Functions."
-last_updated: "2026-04-03T23:47:22.219Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "concept"
 source: "https://vercel.com/docs/functions/usage-and-pricing/legacy-pricing"
---------------------------------------------------------------------------------
+tags: ["legacy", "usage-and-pricing", "legacy-pricing", "pricing", "hobby", "pro"]
+related: ["0569-fluid-compute-pricing.md", "0543-configuring-memory-and-cpu-for-vercel-functions.md", "0557-edge-runtime.md"]
+last_updated: "2026-04-03T23:47:22.219Z"
+---
 
 # Legacy Usage & Pricing for Functions
 

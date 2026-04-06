@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0057"
 title: "Usage & Billing"
 description: "Monitor your AI Gateway credit balance, usage, and generation details."
-last_updated: "2026-04-03T23:47:14.493Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/capabilities/usage"
---------------------------------------------------------------------------------
+tags: ["usage-and-billing", "billing", "capabilities", "usage", "base-url", "supported-endpoints"]
+related: ["0050-capabilities.md", "0049-observability.md", "0061-reference-to-video-generation.md"]
+last_updated: "2026-04-03T23:47:14.493Z"
+---
 
 # Usage & Billing
 

@@ -2,12 +2,12 @@
 id: "vercel-0307"
 title: "Secure Compute"
 description: "Secure Compute provides dedicated private networks with VPC peering for Enterprise teams."
-category: "vercel-security"
-subcategory: "security"
+category: "vercel-connectivity"
+subcategory: "connectivity"
 type: "concept"
 source: "https://vercel.com/docs/connectivity/secure-compute"
-tags: ["vpc", "dedicated-network", "static-ips", "enterprise", "network-isolation"]
-related: ["0306-connectivity.md", "0309-static-ips.md", "0308-getting-started-with-static-ips.md"]
+tags: ["secure", "compute", "secure-compute", "how-secure-compute-works", "enabling-secure-compute", "specific-region"]
+related: ["0309-static-ips.md", "0306-connectivity.md", "0308-getting-started-with-static-ips.md"]
 last_updated: "2026-04-03T23:47:18.533Z"
 ---
 

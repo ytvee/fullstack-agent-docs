@@ -3,11 +3,11 @@ id: "vercel-0028"
 title: "Build with AI on Vercel"
 description: "Integrate powerful AI services and models seamlessly into your Vercel projects."
 category: "vercel-integrations"
-subcategory: "integrations"
-type: "concept"
+subcategory: "agent-resources"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models"
-tags: ["ai-services", "marketplace", "native-integrations", "connectable-accounts", "model-integration"]
-related: ["0020-adding-a-model.md", "0021-adding-a-provider.md", "0092-ai-gateway.md"]
+tags: ["ai", "integrations-for-models", "using-ai-integrations", "featured-ai-integrations", "more-resources", "integration"]
+related: ["0021-adding-a-provider.md", "0027-vercel-openai-integration.md", "0032-vercel-together-ai-integration.md"]
 last_updated: "2026-04-03T23:47:13.927Z"
 ---
 

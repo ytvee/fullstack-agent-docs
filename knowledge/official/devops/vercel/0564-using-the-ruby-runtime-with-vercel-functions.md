@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0564"
 title: "Using the Ruby Runtime with Vercel Functions"
 description: "Learn how to use the Ruby runtime to compile Ruby Vercel Functions on Vercel."
-last_updated: "2026-04-03T23:47:22.169Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/runtimes/ruby"
---------------------------------------------------------------------------------
+tags: ["ruby", "runtime", "runtimes", "ruby-version", "ruby-dependencies", "setup"]
+related: ["0558-using-the-go-runtime-with-vercel-functions.md", "0561-using-the-node-js-runtime-with-vercel-functions.md", "0563-using-the-python-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:22.169Z"
+---
 
 # Using the Ruby Runtime with Vercel Functions
 

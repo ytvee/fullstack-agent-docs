@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0626"
 title: "Add a Native Integration"
 description: "Learn how you can add a product to your Vercel project through a native integration."
-last_updated: "2026-04-03T23:47:23.871Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/install-an-integration/product-integration"
---------------------------------------------------------------------------------
+tags: ["add-a-native-integration", "environment-variables", "add", "native", "install-an-integration", "product-integration"]
+related: ["0622-add-a-connectable-account.md", "0623-interact-with-integrations-using-agent-tools.md", "0617-upgrade-an-integration.md"]
+last_updated: "2026-04-03T23:47:23.871Z"
+---
 
 # Add a Native Integration
 

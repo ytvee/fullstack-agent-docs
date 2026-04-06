@@ -4,10 +4,10 @@ title: "Elysia on Vercel"
 description: "Build fast TypeScript backends with Elysia and deploy to Vercel. Learn the project structure, plugins, middleware, and how to run locally and in production."
 category: "vercel-frameworks"
 subcategory: "frameworks"
-type: "guide"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/backend/elysia"
-tags: ["elysia", "bun", "typescript", "backend", "zero-config"]
-related: ["0522-backends-on-vercel.md", "0518-hono-on-vercel.md", "0516-fastify-on-vercel.md"]
+tags: ["elysia-on-vercel", "nodejs", "bun", "elysia", "backend", "entrypoint-detection"]
+related: ["0523-xmcp-on-vercel.md", "0514-express-on-vercel.md", "0515-fastapi-on-vercel.md"]
 last_updated: "2026-04-03T23:47:21.117Z"
 ---
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0464"
 title: "RANGE_END_NOT_VALID"
 description: "The end value of the Range header in the request is invalid. This is a request error."
-last_updated: "2026-04-03T23:47:20.592Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/RANGE_END_NOT_VALID"
---------------------------------------------------------------------------------
+tags: ["range", "end", "not", "valid", "range-end-not-valid", "troubleshoot"]
+related: ["0465-range-group-not-valid.md", "0467-range-start-not-valid.md", "0468-range-unit-not-supported.md"]
+last_updated: "2026-04-03T23:47:20.592Z"
+---
 
 # RANGE_END_NOT_VALID
 

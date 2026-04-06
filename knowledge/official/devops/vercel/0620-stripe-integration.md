@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0620"
 title: "Stripe Integration"
 description: "Connect your Stripe account to Vercel and accept payments in your applications."
-last_updated: "2026-04-03T23:47:23.762Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/ecommerce/stripe"
---------------------------------------------------------------------------------
+tags: ["stripe-integration", "stripe", "ecommerce", "how-it-works", "use-cases", "get-started"]
+related: ["0619-vercel-commerce-and-payments-integrations.md", "0605-vercel-and-sitecore-xm-cloud-integration.md", "0610-using-the-integrations-rest-api.md"]
+last_updated: "2026-04-03T23:47:23.762Z"
+---
 
 # Stripe Integration
 

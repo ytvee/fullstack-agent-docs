@@ -6,8 +6,8 @@ category: "vercel-integrations"
 subcategory: "integrations"
 type: "integration"
 source: "https://vercel.com/docs/integrations/cms/makeswift"
-tags: ["makeswift", "no-code", "react", "visual-editor", "drag-and-drop"]
-related: ["0603-vercel-cms-integrations.md", "0600-vercel-datocms-integration.md", "0604-vercel-sanity-integration.md"]
+tags: ["makeswift", "cms", "getting-started", "integration"]
+related: ["0601-vercel-formspree-integration.md", "0598-vercel-buttercms-integration.md", "0600-vercel-datocms-integration.md"]
 last_updated: "2026-04-03T23:47:23.348Z"
 ---
 

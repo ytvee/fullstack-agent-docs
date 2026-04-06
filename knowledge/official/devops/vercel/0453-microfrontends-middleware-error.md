@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0453"
 title: "MICROFRONTENDS_MIDDLEWARE_ERROR"
 description: "The microfrontend middleware returned an invalid application."
-last_updated: "2026-04-03T23:47:20.510Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/MICROFRONTENDS_MIDDLEWARE_ERROR"
---------------------------------------------------------------------------------
+tags: ["microfrontends-middleware-error", "microfrontends", "middleware", "error", "troubleshoot", "setup"]
+related: ["0441-internal-microfrontends-build-error.md", "0443-internal-microfrontends-unexpected-error.md", "0454-microfrontends-missing-fallback-error.md"]
+last_updated: "2026-04-03T23:47:20.510Z"
+---
 
 # MICROFRONTENDS_MIDDLEWARE_ERROR
 

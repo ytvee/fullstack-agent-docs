@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0476"
 title: "SANBDOX_NOT_FOUND"
 description: "The Sandbox could not be found on Vercel. This is a platform error."
-last_updated: "2026-04-03T23:47:20.647Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/SANDBOX_NOT_FOUND"
---------------------------------------------------------------------------------
+tags: ["sanbdox-not-found", "sanbdox", "not", "found", "sandbox-not-found", "troubleshoot"]
+related: ["0470-resource-not-found.md", "0439-internal-function-not-found.md", "0477-sanbdox-not-listening.md"]
+last_updated: "2026-04-03T23:47:20.647Z"
+---
 
 # SANBDOX_NOT_FOUND
 

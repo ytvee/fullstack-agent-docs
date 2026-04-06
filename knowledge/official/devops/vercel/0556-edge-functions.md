@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0556"
 title: "Edge Functions"
 description: "Run minimal code at the network edge."
-last_updated: "2026-04-03T23:47:22.055Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "concept"
 source: "https://vercel.com/docs/functions/runtimes/edge/edge-functions"
---------------------------------------------------------------------------------
+tags: ["streaming", "cron-jobs", "edge-config", "edge", "runtimes", "edge-functions"]
+related: ["0557-edge-runtime.md", "0562-runtimes.md", "0563-using-the-python-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:22.055Z"
+---
 
 # Edge Functions
 

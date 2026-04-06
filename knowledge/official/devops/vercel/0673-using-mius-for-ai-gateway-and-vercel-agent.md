@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0673"
 title: "Using MIUs for AI Gateway and Vercel Agent"
 description: "Learn how to use your MIU commitment to pay for AI Gateway and Vercel Agent."
-last_updated: "2026-04-03T23:47:24.791Z"
+category: "vercel-plans"
+subcategory: "managed-infrastructure"
+type: "guide"
 source: "https://vercel.com/docs/plans/enterprise/buy-with-miu"
---------------------------------------------------------------------------------
+tags: ["ai-gateway", "mius", "ai", "gateway", "agent", "enterprise"]
+related: ["0674-vercel-enterprise-plan.md", "0672-billing-faq-for-enterprise-plan.md", "0310-vercel-enterprise-managed-infrastructure.md"]
+last_updated: "2026-04-03T23:47:24.791Z"
+---
 
 # Using MIUs for AI Gateway and Vercel Agent
 

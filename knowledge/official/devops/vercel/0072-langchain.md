@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0072"
 title: "LangChain"
 description: "Learn how to integrate Vercel AI Gateway with LangChain to access multiple AI models through a unified interface"
-last_updated: "2026-04-03T23:47:14.780Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations/langchain"
---------------------------------------------------------------------------------
+tags: ["lang", "chain", "ecosystem", "framework-integrations", "langchain", "getting-started"]
+related: ["0073-langfuse.md", "0074-litellm.md", "0075-llamaindex.md"]
+last_updated: "2026-04-03T23:47:14.780Z"
+---
 
 # LangChain
 

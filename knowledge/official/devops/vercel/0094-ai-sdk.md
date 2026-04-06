@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0094"
 title: "AI SDK"
 description: "Build AI-powered TypeScript applications using the AI SDK with AI Gateway for unified access to 200+ models."
-last_updated: "2026-04-03T23:47:15.092Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/ai-sdk"
---------------------------------------------------------------------------------
+tags: ["ai-sdk", "structured-outputs", "tool-calling", "streaming", "ai", "sdk"]
+related: ["0116-python.md", "0117-openai-responses-api.md", "0106-direct-rest-api-usage.md"]
+last_updated: "2026-04-03T23:47:15.092Z"
+---
 
 # AI SDK
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0421"
 title: "EDGE_FUNCTION_INVOCATION_FAILED"
 description: "The request for a Edge Function was not completed successfully. This is an application error."
-last_updated: "2026-04-03T23:47:20.373Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/EDGE_FUNCTION_INVOCATION_FAILED"
---------------------------------------------------------------------------------
+tags: ["edge", "function", "invocation", "failed", "troubleshoot", "setup"]
+related: ["0435-internal-edge-function-invocation-failed.md", "0455-middleware-invocation-failed.md", "0422-edge-function-invocation-timeout.md"]
+last_updated: "2026-04-03T23:47:20.373Z"
+---
 
 # EDGE_FUNCTION_INVOCATION_FAILED
 

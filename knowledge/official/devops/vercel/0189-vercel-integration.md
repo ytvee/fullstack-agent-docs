@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0189"
 title: "vercel integration"
 description: "Learn how to manage marketplace native integrations, provision resources, and discover available products using the vercel integration CLI command."
-last_updated: "2026-04-03T23:47:17.430Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/integration"
---------------------------------------------------------------------------------
+tags: ["integration", "options", "post-provisioning-behavior", "examples", "arguments", "api-reference"]
+related: ["0190-vercel-integration-resource.md", "0188-vercel-install.md", "0197-vercel-microfrontends.md"]
+last_updated: "2026-04-03T23:47:17.430Z"
+---
 
 # vercel integration
 

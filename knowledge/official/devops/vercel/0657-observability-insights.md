@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0657"
 title: "Observability Insights"
 description: "List of available data sources that you can view and monitor with Observability on Vercel."
-last_updated: "2026-04-03T23:47:24.493Z"
+category: "vercel-observability"
+subcategory: "observability"
+type: "concept"
 source: "https://vercel.com/docs/observability/insights"
---------------------------------------------------------------------------------
+tags: ["observability-insights", "ai-gateway", "image-optimization", "isr", "insights", "cpu-throttling"]
+related: ["0659-observability-3.md", "0656-debugging-production-500-errors.md", "0658-observability-plus.md"]
+last_updated: "2026-04-03T23:47:24.493Z"
+---
 
 # Observability Insights
 

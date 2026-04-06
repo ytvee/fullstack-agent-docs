@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0085"
 title: "Automatic Caching"
 description: "Enable automatic prompt caching across providers with AI Gateway to reduce costs and latency."
-last_updated: "2026-04-03T23:47:14.932Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/models-and-providers/automatic-caching"
---------------------------------------------------------------------------------
+tags: ["automatic", "caching", "models-and-providers", "automatic-caching", "how-it-works", "examples"]
+related: ["0090-provider-options.md", "0087-model-variants.md", "0088-models-providers.md"]
+last_updated: "2026-04-03T23:47:14.932Z"
+---
 
 # Automatic Caching
 

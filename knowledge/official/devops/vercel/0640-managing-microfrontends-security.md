@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0640"
 title: "Managing microfrontends security"
 description: "Learn how to manage your Deployment Protection and Firewall for your microfrontend on Vercel."
-last_updated: "2026-04-03T23:47:24.157Z"
+category: "vercel-microfrontends"
+subcategory: "microfrontends"
+type: "guide"
 source: "https://vercel.com/docs/microfrontends/managing-microfrontends/security"
---------------------------------------------------------------------------------
+tags: ["deployment-protection", "security", "managing-microfrontends", "setup"]
+related: ["0641-managing-with-the-vercel-toolbar.md", "0639-managing-microfrontends.md", "0642-microfrontends.md"]
+last_updated: "2026-04-03T23:47:24.157Z"
+---
 
 # Managing microfrontends security
 

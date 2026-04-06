@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0584"
 title: "Vercel CDN Compression"
 description: "Vercel helps reduce data transfer and improve performance by supporting both Gzip and Brotli compression"
-last_updated: "2026-04-03T23:47:22.520Z"
+category: "vercel-caching"
+subcategory: "how-vercel-cdn-works"
+type: "concept"
 source: "https://vercel.com/docs/how-vercel-cdn-works/compression"
---------------------------------------------------------------------------------
+tags: ["cdn", "compression", "compression-algorithms", "compression-negotiation", "compression-allowlist"]
+related: ["0585-how-vercel-cdn-works.md", "0152-data-cache-for-next-js.md", "0153-runtime-cache.md"]
+last_updated: "2026-04-03T23:47:22.520Z"
+---
 
 # Vercel CDN Compression
 

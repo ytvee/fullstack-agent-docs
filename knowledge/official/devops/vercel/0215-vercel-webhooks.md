@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0215"
 title: "vercel webhooks"
 description: "Learn how to manage webhooks for your Vercel account using the vercel webhooks CLI command."
-last_updated: "2026-04-03T23:47:17.720Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/webhooks"
---------------------------------------------------------------------------------
+tags: ["webhooks", "usage", "json-output", "specifying-events", "specifying-projects", "unique-options"]
+related: ["0168-vercel-build.md", "0179-vercel-env.md", "0204-vercel-redeploy.md"]
+last_updated: "2026-04-03T23:47:17.720Z"
+---
 
 # vercel webhooks
 

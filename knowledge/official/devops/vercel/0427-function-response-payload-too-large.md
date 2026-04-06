@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0427"
 title: "FUNCTION_RESPONSE_PAYLOAD_TOO_LARGE"
 description: "The function returned a response that is too large. This is a function error."
-last_updated: "2026-04-03T23:47:20.407Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/FUNCTION_RESPONSE_PAYLOAD_TOO_LARGE"
---------------------------------------------------------------------------------
+tags: ["function", "response", "payload", "too", "large", "troubleshoot"]
+related: ["0426-function-payload-too-large.md", "0423-fallback-body-too-large.md", "0409-body-not-a-string-from-function.md"]
+last_updated: "2026-04-03T23:47:20.407Z"
+---
 
 # FUNCTION_RESPONSE_PAYLOAD_TOO_LARGE
 

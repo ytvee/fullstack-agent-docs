@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0168"
 title: "vercel build"
 description: "Learn how to build a Vercel Project locally or in your own CI environment using the vercel build CLI command."
-last_updated: "2026-04-03T23:47:17.174Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/build"
---------------------------------------------------------------------------------
+tags: ["build", "usage", "unique-options", "production", "yes", "target"]
+related: ["0164-vercel-alias.md", "0176-vercel-dev.md", "0203-vercel-pull.md"]
+last_updated: "2026-04-03T23:47:17.174Z"
+---
 
 # vercel build
 

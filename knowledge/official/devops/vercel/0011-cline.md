@@ -3,11 +3,11 @@ id: "vercel-0011"
 title: "Cline"
 description: "Use Cline with the AI Gateway."
 category: "vercel-integrations"
-subcategory: "integrations"
+subcategory: "agent-resources"
 type: "integration"
 source: "https://vercel.com/docs/agent-resources/coding-agents/cline"
-tags: ["coding-agent", "vscode-extension", "ai-gateway", "autonomous-coding"]
-related: ["0016-coding-agents.md", "0017-roo-code.md", "0092-ai-gateway.md"]
+tags: ["ai-gateway", "cline", "coding-agents", "configuring-cline", "troubleshooting", "integration"]
+related: ["0016-coding-agents.md", "0012-conductor.md", "0013-crush.md"]
 last_updated: "2026-04-03T23:47:13.731Z"
 ---
 

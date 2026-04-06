@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0087"
 title: "Model Variants"
 description: "Enable provider-specific capabilities via headers when calling models through AI Gateway."
-last_updated: "2026-04-03T23:47:14.943Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/models-and-providers/model-variants"
---------------------------------------------------------------------------------
+tags: ["anthropic", "model", "variants", "models-and-providers", "model-variants"]
+related: ["0086-model-fallbacks.md", "0090-provider-options.md", "0088-models-providers.md"]
+last_updated: "2026-04-03T23:47:14.943Z"
+---
 
 # Model Variants
 

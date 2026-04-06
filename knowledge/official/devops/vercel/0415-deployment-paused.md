@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0415"
 title: "DEPLOYMENT_PAUSED"
 description: "The deployment was paused. This is a deployment error."
-last_updated: "2026-04-03T23:47:20.349Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/DEPLOYMENT_PAUSED"
---------------------------------------------------------------------------------
+tags: ["paused", "deployment-paused", "troubleshoot", "setup", "how-to", "troubleshooting"]
+related: ["0410-deployment-blocked.md", "0412-deployment-disabled.md", "0413-deployment-not-found.md"]
+last_updated: "2026-04-03T23:47:20.349Z"
+---
 
 # DEPLOYMENT_PAUSED
 

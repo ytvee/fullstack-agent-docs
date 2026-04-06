@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0469"
 title: "REQUEST_HEADER_TOO_LARGE"
 description: "Request header size exceeds the permissible limit."
-last_updated: "2026-04-03T23:47:20.604Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/REQUEST_HEADER_TOO_LARGE"
---------------------------------------------------------------------------------
+tags: ["request", "header", "too", "large", "request-header-too-large", "troubleshoot"]
+related: ["0423-fallback-body-too-large.md", "0426-function-payload-too-large.md", "0427-function-response-payload-too-large.md"]
+last_updated: "2026-04-03T23:47:20.604Z"
+---
 
 # REQUEST_HEADER_TOO_LARGE
 

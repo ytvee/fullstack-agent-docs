@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0169"
 title: "vercel buy"
 description: "Learn how to purchase Vercel products like credits, addons, subscriptions, and domains using the vercel buy CLI command."
-last_updated: "2026-04-03T23:47:17.183Z"
+category: "vercel-cli"
+subcategory: "cli"
+type: "api-reference"
 source: "https://vercel.com/docs/cli/buy"
---------------------------------------------------------------------------------
+tags: ["buy", "usage", "subcommands", "credits", "addon", "pro"]
+related: ["0164-vercel-alias.md", "0174-vercel-deploy.md", "0178-vercel-domains.md"]
+last_updated: "2026-04-03T23:47:17.183Z"
+---
 
 # vercel buy
 

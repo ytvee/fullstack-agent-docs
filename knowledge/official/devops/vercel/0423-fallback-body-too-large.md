@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0423"
 title: "FALLBACK_BODY_TOO_LARGE"
 description: "The fallback body is too large for the cache. This is a cache error."
-last_updated: "2026-04-03T23:47:20.382Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/FALLBACK_BODY_TOO_LARGE"
---------------------------------------------------------------------------------
+tags: ["fallback", "body", "too", "large", "fallback-body-too-large", "troubleshoot"]
+related: ["0426-function-payload-too-large.md", "0427-function-response-payload-too-large.md", "0469-request-header-too-large.md"]
+last_updated: "2026-04-03T23:47:20.382Z"
+---
 
 # FALLBACK_BODY_TOO_LARGE
 

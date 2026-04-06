@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0627"
 title: "Vercel Integrations"
 description: "Learn how to extend Vercel"
-last_updated: "2026-04-03T23:47:23.881Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations"
---------------------------------------------------------------------------------
+tags: ["native-integrations", "connectable-accounts", "native-integrations-list", "integrations-guides", "integration"]
+related: ["0606-integration-approval-checklist.md", "0614-create-an-integration.md", "0622-add-a-connectable-account.md"]
+last_updated: "2026-04-03T23:47:23.881Z"
+---
 
 # Vercel Integrations
 

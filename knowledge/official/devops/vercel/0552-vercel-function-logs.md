@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0552"
 title: "Vercel Function Logs"
 description: "Use runtime logs to debug and monitor your Vercel Functions."
-last_updated: "2026-04-03T23:47:21.920Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "api-reference"
 source: "https://vercel.com/docs/functions/logs"
---------------------------------------------------------------------------------
+tags: ["nextjs", "function", "logs", "runtime-logs", "number-of-logs-per-request", "next-js-logs"]
+related: ["0549-vercel-functions-api-reference-node-js.md", "0555-using-the-bun-runtime-with-vercel-functions.md", "0561-using-the-node-js-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.920Z"
+---
 
 # Vercel Function Logs
 

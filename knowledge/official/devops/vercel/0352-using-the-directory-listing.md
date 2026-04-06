@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0352"
 title: "Using the Directory Listing"
 description: "The Directory Listing is served when a particular path is a directory and does not contain an index file. Learn how to toggle and disable it in this guide."
-last_updated: "2026-04-03T23:47:19.209Z"
+category: "vercel-deployments"
+subcategory: "directory-listing"
+type: "guide"
 source: "https://vercel.com/docs/directory-listing"
---------------------------------------------------------------------------------
+tags: ["using-the-directory-listing", "directory", "listing", "setup", "how-to", "troubleshooting"]
+related: ["0336-deployment-retention.md", "0353-directory-sync.md", "0327-options-allowlist.md"]
+last_updated: "2026-04-03T23:47:19.209Z"
+---
 
 # Using the Directory Listing
 

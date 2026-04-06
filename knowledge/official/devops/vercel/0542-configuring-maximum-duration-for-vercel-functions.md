@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0542"
 title: "Configuring Maximum Duration for Vercel Functions"
 description: "Learn how to set the maximum duration of a Vercel Function."
-last_updated: "2026-04-03T23:47:21.754Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/configuring-functions/duration"
---------------------------------------------------------------------------------
+tags: ["maximum", "duration", "configuring-functions", "dashboard", "duration-limits", "setup"]
+related: ["0544-configuring-functions.md", "0545-configuring-regions-for-vercel-functions.md", "0543-configuring-memory-and-cpu-for-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.754Z"
+---
 
 # Configuring Maximum Duration for Vercel Functions
 

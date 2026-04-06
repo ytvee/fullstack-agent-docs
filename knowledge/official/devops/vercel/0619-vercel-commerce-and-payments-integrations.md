@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0619"
 title: "Vercel Commerce and Payments Integrations"
 description: "Learn how to integrate Vercel with payment processors and ecommerce platforms, including Stripe, Shopify, BigCommerce, and more."
-last_updated: "2026-04-03T23:47:23.752Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/ecommerce"
---------------------------------------------------------------------------------
+tags: ["commerce", "payments", "ecommerce", "stripe", "ecommerce-platforms", "integration"]
+related: ["0620-stripe-integration.md", "0603-vercel-cms-integrations.md", "0597-vercel-agility-cms-integration.md"]
+last_updated: "2026-04-03T23:47:23.752Z"
+---
 
 # Vercel Commerce and Payments Integrations
 

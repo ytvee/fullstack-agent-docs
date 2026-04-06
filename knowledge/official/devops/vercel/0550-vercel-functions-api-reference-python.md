@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0550"
 title: "vercel.functions API Reference (Python)"
 description: "Learn about available APIs when working with Vercel Functions in Python."
-last_updated: "2026-04-03T23:47:21.863Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "api-reference"
 source: "https://vercel.com/docs/functions/functions-api-reference/vercel-sdk-python"
---------------------------------------------------------------------------------
+tags: ["python", "functions-api-reference", "install-and-use-the-package", "helper-methods", "get-env", "geolocation"]
+related: ["0549-vercel-functions-api-reference-node-js.md", "0548-functions-api-reference.md", "0551-vercel-functions-limits.md"]
+last_updated: "2026-04-03T23:47:21.863Z"
+---
 
 # vercel.functions API Reference (Python)
 

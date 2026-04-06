@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0055"
 title: "Reasoning"
 description: "Enable reasoning and extended thinking across providers with the AI SDK and AI Gateway."
-last_updated: "2026-04-03T23:47:14.452Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/capabilities/reasoning"
---------------------------------------------------------------------------------
+tags: ["ai-sdk", "reasoning", "capabilities", "quick-start", "good-to-know", "supported-providers"]
+related: ["0052-anthropic-reasoning.md", "0051-amazon-bedrock-reasoning.md", "0053-google-and-vertex-reasoning.md"]
+last_updated: "2026-04-03T23:47:14.452Z"
+---
 
 # Reasoning
 

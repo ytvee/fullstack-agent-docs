@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0384"
 title: "Using Drains"
 description: "Learn how to configure drains to forward observability data to custom HTTP endpoints and add integrations."
-last_updated: "2026-04-03T23:47:19.726Z"
+category: "vercel-observability"
+subcategory: "drains"
+type: "guide"
 source: "https://vercel.com/docs/drains/using-drains"
---------------------------------------------------------------------------------
+tags: ["using-drains", "configuring-drains", "logs-and-traces-correlation", "drain-integrations", "external-integrations", "errored-drains"]
+related: ["0378-working-with-drains.md", "0379-web-analytics-drains-reference.md", "0380-log-drains-reference.md"]
+last_updated: "2026-04-03T23:47:19.726Z"
+---
 
 # Using Drains
 

@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0326"
 title: "Deployment Protection Exceptions"
 description: "Disable Deployment Protection for a list of preview domains."
-last_updated: "2026-04-03T23:47:18.811Z"
+category: "vercel-deployments"
+subcategory: "deployment-protection"
+type: "concept"
 source: "https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/deployment-protection-exceptions"
---------------------------------------------------------------------------------
+tags: ["protection", "exceptions", "deployment-protection"]
+related: ["0328-bypass-deployment-protection-for-testing-sharing-and-automation.md", "0329-protection-bypass-for-automation.md", "0327-options-allowlist.md"]
+last_updated: "2026-04-03T23:47:18.811Z"
+---
 
 # Deployment Protection Exceptions
 

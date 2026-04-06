@@ -4,10 +4,10 @@ title: "xmcp on Vercel"
 description: "Build MCP-compatible backends with xmcp and deploy to Vercel. Learn the project structure, tool format, middleware, and how to run locally and in production."
 category: "vercel-frameworks"
 subcategory: "frameworks"
-type: "guide"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/backend/xmcp"
-tags: ["xmcp", "mcp", "typescript", "backend", "ai-tools"]
-related: ["0522-backends-on-vercel.md", "0518-hono-on-vercel.md", "0513-elysia-on-vercel.md"]
+tags: ["xmcp-on-vercel", "mcp", "xmcp", "backend", "get-started-with-vercel-cli", "local-development"]
+related: ["0513-elysia-on-vercel.md", "0514-express-on-vercel.md", "0516-fastify-on-vercel.md"]
 last_updated: "2026-04-03T23:47:21.303Z"
 ---
 

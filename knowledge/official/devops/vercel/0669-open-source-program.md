@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0669"
 title: "Open Source Program"
 description: "Vercel provides platform credits, exclusive community support, and extra benefits for your open source project."
-last_updated: "2026-04-03T23:47:24.725Z"
+category: "vercel-root"
+subcategory: "open-source-program"
+type: "concept"
 source: "https://vercel.com/docs/open-source-program"
---------------------------------------------------------------------------------
+tags: ["open", "source", "program", "program-benefits", "who-should-apply", "frequently-asked-questions"]
+related: ["0570-how-vercel-builds-your-application.md", "0574-getting-started-with-vercel.md", "0671-vercel-documentation.md"]
+last_updated: "2026-04-03T23:47:24.725Z"
+---
 
 # Open Source Program
 

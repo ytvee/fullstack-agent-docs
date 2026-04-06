@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0426"
 title: "FUNCTION_PAYLOAD_TOO_LARGE"
 description: "The payload sent to the function is too large. This is a function error."
-last_updated: "2026-04-03T23:47:20.403Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/FUNCTION_PAYLOAD_TOO_LARGE"
---------------------------------------------------------------------------------
+tags: ["function", "payload", "too", "large", "function-payload-too-large", "troubleshoot"]
+related: ["0427-function-response-payload-too-large.md", "0423-fallback-body-too-large.md", "0469-request-header-too-large.md"]
+last_updated: "2026-04-03T23:47:20.403Z"
+---
 
 # FUNCTION_PAYLOAD_TOO_LARGE
 

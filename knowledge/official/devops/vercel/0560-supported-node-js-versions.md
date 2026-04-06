@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0560"
 title: "Supported Node.js versions"
 description: "Learn about the supported Node.js versions on Vercel."
-last_updated: "2026-04-03T23:47:22.005Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "concept"
 source: "https://vercel.com/docs/functions/runtimes/node-js/node-js-versions"
---------------------------------------------------------------------------------
+tags: ["supported-node-js-versions", "nodejs", "supported", "node-js", "versions", "runtimes"]
+related: ["0561-using-the-node-js-runtime-with-vercel-functions.md", "0559-advanced-node-js-usage.md", "0549-vercel-functions-api-reference-node-js.md"]
+last_updated: "2026-04-03T23:47:22.005Z"
+---
 
 # Supported Node.js versions
 

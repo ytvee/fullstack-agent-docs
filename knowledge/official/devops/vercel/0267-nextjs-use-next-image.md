@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0267"
 title: "NEXTJS_USE_NEXT_IMAGE"
 description: "Requires that next/image is used for all images."
-last_updated: "2026-04-03T23:47:18.269Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_USE_NEXT_IMAGE"
---------------------------------------------------------------------------------
+tags: ["nextjs", "next", "rules", "nextjs-use-next-image", "important-note-on-costs", "examples"]
+related: ["0268-nextjs-use-next-script.md", "0266-nextjs-use-next-font.md", "0242-eslint-next-rules-required.md"]
+last_updated: "2026-04-03T23:47:18.269Z"
+---
 
 # NEXTJS_USE_NEXT_IMAGE
 

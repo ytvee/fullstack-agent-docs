@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0138"
 title: "Build Output Configuration"
 description: "Learn about the Build Output Configuration file, which is used to configure the behavior of a Deployment."
-last_updated: "2026-04-03T23:47:16.459Z"
+category: "vercel-builds"
+subcategory: "build-output-api"
+type: "concept"
 source: "https://vercel.com/docs/build-output-api/configuration"
---------------------------------------------------------------------------------
+tags: ["build-output-configuration", "output", "configuration", "version", "routes", "images"]
+related: ["0141-vercel-primitives.md", "0140-build-output-api.md", "0139-features.md"]
+last_updated: "2026-04-03T23:47:16.459Z"
+---
 
 # Build Output Configuration
 

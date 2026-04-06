@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0143"
 title: "Build image overview"
 description: "Learn about the container image used for Vercel builds."
-last_updated: "2026-04-03T23:47:16.638Z"
+category: "vercel-builds"
+subcategory: "builds"
+type: "concept"
 source: "https://vercel.com/docs/builds/build-image"
---------------------------------------------------------------------------------
+tags: ["build-image-overview", "build-image", "pre-installed-packages"]
+related: ["0142-build-features-for-customizing-deployments.md", "0144-build-queues.md", "0145-configuring-a-build.md"]
+last_updated: "2026-04-03T23:47:16.638Z"
+---
 
 # Build image overview
 

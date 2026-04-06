@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "api-reference"
 source: "https://vercel.com/docs/cli/redirects"
-tags: ["cli-command", "redirects", "routing", "project-level"]
-related: ["0209-vercel-routes.md", "0199-vercel-cli-overview.md", "0182-vercel-cli-global-options.md"]
+tags: ["redirects", "usage", "commands", "list", "list-versions", "add"]
+related: ["0209-vercel-routes.md", "0202-vercel-promote.md", "0200-vercel-project.md"]
 last_updated: "2026-04-03T23:47:17.593Z"
 ---
 

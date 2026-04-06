@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0604"
 title: "Vercel Sanity Integration"
 description: "Learn how to integrate Sanity with Vercel. Follow our tutorial to deploy the Sanity template or install the integration for real-time collaboration and structured content management."
-last_updated: "2026-04-03T23:47:23.368Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/cms/sanity"
---------------------------------------------------------------------------------
+tags: ["sanity", "cms", "getting-started", "content-link", "integration"]
+related: ["0597-vercel-agility-cms-integration.md", "0600-vercel-datocms-integration.md", "0598-vercel-buttercms-integration.md"]
+last_updated: "2026-04-03T23:47:23.368Z"
+---
 
 # Vercel Sanity Integration
 

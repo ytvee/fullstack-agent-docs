@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0230"
 title: "forbidden-code"
 description: "Learn how to set custom rules to disallow code and code patterns through string and regular expression matches."
-last_updated: "2026-04-03T23:47:17.920Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "guide"
 source: "https://vercel.com/docs/conformance/custom-rules/forbidden-code"
---------------------------------------------------------------------------------
+tags: ["forbidden", "custom-rules", "forbidden-code", "when-to-use-this-rule-type", "configuring-this-rule-type", "example-configuration"]
+related: ["0231-forbidden-dependencies.md", "0232-forbidden-imports.md", "0233-forbidden-packages.md"]
+last_updated: "2026-04-03T23:47:17.920Z"
+---
 
 # forbidden-code
 

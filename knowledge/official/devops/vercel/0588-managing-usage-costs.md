@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0588"
 title: "Managing Usage & Costs"
 description: "Learn how to measure and manage Image Optimization usage with this guide to avoid any unexpected costs."
-last_updated: "2026-04-03T23:47:22.579Z"
+category: "vercel-image-optimization"
+subcategory: "image-optimization"
+type: "guide"
 source: "https://vercel.com/docs/image-optimization/managing-image-optimization-costs"
---------------------------------------------------------------------------------
+tags: ["managing-usage-and-costs", "costs", "measuring-usage", "reducing-usage", "setup"]
+related: ["0590-getting-started-with-image-optimization.md", "0587-limits-and-pricing-for-image-optimization.md", "0586-legacy-pricing-for-image-optimization.md"]
+last_updated: "2026-04-03T23:47:22.579Z"
+---
 
 # Managing Usage & Costs
 

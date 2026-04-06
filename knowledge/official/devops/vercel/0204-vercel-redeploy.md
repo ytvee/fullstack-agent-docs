@@ -6,8 +6,8 @@ category: "vercel-cli"
 subcategory: "cli"
 type: "api-reference"
 source: "https://vercel.com/docs/cli/redeploy"
-tags: ["cli-command", "redeployment", "deployment-management", "build"]
-related: ["0174-vercel-deploy.md", "0341-managing-deployments.md", "0343-deploying-to-vercel.md"]
+tags: ["redeploy", "usage", "standard-output-usage", "standard-error-usage", "unique-options", "no-wait"]
+related: ["0168-vercel-build.md", "0174-vercel-deploy.md", "0170-vercel-cache.md"]
 last_updated: "2026-04-03T23:47:17.580Z"
 ---
 

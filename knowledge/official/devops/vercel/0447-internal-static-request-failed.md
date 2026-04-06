@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0447"
 title: "INTERNAL_STATIC_REQUEST_FAILED"
 description: "This error occurs when a request for a static file in a project fails."
-last_updated: "2026-04-03T23:47:20.489Z"
+category: "vercel-errors"
+subcategory: "errors"
+type: "guide"
 source: "https://vercel.com/docs/errors/INTERNAL_STATIC_REQUEST_FAILED"
---------------------------------------------------------------------------------
+tags: ["internal", "static", "request", "failed", "troubleshoot", "setup"]
+related: ["0445-internal-optimized-image-request-failed.md", "0434-internal-deployment-fetch-failed.md", "0448-internal-unarchive-failed.md"]
+last_updated: "2026-04-03T23:47:20.489Z"
+---
 
 # INTERNAL_STATIC_REQUEST_FAILED
 

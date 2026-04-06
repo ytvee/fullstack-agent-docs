@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0075"
 title: "LlamaIndex"
 description: "Learn how to integrate Vercel AI Gateway with LlamaIndex to access multiple AI models through a unified interface"
-last_updated: "2026-04-03T23:47:14.804Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/ecosystem/framework-integrations/llamaindex"
---------------------------------------------------------------------------------
+tags: ["llama", "index", "ecosystem", "framework-integrations", "llamaindex", "getting-started"]
+related: ["0072-langchain.md", "0073-langfuse.md", "0074-litellm.md"]
+last_updated: "2026-04-03T23:47:14.804Z"
+---
 
 # LlamaIndex
 

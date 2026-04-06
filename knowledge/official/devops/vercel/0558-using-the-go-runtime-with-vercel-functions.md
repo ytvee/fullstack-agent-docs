@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0558"
 title: "Using the Go Runtime with Vercel Functions"
 description: "Learn how to use the Go runtime to run Go APIs on Vercel."
-last_updated: "2026-04-03T23:47:21.990Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "guide"
 source: "https://vercel.com/docs/functions/runtimes/go"
---------------------------------------------------------------------------------
+tags: ["go", "runtime", "runtimes", "deploy-a-go-api", "go-version", "go-dependencies"]
+related: ["0563-using-the-python-runtime-with-vercel-functions.md", "0561-using-the-node-js-runtime-with-vercel-functions.md", "0564-using-the-ruby-runtime-with-vercel-functions.md"]
+last_updated: "2026-04-03T23:47:21.990Z"
+---
 
 # Using the Go Runtime with Vercel Functions
 

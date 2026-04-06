@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0099"
 title: "Structured Outputs"
 description: "Get JSON responses conforming to a JSON Schema from Anthropic models through AI Gateway."
-last_updated: "2026-04-03T23:47:15.166Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis/anthropic-messages-api/structured-outputs"
---------------------------------------------------------------------------------
+tags: ["structured-outputs", "streaming", "anthropic", "structured", "outputs", "sdks-and-apis"]
+related: ["0107-structured-outputs-2.md", "0116-python.md", "0117-openai-responses-api.md"]
+last_updated: "2026-04-03T23:47:15.166Z"
+---
 
 # Structured Outputs
 

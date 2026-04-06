@@ -3,11 +3,11 @@ id: "vercel-0020"
 title: "Adding a Model"
 description: "Learn how to add a new AI model to your Vercel projects"
 category: "vercel-integrations"
-subcategory: "integrations"
-type: "guide"
+subcategory: "agent-resources"
+type: "integration"
 source: "https://vercel.com/docs/agent-resources/integrations-for-models/adding-a-model"
-tags: ["ai-models", "model-playground", "model-explorer", "provider-integration"]
-related: ["0021-adding-a-provider.md", "0028-build-with-ai-on-vercel.md", "0088-models-providers.md"]
+tags: ["adding", "model", "integrations-for-models", "adding-a-model", "exploring-models", "using-the-model-playground"]
+related: ["0021-adding-a-provider.md", "0028-build-with-ai-on-vercel.md", "0032-vercel-together-ai-integration.md"]
 last_updated: "2026-04-03T23:47:13.863Z"
 ---
 

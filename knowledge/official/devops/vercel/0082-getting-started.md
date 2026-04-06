@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0082"
 title: "Getting Started"
 description: "Get started with AI Gateway by generating text, images, or video."
-last_updated: "2026-04-03T23:47:14.866Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "guide"
 source: "https://vercel.com/docs/ai-gateway/getting-started"
---------------------------------------------------------------------------------
+tags: ["getting-started", "setup", "how-to", "troubleshooting"]
+related: ["0084-video-generation-quickstart.md", "0081-image-generation-quickstart.md", "0083-text-generation-quickstart.md"]
+last_updated: "2026-04-03T23:47:14.866Z"
+---
 
 # Getting Started
 

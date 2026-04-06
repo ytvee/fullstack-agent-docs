@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0368"
 title: "Claiming Domain Ownership"
 description: "Learn how to claim ownership of a domain that is registered with another Vercel account by verifying DNS ownership."
-last_updated: "2026-04-03T23:47:19.436Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-domains/claim-domain-ownership"
---------------------------------------------------------------------------------
+tags: ["claiming-domain-ownership", "dns", "claiming", "domain", "ownership", "working-with-domains"]
+related: ["0365-adding-configuring-a-custom-domain.md", "0366-assigning-a-custom-domain-to-an-environment.md", "0370-working-with-domains.md"]
+last_updated: "2026-04-03T23:47:19.436Z"
+---
 
 # Claiming Domain Ownership
 

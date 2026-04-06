@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0367"
 title: "Assigning a domain to a Git branch"
 description: "Learn how to assign a domain to a different Git branch with this guide."
-last_updated: "2026-04-03T23:47:19.429Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-domains/assign-domain-to-a-git-branch"
---------------------------------------------------------------------------------
+tags: ["assigning", "domain", "git", "branch", "working-with-domains", "setup"]
+related: ["0366-assigning-a-custom-domain-to-an-environment.md", "0371-removing-a-domain-from-a-project.md", "0372-managing-domain-renewals-and-redemptions.md"]
+last_updated: "2026-04-03T23:47:19.429Z"
+---
 
 # Assigning a domain to a Git branch
 

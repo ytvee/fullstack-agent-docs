@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0654"
 title: "Notebooks"
 description: "Learn more about Notebooks and how they allow you to organize and save your queries."
-last_updated: "2026-04-03T23:47:24.438Z"
+category: "vercel-root"
+subcategory: "notebooks"
+type: "guide"
 source: "https://vercel.com/docs/notebooks"
---------------------------------------------------------------------------------
+tags: ["using-and-managing-notebooks", "create-a-notebook", "add-a-query-to-a-notebook", "delete-a-query", "delete-a-notebook", "notebook-types-and-access"]
+related: ["0574-getting-started-with-vercel.md", "0573-what-is-compute.md", "0571-how-requests-flow-through-vercel.md"]
+last_updated: "2026-04-03T23:47:24.438Z"
+---
 
 # Notebooks
 

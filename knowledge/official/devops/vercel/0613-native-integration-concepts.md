@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0613"
 title: "Native integration concepts"
 description: "As an integration provider, understanding how your service interacts with Vercel"
-last_updated: "2026-04-03T23:47:23.606Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/create-integration/native-integration"
---------------------------------------------------------------------------------
+tags: ["native-integration-concepts", "environment-variables", "native", "concepts", "create-integration", "native-integration"]
+related: ["0611-native-integration-flows.md", "0612-create-a-native-integration.md", "0617-upgrade-an-integration.md"]
+last_updated: "2026-04-03T23:47:23.606Z"
+---
 
 # Native integration concepts
 

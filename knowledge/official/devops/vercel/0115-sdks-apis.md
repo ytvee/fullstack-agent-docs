@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0115"
 title: "SDKs & APIs"
 description: "Use the AI Gateway with various SDKs and API specifications including OpenAI, Anthropic, and OpenResponses."
-last_updated: "2026-04-03T23:47:15.385Z"
+category: "vercel-ai-gateway"
+subcategory: "ai-gateway"
+type: "concept"
 source: "https://vercel.com/docs/ai-gateway/sdks-and-apis"
---------------------------------------------------------------------------------
+tags: ["openresponses", "openai", "anthropic", "sdks", "apis", "sdks-and-apis"]
+related: ["0116-python.md", "0110-openresponses-api.md", "0099-structured-outputs.md"]
+last_updated: "2026-04-03T23:47:15.385Z"
+---
 
 # SDKs & APIs
 

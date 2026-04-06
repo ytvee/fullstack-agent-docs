@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0549"
 title: "@vercel/functions API Reference (Node.js)"
 description: "Learn about available APIs when working with Vercel Functions."
-last_updated: "2026-04-03T23:47:21.842Z"
+category: "vercel-functions"
+subcategory: "functions"
+type: "api-reference"
 source: "https://vercel.com/docs/functions/functions-api-reference/vercel-functions-package"
---------------------------------------------------------------------------------
+tags: ["nodejs", "nextjs", "node-js", "functions-api-reference", "install-and-use-the-package", "usage-with-next-js"]
+related: ["0550-vercel-functions-api-reference-python.md", "0548-functions-api-reference.md", "0560-supported-node-js-versions.md"]
+last_updated: "2026-04-03T23:47:21.842Z"
+---
 
 # @vercel/functions API Reference (Node.js)
 

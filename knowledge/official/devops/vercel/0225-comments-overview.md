@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0225"
 title: "Comments Overview"
 description: "Comments allow teams and invited participants to give direct feedback on preview deployments. Learn more about Comments in this overview."
-last_updated: "2026-04-03T23:47:17.845Z"
+category: "vercel-comments"
+subcategory: "comments"
+type: "concept"
 source: "https://vercel.com/docs/comments"
---------------------------------------------------------------------------------
+tags: ["comments-overview", "preview-deployments", "more-resources"]
+related: ["0224-managing-comments-on-preview-deployments.md", "0226-using-comments-with-preview-deployments.md", "0223-integrations-for-comments.md"]
+last_updated: "2026-04-03T23:47:17.845Z"
+---
 
 # Comments Overview
 

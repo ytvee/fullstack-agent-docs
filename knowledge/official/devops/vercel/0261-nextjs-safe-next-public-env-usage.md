@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0261"
 title: "NEXTJS_SAFE_NEXT_PUBLIC_ENV_USAGE"
 description: "Usage process.env.NEXT_PUBLIC_* environment variables must be allowlisted."
-last_updated: "2026-04-03T23:47:18.217Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/NEXTJS_SAFE_NEXT_PUBLIC_ENV_USAGE"
---------------------------------------------------------------------------------
+tags: ["environment-variables", "nextjs", "safe", "next", "public", "env"]
+related: ["0267-nextjs-use-next-image.md", "0268-nextjs-use-next-script.md", "0266-nextjs-use-next-font.md"]
+last_updated: "2026-04-03T23:47:18.217Z"
+---
 
 # NEXTJS_SAFE_NEXT_PUBLIC_ENV_USAGE
 

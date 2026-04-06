@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0292"
 title: "REACT_NO_STATIC_IMPORTS_IN_EVENT_HANDLERS"
 description: "Prevent static imports that are referenced only in React event handlers from being eagerly loaded in React components."
-last_updated: "2026-04-03T23:47:18.413Z"
+category: "vercel-conformance"
+subcategory: "conformance"
+type: "concept"
 source: "https://vercel.com/docs/conformance/rules/REACT_NO_STATIC_IMPORTS_IN_EVENT_HANDLERS"
---------------------------------------------------------------------------------
+tags: ["react", "no", "static", "imports", "event", "handlers"]
+related: ["0290-package-management-no-unresolved-imports.md", "0274-no-external-css-at-imports.md", "0289-package-management-no-circular-imports.md"]
+last_updated: "2026-04-03T23:47:18.413Z"
+---
 
 # REACT_NO_STATIC_IMPORTS_IN_EVENT_HANDLERS
 

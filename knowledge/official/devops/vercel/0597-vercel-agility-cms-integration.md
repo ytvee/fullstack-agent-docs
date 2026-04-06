@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0597"
 title: "Vercel Agility CMS Integration"
 description: "Learn how to integrate Agility CMS with Vercel. Follow our tutorial to deploy the Agility CMS template or install the integration for flexible and scalable content management."
-last_updated: "2026-04-03T23:47:23.217Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/cms/agility-cms"
---------------------------------------------------------------------------------
+tags: ["agility", "cms", "agility-cms", "getting-started", "integration"]
+related: ["0604-vercel-sanity-integration.md", "0598-vercel-buttercms-integration.md", "0600-vercel-datocms-integration.md"]
+last_updated: "2026-04-03T23:47:23.217Z"
+---
 
 # Vercel Agility CMS Integration
 

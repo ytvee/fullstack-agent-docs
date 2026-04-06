@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0650"
 title: "Deploying Turborepo to Vercel"
 description: "Learn about Turborepo, a build system for monorepos that allows you to have faster incremental builds, content-aware hashing, and Remote Caching."
-last_updated: "2026-04-03T23:47:24.346Z"
+category: "vercel-monorepos"
+subcategory: "monorepos"
+type: "guide"
 source: "https://vercel.com/docs/monorepos/turborepo"
---------------------------------------------------------------------------------
+tags: ["remote-caching", "turborepo", "deploy-turborepo-to-vercel", "using-global-turbo", "ignoring-unchanged-builds", "troubleshooting"]
+related: ["0649-remote-caching.md", "0647-deploying-nx-to-vercel.md", "0646-monorepos-faq.md"]
+last_updated: "2026-04-03T23:47:24.346Z"
+---
 
 # Deploying Turborepo to Vercel
 

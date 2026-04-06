@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0375"
 title: "Working with nameservers"
 description: "Learn about nameservers and the benefits Vercel nameservers provide."
-last_updated: "2026-04-03T23:47:19.532Z"
+category: "vercel-domains"
+subcategory: "domains"
+type: "guide"
 source: "https://vercel.com/docs/domains/working-with-nameservers"
---------------------------------------------------------------------------------
+tags: ["nameservers", "working-with-nameservers", "troubleshooting", "related", "setup", "how-to"]
+related: ["0376-working-with-ssl-certificates.md", "0357-managing-nameservers.md", "0363-troubleshooting-domains.md"]
+last_updated: "2026-04-03T23:47:19.532Z"
+---
 
 # Working with nameservers
 

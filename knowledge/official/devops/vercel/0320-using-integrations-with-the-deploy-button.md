@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0320"
 title: "Using Integrations with the Deploy Button"
 description: "Learn how to use Integrations with the Vercel Deploy Button."
-last_updated: "2026-04-03T23:47:18.682Z"
+category: "vercel-deployments"
+subcategory: "deploy-button"
+type: "guide"
 source: "https://vercel.com/docs/deploy-button/integrations"
---------------------------------------------------------------------------------
+tags: ["integrations", "deploy", "button", "required-integrations", "skippable-integrations", "setup"]
+related: ["0319-using-environment-variables-with-the-deploy-button.md", "0321-working-with-the-deploy-button.md", "0317-using-callbacks-with-the-deploy-button.md"]
+last_updated: "2026-04-03T23:47:18.682Z"
+---
 
 # Using Integrations with the Deploy Button
 

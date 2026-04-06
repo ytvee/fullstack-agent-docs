@@ -4,10 +4,10 @@ title: "Flask on Vercel"
 description: "Deploy Flask applications to Vercel with zero configuration. Learn about the Python runtime, WSGI, static assets, and Vercel Functions."
 category: "vercel-frameworks"
 subcategory: "frameworks"
-type: "guide"
+type: "integration"
 source: "https://vercel.com/docs/frameworks/backend/flask"
-tags: ["flask", "python", "wsgi", "backend", "zero-config"]
-related: ["0522-backends-on-vercel.md", "0515-fastapi-on-vercel.md", "0563-using-the-python-runtime-with-vercel-functions.md"]
+tags: ["flask-on-vercel", "python", "flask", "backend", "get-started-with-vercel-cli", "build-command"]
+related: ["0515-fastapi-on-vercel.md", "0514-express-on-vercel.md", "0518-hono-on-vercel.md"]
 last_updated: "2026-04-03T23:47:21.234Z"
 ---
 

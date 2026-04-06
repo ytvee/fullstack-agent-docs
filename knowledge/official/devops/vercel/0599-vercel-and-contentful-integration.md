@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0599"
 title: "Vercel and Contentful Integration"
 description: "Integrate Vercel with Contentful to deploy your content."
-last_updated: "2026-04-03T23:47:23.203Z"
+category: "vercel-integrations"
+subcategory: "integrations"
+type: "integration"
 source: "https://vercel.com/docs/integrations/cms/contentful"
---------------------------------------------------------------------------------
+tags: ["contentful", "cms", "getting-started", "adding-content-in-contentful", "how-it-works", "deploying-to-vercel"]
+related: ["0605-vercel-and-sitecore-xm-cloud-integration.md", "0604-vercel-sanity-integration.md", "0597-vercel-agility-cms-integration.md"]
+last_updated: "2026-04-03T23:47:23.203Z"
+---
 
 # Vercel and Contentful Integration
 

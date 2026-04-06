@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0651"
 title: "Domain management for multi-tenant"
 description: "Manage custom domains, wildcard subdomains, and SSL certificates programmatically for multi-tenant applications using Vercel for Platforms."
-last_updated: "2026-04-03T23:47:24.411Z"
+category: "vercel-domains"
+subcategory: "multi-tenant"
+type: "guide"
 source: "https://vercel.com/docs/multi-tenant/domain-management"
---------------------------------------------------------------------------------
+tags: ["custom-domains", "ssl", "domain", "management", "multi", "tenant"]
+related: ["0653-vercel-for-platforms.md", "0652-multi-tenant-limits.md", "0361-setting-up-a-custom-domain.md"]
+last_updated: "2026-04-03T23:47:24.411Z"
+---
 
 # Domain management for multi-tenant
 

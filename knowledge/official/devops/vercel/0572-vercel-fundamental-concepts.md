@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0572"
 title: "Vercel fundamental concepts"
 description: "Learn about the core concepts of Vercel"
-last_updated: "2026-04-03T23:47:22.272Z"
+category: "vercel-root"
+subcategory: "fundamentals"
+type: "concept"
 source: "https://vercel.com/docs/fundamentals"
---------------------------------------------------------------------------------
+tags: ["fundamental", "concepts", "fundamentals"]
+related: ["0573-what-is-compute.md", "0570-how-vercel-builds-your-application.md", "0571-how-requests-flow-through-vercel.md"]
+last_updated: "2026-04-03T23:47:22.272Z"
+---
 
 # Vercel fundamental concepts
 

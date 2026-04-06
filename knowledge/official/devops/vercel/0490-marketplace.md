@@ -1,9 +1,15 @@
---------------------------------------------------------------------------------
+---
+id: "vercel-0490"
 title: "Marketplace"
 description: "Connect your preferred feature flag provider through the Vercel Marketplace for a unified flags experience."
-last_updated: "2026-04-03T23:47:20.791Z"
+category: "vercel-flags"
+subcategory: "flags"
+type: "concept"
 source: "https://vercel.com/docs/flags/marketplace"
---------------------------------------------------------------------------------
+tags: ["edge-config", "feature-flags", "marketplace", "available-providers", "native-integrations", "external-integrations"]
+related: ["0506-vercel-flags-2.md", "0493-flags.md", "0498-archive.md"]
+last_updated: "2026-04-03T23:47:20.791Z"
+---
 
 # Marketplace
 
