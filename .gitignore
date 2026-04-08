@@ -3,6 +3,7 @@
 .DS_Store
 .cache
 .idea
+.codex
 
 # Logs
 logs
