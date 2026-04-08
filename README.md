@@ -1,73 +1,70 @@
-repo-root/
-│
-├── AGENTS.md                        # Нативно распознаётся Cline
-├── .clineignore                     # Исключения из контекста агента
-│
-├── .clinerules/                     # Rules — всегда активны
-│   ├── 00-context.md
-│   ├── 10-nextjs-conventions.md
-│   ├── 20-quality-gates.md
-│   ├── 30-security.md
-│   │
-│   ├── workflows/                   # Вызов: /имя-файла.md в чате
-│   │   ├── new-feature.md
-│   │   ├── pr-review.md
-│   │   └── release-prep.md
-│   │
-│   └── hooks/                       # Скрипты-guardrails на события Cline
-│       └── PreToolUse               # macOS/Linux: extensionless + chmod +x
-│                                    # Windows: PreToolUse.ps1
-│
-└── .cline/
-└── skills/                      # Skills — on-demand по триггеру
-├── nextjs-app-router/
-│   ├── SKILL.md
-│   ├── docs/
-│   │   ├── routing.md
-│   │   └── error-handling.md
-│   ├── templates/
-│   │   └── page.tsx
-│   └── scripts/
-│       └── verify-build.sh
-│
-└── nextjs-pr-review/
-├── SKILL.md
-└── docs/
-└── checklist.md
+# Fullstack Agent Docs
 
+Конфигурационный репозиторий для настройки AI-агента Cline в VSCode для профессиональной разработки Next.js приложений.
+
+## Описание проекта
+
+Этот репозиторий содержит набор правил, воркфлоу, скиллов и шаблонов для эффективной работы с AI-агентом Cline при разработке fullstack Next.js приложений. Все файлы настроены для автоматического подключения Cline через MCP-серверы.
+
+## Структура проекта
+
+```
 repo-root/
 │
 ├── AGENTS.md                        # Нативно распознаётся Cline
 ├── .clineignore                     # Исключения из контекста агента
 │
 ├── .clinerules/                     # Rules — всегда активны
-│   ├── 00-context.md
-│   ├── 10-nextjs-conventions.md
-│   ├── 20-quality-gates.md
-│   ├── 30-security.md
+│   ├── 00-context.md               # Контекстные правила
+│   ├── 10-nextjs-conventions.md    # Next.js конвенции
+│   ├── 20-quality-gates.md         # Гейты качества кода
+│   ├── 30-security.md              # Правила безопасности
 │   │
 │   ├── workflows/                   # Вызов: /имя-файла.md в чате
-│   │   ├── new-feature.md
-│   │   ├── pr-review.md
-│   │   └── release-prep.md
+│   │   ├── new-feature.md          # Создание новых фич
+│   │   ├── pr-review.md            # Ревью pull request'ов
+│   │   └── release-prep.md         # Подготовка релизов
 │   │
 │   └── hooks/                       # Скрипты-guardrails на события Cline
-│       └── PreToolUse               # macOS/Linux: extensionless + chmod +x
-│                                    # Windows: PreToolUse.ps1
+│       └── PreToolUse              # macOS/Linux: extensionless + chmod +x
+│                                   # Windows: PreToolUse.ps1
 │
 └── .cline/
-└── skills/                      # Skills — on-demand по триггеру
-├── nextjs-app-router/
-│   ├── SKILL.md
-│   ├── docs/
-│   │   ├── routing.md
-│   │   └── error-handling.md
-│   ├── templates/
-│   │   └── page.tsx
-│   └── scripts/
-│       └── verify-build.sh
-│
-└── nextjs-pr-review/
-├── SKILL.md
-└── docs/
-└── checklist.md
+    └── skills/                     # Skills — on-demand по триггеру
+        ├── nextjs-app-router/
+        │   ├── SKILL.md
+        │   ├── docs/
+        │   │   ├── routing.md
+        │   │   └── error-handling.md
+        │   ├── templates/
+        │   │   └── page.tsx
+        │   └── scripts/
+        │       └── verify-build.sh
+        │
+        └── nextjs-pr-review/
+            ├── SKILL.md
+            └── docs/
+                └── checklist.md
+```
+
+## Как использовать
+
+1. Клонируйте репозиторий в папку с вашими проектами
+2. Убедитесь, что Cline установлен в VSCode и настроены MCP-серверы
+3. Правила из `.clinerules/` автоматически применяются ко всем взаимодействиям
+4. Воркфлоу вызываются командой `/имя-файла.md` в чате с Cline
+5. Скиллы подключаются автоматически при работе с Next.js проектами
+
+## Возможности
+
+- **Автоматические правила кодирования** для Next.js проектов
+- **Готовые воркфлоу** для типичных задач разработки
+- **Проверки безопасности** и качества кода
+- **Шаблоны компонентов** и страниц Next.js
+- **Автоматическая валидация** архитектурных решений
+
+## Требования
+
+- VSCode с установленным плагином Cline
+- Настроенные модели через OpenRouter
+- Настроенные MCP-серверы в конфигурации Cline
