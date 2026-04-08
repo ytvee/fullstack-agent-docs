@@ -1,2 +1,0 @@
-# Drizzle query utils
-
