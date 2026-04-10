@@ -58,35 +58,71 @@ Install: `npm install gray-matter`
 
 Create `src/lib/posts.ts` with `import 'server-only'` at the top — these functions must never run on the client.
 
+Treat frontmatter as untrusted input. Do not read `gray-matter` output with `as string` / `as boolean` assertions. Validate and normalize it with Zod in the content layer before rendering or sorting.
+
+`gray-matter` may parse YAML dates as `Date` objects instead of strings. Normalize `date` to `YYYY-MM-DD` before using it in UI or metadata.
+
 ```typescript
 import 'server-only'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import { z } from 'zod'
+
+const FrontmatterDateSchema = z.union([z.string(), z.date()]).transform((value, context) => {
+  const parsedDate = value instanceof Date ? value : new Date(value)
+
+  if (Number.isNaN(parsedDate.getTime())) {
+    context.addIssue({
+      code: z.ZodIssueCode.custom,
+      message: 'Frontmatter date must be a valid date',
+    })
+
+    return z.NEVER
+  }
+
+  return parsedDate.toISOString().slice(0, 10)
+})
+
+const PostFrontmatterSchema = z.object({
+  title: z.string().trim().min(1),
+  date: FrontmatterDateSchema,
+  description: z.string().trim().min(1),
+  tags: z.array(z.string().trim().min(1)).default([]),
+  published: z.boolean(),
+})
 
 const postsDirectory = path.join(process.cwd(), 'content/posts')
+
+export type PostFrontmatter = z.infer<typeof PostFrontmatterSchema>
 
 export function getAllPosts(): PostMeta[] {
   const fileNames = fs.readdirSync(postsDirectory)
 
   const posts = fileNames
     .filter((name) => name.endsWith('.mdx') || name.endsWith('.md'))
-    .map((fileName) => {
+    .flatMap((fileName) => {
       const slug = fileName
         .replace(/^\d{4}-\d{2}-\d{2}-/, '')
         .replace(/\.mdx?$/, '')
 
-      const fullPath = path.join(postsDirectory, fileName)
-      const fileContents = fs.readFileSync(fullPath, 'utf8')
-      const { data } = matter(fileContents)
+      try {
+        const fullPath = path.join(postsDirectory, fileName)
+        const fileContents = fs.readFileSync(fullPath, 'utf8')
+        const { data } = matter(fileContents)
+        const frontmatter = PostFrontmatterSchema.parse(data)
 
-      return {
-        slug,
-        title: data.title as string,
-        date: data.date as string,
-        description: data.description as string,
-        tags: (data.tags as string[]) ?? [],
-        published: data.published as boolean,
+        return [{
+          slug,
+          title: frontmatter.title,
+          date: frontmatter.date,
+          description: frontmatter.description,
+          tags: frontmatter.tags,
+          published: frontmatter.published,
+        }]
+      } catch (error) {
+        console.error(`Invalid frontmatter in ${fileName}`, error)
+        return []
       }
     })
     .filter((post) => {
@@ -106,14 +142,15 @@ export function getPostBySlug(slug: string): Post {
   const fullPath = path.join(postsDirectory, fileName)
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
+  const frontmatter = PostFrontmatterSchema.parse(data)
 
   return {
     slug,
-    title: data.title as string,
-    date: data.date as string,
-    description: data.description as string,
-    tags: (data.tags as string[]) ?? [],
-    published: data.published as boolean,
+    title: frontmatter.title,
+    date: frontmatter.date,
+    description: frontmatter.description,
+    tags: frontmatter.tags,
+    published: frontmatter.published,
     content,
   }
 }
@@ -218,6 +255,10 @@ See [docs/plugins.md](docs/plugins.md) for full configuration.
 ## Common mistakes
 
 **`fs` does not work in Edge Runtime.** Post-reading functions must run in Node.js runtime only. Do not use them in middleware or edge routes.
+
+**Do not trust `gray-matter` output by assertion.** `data.title as string` hides invalid frontmatter from TypeScript and pushes the failure into runtime rendering.
+
+**Do not let one broken MDX file crash the whole index page.** Validate entries in the content layer, skip invalid files in collection views, and fail the detail page explicitly for invalid slugs.
 
 **Use `process.cwd()`, not `__dirname`.** In Next.js, `__dirname` points to the compiled output directory, not the project root. Always use `process.cwd()` to build absolute paths.
 
