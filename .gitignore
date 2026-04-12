@@ -3,6 +3,7 @@
 .cache
 .idea
 .codex
+.vscode
 
 # Logs
 logs

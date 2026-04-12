@@ -1,421 +1,498 @@
-# AGENTS + Skills README
+# AGENTS + Skills
 
-Это пользовательская инструкция для системы локальных навыков Codex.
+Техническое описание содержимого репозитория.
 
-Документ описывает:
+## 1. Что есть в репозитории
 
-- как устроена система `AGENTS.md` + `.agents/`
-- за что отвечает каждый skill
-- как перенести эту систему в любой React или Next.js проект
-- как адаптировать ее под новый репозиторий
+Текущие скиллы структурно созданы для агентов Codex. Если использовать для других моделей/сервисов, их необходимо реструктурировать и адаптировать `AGENTS.md`.
 
-## 1. Из чего состоит система
-
-Система делится на 3 слоя:
-
-1. `AGENTS.md`
-   Это entrypoint для конкретного репозитория.
-   Он задает:
-    - общий workflow
-    - тип проекта
-    - quality gates
-    - карту skills
-    - общие правила по стилю и разработке
-
-2. `.agents/skills/`
-   Это библиотека переиспользуемых skills.
-   Они должны быть универсальными и не содержать привязки к конкретному проекту.
-
-3. `.agents/project/`
-   Это project overlay.
-   Здесь лежит фактическая информация о текущем репозитории:
-    - какой стек используется
-    - как устроены маршруты и структура кода
-    - как устроены стили
-    - какие есть локальные анти-паттерны
-    - какие проверки запускать
-    - как адаптировать реализацию из Figma к текущему проекту
-
-Коротко:
-
-- `AGENTS.md` отвечает на вопрос: «как работать в этом репо»
-- `.agents/skills/` отвечает на вопрос: «как выполнять конкретный тип задачи»
-- `.agents/project/` отвечает на вопрос: «что именно является правдой в этом проекте»
-
-## 2. Как работает система в рантайме
-
-Ожидаемый порядок работы агента:
-
-1. Сначала прочитать `AGENTS.md`
-2. Затем выбрать нужный skill из `.agents/skills/`
-3. Затем дочитать нужные overlay-документы из `.agents/project/`
-4. Затем читать код и вносить изменения
-
-Это важно:
-
-- core-skills не должны хранить проектные детали
-- проектные детали должны жить в `.agents/project/`
-- при переносе системы в другой репозиторий core-skills не переписываются под новый проект
-- под новый проект обновляется только `AGENTS.md` и `.agents/project/*`
-
-## 3. Какие skills входят в систему
-
-### `webapp-task-protocol`
-
-Главный skill-маршрутизатор.
-
-Его задача:
-
-- понять тип задачи: `feature`, `refactor`, `bugfix`, `review`, `audit`
-- понять стек: React или Next.js
-- понять тип проекта: `frontend-only` или `fullstack`
-- выбрать правильную цепочку skills
-- навязать порядок `inspect -> plan -> implement -> verify`
-
-Это не skill для написания кода.
-Это skill для выбора следующего workflow.
-
-### `nextjs-app-router`
-
-Domain-skill для Next.js App Router.
-
-Его зона:
-
-- `page.tsx`, `layout.tsx`, `loading.tsx`, `error.tsx`
-- dynamic segments
-- metadata
-- server/client boundaries
-- route-level states
-- реализация UI по Figma внутри Next.js проекта
-
-Он не должен хранить проектные соглашения одного конкретного репо.
-Все repo-specific правила он берет из `.agents/project/*`.
-
-### `react-component-workflow`
-
-Domain-skill для React-компонентов.
-
-Его зона:
-
-- decomposition
-- props/state flow
-- hooks discipline
-- rendering logic
-- presentational vs orchestration split
-- реализация компонентов по Figma, если задача не про роутинг
-
-### `frontend-typescript-rules`
-
-Cross-cutting skill для TypeScript.
-
-Его зона:
-
-- strict TS
-- `import type`
-- запрет на `any`
-- safe refactors
-- exported API typing
-- type narrowing
-
-### `frontend-zod-schema`
-
-Cross-cutting skill для валидации границ.
-
-Его зона:
-
-- search params
-- forms
-- config parsing
-- payload validation
-- schema-driven typing
-
-### `frontend-review-and-fix`
-
-Финальный review skill.
-
-Его задача:
-
-- проверить изменения после реализации
-- найти регрессии и smell’ы
-- прогнать verification workflow
-- сделать точечные follow-up исправления
-
-### `technical-seo-app`
-
-Ручной skill для технического SEO.
-
-Важно:
-
-- он не должен вызываться автоматически
-- он должен запускаться только по явному запросу пользователя
-
-Его зона:
-
-- titles / descriptions
-- canonical
-- robots / sitemap
-- crawlability / indexability
-- Open Graph
-- structured data
-
-### `frontend-security-inspector`
-
-Ручной skill для security-аудита.
-
-Важно:
-
-- он не должен вызываться автоматически
-- он должен запускаться только по явному запросу пользователя
-
-Его зона:
-
-- public entry points
-- secrets exposure
-- client/server boundary mistakes
-- unsafe data handling
-- auth/session related risks
-
-### `project-context-adapter`
-
-Ручной maintenance-skill.
-
-Он нужен для команды вроде:
-
-- «адаптируй навыки под текущий проект»
-- «обнови overlay docs после рефактора»
-- «пересобери project profile»
-
-Этот skill:
-
-- анализирует фактический проект
-- обновляет только `.agents/project/*.md`
-- не переписывает core-skills
-
-## 4. Какие skills запускаются автоматически, а какие вручную
-
-### Автоматические / implicit
-
-- `webapp-task-protocol`
-- `nextjs-app-router`
-- `react-component-workflow`
-- `frontend-typescript-rules`
-- `frontend-zod-schema`
-- `frontend-review-and-fix`
-
-### Только вручную / manual only
-
-- `technical-seo-app`
-- `frontend-security-inspector`
-- `project-context-adapter`
-
-Практический смысл:
-
-- feature work не должен внезапно превращаться в SEO-аудит
-- обычная реализация не должна внезапно запускать security-inspection
-- адаптация навыков под проект должна происходить осознанно, а не “сама собой”
-
-## 5. Как ставить эту систему в любой проект
-
-Ниже базовый способ установки в новый React/Next проект.
-
-### Шаг 1. Скопировать файлы
-
-Перенесите в новый репозиторий:
-
-- `AGENTS.md`
-- всю папку `.agents/skills/`
-- шаблонную папку `.agents/project/`
-
-Если вы выносите систему в отдельный repo-шаблон, структура может выглядеть так:
+## 2. Структура
 
 ```text
-AGENTS.md
-.agents/
-  skills/
-  project/
+.
+├── AGENTS.md
+├── README.md
+├── .gitignore
+├── .codex
+└── .agents/
+    ├── project/
+    │   ├── anti-patterns.md
+    │   ├── architecture-map.md
+    │   ├── figma-profile.md
+    │   ├── stack-profile.md
+    │   ├── styling-profile.md
+    │   └── verification-profile.md
+    └── skills/
+        ├── frontend-review-and-fix/
+        ├── frontend-security-inspector/
+        ├── frontend-typescript-rules/
+        ├── frontend-zod-schema/
+        ├── nextjs-app-router/
+        ├── project-context-adapter/
+        ├── react-component-workflow/
+        ├── technical-seo-app/
+        └── webapp-task-protocol/
 ```
 
-### Шаг 2. Проверить `.gitignore`
+Логика структуры:
 
-Убедитесь, что новый репозиторий не игнорирует:
+- `AGENTS.md` задает правила работы для конкретного репозитория
+- `.agents/skills/` хранит универсальные workflow-навыки
+- `.agents/project/` хранит профиль конкретного проекта
 
-- `AGENTS.md`
-- `.agents/`
+## 3. Стек, на который рассчитаны skills
 
-Если эти пути игнорируются, агентная система не попадет в Git и не будет
-нормально распространяться по проектам.
+Сами skills ориентированы на React и Next.js проекты.
 
-### Шаг 3. Настроить `AGENTS.md` под новый репозиторий
+Текущий профиль, зашитый в `AGENTS.md` и `.agents/project/*`, описывает такой
+целевой стек:
 
-В `AGENTS.md` нужно обновить:
+- Next.js `16.2.1`
+- App Router
+- React `19`
+- TypeScript со `strict: true`
+- ESLint flat config
+- Prettier
+- Zod
+- CSS Modules
+- global token CSS
+- MDX через `gray-matter` и `next-mdx-remote`
+- без отдельного test runner
 
+Профиль проекта редактируется непосредственно после интеграции скиллов в проект и перед их использованием.
+
+## 4. Skills
+
+Каждый skill лежит в своей папке и начинается с `SKILL.md`. Внутри некоторых
+skills есть `references/` с дополнительными правилами.
+
+### 4.1 Основные skills
+
+
+| Skill                       | Стек / зона                  | Режим                      | Назначение                                                                                                                                                                                                                           |
+| --------------------------- | ------------------------------------ | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `webapp-task-protocol`      | React и Next.js                     | базовый                  | Классифицирует задачу, определяет проект как`frontend-only` или `fullstack`, выбирает цепочку skills и навязывает порядок `inspect -> plan -> implement -> verify`. |
+| `nextjs-app-router`         | Next.js App Router                   | базовый                  | Для`page.tsx`, `layout.tsx`, metadata, dynamic segments, route-level states, server/client boundaries и Figma-driven страниц внутри Next.js.                                                                                  |
+| `react-component-workflow`  | React компоненты           | базовый                  | Для декомпозиции компонентов,`props`, `state`, `hooks`, rendering logic и компонентного UI, если задача не про роутинг.                                                          |
+| `frontend-typescript-rules` | TypeScript в React/Next.js          | cross-cutting                   | Для strict typing,`import type`, safe refactor, exported API typing и запрета на `any` / `@ts-ignore`.                                                                                                                            |
+| `frontend-zod-schema`       | Zod на границах ввода | cross-cutting                   | Для search params, forms, config parsing и payload validation.                                                                                                                                                                             |
+| `frontend-review-and-fix`   | Проверка изменений  | финальный проход | Для review после реализации, поиска регрессий, smell'ов и запуска verification steps.                                                                                                               |
+
+### 4.2 Manual-only skills
+
+
+| Skill                         | Стек / зона               | Режим                  | Назначение                                                                                                                                           |
+| ----------------------------- | --------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `technical-seo-app`           | React и Next.js SEO              | только вручную | Для аудита metadata, canonical, robots, sitemap, Open Graph, structured data и crawlability.                                                         |
+| `frontend-security-inspector` | React и Next.js security         | только вручную | Для security-аудита public entry points, client/server boundaries, secrets exposure и unsafe data handling.                                          |
+| `project-context-adapter`     | Обновление overlay docs | только вручную | Для пересборки`.agents/project/*` под фактический проект без переписывания универсальных skills. |
+
+### 4.3 Что делает каждый skill
+
+#### `webapp-task-protocol`
+
+Папка: `.agents/skills/webapp-task-protocol/`
+
+Содержимое:
+
+- `SKILL.md`
+- `references/classification-rules.md`
+- `references/task-routing.md`
+
+Роль:
+
+- не пишет код сам по себе
+- выбирает дальнейший workflow
+- решает, какой domain skill нужен дальше
+- подключает cross-cutting skills по ситуации
+
+#### `nextjs-app-router`
+
+Папка: `.agents/skills/nextjs-app-router/`
+
+Содержимое:
+
+- `SKILL.md`
+- `references/route-patterns.md`
+- `references/server-client-boundaries.md`
+- `references/metadata-patterns.md`
+- `references/anti-patterns.md`
+- `references/figma-implementation.md`
+
+Роль:
+
+- держит route files тонкими
+- выносит логику из special files в helpers и feature modules
+- навязывает server-first подход, если нет причины для client code
+- использует Figma только через built-in capabilities и local project profile
+
+#### `react-component-workflow`
+
+Папка: `.agents/skills/react-component-workflow/`
+
+Содержимое:
+
+- `SKILL.md`
+- `references/component-patterns.md`
+- `references/hooks-rules.md`
+- `references/anti-patterns.md`
+- `references/figma-implementation.md`
+
+Роль:
+
+- контролирует декомпозицию компонентов
+- следит за потоком данных через `props`
+- ограничивает бессмысленные `useEffect`
+- отделяет orchestration от presentational logic
+
+#### `frontend-typescript-rules`
+
+Папка: `.agents/skills/frontend-typescript-rules/`
+
+Содержимое:
+
+- `SKILL.md`
+- `references/ts-rules.md`
+- `references/typing-patterns.md`
+- `references/anti-patterns.md`
+
+Роль:
+
+- удерживает strict TypeScript
+- не дает размывать типы
+- фиксирует правила для экспортируемых API и refactor-safe typing
+
+#### `frontend-zod-schema`
+
+Папка: `.agents/skills/frontend-zod-schema/`
+
+Содержимое:
+
+- `SKILL.md`
+- `references/schema-patterns.md`
+- `references/boundary-validation.md`
+
+Роль:
+
+- валидирует внешние и пользовательские данные на входе
+- держит schema и inferred type рядом
+- навязывает нормализацию на boundary, а не глубоко в коде
+
+#### `frontend-review-and-fix`
+
+Папка: `.agents/skills/frontend-review-and-fix/`
+
+Содержимое:
+
+- `SKILL.md`
+- `references/review-checklist.md`
+- `references/verification-steps.md`
+
+Роль:
+
+- финальный review pass
+- поиск регрессий после основной реализации
+- запуск релевантных checks из project profile
+
+#### `technical-seo-app`
+
+Папка: `.agents/skills/technical-seo-app/`
+
+Содержимое:
+
+- `SKILL.md`
+- `references/metadata-rules.md`
+- `references/crawling-indexing.md`
+- `references/structured-data.md`
+
+Роль:
+
+- точечный SEO-аудит
+- не должен запускаться автоматически
+- fixes применяются только по явному запросу
+
+#### `frontend-security-inspector`
+
+Папка: `.agents/skills/frontend-security-inspector/`
+
+Содержимое:
+
+- `SKILL.md`
+- `references/security-checklist-next.md`
+- `references/security-checklist-react.md`
+- `references/reporting-template.md`
+- `assets/audit-report-template.md`
+
+Роль:
+
+- ручной security review
+- построение findings report
+- без неявного запуска в обычном feature workflow
+
+#### `project-context-adapter`
+
+Папка: `.agents/skills/project-context-adapter/`
+
+Содержимое:
+
+- `SKILL.md`
+- `references/sync-procedure.md`
+- `references/extraction-checklist.md`
+
+Роль:
+
+- пересобирает `.agents/project/*`
+- читает конфиги и структуру фактического проекта
+- не должен вшивать repo-specific правду в универсальные skills
+
+## 5. `AGENTS.md`
+
+`AGENTS.md` в этом репозитории уже заполнен и задает текущий профиль работы.
+
+Сейчас в нем зафиксировано:
+
+- порядок чтения контекста: `AGENTS.md -> .agents/project/* -> source files`
+- дефолтная классификация проекта: `frontend-only`
+- карта skills
 - stack snapshot
-- project classification по умолчанию
-- quality gates
-- skill map при необходимости
+- validation commands
 - dev workflow
 
-Важно:
+Текущий `AGENTS.md` описывает content-driven Next.js приложение, а не содержимое
+этого репозитория как кодовой базы. Это repo-level entrypoint, который надо
+переопределять под фактический проект после переноса.
 
-- `AGENTS.md` должен оставаться коротким
-- не превращайте его в энциклопедию
-- детали проекта выносите в `.agents/project/*`
+## 6. Файлы в `.agents/project/`
 
-### Шаг 4. Заполнить `.agents/project/*`
+`.agents/project/` содержит не общие инструкции, а профиль конкретного проекта.
 
-Минимально нужно обновить:
+В текущем репозитории там лежат такие файлы:
 
-- `stack-profile.md`
-- `architecture-map.md`
-- `styling-profile.md`
-- `verification-profile.md`
-- `anti-patterns.md`
-- `figma-profile.md`
+
+| Файл                  | Что описывает                                                                                                                                                            |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `stack-profile.md`        | Целевой стек, тип проекта, tooling, MDX/data слой и способ проверки.                                                                         |
+| `architecture-map.md`     | Структуру приложения:`src/app`, shared UI, feature queries, `src/lib`, data flow и правила размещения логики.                             |
+| `styling-profile.md`      | CSS Modules как основной styling system, global tokens и ограничения на смену стека стилей.                                                 |
+| `verification-profile.md` | Порядок запусков`tsc`, `eslint`, `prettier`, `next build` и оговорку про отсутствие test runner.                                                |
+| `anti-patterns.md`        | Локальные запреты: Tailwind в CSS Modules областях, логика в route files, ненужный client conversion,`any`, hardcoded Figma values и т.д. |
+| `figma-profile.md`        | Как использовать built-in Figma capabilities и как переносить дизайн в существующую token/layout систему.                     |
+
+Важно: эти файлы сейчас уже заполнены под один конкретный профиль Next.js
+проекта. В другом репозитории их нужно переписать под реальные факты.
+
+## 7. Как адаптировать репозиторий под другой проект
+
+### 7.1 Что копировать
+
+В другой репозиторий переносятся:
+
+- `AGENTS.md`
+- вся папка `.agents/skills/`
+- вся папка `.agents/project/`
+
+### 7.2 Что менять обязательно
+
+После переноса нужно обновить:
+
+- `AGENTS.md`
+- `.agents/project/stack-profile.md`
+- `.agents/project/architecture-map.md`
+- `.agents/project/styling-profile.md`
+- `.agents/project/verification-profile.md`
+- `.agents/project/anti-patterns.md`
+- `.agents/project/figma-profile.md`
+
+### 7.3 Что обычно не трогать
+
+Папку `.agents/skills/` не нужно переписывать под каждый новый проект, если:
+
+- не меняется сам workflow
+- не меняется логика выбора задач
+- не нужны новые универсальные правила
+
+Skills должны оставаться общими. Проектная правда должна жить в
+`.agents/project/*`.
+
+### 7.4 Как обновлять project overlay
 
 Есть два варианта:
 
-1. Заполнить вручную
-2. Использовать `project-context-adapter`
+1. Обновить `.agents/project/*` вручную.
+2. Использовать `project-context-adapter`.
 
-Рекомендуемый вариант:
+Если использовать агент, рабочий запрос может быть таким:
 
-- сначала положить шаблонные файлы
-- потом вручную запустить `project-context-adapter`
-
-### Шаг 5. Запустить адаптацию под проект
-
-После переноса в новый репозиторий дайте агенту явную команду:
-
-`адаптируй навыки под текущий проект`
-
-или
-
-`обнови .agents/project под этот репозиторий`
-
-Ожидаемое поведение:
-
-- агент читает `package.json`, `tsconfig.json`, ESLint, Prettier, route tree, styling
-- обновляет `.agents/project/*`
-- не трогает core-skills
-
-### Шаг 6. Проверить ручные skills
-
-Убедитесь, что в `agents/openai.yaml` для следующих skills стоит manual-only режим:
-
-- `technical-seo-app`
-- `frontend-security-inspector`
-- `project-context-adapter`
-
-То есть:
-
-```yaml
-policy:
-    allow_implicit_invocation: false
+```text
+адаптируй навыки под текущий проект
 ```
 
-## 6. Как использовать систему в новом проекте
+или:
 
-### Сценарий: “добавь страницу” / “сделай фичу”
+```text
+обнови .agents/project под этот репозиторий
+```
+
+Ожидаемый результат:
+
+- агент читает `package.json`, `tsconfig.json`, ESLint, Prettier, route tree,
+  styling system и структуру компонентов
+- обновляет только `.agents/project/*`
+- не переписывает core skills без отдельной причины
+
+### 7.5 Что проверить после адаптации
+
+После переноса стоит проверить:
+
+- что `.gitignore` не исключает `AGENTS.md` и `.agents/`
+- что manual-only skills действительно не вызываются неявно
+- что `AGENTS.md` совпадает с фактическим стеком
+- что `.agents/project/*` описывает реальную структуру проекта, а не шаблон
+
+## 8. Оставшиеся файлы
+
+### `README.md`
+
+Этот файл описывает состав репозитория и порядок его адаптации.
+
+### `.gitignore`
+
+Сейчас в `.gitignore` исключены:
+
+- `.DS_Store`
+- `.cache`
+- `.idea`
+- `.codex`
+- `.vscode`
+- `logs`
+- `*.log`
+- `.npm`
+
+### `.codex`
+
+Сейчас это пустой файл. Он присутствует в корне репозитория, но также добавлен
+в `.gitignore`.
+
+### `.git/`
+
+Обычный Git-метакаталог репозитория.
+
+## 9. Usage
+
+Ниже практический порядок использования всего репозитория после переноса в
+рабочий проект.
+
+### 9.1 Базовый порядок
+
+1. Агент читает `AGENTS.md`.
+2. Агент читает релевантные файлы из `.agents/project/`.
+3. Агент выбирает skill.
+4. Агент читает код и конфиги.
+5. Агент делает изменения.
+6. Агент заканчивает работу verification pass.
+
+### 9.2 Обычная feature-задача
 
 Ожидаемая цепочка:
 
 1. `webapp-task-protocol`
 2. `nextjs-app-router` или `react-component-workflow`
 3. `frontend-typescript-rules`
-4. `frontend-zod-schema`, если есть boundary input
+4. `frontend-zod-schema`, если на границе есть внешний ввод
 5. `frontend-review-and-fix`
 
-### Сценарий: “проверь SEO”
+### 9.3 Задача по Next.js роутингу
 
-Ожидаемая цепочка:
+Используется, если меняются:
+
+- `page.tsx`
+- `layout.tsx`
+- metadata
+- dynamic routes
+- server/client boundaries
+
+Ожидаемый skill:
+
+1. `nextjs-app-router`
+
+### 9.4 Задача по React-компонентам
+
+Используется, если меняются:
+
+- композиция компонентов
+- `props`
+- `state`
+- hooks
+- rendering logic
+
+Ожидаемый skill:
+
+1. `react-component-workflow`
+
+### 9.5 Задача по типам
+
+Используется, если затронуты:
+
+- exported types
+- helpers
+- component props
+- safe refactor
+
+Ожидаемый skill:
+
+1. `frontend-typescript-rules`
+
+### 9.6 Задача по boundary validation
+
+Используется, если затронуты:
+
+- forms
+- search params
+- config parsing
+- payload validation
+
+Ожидаемый skill:
+
+1. `frontend-zod-schema`
+
+### 9.7 Финальная проверка
+
+После реализации используется:
+
+1. `frontend-review-and-fix`
+
+### 9.8 Ручные сценарии
+
+SEO:
 
 1. `technical-seo-app`
 
-### Сценарий: “проверь безопасность”
-
-Ожидаемая цепочка:
+Security:
 
 1. `frontend-security-inspector`
 
-### Сценарий: “адаптируй навыки под проект”
-
-Ожидаемая цепочка:
+Обновление project overlay:
 
 1. `project-context-adapter`
 
-## 7. Как работать с Figma
+### 9.9 Работа с Figma
 
-В этой системе нет локального Figma-skill.
+Если задача начинается с Figma URL или node reference:
 
-Figma работает так:
+1. сначала использовать built-in Figma capabilities
+2. потом читать `.agents/project/figma-profile.md`
+3. потом адаптировать дизайн к текущему проекту
 
-1. Пользователь дает Figma URL
-2. `webapp-task-protocol` или domain-skill понимает, что задача дизайн-driven
-3. Агент сначала использует встроенные Figma capabilities
-4. Потом читает `.agents/project/figma-profile.md`
-5. Потом реализует интерфейс под текущую дизайн-систему и breakpoints
+Figma не должна обходить текущую styling system и project profile.
 
-Важно:
+## 10. Короткая сводка
 
-- не хардкодить дизайн поверх существующей системы токенов
-- сначала переиспользовать текущие компоненты и переменные
-- если нужен новый reusable token или паттерн, добавлять его осознанно
+Если коротко, то в этом репозитории есть:
 
-## 8. Что не должно входить в core-skills
+- один repo-level entrypoint: `AGENTS.md`
+- девять skills в `.agents/skills/`
+- шесть project overlay docs в `.agents/project/`
+- README с описанием структуры и usage
 
-В универсальные skills не нужно зашивать:
-
-- имя проекта
-- локальные пути одного конкретного репозитория
-- content-authoring workflow
-- frontmatter конкретного блога
-- CMS-specific правила
-- feature directory contract одного проекта
-
-Все это должно лежать:
-
-- либо в `.agents/project/*`
-- либо в runtime-коде проекта
-- либо в user-facing docs проекта
-
-## 9. Что делать с контентом и frontmatter
-
-Если в проекте есть блог, документация или MDX-контент, не обязательно делать
-для этого отдельный skill.
-
-Рекомендуемая схема:
-
-- runtime schema живет в коде
-- author-facing инструкция живет в обычной markdown-документации
-
-Например:
-
-- `src/lib/mdx.ts`
-- `src/app/content/README.md`
-
-Это удобнее, чем держать authoring workflow внутри универсальной engineering
-skill-библиотеки.
-
-## 10. Рекомендованный порядок переноса в отдельный репозиторий
-
-Если вы хотите вынести эту систему в отдельный repo-шаблон:
-
-1. Перенесите `AGENTS.md`
-2. Перенесите `.agents/skills/`
-3. Добавьте шаблонные `.agents/project/*`
-4. Добавьте этот `AGENTS_README.MD`
-5. В новом потребляющем проекте:
-    - скопируйте систему
-    - снимите игнор с `AGENTS.md` и `.agents/`, если он есть
-    - запустите `project-context-adapter`
-    - проверьте `AGENTS.md`
-
-## 11. Короткая памятка
-
-- `AGENTS.md` — общие правила репозитория
-- `.agents/skills/` — универсальные workflow-навыки
-- `.agents/project/` — факты и паттерны текущего проекта
-- `project-context-adapter` — обновляет overlay docs под новый проект
-- SEO и security — только вручную
-- Figma — через built-in capabilities, не через локальный skill
-- content contracts — вне skill-системы, в коде и обычной документации
+Сам репозиторий кода приложения не содержит. Он хранит только агентную
+конфигурацию, которую нужно переносить и адаптировать под конкретный проект.
