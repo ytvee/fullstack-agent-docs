@@ -1,0 +1,12 @@
+# IDE & more
+.DS_Store
+.cache
+.idea
+.codex
+
+# Logs
+logs
+*.log
+
+# Optional npm cache directory
+.npm
