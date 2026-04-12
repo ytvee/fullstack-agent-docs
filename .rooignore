@@ -1,8 +1,0 @@
-node_modules/
-.next/
-.git/
-*.tsbuildinfo
-package-lock.json
-public/
-out/
-build/
