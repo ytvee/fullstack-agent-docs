@@ -26,6 +26,7 @@ Choose `nextjs-app-router` when the task touches:
 - routes, layouts, metadata, dynamic segments
 - loading, error, or empty states
 - server/client boundaries in a Next.js app
+- file conventions: `proxy.ts`, `template.tsx`, `global-error.tsx`, `default.tsx`
 
 Choose `react-component-workflow` when the task is primarily:
 
@@ -34,3 +35,16 @@ Choose `react-component-workflow` when the task is primarily:
 - hooks discipline
 - client-side rendering logic
 - reusable UI behavior outside routing concerns
+
+## Overlapping domains
+
+When a task spans both routing and component concerns, use both skills
+sequentially — do not pick just one:
+
+1. `nextjs-app-router` first — resolve route structure, file conventions,
+   and server/client boundaries.
+2. `react-component-workflow` second — component architecture, props flow,
+   and hooks within those boundaries.
+
+Add `frontend-typescript-rules` and `frontend-zod-schema` whenever the task
+touches types or boundary validation, regardless of which domain skill is active.

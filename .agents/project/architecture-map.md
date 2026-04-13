@@ -5,26 +5,42 @@ Use this file to adapt generic skills to the current repository structure.
 ## Routing
 
 - `src/app/` owns routes and Next.js special files
-- Static sections currently include `about`, `posts`, `essays`, and `services`
+- Static sections: `about`, `posts`, `essays`, `services`
 - Dynamic content pages use `[slug]` segments under `posts` and `essays`
+
+## Shared UI Components
+
+- `src/components/header/Header.tsx` — server shell; imports `HeaderNavigation`
+- `src/components/header/HeaderNavigation.tsx` — client component (`'use client'`);
+  owns `usePathname`, mobile menu `useState`, and active-link logic
+- `src/components/footer/Footer.tsx` — server shell; imports `FooterCopyEmail`
+- `src/components/footer/FooterCopyEmail.tsx` — client component (`'use client'`);
+  owns clipboard copy logic, timeout cleanup, and toast state
+- `src/components/loader/Loader.tsx` — named export `Loader`; used in loading files
 
 ## Shared Code
 
-- `src/components/` holds shared UI pieces such as header, footer, and loader
-- `src/features/posts/queries.ts` and `src/features/essays/queries.ts` handle
-  content collection reads
-- `src/lib/` holds shared runtime helpers such as MDX parsing and reading time
+- `src/lib/mdx.ts` — frontmatter Zod schema, `parseMdxFile`, `getContentPath`,
+  `formatMdxDate`; imports `server-only`
+- `src/lib/readingTime.ts` — `calculateReadingTime(content, wpm?)` utility
+- `src/styles/tokens/` — global CSS custom properties (colors, typography)
+
+## Feature Modules
+
+- `src/features/posts/queries.ts` — `getPosts`, `getPostBySlug`, `getAllPostSlugs`
+- `src/features/essays/queries.ts` — `getEssays`, `getEssayBySlug`, `getAllEssaySlugs`
 
 ## Current Data Flow
 
 - Route files compose page UI and call server-side query helpers
-- MDX files are parsed from the filesystem rather than fetched from an API
-- Listing pages sort content by date and filter on `published`
+- MDX files are parsed from the filesystem; no external API or database
+- Listing pages filter on `published: true` and sort by date descending
+- Parse errors in content files surface as thrown exceptions (not silent skips)
 
 ## Guidance for Changes
 
-- Prefer keeping logic out of route special files when a helper or feature module
-  already owns that concern
-- Reuse the existing `src/features/*/queries.ts` pattern for content reads
-- Add new shared runtime helpers to `src/lib/` unless the touched area already
-  follows a different local convention
+- Keep logic out of route special files — delegate to helpers or feature modules
+- Reuse `src/features/*/queries.ts` pattern for content reads
+- Add new shared runtime utilities to `src/lib/`
+- Keep client-side interactivity isolated in leaf client components;
+  do not mark parent layouts or server shells as `'use client'`

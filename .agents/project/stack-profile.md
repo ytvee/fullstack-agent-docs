@@ -4,9 +4,9 @@ This file is the repo-specific overlay for the current application.
 
 ## Framework
 
-- Next.js `16.2.1`
-- App Router
-- React `19`
+- Next.js `16.2.1` (App Router, Turbopack is the default bundler)
+- React `19.2.4`
+- Node.js `≥ 20.9` required (Next.js 16 dropped Node 18)
 
 ## Project Type
 
@@ -18,14 +18,21 @@ This file is the repo-specific overlay for the current application.
 - TypeScript with `strict: true`
 - ESLint flat config
 - Prettier as the single formatter
-- Zod available for boundary validation
+- Zod `^4.3.6` for boundary validation (v4 API — see `frontend-zod-schema` skill)
+
+## Runtime Dependencies
+
+- `date-fns ^4.1.0` — date formatting utilities
+- `next-mdx-remote ^6.0.0` — MDX rendering
+- `gray-matter ^4.0.3` — frontmatter parsing
+- `server-only ^0.0.1` — enforces server-only module boundaries at build time
 
 ## Content and Data
 
 - Filesystem-backed MDX content under `src/app/content/`
-- Frontmatter parsed in `src/lib/mdx.ts`
-- Reading time utility in `src/lib/readingTime.ts`
-- Content listings currently come from `src/features/*/queries.ts`
+- Frontmatter schema and parser: `src/lib/mdx.ts`
+- Reading time utility: `src/lib/readingTime.ts`
+- Content listings: `src/features/posts/queries.ts`, `src/features/essays/queries.ts`
 
 ## Testing
 

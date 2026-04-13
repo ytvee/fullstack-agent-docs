@@ -29,4 +29,4 @@ Manual only. Do not invoke unless the user explicitly asks for a security audit.
 
 - `references/security-checklist-next.md`
 - `references/security-checklist-react.md`
-- `references/reporting-template.md`
+- `assets/audit-report-template.md`

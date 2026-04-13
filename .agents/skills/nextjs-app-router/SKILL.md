@@ -18,10 +18,11 @@ description: Use when working on Next.js App Router routes, layouts, metadata,
 Before editing:
 
 1. Read `AGENTS.md`.
-2. Read `.agents/project/stack-profile.md`.
-3. Read `.agents/project/architecture-map.md`.
-4. Read `.agents/project/styling-profile.md`.
-5. Read `.agents/project/figma-profile.md` when the task starts from design.
+2. Read `.agents/project/stack-profile.md` — framework version and project type.
+3. Read `.agents/project/architecture-map.md` — route tree and shared code locations.
+4. Read `.agents/project/anti-patterns.md` — project-specific patterns to avoid.
+5. Read `.agents/project/styling-profile.md` — token system and styling conventions.
+6. Read `.agents/project/figma-profile.md` — only when the task starts from design.
 
 ## Core rules
 

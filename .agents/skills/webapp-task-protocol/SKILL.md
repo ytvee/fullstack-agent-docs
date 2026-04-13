@@ -19,7 +19,12 @@ description: Use to classify React and Next.js application tasks, detect project
 ## Required context order
 
 1. Read `AGENTS.md`.
-2. Read the relevant files in `.agents/project/`.
+2. Read overlay files based on task type:
+   - Always: `.agents/project/stack-profile.md`
+   - Routing / layout / server-client work: `.agents/project/architecture-map.md`
+   - Styling or design-driven work: `.agents/project/styling-profile.md`
+   - Figma URL present: `.agents/project/figma-profile.md`
+   - Any implementation work: `.agents/project/anti-patterns.md`
 3. Read the affected source files and configuration files.
 4. Then choose the skill chain.
 
